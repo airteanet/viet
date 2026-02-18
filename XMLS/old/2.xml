@@ -1,0 +1,154 @@
+<xml>
+  <subject>
+    <text>這種化學物質是造成汽油獨特氣味的主因。</text>
+    <translate>Loại hóa chất này là nguyên nhân chính gây ra mùi đặc trưng của xăng.</translate>
+    <mp3>GUID_SENTENCE_3.mp3</mp3>
+
+    <phrase>
+      <text>Loại</text>
+      <mp3>GUID_PHRASE_3_1.mp3</mp3>
+      <vocabulary>Loại</vocabulary>
+      <chinese>（種類/這種）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>hóa chất</text>
+      <mp3>GUID_PHRASE_3_2.mp3</mp3>
+      <vocabulary>hóa</vocabulary>
+      <chinese>（化/化學）</chinese>
+      <vocabulary>chất</vocabulary>
+      <chinese>（物質/材料）</chinese>
+      <chinesePhrase>化學物質</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>này</text>
+      <mp3>GUID_PHRASE_3_3.mp3</mp3>
+      <vocabulary>này</vocabulary>
+      <chinese>（這/這個）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>là</text>
+      <mp3>GUID_PHRASE_3_4.mp3</mp3>
+      <vocabulary>là</vocabulary>
+      <chinese>（是）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>nguyên nhân chính</text>
+      <mp3>GUID_PHRASE_3_5.mp3</mp3>
+      <vocabulary>nguyên nhân</vocabulary>
+      <chinese>（原因）</chinese>
+      <vocabulary>chính</vocabulary>
+      <chinese>（主要/主）</chinese>
+      <chinesePhrase>主因</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>gây ra</text>
+      <mp3>GUID_PHRASE_3_6.mp3</mp3>
+      <vocabulary>gây</vocabulary>
+      <chinese>（造成/引起）</chinese>
+      <vocabulary>ra</vocabulary>
+      <chinese>（出/產生）</chinese>
+      <chinesePhrase>造成</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>mùi đặc trưng</text>
+      <mp3>GUID_PHRASE_3_7.mp3</mp3>
+      <vocabulary>mùi</vocabulary>
+      <chinese>（氣味）</chinese>
+      <vocabulary>đặc trưng</vocabulary>
+      <chinese>（獨特/特徵）</chinese>
+      <chinesePhrase>獨特氣味</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>của xăng</text>
+      <mp3>GUID_PHRASE_3_8.mp3</mp3>
+      <vocabulary>của</vocabulary>
+      <chinese>（的）</chinese>
+      <vocabulary>xăng</vocabulary>
+      <chinese>（汽油）</chinese>
+    </phrase>
+  </subject>
+
+  <subject>
+    <text>苯具有天然的甜味，而我們的嗅覺對其非常敏感。</text>
+    <translate>Benzen có vị ngọt tự nhiên, và khứu giác của chúng ta rất nhạy cảm với nó.</translate>
+    <mp3>GUID_SENTENCE_4.mp3</mp3>
+
+    <phrase>
+      <text>Benzen</text>
+      <mp3>GUID_PHRASE_4_1.mp3</mp3>
+      <vocabulary>Benzen</vocabulary>
+      <chinese>（苯）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>có</text>
+      <mp3>GUID_PHRASE_4_2.mp3</mp3>
+      <vocabulary>có</vocabulary>
+      <chinese>（有/具有）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>vị ngọt tự nhiên</text>
+      <mp3>GUID_PHRASE_4_3.mp3</mp3>
+      <vocabulary>vị</vocabulary>
+      <chinese>（味道）</chinese>
+      <vocabulary>ngọt</vocabulary>
+      <chinese>（甜）</chinese>
+      <vocabulary>tự nhiên</vocabulary>
+      <chinese>（天然/自然）</chinese>
+      <chinesePhrase>天然的甜味</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>và</text>
+      <mp3>GUID_PHRASE_4_4.mp3</mp3>
+      <vocabulary>và</vocabulary>
+      <chinese>（而/和）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>khứu giác</text>
+      <mp3>GUID_PHRASE_4_5.mp3</mp3>
+      <vocabulary>khứu</vocabulary>
+      <chinese>（嗅）</chinese>
+      <vocabulary>giác</vocabulary>
+      <chinese>（覺/感覺）</chinese>
+      <chinesePhrase>嗅覺</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>của chúng ta</text>
+      <mp3>GUID_PHRASE_4_6.mp3</mp3>
+      <vocabulary>của</vocabulary>
+      <chinese>（的）</chinese>
+      <vocabulary>chúng ta</vocabulary>
+      <chinese>（我們）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>rất nhạy cảm</text>
+      <mp3>GUID_PHRASE_4_7.mp3</mp3>
+      <vocabulary>rất</vocabulary>
+      <chinese>（非常）</chinese>
+      <vocabulary>nhạy cảm</vocabulary>
+      <chinese>（敏感）</chinese>
+      <chinesePhrase>非常敏感</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>với nó</text>
+      <mp3>GUID_PHRASE_4_8.mp3</mp3>
+      <vocabulary>với</vocabulary>
+      <chinese>（對/與）</chinese>
+      <vocabulary>nó</vocabulary>
+      <chinese>（它/其）</chinese>
+    </phrase>
+  </subject>
+</xml>

@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <!-- 標題：美國務卿對歐「外柔內剛」演說 -->
+  <subject>
+    <text>美國務卿對歐「外柔內剛」演說：盧比歐安撫歐洲稱「美歐屬於彼此」，但專家認為華盛頓的強硬訊息並未改變。</text>
+    <translate>Bài phát biểu 'ngoài mềm trong cứng' của Ngoại trưởng Mỹ với châu Âu: Ông Rubio trấn an châu Âu rằng "Mỹ và châu Âu thuộc về nhau" nhưng theo các chuyên gia, thông điệp cứng rắn của Washington không thay đổi.</translate>
+    <mp3>subject_rubio_munich_title_guid.mp3</mp3>
+
+    <!-- 詞組分析1：演說 -->
+    <phrase>
+      <text>Bài phát biểu</text>
+      <mp3>phrase_baiphatbieu_guid.mp3</mp3>
+      <vocabulary>Bài</vocabulary>
+      <chinese>（量）篇/場</chinese>
+      <vocabulary>phát biểu</vocabulary>
+      <chinese>（動/名）演說/發表談話</chinese>
+      <chinesePhrase>演說</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析2：外柔內剛 -->
+    <phrase>
+      <text>'ngoài mềm trong cứng'</text>
+      <mp3>phrase_ngoaimem_trongcung_guid.mp3</mp3>
+      <vocabulary>ngoài</vocabulary>
+      <chinese>（名）外面</chinese>
+      <vocabulary>mềm</vocabulary>
+      <chinese>（形）柔軟</chinese>
+      <vocabulary>trong</vocabulary>
+      <chinese>（名）裡面</chinese>
+      <vocabulary>cứng</vocabulary>
+      <chinese>（形）堅硬/強硬</chinese>
+      <chinesePhrase>外柔內剛</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析3：美國國務卿 -->
+    <phrase>
+      <text>Ngoại trưởng Mỹ</text>
+      <mp3>phrase_ngoaitruongmy_guid.mp3</mp3>
+      <vocabulary>Ngoại trưởng</vocabulary>
+      <chinese>（名）外交部長/國務卿</chinese>
+      <vocabulary>Mỹ</vocabulary>
+      <chinese>（名）美國</chinese>
+      <chinesePhrase>美國國務卿</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析4：對歐洲 -->
+    <phrase>
+      <text>với châu Âu</text>
+      <mp3>phrase_voi_chauau_guid.mp3</mp3>
+      <vocabulary>với</vocabulary>
+      <chinese>（介）對/與</chinese>
+      <vocabulary>châu Âu</vocabulary>
+      <chinese>（名）歐洲</chinese>
+      <chinesePhrase>對歐洲</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析5：盧比歐先生安撫歐洲 -->
+    <phrase>
+      <text>Ông Rubio trấn an châu Âu</text>
+      <mp3>phrase_ongruubio_tranan_chauau_guid.mp3</mp3>
+      <vocabulary>Ông Rubio</vocabulary>
+      <chinese>（名）盧比歐先生</chinese>
+      <vocabulary>trấn an</vocabulary>
+      <chinese>（動）安撫</chinese>
+      <vocabulary>châu Âu</vocabulary>
+      <chinese>（名）歐洲</chinese>
+      <chinesePhrase>盧比歐先生安撫歐洲</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析6：美歐屬於彼此 -->
+    <phrase>
+      <text>"Mỹ và châu Âu thuộc về nhau"</text>
+      <mp3>phrase_myvachauau_thuocvenhau_guid.mp3</mp3>
+      <vocabulary>Mỹ</vocabulary>
+      <chinese>（名）美國</chinese>
+      <vocabulary>và</vocabulary>
+      <chinese>（連）和</chinese>
+      <vocabulary>châu Âu</vocabulary>
+      <chinese>（名）歐洲</chinese>
+      <vocabulary>thuộc về</vocabulary>
+      <chinese>（動）屬於</chinese>
+      <vocabulary>nhau</vocabulary>
+      <chinese>（代）彼此</chinese>
+      <chinesePhrase>美歐屬於彼此</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析7：但根據專家們 -->
+    <phrase>
+      <text>nhưng theo các chuyên gia</text>
+      <mp3>phrase_nhungtheo_cacchuyengia_guid.mp3</mp3>
+      <vocabulary>nhưng</vocabulary>
+      <chinese>（連）但是</chinese>
+      <vocabulary>theo</vocabulary>
+      <chinese>（介）根據</chinese>
+      <vocabulary>các chuyên gia</vocabulary>
+      <chinese>（名）專家們</chinese>
+      <chinesePhrase>但根據專家們</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析8：華盛頓的強硬訊息 -->
+    <phrase>
+      <text>thông điệp cứng rắn của Washington</text>
+      <mp3>phrase_thongdiep_cungran_washington_guid.mp3</mp3>
+      <vocabulary>thông điệp</vocabulary>
+      <chinese>（名）訊息</chinese>
+      <vocabulary>cứng rắn</vocabulary>
+      <chinese>（形）強硬</chinese>
+      <vocabulary>của Washington</vocabulary>
+      <chinese>華盛頓的</chinese>
+      <chinesePhrase>華盛頓的強硬訊息</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析9：沒有改變 -->
+    <phrase>
+      <text>không thay đổi</text>
+      <mp3>phrase_khongthaydoi_guid.mp3</mp3>
+      <vocabulary>không</vocabulary>
+      <chinese>（副）不/沒有</chinese>
+      <vocabulary>thay đổi</vocabulary>
+      <chinese>（動）改變</chinese>
+      <chinesePhrase>沒有改變</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第一段：盧比歐慕尼黑演說基本事實 -->
+  <subject>
+    <text>美國國務卿馬可·盧比歐2月14日在德國慕尼黑安全會議上發表演說，強調華盛頓「希望一個強大的歐洲，相信這個地方必須存在」，同時宣稱「美歐屬於彼此」。</text>
+    <translate>Ngoại trưởng Mỹ Marco Rubio ngày 14/2 phát biểu tại Hội nghị An ninh Munich ở Đức, khẳng định Washington "muốn một châu Âu mạnh mẽ, tin rằng nơi này phải tồn tại", đồng thời tuyên bố "Mỹ và châu Âu thuộc về nhau".</translate>
+    <mp3>subject_rubio_munich_speech1_guid.mp3</mp3>
+
+    <!-- 詞組分析10：美國國務卿馬可·盧比歐 -->
+    <phrase>
+      <text>Ngoại trưởng Mỹ Marco Rubio</text>
+      <mp3>phrase_ngoaitruongmy_marcorubio_guid.mp3</mp3>
+      <vocabulary>Ngoại trưởng Mỹ</vocabulary>
+      <chinese>美國國務卿</chinese>
+      <vocabulary>Marco Rubio</vocabulary>
+      <chinese>（名）馬可·盧比歐</chinese>
+      <chinesePhrase>美國國務卿馬可·盧比歐</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析11：2月14日 -->
+    <phrase>
+      <text>ngày 14/2</text>
+      <mp3>phrase_ngay142_guid.mp3</mp3>
+      <vocabulary>ngày</vocabulary>
+      <chinese>（名）日/號</chinese>
+      <vocabulary>14/2</vocabulary>
+      <chinese>2月14日</chinese>
+      <chinesePhrase>2月14日</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析12：在德國慕尼黑安全會議上演說 -->
+    <phrase>
+      <text>phát biểu tại Hội nghị An ninh Munich ở Đức</text>
+      <mp3>phrase_phaibieu_hoinghianninhmunich_guid.mp3</mp3>
+      <vocabulary>phát biểu</vocabulary>
+      <chinese>（動）演說</chinese>
+      <vocabulary>tại</vocabulary>
+      <chinese>（介）在</chinese>
+      <vocabulary>Hội nghị An ninh Munich</vocabulary>
+      <chinese>（名）慕尼黑安全會議</chinese>
+      <vocabulary>ở Đức</vocabulary>
+      <chinese>在德國</chinese>
+      <chinesePhrase>在德國慕尼黑安全會議上演說</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析13：強調 -->
+    <phrase>
+      <text>khẳng định</text>
+      <mp3>phrase_khangdinh_guid.mp3</mp3>
+      <vocabulary>khẳng định</vocabulary>
+      <chinese>（動）強調/肯定</chinese>
+      <chinesePhrase>強調</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析14：華盛頓希望一個強大的歐洲 -->
+    <phrase>
+      <text>Washington muốn một châu Âu mạnh mẽ</text>
+      <mp3>phrase_washington_muon_chauaumanhme_guid.mp3</mp3>
+      <vocabulary>Washington</vocabulary>
+      <chinese>（名）華盛頓</chinese>
+      <vocabulary>muốn</vocabulary>
+      <chinese>（動）想要/希望</chinese>
+      <vocabulary>một châu Âu</vocabulary>
+      <chinese>一個歐洲</chinese>
+      <vocabulary>mạnh mẽ</vocabulary>
+      <chinese>（形）強大的</chinese>
+      <chinesePhrase>華盛頓希望一個強大的歐洲</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析15：相信這個地方必須存在 -->
+    <phrase>
+      <text>tin rằng nơi này phải tồn tại</text>
+      <mp3>phrase_tinrang_noinay_phaitontai_guid.mp3</mp3>
+      <vocabulary>tin rằng</vocabulary>
+      <chinese>（動）相信</chinese>
+      <vocabulary>nơi này</vocabulary>
+      <chinese>這個地方</chinese>
+      <vocabulary>phải tồn tại</vocabulary>
+      <chinese>必須存在</chinese>
+      <chinesePhrase>相信這個地方必須存在</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析16：同時 -->
+    <phrase>
+      <text>đồng thời</text>
+      <mp3>phrase_dongthoi_guid.mp3</mp3>
+      <vocabulary>đồng thời</vocabulary>
+      <chinese>（副）同時</chinese>
+      <chinesePhrase>同時</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析17：宣稱 -->
+    <phrase>
+      <text>tuyên bố</text>
+      <mp3>phrase_tuyenbo_guid.mp3</mp3>
+      <vocabulary>tuyên bố</vocabulary>
+      <chinese>（動）宣稱/宣布</chinese>
+      <chinesePhrase>宣稱</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析18：美歐屬於彼此（重複，可引用之前的分析） -->
+    <phrase>
+      <text>"Mỹ và châu Âu thuộc về nhau"</text>
+      <mp3>phrase_myvachauau_thuocvenhau2_guid.mp3</mp3>
+      <vocabulary>Mỹ</vocabulary>
+      <chinese>（名）美國</chinese>
+      <vocabulary>và</vocabulary>
+      <chinese>（連）和</chinese>
+      <vocabulary>châu Âu</vocabulary>
+      <chinese>（名）歐洲</chinese>
+      <vocabulary>thuộc về</vocabulary>
+      <chinese>（動）屬於</chinese>
+      <vocabulary>nhau</vocabulary>
+      <chinese>（代）彼此</chinese>
+      <chinesePhrase>美歐屬於彼此</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第二段：與范斯言論的對比 -->
+  <subject>
+    <text>盧比歐的演說被認為與一年前美國副總統JD·范斯在慕尼黑安全會議上的言論形成鮮明對比，當時范斯批評歐洲在移民和言論自由問題上的政策，使盟友們感到震驚。</text>
+    <translate>Phát biểu của ông Rubio được nhận định là trái ngược hoàn toàn với tuyên bố của Phó tổng thống Mỹ JD Vance tại Hội nghị An ninh Munich một năm trước, khi ông chỉ trích các chính sách của châu Âu về vấn đề nhập cư và tự do ngôn luận, khiến các đồng minh bị sốc.</translate>
+    <mp3>subject_rubio_munich_speech2_guid.mp3</mp3>
+
+    <!-- 詞組分析19：盧比歐的演說 -->
+    <phrase>
+      <text>Phát biểu của ông Rubio</text>
+      <mp3>phrase_phaibieu_ongruubio_guid.mp3</mp3>
+      <vocabulary>Phát biểu</vocabulary>
+      <chinese>（名）演說</chinese>
+      <vocabulary>của ông Rubio</vocabulary>
+      <chinese>盧比歐先生的</chinese>
+      <chinesePhrase>盧比歐的演說</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析20：被認為是 -->
+    <phrase>
+      <text>được nhận định là</text>
+      <mp3>phrase_duocnhandinhla_guid.mp3</mp3>
+      <vocabulary>được</vocabulary>
+      <chinese>（助）被</chinese>
+      <vocabulary>nhận định</vocabulary>
+      <chinese>（動）認定/認為</chinese>
+      <vocabulary>là</vocabulary>
+      <chinese>（動）是</chinese>
+      <chinesePhrase>被認為是</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析21：完全相反 -->
+    <phrase>
+      <text>trái ngược hoàn toàn</text>
+      <mp3>phrase_trainguoc_hoantoan_guid.mp3</mp3>
+      <vocabulary>trái ngược</vocabulary>
+      <chinese>（形）相反的</chinese>
+      <vocabulary>hoàn toàn</vocabulary>
+      <chinese>（副）完全地</chinese>
+      <chinesePhrase>完全相反</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析22：與美國副總統JD·范斯的言論 -->
+    <phrase>
+      <text>với tuyên bố của Phó tổng thống Mỹ JD Vance</text>
+      <mp3>phrase_tuyenbo_photongthongmy_jdvance_guid.mp3</mp3>
+      <vocabulary>với</vocabulary>
+      <chinese>（介）與</chinese>
+      <vocabulary>tuyên bố</vocabulary>
+      <chinese>（名）言論/聲明</chinese>
+      <vocabulary>Phó tổng thống Mỹ</vocabulary>
+      <chinese>美國副總統</chinese>
+      <vocabulary>JD Vance</vocabulary>
+      <chinese>（名）JD·范斯</chinese>
+      <chinesePhrase>與美國副總統JD·范斯的言論</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析23：在一年前的慕尼黑安全會議上 -->
+    <phrase>
+      <text>tại Hội nghị An ninh Munich một năm trước</text>
+      <mp3>phrase_hoinghianninhmunich_motnamtruoc_guid.mp3</mp3>
+      <vocabulary>tại</vocabulary>
+      <chinese>（介）在</chinese>
+      <vocabulary>Hội nghị An ninh Munich</vocabulary>
+      <chinese>慕尼黑安全會議</chinese>
+      <vocabulary>một năm trước</vocabulary>
+      <chinese>一年前</chinese>
+      <chinesePhrase>在一年前的慕尼黑安全會議上</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析24：當時他批評 -->
+    <phrase>
+      <text>khi ông chỉ trích</text>
+      <mp3>phrase_khi_ongchitrich_guid.mp3</mp3>
+      <vocabulary>khi</vocabulary>
+      <chinese>（連）當...時</chinese>
+      <vocabulary>ông</vocabulary>
+      <chinese>（代）他</chinese>
+      <vocabulary>chỉ trích</vocabulary>
+      <chinese>（動）批評</chinese>
+      <chinesePhrase>當時他批評</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析25：歐洲的政策 -->
+    <phrase>
+      <text>các chính sách của châu Âu</text>
+      <mp3>phrase_cacchinhsach_cuachauau_guid.mp3</mp3>
+      <vocabulary>các chính sách</vocabulary>
+      <chinese>（名）各項政策</chinese>
+      <vocabulary>của châu Âu</vocabulary>
+      <chinese>歐洲的</chinese>
+      <chinesePhrase>歐洲的政策</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析26：關於移民問題 -->
+    <phrase>
+      <text>về vấn đề nhập cư</text>
+      <mp3>phrase_vevande_nhapcu_guid.mp3</mp3>
+      <vocabulary>về</vocabulary>
+      <chinese>（介）關於</chinese>
+      <vocabulary>vấn đề</vocabulary>
+      <chinese>（名）問題</chinese>
+      <vocabulary>nhập cư</vocabulary>
+      <chinese>（名）移民</chinese>
+      <chinesePhrase>關於移民問題</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析27：和言論自由 -->
+    <phrase>
+      <text>và tự do ngôn luận</text>
+      <mp3>phrase_vatudongonluan_guid.mp3</mp3>
+      <vocabulary>và</vocabulary>
+      <chinese>（連）和</chinese>
+      <vocabulary>tự do ngôn luận</vocabulary>
+      <chinese>（名）言論自由</chinese>
+      <chinesePhrase>和言論自由</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析28：使盟友們 -->
+    <phrase>
+      <text>khiến các đồng minh</text>
+      <mp3>phrase_khien_cacdongminh_guid.mp3</mp3>
+      <vocabulary>khiến</vocabulary>
+      <chinese>（動）使/導致</chinese>
+      <vocabulary>các đồng minh</vocabulary>
+      <chinese>（名）盟友們</chinese>
+      <chinesePhrase>使盟友們</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析29：感到震驚 -->
+    <phrase>
+      <text>bị sốc</text>
+      <mp3>phrase_bisoc_guid.mp3</mp3>
+      <vocabulary>bị</vocabulary>
+      <chinese>（助）被/感到</chinese>
+      <vocabulary>sốc</vocabulary>
+      <chinese>（形）震驚/衝擊</chinese>
+      <chinesePhrase>感到震驚</chinesePhrase>
+    </phrase>
+  </subject>
+</xml>

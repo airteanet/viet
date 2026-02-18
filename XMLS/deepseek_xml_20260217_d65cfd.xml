@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <!-- 標題：煙火璀璨迎丙午春 -->
+  <subject>
+    <text>煙火璀璨迎丙午春</text>
+    <translate>Pháo hoa rực sáng chào xuân Bính Ngọ</translate>
+    <mp3>subject_title_fireworks_guid.mp3</mp3>
+
+    <!-- 詞組分析1：煙火璀璨 -->
+    <phrase>
+      <text>Pháo hoa rực sáng</text>
+      <mp3>phrase_phaohoa_rucsang_guid.mp3</mp3>
+      <vocabulary>Pháo hoa</vocabulary>
+      <chinese>（名）煙火</chinese>
+      <vocabulary>rực sáng</vocabulary>
+      <chinese>（動）璀璨/燦爛發光</chinese>
+      <chinesePhrase>煙火璀璨</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析2：迎接丙午春 -->
+    <phrase>
+      <text>chào xuân Bính Ngọ</text>
+      <mp3>phrase_chao_xuan_binhngo_guid.mp3</mp3>
+      <vocabulary>chào</vocabulary>
+      <chinese>（動）迎接/打招呼</chinese>
+      <vocabulary>xuân</vocabulary>
+      <chinese>（名）春天</chinese>
+      <vocabulary>Bính Ngọ</vocabulary>
+      <chinese>（名）丙午年</chinese>
+      <chinesePhrase>迎接丙午春</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第一段：除夕午夜煙火 -->
+  <subject>
+    <text>正月初一（2月17日）凌晨0點整，煙火在全國各地夜空璀璨綻放，迎接丙午年春節。</text>
+    <translate>Đúng 0h mùng 1 Tết (17/2), pháo hoa rực sáng trên bầu trời cả nước, chào đón xuân Bính Ngọ.</translate>
+    <mp3>subject_fireworks_midnight_guid.mp3</mp3>
+
+    <!-- 詞組分析3：正月初一凌晨0點整 -->
+    <phrase>
+      <text>Đúng 0h mùng 1 Tết (17/2)</text>
+      <mp3>phrase_dung_0h_mung1_tet_guid.mp3</mp3>
+      <vocabulary>Đúng</vocabulary>
+      <chinese>（副）正好/準時</chinese>
+      <vocabulary>0h</vocabulary>
+      <chinese>0點/午夜</chinese>
+      <vocabulary>mùng 1 Tết</vocabulary>
+      <chinese>正月初一</chinese>
+      <vocabulary>(17/2)</vocabulary>
+      <chinese>（2月17日）</chinese>
+      <chinesePhrase>正月初一（2月17日）凌晨0點整</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析4：煙火在全國各地夜空璀璨綻放 -->
+    <phrase>
+      <text>pháo hoa rực sáng trên bầu trời cả nước</text>
+      <mp3>phrase_phaohoa_rucsang_bautroi_guid.mp3</mp3>
+      <vocabulary>pháo hoa</vocabulary>
+      <chinese>（名）煙火</chinese>
+      <vocabulary>rực sáng</vocabulary>
+      <chinese>（動）璀璨/燦爛發光</chinese>
+      <vocabulary>trên bầu trời</vocabulary>
+      <chinese>在天空中</chinese>
+      <vocabulary>cả nước</vocabulary>
+      <chinese>全國</chinese>
+      <chinesePhrase>煙火在全國各地夜空璀璨綻放</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析5：迎接丙午春 -->
+    <phrase>
+      <text>chào đón xuân Bính Ngọ</text>
+      <mp3>phrase_chao_don_xuan_binhngo_guid.mp3</mp3>
+      <vocabulary>chào đón</vocabulary>
+      <chinese>（動）迎接</chinese>
+      <vocabulary>xuân Bính Ngọ</vocabulary>
+      <chinese>丙午年春</chinese>
+      <chinesePhrase>迎接丙午春</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第二段：春節新聞內容預告 -->
+  <subject>
+    <text>丙午年春節報導 臘月二十九謹向您介紹以下內容：「叮」聲開啟；掌中數位轉型；「數位平民教育」畢業生；虛擬過年、數位紅包 - 東方新文化。</text>
+    <translate>Bản tin Xuân Bính Ngọ 29 Tết trân trọng giới thiệu những nội dung: Tiếng “ting” khai mở; Chuyển đổi số trong lòng bàn tay; Những người tốt nghiệp “bình dân học vụ số”; Tết ảo, lì xì số - Văn hóa mới của Á Đông.</translate>
+    <mp3>subject_tet_news_preview_guid.mp3</mp3>
+
+    <!-- 詞組分析6：丙午年春節報導 臘月二十九 -->
+    <phrase>
+      <text>Bản tin Xuân Bính Ngọ 29 Tết</text>
+      <mp3>phrase_bantin_xuanbinhngo_29tet_guid.mp3</mp3>
+      <vocabulary>Bản tin</vocabulary>
+      <chinese>（名）報導/新聞簡報</chinese>
+      <vocabulary>Xuân Bính Ngọ</vocabulary>
+      <chinese>丙午年春</chinese>
+      <vocabulary>29 Tết</vocabulary>
+      <chinese>臘月二十九</chinese>
+      <chinesePhrase>丙午年春節報導 臘月二十九</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析7：謹向您介紹以下內容 -->
+    <phrase>
+      <text>trân trọng giới thiệu những nội dung</text>
+      <mp3>phrase_trantrong_gioithieu_nhung_noidung_guid.mp3</mp3>
+      <vocabulary>trân trọng</vocabulary>
+      <chinese>（副）謹/鄭重地</chinese>
+      <vocabulary>giới thiệu</vocabulary>
+      <chinese>（動）介紹</chinese>
+      <vocabulary>những nội dung</vocabulary>
+      <chinese>（名）各項內容</chinese>
+      <chinesePhrase>謹向您介紹以下內容</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析8：「叮」聲開啟 -->
+    <phrase>
+      <text>Tiếng “ting” khai mở</text>
+      <mp3>phrase_tieng_ting_khai_mo_guid.mp3</mp3>
+      <vocabulary>Tiếng</vocabulary>
+      <chinese>（名）聲音</chinese>
+      <vocabulary>“ting”</vocabulary>
+      <chinese>「叮」聲</chinese>
+      <vocabulary>khai mở</vocabulary>
+      <chinese>（動）開啟</chinese>
+      <chinesePhrase>「叮」聲開啟</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析9：掌中數位轉型 -->
+    <phrase>
+      <text>Chuyển đổi số trong lòng bàn tay</text>
+      <mp3>phrase_chuyendoiso_trong_longbantay_guid.mp3</mp3>
+      <vocabulary>Chuyển đổi số</vocabulary>
+      <chinese>（名）數位轉型</chinese>
+      <vocabulary>trong lòng bàn tay</vocabulary>
+      <chinese>在手掌心中</chinese>
+      <chinesePhrase>掌中數位轉型</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析10：「數位平民教育」畢業生 -->
+    <phrase>
+      <text>Những người tốt nghiệp “bình dân học vụ số”</text>
+      <mp3>phrase_nhungnguoi_totnghiep_binhdanhocvuso_guid.mp3</mp3>
+      <vocabulary>Những người</vocabulary>
+      <chinese>（名）人們/各位</chinese>
+      <vocabulary>tốt nghiệp</vocabulary>
+      <chinese>（動）畢業</chinese>
+      <vocabulary>“bình dân học vụ số”</vocabulary>
+      <chinese>「數位平民教育」</chinese>
+      <chinesePhrase>「數位平民教育」畢業生</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析11：虛擬過年、數位紅包 - 東方新文化 -->
+    <phrase>
+      <text>Tết ảo, lì xì số - Văn hóa mới của Á Đông</text>
+      <mp3>phrase_tetao_lixiso_vanhoamoi_guid.mp3</mp3>
+      <vocabulary>Tết ảo</vocabulary>
+      <chinese>（名）虛擬過年</chinese>
+      <vocabulary>lì xì số</vocabulary>
+      <chinese>（名）數位紅包</chinese>
+      <vocabulary>Văn hóa mới của Á Đông</vocabulary>
+      <chinese>東方新文化</chinese>
+      <chinesePhrase>虛擬過年、數位紅包 - 東方新文化</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第三段：春節簡單護膚法 -->
+  <subject>
+    <text>春節簡單護膚法：正確且徹底清潔、加強保濕、定時防曬、充足睡眠和規律作息，讓您在忙碌的春節日子裡擁有健康、煥發的肌膚。</text>
+    <translate>Cách chăm sóc da đơn giản cho ngày Tết: Làm sạch da đúng và đủ, tăng cường dưỡng ẩm, chống nắng đều đặn, ngủ đủ giấc và sinh hoạt điều độ để làn da khỏe mạnh, tươi tắn trong ngày Tết bận rộn.</translate>
+    <mp3>subject_skincare_tips_guid.mp3</mp3>
+
+    <!-- 詞組分析12：春節簡單護膚法 -->
+    <phrase>
+      <text>Cách chăm sóc da đơn giản cho ngày Tết</text>
+      <mp3>phrase_cach_chamsocda_dongian_ngaytet_guid.mp3</mp3>
+      <vocabulary>Cách</vocabulary>
+      <chinese>（名）方法</chinese>
+      <vocabulary>chăm sóc da</vocabulary>
+      <chinese>（動）護膚</chinese>
+      <vocabulary>đơn giản</vocabulary>
+      <chinese>（形）簡單</chinese>
+      <vocabulary>cho ngày Tết</vocabulary>
+      <chinese>給春節日子</chinese>
+      <chinesePhrase>春節簡單護膚法</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析13：正確且徹底清潔 -->
+    <phrase>
+      <text>Làm sạch da đúng và đủ</text>
+      <mp3>phrase_lam_sach_da_dung_va_du_guid.mp3</mp3>
+      <vocabulary>Làm sạch da</vocabulary>
+      <chinese>（動）清潔皮膚</chinese>
+      <vocabulary>đúng</vocabulary>
+      <chinese>（副）正確地</chinese>
+      <vocabulary>và</vocabulary>
+      <chinese>（連）和/且</chinese>
+      <vocabulary>đủ</vocabulary>
+      <chinese>（副）足夠/徹底</chinese>
+      <chinesePhrase>正確且徹底清潔</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析14：加強保濕 -->
+    <phrase>
+      <text>tăng cường dưỡng ẩm</text>
+      <mp3>phrase_tang_cuong_duong_am_guid.mp3</mp3>
+      <vocabulary>tăng cường</vocabulary>
+      <chinese>（動）加強</chinese>
+      <vocabulary>dưỡng ẩm</vocabulary>
+      <chinese>（動）保濕</chinese>
+      <chinesePhrase>加強保濕</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析15：定時防曬 -->
+    <phrase>
+      <text>chống nắng đều đặn</text>
+      <mp3>phrase_chong_nang_deu_dan_guid.mp3</mp3>
+      <vocabulary>chống nắng</vocabulary>
+      <chinese>（動）防曬</chinese>
+      <vocabulary>đều đặn</vocabulary>
+      <chinese>（副）定時/規律地</chinese>
+      <chinesePhrase>定時防曬</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析16：充足睡眠和規律作息 -->
+    <phrase>
+      <text>ngủ đủ giấc và sinh hoạt điều độ</text>
+      <mp3>phrase_ngu_du_giac_sinhhoat_dieudo_guid.mp3</mp3>
+      <vocabulary>ngủ đủ giấc</vocabulary>
+      <chinese>（動）睡足/充足睡眠</chinese>
+      <vocabulary>và</vocabulary>
+      <chinese>（連）和</chinese>
+      <vocabulary>sinh hoạt điều độ</vocabulary>
+      <chinese>（動）規律作息</chinese>
+      <chinesePhrase>充足睡眠和規律作息</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析17：讓肌膚健康煥發 -->
+    <phrase>
+      <text>để làn da khỏe mạnh, tươi tắn</text>
+      <mp3>phrase_de_lan_da_khoe_manh_tuoi_tan_guid.mp3</mp3>
+      <vocabulary>để</vocabulary>
+      <chinese>（連）為了/讓</chinese>
+      <vocabulary>làn da</vocabulary>
+      <chinese>（名）肌膚</chinese>
+      <vocabulary>khỏe mạnh</vocabulary>
+      <chinese>（形）健康</chinese>
+      <vocabulary>tươi tắn</vocabulary>
+      <chinese>（形）煥發/明亮</chinese>
+      <chinesePhrase>讓肌膚健康煥發</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析18：在忙碌的春節日子裡 -->
+    <phrase>
+      <text>trong ngày Tết bận rộn</text>
+      <mp3>phrase_trong_ngay_tet_ban_ron_guid.mp3</mp3>
+      <vocabulary>trong</vocabulary>
+      <chinese>（介）在...之中</chinese>
+      <vocabulary>ngày Tết</vocabulary>
+      <chinese>春節日子</chinese>
+      <vocabulary>bận rộn</vocabulary>
+      <chinese>（形）忙碌</chinese>
+      <chinesePhrase>在忙碌的春節日子裡</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第四段：春節前對肌膚的影響 -->
+  <subject>
+    <text>臨近春節的日子裡，飲食多含糖和油膩、熬夜、頻繁移動和生活環境改變，容易使皮膚防護屏障變弱。結果是皮膚暗沉、乾燥粗糙、長痘或容易復發慢性皮膚病如皮炎、蕁麻疹、過敏。</text>
+    <translate>Những ngày cận Tết, chế độ ăn uống nhiều đường và dầu mỡ, thức khuya, di chuyển liên tục và thay đổi môi trường sinh hoạt khiến hàng rào bảo vệ da dễ suy yếu. Hệ quả là da xỉn màu, khô sần, nổi mụn hoặc dễ tái phát các bệnh da liễu mạn tính như viêm da, mề đay, dị ứng.</translate>
+    <mp3>subject_skin_issues_guid.mp3</mp3>
+
+    <!-- 詞組分析19：臨近春節的日子裡 -->
+    <phrase>
+      <text>Những ngày cận Tết</text>
+      <mp3>phrase_nhung_ngay_can_tet_guid.mp3</mp3>
+      <vocabulary>Những ngày</vocabulary>
+      <chinese>（名）那些日子</chinese>
+      <vocabulary>cận Tết</vocabulary>
+      <chinese>臨近春節</chinese>
+      <chinesePhrase>臨近春節的日子裡</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析20：飲食多含糖和油膩 -->
+    <phrase>
+      <text>chế độ ăn uống nhiều đường và dầu mỡ</text>
+      <mp3>phrase_chedo_anuong_nhieuduong_daumo_guid.mp3</mp3>
+      <vocabulary>chế độ ăn uống</vocabulary>
+      <chinese>（名）飲食習慣</chinese>
+      <vocabulary>nhiều đường</vocabulary>
+      <chinese>多糖</chinese>
+      <vocabulary>và</vocabulary>
+      <chinese>（連）和</chinese>
+      <vocabulary>dầu mỡ</vocabulary>
+      <chinese>（名）油膩</chinese>
+      <chinesePhrase>飲食多含糖和油膩</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析21：熬夜 -->
+    <phrase>
+      <text>thức khuya</text>
+      <mp3>phrase_thuc_khuya_guid.mp3</mp3>
+      <vocabulary>thức khuya</vocabulary>
+      <chinese>（動）熬夜</chinese>
+      <chinesePhrase>熬夜</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析22：頻繁移動和生活環境改變 -->
+    <phrase>
+      <text>di chuyển liên tục và thay đổi môi trường sinh hoạt</text>
+      <mp3>phrase_dichuyen_lientuc_thaydoi_moitruong_guid.mp3</mp3>
+      <vocabulary>di chuyển</vocabulary>
+      <chinese>（動）移動</chinese>
+      <vocabulary>liên tục</vocabulary>
+      <chinese>（副）連續/頻繁</chinese>
+      <vocabulary>và</vocabulary>
+      <chinese>（連）和</chinese>
+      <vocabulary>thay đổi môi trường sinh hoạt</vocabulary>
+      <chinese>改變生活環境</chinese>
+      <chinesePhrase>頻繁移動和生活環境改變</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析23：使皮膚防護屏障容易變弱 -->
+    <phrase>
+      <text>khiến hàng rào bảo vệ da dễ suy yếu</text>
+      <mp3>phrase_khien_hangrao_baove_de_suuyeu_guid.mp3</mp3>
+      <vocabulary>khiến</vocabulary>
+      <chinese>（動）使/導致</chinese>
+      <vocabulary>hàng rào bảo vệ da</vocabulary>
+      <chinese>皮膚防護屏障</chinese>
+      <vocabulary>dễ suy yếu</vocabulary>
+      <chinese>容易變弱</chinese>
+      <chinesePhrase>使皮膚防護屏障容易變弱</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析24：結果是 -->
+    <phrase>
+      <text>Hệ quả là</text>
+      <mp3>phrase_he_qua_la_guid.mp3</mp3>
+      <vocabulary>Hệ quả</vocabulary>
+      <chinese>（名）後果/結果</chinese>
+      <vocabulary>là</vocabulary>
+      <chinese>（動）是</chinese>
+      <chinesePhrase>結果是</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析25：皮膚暗沉、乾燥粗糙、長痘 -->
+    <phrase>
+      <text>da xỉn màu, khô sần, nổi mụn</text>
+      <mp3>phrase_da_xinmau_khosan_noimun_guid.mp3</mp3>
+      <vocabulary>da</vocabulary>
+      <chinese>（名）皮膚</chinese>
+      <vocabulary>xỉn màu</vocabulary>
+      <chinese>（形）暗沉</chinese>
+      <vocabulary>khô sần</vocabulary>
+      <chinese>（形）乾燥粗糙</chinese>
+      <vocabulary>nổi mụn</vocabulary>
+      <chinese>（動）長痘</chinese>
+      <chinesePhrase>皮膚暗沉、乾燥粗糙、長痘</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析26：或容易復發慢性皮膚病 -->
+    <phrase>
+      <text>hoặc dễ tái phát các bệnh da liễu mạn tính</text>
+      <mp3>phrase_hoac_de_taiphat_benhdalieu_manhtinh_guid.mp3</mp3>
+      <vocabulary>hoặc</vocabulary>
+      <chinese>（連）或者</chinese>
+      <vocabulary>dễ tái phát</vocabulary>
+      <chinese>容易復發</chinese>
+      <vocabulary>các bệnh da liễu mạn tính</vocabulary>
+      <chinese>慢性皮膚病</chinese>
+      <chinesePhrase>或容易復發慢性皮膚病</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析27：如皮炎、蕁麻疹、過敏 -->
+    <phrase>
+      <text>như viêm da, mề đay, dị ứng</text>
+      <mp3>phrase_nhu_viemda_meday_diung_guid.mp3</mp3>
+      <vocabulary>như</vocabulary>
+      <chinese>（介）如/像</chinese>
+      <vocabulary>viêm da</vocabulary>
+      <chinese>（名）皮炎</chinese>
+      <vocabulary>mề đay</vocabulary>
+      <chinese>（名）蕁麻疹</chinese>
+      <vocabulary>dị ứng</vocabulary>
+      <chinese>（名）過敏</chinese>
+      <chinesePhrase>如皮炎、蕁麻疹、過敏</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第五段：醫生建議 -->
+  <subject>
+    <text>據胡志明市淡水綜合醫院皮膚科-皮膚美學專科醫生阮玉珍醫生表示，有效護膚不一定需要繁複，尤其是在忙碌的春節日子裡。只需維持一些基本步驟，專注於清潔-修復-防護，肌膚仍能保持穩定和健康狀態。</text>
+    <translate>Theo BS.CKI Nguyễn Ngọc Trân, chuyên khoa Da liễu - Thẩm mỹ Da, Bệnh viện Đa khoa Tâm Anh TP HCM, chăm sóc da hiệu quả không nhất thiết phải cầu kỳ, nhất là trong những ngày Tết bận rộn. Chỉ cần duy trì một số bước cơ bản, tập trung vào làm sạch - phục hồi - bảo vệ, làn da vẫn có thể giữ được trạng thái ổn định và khỏe mạnh.</translate>
+    <mp3>subject_doctor_advice_guid.mp3</mp3>
+
+    <!-- 詞組分析28：據胡志明市淡水綜合醫院 -->
+    <phrase>
+      <text>Theo Bệnh viện Đa khoa Tâm Anh TP HCM</text>
+      <mp3>phrase_theo_benhvien_tamanh_guid.mp3</mp3>
+      <vocabulary>Theo</vocabulary>
+      <chinese>（介）根據/據</chinese>
+      <vocabulary>Bệnh viện Đa khoa Tâm Anh</vocabulary>
+      <chinese>（名）淡水綜合醫院</chinese>
+      <vocabulary>TP HCM</vocabulary>
+      <chinese>胡志明市</chinese>
+      <chinesePhrase>據胡志明市淡水綜合醫院</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析29：皮膚科-皮膚美學專科醫生阮玉珍醫生 -->
+    <phrase>
+      <text>BS.CKI Nguyễn Ngọc Trân, chuyên khoa Da liễu - Thẩm mỹ Da</text>
+      <mp3>phrase_bacsi_nguyenngoctran_chuyenkhoa_guid.mp3</mp3>
+      <vocabulary>BS.CKI</vocabulary>
+      <chinese>（名）專科一級醫生</chinese>
+      <vocabulary>Nguyễn Ngọc Trân</vocabulary>
+      <chinese>（名）阮玉珍</chinese>
+      <vocabulary>chuyên khoa Da liễu - Thẩm mỹ Da</vocabulary>
+      <chinese>皮膚科-皮膚美學專科</chinese>
+      <chinesePhrase>皮膚科-皮膚美學專科醫生阮玉珍醫生</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析30：有效護膚不一定需要繁複 -->
+    <phrase>
+      <text>chăm sóc da hiệu quả không nhất thiết phải cầu kỳ</text>
+      <mp3>phrase_chamsocda_hieuqua_khongnhatthiet_cauky_guid.mp3</mp3>
+      <vocabulary>chăm sóc da hiệu quả</vocabulary>
+      <chinese>有效護膚</chinese>
+      <vocabulary>không nhất thiết phải</vocabulary>
+      <chinese>不一定需要</chinese>
+      <vocabulary>cầu kỳ</vocabulary>
+      <chinese>（形）繁複/講究</chinese>
+      <chinesePhrase>有效護膚不一定需要繁複</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析31：尤其是在忙碌的春節日子裡 -->
+    <phrase>
+      <text>nhất là trong những ngày Tết bận rộn</text>
+      <mp3>phrase_nhatla_trong_nhungngaytet_banron_guid.mp3</mp3>
+      <vocabulary>nhất là</vocabulary>
+      <chinese>（副）尤其是</chinese>
+      <vocabulary>trong những ngày Tết bận rộn</vocabulary>
+      <chinese>在忙碌的春節日子裡</chinese>
+      <chinesePhrase>尤其是在忙碌的春節日子裡</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析32：只需維持一些基本步驟 -->
+    <phrase>
+      <text>Chỉ cần duy trì một số bước cơ bản</text>
+      <mp3>phrase_chican_duytri_motso_buoc_coban_guid.mp3</mp3>
+      <vocabulary>Chỉ cần</vocabulary>
+      <chinese>只需</chinese>
+      <vocabulary>duy trì</vocabulary>
+      <chinese>（動）維持</chinese>
+      <vocabulary>một số bước cơ bản</vocabulary>
+      <chinese>一些基本步驟</chinese>
+      <chinesePhrase>只需維持一些基本步驟</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析33：專注於清潔-修復-防護 -->
+    <phrase>
+      <text>tập trung vào làm sạch - phục hồi - bảo vệ</text>
+      <mp3>phrase_taptrung_vao_lamsach_phuchoi_baove_guid.mp3</mp3>
+      <vocabulary>tập trung vào</vocabulary>
+      <chinese>（動）專注於</chinese>
+      <vocabulary>làm sạch</vocabulary>
+      <chinese>清潔</chinese>
+      <vocabulary>phục hồi</vocabulary>
+      <chinese>修復</chinese>
+      <vocabulary>bảo vệ</vocabulary>
+      <chinese>防護</chinese>
+      <chinesePhrase>專注於清潔-修復-防護</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析34：肌膚仍能保持穩定和健康狀態 -->
+    <phrase>
+      <text>làn da vẫn có thể giữ được trạng thái ổn định và khỏe mạnh</text>
+      <mp3>phrase_landa_vanthe_giu_trangthai_ondinh_khoemanh_guid.mp3</mp3>
+      <vocabulary>làn da</vocabulary>
+      <chinese>（名）肌膚</chinese>
+      <vocabulary>vẫn có thể</vocabulary>
+      <chinese>仍能</chinese>
+      <vocabulary>giữ được</vocabulary>
+      <chinese>保持</chinese>
+      <vocabulary>trạng thái ổn định và khỏe mạnh</vocabulary>
+      <chinese>穩定和健康狀態</chinese>
+      <chinesePhrase>肌膚仍能保持穩定和健康狀態</chinesePhrase>
+    </phrase>
+  </subject>
+</xml>

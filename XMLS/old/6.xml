@@ -1,0 +1,858 @@
+<xml>
+
+  <subject>
+    <text>沒有多少玩具能和芭比娃娃一樣有名。</text>
+    <translate>Không có nhiều đồ chơi nổi tiếng như búp bê Barbie.</translate>
+    <mp3>GUID_SENTENCE_1.mp3</mp3>
+
+    <phrase>
+      <text>Không có nhiều</text>
+      <mp3>GUID_PHRASE_1_1.mp3</mp3>
+      <vocabulary>không</vocabulary>
+      <chinese>（不）</chinese>
+      <vocabulary>nhiều</vocabulary>
+      <chinese>（多）</chinese>
+      <chinesePhrase>沒有多少</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>đồ chơi</text>
+      <mp3>GUID_PHRASE_1_2.mp3</mp3>
+      <vocabulary>đồ</vocabulary>
+      <chinese>（東西、物品）</chinese>
+      <vocabulary>chơi</vocabulary>
+      <chinese>（玩、玩耍）</chinese>
+      <chinesePhrase>玩具</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>nổi tiếng</text>
+      <mp3>GUID_PHRASE_1_3.mp3</mp3>
+      <vocabulary>nổi</vocabulary>
+      <chinese>（顯著、出名）</chinese>
+      <vocabulary>tiếng</vocabulary>
+      <chinese>（名聲、聲音）</chinese>
+      <chinesePhrase>有名</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>như búp bê Barbie</text>
+      <mp3>GUID_PHRASE_1_4.mp3</mp3>
+      <vocabulary>búp bê</vocabulary>
+      <chinese>（娃娃）</chinese>
+      <vocabulary>Barbie</vocabulary>
+      <chinese>（芭比）</chinese>
+      <chinesePhrase>像芭比娃娃</chinesePhrase>
+    </phrase>
+  </subject>
+
+
+  <subject>
+    <text>首個芭比娃娃於 1959 年推出，很快就徹底改變了玩具業。</text>
+    <translate>Búp bê Barbie đầu tiên được ra mắt vào năm 1959 và nhanh chóng làm thay đổi hoàn toàn ngành đồ chơi.</translate>
+    <mp3>GUID_SENTENCE_2.mp3</mp3>
+
+    <phrase>
+      <text>Búp bê Barbie đầu tiên</text>
+      <mp3>GUID_PHRASE_2_1.mp3</mp3>
+      <vocabulary>đầu tiên</vocabulary>
+      <chinese>（第一個、首個）</chinese>
+      <vocabulary>búp bê</vocabulary>
+      <chinese>（娃娃）</chinese>
+      <chinesePhrase>首個芭比娃娃</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>được ra mắt</text>
+      <mp3>GUID_PHRASE_2_2.mp3</mp3>
+      <vocabulary>được</vocabulary>
+      <chinese>（被；被動）</chinese>
+      <vocabulary>ra mắt</vocabulary>
+      <chinese>（推出、亮相）</chinese>
+      <chinesePhrase>推出</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>vào năm 1959</text>
+      <mp3>GUID_PHRASE_2_3.mp3</mp3>
+      <vocabulary>vào</vocabulary>
+      <chinese>（於、在）</chinese>
+      <vocabulary>năm</vocabulary>
+      <chinese>（年）</chinese>
+      <chinesePhrase>於 1959 年</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>nhanh chóng</text>
+      <mp3>GUID_PHRASE_2_4.mp3</mp3>
+      <vocabulary>nhanh</vocabulary>
+      <chinese>（快）</chinese>
+      <vocabulary>chóng</vocabulary>
+      <chinese>（迅速）</chinese>
+      <chinesePhrase>很快</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>làm thay đổi hoàn toàn</text>
+      <mp3>GUID_PHRASE_2_5.mp3</mp3>
+      <vocabulary>thay đổi</vocabulary>
+      <chinese>（改變）</chinese>
+      <vocabulary>hoàn toàn</vocabulary>
+      <chinese>（徹底、完全）</chinese>
+      <chinesePhrase>徹底改變</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>ngành đồ chơi</text>
+      <mp3>GUID_PHRASE_2_6.mp3</mp3>
+      <vocabulary>ngành</vocabulary>
+      <chinese>（行業）</chinese>
+      <vocabulary>đồ chơi</vocabulary>
+      <chinese>（玩具）</chinese>
+      <chinesePhrase>玩具業</chinesePhrase>
+    </phrase>
+  </subject>
+
+
+  <subject>
+    <text>自那時起，芭比娃娃呈現出許多不同角色，並改變了許多樣貌。</text>
+    <translate>Kể từ đó, búp bê Barbie đã xuất hiện trong nhiều vai trò khác nhau và thay đổi rất nhiều diện mạo.</translate>
+    <mp3>GUID_SENTENCE_3.mp3</mp3>
+
+    <phrase>
+      <text>Kể từ đó</text>
+      <mp3>GUID_PHRASE_3_1.mp3</mp3>
+      <vocabulary>kể từ</vocabulary>
+      <chinese>（自從）</chinese>
+      <vocabulary>đó</vocabulary>
+      <chinese>（那時、那裡）</chinese>
+      <chinesePhrase>自那時起</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>đã xuất hiện</text>
+      <mp3>GUID_PHRASE_3_2.mp3</mp3>
+      <vocabulary>đã</vocabulary>
+      <chinese>（已經；過去式）</chinese>
+      <vocabulary>xuất hiện</vocabulary>
+      <chinese>（出現）</chinese>
+      <chinesePhrase>呈現出／出現</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>trong nhiều vai trò khác nhau</text>
+      <mp3>GUID_PHRASE_3_3.mp3</mp3>
+      <vocabulary>vai trò</vocabulary>
+      <chinese>（角色）</chinese>
+      <vocabulary>khác nhau</vocabulary>
+      <chinese>（不同的）</chinese>
+      <chinesePhrase>許多不同角色</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>thay đổi diện mạo</text>
+      <mp3>GUID_PHRASE_3_4.mp3</mp3>
+      <vocabulary>thay đổi</vocabulary>
+      <chinese>（改變）</chinese>
+      <vocabulary>diện mạo</vocabulary>
+      <chinese>（外貌、樣貌）</chinese>
+      <chinesePhrase>改變樣貌</chinesePhrase>
+    </phrase>
+  </subject>
+
+
+  <subject>
+    <text>有醫生和太空人芭比、為不同種族的人所打造的芭比，甚至還有使用輪椅的芭比。</text>
+    <translate>Có Barbie bác sĩ và Barbie phi hành gia, Barbie được thiết kế cho các nhóm chủng tộc khác nhau, thậm chí còn có Barbie sử dụng xe lăn.</translate>
+    <mp3>GUID_SENTENCE_4.mp3</mp3>
+
+    <phrase>
+      <text>Barbie bác sĩ</text>
+      <mp3>GUID_PHRASE_4_1.mp3</mp3>
+      <vocabulary>bác sĩ</vocabulary>
+      <chinese>（醫生）</chinese>
+      <vocabulary>Barbie</vocabulary>
+      <chinese>（芭比）</chinese>
+      <chinesePhrase>醫生芭比</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>Barbie phi hành gia</text>
+      <mp3>GUID_PHRASE_4_2.mp3</mp3>
+      <vocabulary>phi hành gia</vocabulary>
+      <chinese>（太空人）</chinese>
+      <vocabulary>Barbie</vocabulary>
+      <chinese>（芭比）</chinese>
+      <chinesePhrase>太空人芭比</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>được thiết kế</text>
+      <mp3>GUID_PHRASE_4_3.mp3</mp3>
+      <vocabulary>thiết kế</vocabulary>
+      <chinese>（設計、打造）</chinese>
+      <vocabulary>được</vocabulary>
+      <chinese>（被；被動）</chinese>
+      <chinesePhrase>所打造的</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>cho các nhóm chủng tộc khác nhau</text>
+      <mp3>GUID_PHRASE_4_4.mp3</mp3>
+      <vocabulary>chủng tộc</vocabulary>
+      <chinese>（種族）</chinese>
+      <vocabulary>khác nhau</vocabulary>
+      <chinese>（不同）</chinese>
+      <chinesePhrase>不同種族的人</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>thậm chí còn có</text>
+      <mp3>GUID_PHRASE_4_5.mp3</mp3>
+      <vocabulary>thậm chí</vocabulary>
+      <chinese>（甚至）</chinese>
+      <vocabulary>còn</vocabulary>
+      <chinese>（還）</chinese>
+      <chinesePhrase>甚至還有</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>sử dụng xe lăn</text>
+      <mp3>GUID_PHRASE_4_6.mp3</mp3>
+      <vocabulary>sử dụng</vocabulary>
+      <chinese>（使用）</chinese>
+      <vocabulary>xe lăn</vocabulary>
+      <chinese>（輪椅）</chinese>
+      <chinesePhrase>使用輪椅</chinesePhrase>
+    </phrase>
+  </subject>
+
+
+  <subject>
+    <text>製造芭比娃娃的公司美泰兒近期推出了有唐氏症的全新娃娃。</text>
+    <translate>Gần đây, Mattel — công ty sản xuất búp bê Barbie — đã ra mắt một búp bê hoàn toàn mới mắc hội chứng Down.</translate>
+    <mp3>GUID_SENTENCE_5.mp3</mp3>
+
+    <phrase>
+      <text>Gần đây</text>
+      <mp3>GUID_PHRASE_5_1.mp3</mp3>
+      <vocabulary>gần</vocabulary>
+      <chinese>（近）</chinese>
+      <vocabulary>đây</vocabulary>
+      <chinese>（這裡；指「最近」）</chinese>
+      <chinesePhrase>近期</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>công ty sản xuất</text>
+      <mp3>GUID_PHRASE_5_2.mp3</mp3>
+      <vocabulary>công ty</vocabulary>
+      <chinese>（公司）</chinese>
+      <vocabulary>sản xuất</vocabulary>
+      <chinese>（製造、生產）</chinese>
+      <chinesePhrase>製造…的公司</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>Mattel</text>
+      <mp3>GUID_PHRASE_5_3.mp3</mp3>
+      <vocabulary>Mattel</vocabulary>
+      <chinese>（美泰兒）</chinese>
+      <chinesePhrase>美泰兒</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>đã ra mắt</text>
+      <mp3>GUID_PHRASE_5_4.mp3</mp3>
+      <vocabulary>ra mắt</vocabulary>
+      <chinese>（推出、發布）</chinese>
+      <vocabulary>đã</vocabulary>
+      <chinese>（已經；過去式）</chinese>
+      <chinesePhrase>推出了</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>mắc hội chứng Down</text>
+      <mp3>GUID_PHRASE_5_5.mp3</mp3>
+      <vocabulary>mắc</vocabulary>
+      <chinese>（罹患）</chinese>
+      <vocabulary>hội chứng Down</vocabulary>
+      <chinese>（唐氏症）</chinese>
+      <chinesePhrase>有唐氏症</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>một búp bê hoàn toàn mới</text>
+      <mp3>GUID_PHRASE_5_6.mp3</mp3>
+      <vocabulary>hoàn toàn</vocabulary>
+      <chinese>（完全、全新）</chinese>
+      <vocabulary>mới</vocabulary>
+      <chinese>（新的）</chinese>
+      <chinesePhrase>全新娃娃</chinesePhrase>
+    </phrase>
+  </subject>
+
+
+  <subject>
+    <text>唐氏症是一個人天生多一條染色體而導致的疾病，染色體是在每個人體細胞中都存在的、由 DNA 組成的絲狀結構。</text>
+    <translate>Hội chứng Down là một tình trạng do bẩm sinh có thêm một nhiễm sắc thể; nhiễm sắc thể là cấu trúc dạng sợi có trong mọi tế bào cơ thể và được tạo thành từ DNA.</translate>
+    <mp3>GUID_SENTENCE_6.mp3</mp3>
+
+    <phrase>
+      <text>Hội chứng Down</text>
+      <mp3>GUID_PHRASE_6_1.mp3</mp3>
+      <vocabulary>hội chứng</vocabulary>
+      <chinese>（症候群）</chinese>
+      <vocabulary>Down</vocabulary>
+      <chinese>（唐氏）</chinese>
+      <chinesePhrase>唐氏症</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>là một tình trạng</text>
+      <mp3>GUID_PHRASE_6_2.mp3</mp3>
+      <vocabulary>tình trạng</vocabulary>
+      <chinese>（狀態、情況）</chinese>
+      <vocabulary>là</vocabulary>
+      <chinese>（是）</chinese>
+      <chinesePhrase>是一種情況／狀態</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>do bẩm sinh</text>
+      <mp3>GUID_PHRASE_6_3.mp3</mp3>
+      <vocabulary>do</vocabulary>
+      <chinese>（由於、因為）</chinese>
+      <vocabulary>bẩm sinh</vocabulary>
+      <chinese>（天生的）</chinese>
+      <chinesePhrase>天生…而導致</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>có thêm một nhiễm sắc thể</text>
+      <mp3>GUID_PHRASE_6_4.mp3</mp3>
+      <vocabulary>thêm</vocabulary>
+      <chinese>（多出、增加）</chinese>
+      <vocabulary>nhiễm sắc thể</vocabulary>
+      <chinese>（染色體）</chinese>
+      <chinesePhrase>多一條染色體</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>cấu trúc dạng sợi</text>
+      <mp3>GUID_PHRASE_6_5.mp3</mp3>
+      <vocabulary>cấu trúc</vocabulary>
+      <chinese>（結構）</chinese>
+      <vocabulary>dạng sợi</vocabulary>
+      <chinese>（絲狀）</chinese>
+      <chinesePhrase>絲狀結構</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>có trong mọi tế bào cơ thể</text>
+      <mp3>GUID_PHRASE_6_6.mp3</mp3>
+      <vocabulary>mọi</vocabulary>
+      <chinese>（每一個、所有）</chinese>
+      <vocabulary>tế bào</vocabulary>
+      <chinese>（細胞）</chinese>
+      <chinesePhrase>在每個人體細胞中都存在</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>được tạo thành từ DNA</text>
+      <mp3>GUID_PHRASE_6_7.mp3</mp3>
+      <vocabulary>tạo thành</vocabulary>
+      <chinese>（組成）</chinese>
+      <vocabulary>DNA</vocabulary>
+      <chinese>（DNA）</chinese>
+      <chinesePhrase>由 DNA 組成</chinesePhrase>
+    </phrase>
+  </subject>
+
+
+  <subject>
+    <text>這一條多的染色體可能會影響一個人的身體如何成長和大腦如何發展。</text>
+    <translate>Nhiễm sắc thể thừa này có thể ảnh hưởng đến cách cơ thể một người lớn lên và cách não bộ phát triển.</translate>
+    <mp3>GUID_SENTENCE_7.mp3</mp3>
+
+    <phrase>
+      <text>Nhiễm sắc thể thừa này</text>
+      <mp3>GUID_PHRASE_7_1.mp3</mp3>
+      <vocabulary>thừa</vocabulary>
+      <chinese>（多餘的、多出的）</chinese>
+      <vocabulary>nhiễm sắc thể</vocabulary>
+      <chinese>（染色體）</chinese>
+      <chinesePhrase>這一條多的染色體</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>có thể ảnh hưởng đến</text>
+      <mp3>GUID_PHRASE_7_2.mp3</mp3>
+      <vocabulary>có thể</vocabulary>
+      <chinese>（可能、可以）</chinese>
+      <vocabulary>ảnh hưởng</vocabulary>
+      <chinese>（影響）</chinese>
+      <chinesePhrase>可能會影響</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>cách cơ thể lớn lên</text>
+      <mp3>GUID_PHRASE_7_3.mp3</mp3>
+      <vocabulary>cơ thể</vocabulary>
+      <chinese>（身體）</chinese>
+      <vocabulary>lớn lên</vocabulary>
+      <chinese>（成長）</chinese>
+      <chinesePhrase>身體如何成長</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>cách não bộ phát triển</text>
+      <mp3>GUID_PHRASE_7_4.mp3</mp3>
+      <vocabulary>não bộ</vocabulary>
+      <chinese>（大腦）</chinese>
+      <vocabulary>phát triển</vocabulary>
+      <chinese>（發展）</chinese>
+      <chinesePhrase>大腦如何發展</chinesePhrase>
+    </phrase>
+  </subject>
+
+
+  <subject>
+    <text>雖然患有唐氏症的人可能外表和行動相似，但每個人的能力有所不同。</text>
+    <translate>Mặc dù người mắc hội chứng Down có thể trông và hành động khá giống nhau, nhưng khả năng của mỗi người lại khác nhau.</translate>
+    <mp3>GUID_SENTENCE_8.mp3</mp3>
+
+    <phrase>
+      <text>Mặc dù</text>
+      <mp3>GUID_PHRASE_8_1.mp3</mp3>
+      <vocabulary>mặc</vocabulary>
+      <chinese>（雖然；轉折用）</chinese>
+      <vocabulary>dù</vocabulary>
+      <chinese>（即使）</chinese>
+      <chinesePhrase>雖然</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>người mắc hội chứng Down</text>
+      <mp3>GUID_PHRASE_8_2.mp3</mp3>
+      <vocabulary>người</vocabulary>
+      <chinese>（人）</chinese>
+      <vocabulary>mắc</vocabulary>
+      <chinese>（罹患）</chinese>
+      <chinesePhrase>患有唐氏症的人</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>trông và hành động</text>
+      <mp3>GUID_PHRASE_8_3.mp3</mp3>
+      <vocabulary>trông</vocabulary>
+      <chinese>（看起來、外表）</chinese>
+      <vocabulary>hành động</vocabulary>
+      <chinese>（行動、行為）</chinese>
+      <chinesePhrase>外表和行動</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>khá giống nhau</text>
+      <mp3>GUID_PHRASE_8_4.mp3</mp3>
+      <vocabulary>khá</vocabulary>
+      <chinese>（相當）</chinese>
+      <vocabulary>giống nhau</vocabulary>
+      <chinese>（相似）</chinese>
+      <chinesePhrase>可能相似</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>nhưng khả năng của mỗi người khác nhau</text>
+      <mp3>GUID_PHRASE_8_5.mp3</mp3>
+      <vocabulary>khả năng</vocabulary>
+      <chinese>（能力）</chinese>
+      <vocabulary>mỗi người</vocabulary>
+      <chinese>（每個人）</chinese>
+      <chinesePhrase>但每個人的能力不同</chinesePhrase>
+    </phrase>
+  </subject>
+
+
+
+  <subject>
+    <text>這款有著唐氏症的新芭比娃娃是 2023 年芭比時尚達人系列的一部分。</text>
+    <translate>Búp bê Barbie mới mắc hội chứng Down này là một phần của dòng Barbie Fashionistas năm 2023.</translate>
+    <mp3>GUID_SENTENCE_9.mp3</mp3>
+
+    <phrase>
+      <text>Búp bê Barbie mới</text>
+      <mp3>GUID_PHRASE_9_1.mp3</mp3>
+      <vocabulary>búp bê</vocabulary>
+      <chinese>（娃娃）</chinese>
+      <vocabulary>mới</vocabulary>
+      <chinese>（新的）</chinese>
+      <chinesePhrase>新的芭比娃娃</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>mắc hội chứng Down</text>
+      <mp3>GUID_PHRASE_9_2.mp3</mp3>
+      <vocabulary>mắc</vocabulary>
+      <chinese>（罹患）</chinese>
+      <vocabulary>hội chứng Down</vocabulary>
+      <chinese>（唐氏症）</chinese>
+      <chinesePhrase>有著唐氏症</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>là một phần của</text>
+      <mp3>GUID_PHRASE_9_3.mp3</mp3>
+      <vocabulary>một phần</vocabulary>
+      <chinese>（一部分）</chinese>
+      <vocabulary>của</vocabulary>
+      <chinese>（…的）</chinese>
+      <chinesePhrase>是…的一部分</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>dòng Barbie Fashionistas</text>
+      <mp3>GUID_PHRASE_9_4.mp3</mp3>
+      <vocabulary>dòng</vocabulary>
+      <chinese>（系列）</chinese>
+      <vocabulary>Fashionistas</vocabulary>
+      <chinese>（時尚達人）</chinese>
+      <chinesePhrase>芭比時尚達人系列</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>năm 2023</text>
+      <mp3>GUID_PHRASE_9_5.mp3</mp3>
+      <vocabulary>năm</vocabulary>
+      <chinese>（年）</chinese>
+      <vocabulary>2023</vocabulary>
+      <chinese>（2023 年）</chinese>
+      <chinesePhrase>2023 年</chinesePhrase>
+    </phrase>
+  </subject>
+
+
+  <subject>
+    <text>美泰兒形容這個系列是有包容性的，反映了現今孩童所見的世界。</text>
+    <translate>Mattel mô tả dòng sản phẩm này là mang tính bao dung và phản ánh thế giới mà trẻ em ngày nay nhìn thấy.</translate>
+    <mp3>GUID_SENTENCE_10.mp3</mp3>
+
+    <phrase>
+      <text>Mattel mô tả</text>
+      <mp3>GUID_PHRASE_10_1.mp3</mp3>
+      <vocabulary>mô tả</vocabulary>
+      <chinese>（形容、描述）</chinese>
+      <vocabulary>Mattel</vocabulary>
+      <chinese>（美泰兒）</chinese>
+      <chinesePhrase>美泰兒形容</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>dòng sản phẩm này</text>
+      <mp3>GUID_PHRASE_10_2.mp3</mp3>
+      <vocabulary>dòng</vocabulary>
+      <chinese>（系列）</chinese>
+      <vocabulary>sản phẩm</vocabulary>
+      <chinese>（產品）</chinese>
+      <chinesePhrase>這個系列</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>mang tính bao dung</text>
+      <mp3>GUID_PHRASE_10_3.mp3</mp3>
+      <vocabulary>bao dung</vocabulary>
+      <chinese>（包容）</chinese>
+      <vocabulary>tính</vocabulary>
+      <chinese>（性質）</chinese>
+      <chinesePhrase>有包容性的</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>phản ánh</text>
+      <mp3>GUID_PHRASE_10_4.mp3</mp3>
+      <vocabulary>phản ánh</vocabulary>
+      <chinese>（反映）</chinese>
+      <vocabulary>thế giới</vocabulary>
+      <chinese>（世界）</chinese>
+      <chinesePhrase>反映世界</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>trẻ em ngày nay</text>
+      <mp3>GUID_PHRASE_10_5.mp3</mp3>
+      <vocabulary>trẻ em</vocabulary>
+      <chinese>（孩童）</chinese>
+      <vocabulary>ngày nay</vocabulary>
+      <chinese>（現今）</chinese>
+      <chinesePhrase>現今的孩童</chinesePhrase>
+    </phrase>
+  </subject>
+
+
+  <subject>
+    <text>先前的時尚達人系列中包括戴有助聽器的娃娃，以及有著某些皮膚疾病的娃娃。</text>
+    <translate>Các dòng Barbie Fashionistas trước đây bao gồm búp bê đeo máy trợ thính và búp bê có một số tình trạng về da.</translate>
+    <mp3>GUID_SENTENCE_11.mp3</mp3>
+
+    <phrase>
+      <text>trước đây</text>
+      <mp3>GUID_PHRASE_11_1.mp3</mp3>
+      <vocabulary>trước</vocabulary>
+      <chinese>（之前）</chinese>
+      <vocabulary>đây</vocabulary>
+      <chinese>（這裡；指過去）</chinese>
+      <chinesePhrase>先前</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>búp bê đeo máy trợ thính</text>
+      <mp3>GUID_PHRASE_11_2.mp3</mp3>
+      <vocabulary>máy trợ thính</vocabulary>
+      <chinese>（助聽器）</chinese>
+      <vocabulary>đeo</vocabulary>
+      <chinese>（佩戴）</chinese>
+      <chinesePhrase>戴有助聽器的娃娃</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>tình trạng về da</text>
+      <mp3>GUID_PHRASE_11_3.mp3</mp3>
+      <vocabulary>tình trạng</vocabulary>
+      <chinese>（狀況、疾病）</chinese>
+      <vocabulary>da</vocabulary>
+      <chinese>（皮膚）</chinese>
+      <chinesePhrase>皮膚疾病</chinesePhrase>
+    </phrase>
+  </subject>
+
+
+  <subject>
+    <text>為了最佳表現出唐氏症，美泰兒與國家唐氏症協會合作設計娃娃。</text>
+    <translate>Để thể hiện tốt nhất hội chứng Down, Mattel đã hợp tác với Hiệp hội Down Quốc gia trong việc thiết kế búp bê.</translate>
+    <mp3>GUID_SENTENCE_12.mp3</mp3>
+
+    <phrase>
+      <text>Để thể hiện tốt nhất</text>
+      <mp3>GUID_PHRASE_12_1.mp3</mp3>
+      <vocabulary>thể hiện</vocabulary>
+      <chinese>（呈現、表現）</chinese>
+      <vocabulary>tốt nhất</vocabulary>
+      <chinese>（最好）</chinese>
+      <chinesePhrase>為了最佳表現</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>hợp tác thiết kế</text>
+      <mp3>GUID_PHRASE_12_2.mp3</mp3>
+      <vocabulary>hợp tác</vocabulary>
+      <chinese>（合作）</chinese>
+      <vocabulary>thiết kế</vocabulary>
+      <chinese>（設計）</chinese>
+      <chinesePhrase>合作設計</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>Hiệp hội Down Quốc gia</text>
+      <mp3>GUID_PHRASE_12_3.mp3</mp3>
+      <vocabulary>hiệp hội</vocabulary>
+      <chinese>（協會）</chinese>
+      <vocabulary>quốc gia</vocabulary>
+      <chinese>（國家）</chinese>
+      <chinesePhrase>國家唐氏症協會</chinesePhrase>
+    </phrase>
+  </subject>
+
+
+  <subject>
+    <text>這個新的芭比娃娃體格較矮、軀幹較長，臉型較圓且有著杏仁型的雙眼，這些全都是有唐氏症的人常見的特徵。</text>
+    <translate>Búp bê Barbie mới này có vóc dáng thấp hơn, thân người dài hơn, khuôn mặt tròn và đôi mắt hình hạnh nhân — tất cả đều là những đặc điểm thường thấy ở người mắc hội chứng Down.</translate>
+    <mp3>GUID_SENTENCE_13.mp3</mp3>
+
+    <phrase>
+      <text>vóc dáng thấp hơn</text>
+      <mp3>GUID_PHRASE_13_1.mp3</mp3>
+      <vocabulary>vóc dáng</vocabulary>
+      <chinese>（體格）</chinese>
+      <vocabulary>thấp</vocabulary>
+      <chinese>（矮）</chinese>
+      <chinesePhrase>體格較矮</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>khuôn mặt tròn</text>
+      <mp3>GUID_PHRASE_13_2.mp3</mp3>
+      <vocabulary>khuôn mặt</vocabulary>
+      <chinese>（臉型）</chinese>
+      <vocabulary>tròn</vocabulary>
+      <chinese>（圓的）</chinese>
+      <chinesePhrase>臉型較圓</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>đôi mắt hình hạnh nhân</text>
+      <mp3>GUID_PHRASE_13_3.mp3</mp3>
+      <vocabulary>mắt</vocabulary>
+      <chinese>（眼睛）</chinese>
+      <vocabulary>hạnh nhân</vocabulary>
+      <chinese>（杏仁）</chinese>
+      <chinesePhrase>杏仁型的雙眼</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>đặc điểm thường thấy</text>
+      <mp3>GUID_PHRASE_13_4.mp3</mp3>
+      <vocabulary>đặc điểm</vocabulary>
+      <chinese>（特徵）</chinese>
+      <vocabulary>thường thấy</vocabulary>
+      <chinese>（常見）</chinese>
+      <chinesePhrase>常見的特徵</chinesePhrase>
+    </phrase>
+  </subject>
+
+
+  <subject>
+    <text>除了身體特徵外，這個娃娃還附有與唐氏症相關的配件。</text>
+    <translate>Ngoài các đặc điểm cơ thể, búp bê này còn đi kèm với các phụ kiện liên quan đến hội chứng Down.</translate>
+    <mp3>GUID_SENTENCE_14.mp3</mp3>
+
+    <phrase>
+      <text>Ngoài … ra</text>
+      <mp3>GUID_PHRASE_14_1.mp3</mp3>
+      <vocabulary>ngoài</vocabulary>
+      <chinese>（除了）</chinese>
+      <vocabulary>ra</vocabulary>
+      <chinese>（之外）</chinese>
+      <chinesePhrase>除了…之外</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>phụ kiện liên quan</text>
+      <mp3>GUID_PHRASE_14_2.mp3</mp3>
+      <vocabulary>phụ kiện</vocabulary>
+      <chinese>（配件）</chinese>
+      <vocabulary>liên quan</vocabulary>
+      <chinese>（相關）</chinese>
+      <chinesePhrase>相關的配件</chinesePhrase>
+    </phrase>
+  </subject>
+
+
+  <subject>
+    <text>她戴有粉色的踝足矯正器來支撐腳和腳踝。</text>
+    <translate>Cô ấy đeo nẹp chỉnh hình cổ chân màu hồng để hỗ trợ bàn chân và mắt cá chân.</translate>
+    <mp3>GUID_SENTENCE_15.mp3</mp3>
+
+    <phrase>
+      <text>nẹp chỉnh hình cổ chân</text>
+      <mp3>GUID_PHRASE_15_1.mp3</mp3>
+      <vocabulary>nẹp</vocabulary>
+      <chinese>（支架、矯正器）</chinese>
+      <vocabulary>cổ chân</vocabulary>
+      <chinese>（腳踝）</chinese>
+      <chinesePhrase>踝足矯正器</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>để hỗ trợ</text>
+      <mp3>GUID_PHRASE_15_2.mp3</mp3>
+      <vocabulary>hỗ trợ</vocabulary>
+      <chinese>（支撐、輔助）</chinese>
+      <vocabulary>để</vocabulary>
+      <chinese>（為了）</chinese>
+      <chinesePhrase>用來支撐</chinesePhrase>
+    </phrase>
+  </subject>
+
+
+  <subject>
+    <text>她也穿著一件有著蝴蝶和藍色及黃色色調的洋裝──前者象徵該疾病，後者則代表對唐氏症的意識。</text>
+    <translate>Cô ấy cũng mặc một chiếc váy có họa tiết bướm với tông màu xanh và vàng — bướm tượng trưng cho căn bệnh này, còn màu sắc đại diện cho nhận thức về hội chứng Down.</translate>
+    <mp3>GUID_SENTENCE_16.mp3</mp3>
+
+    <phrase>
+      <text>họa tiết bướm</text>
+      <mp3>GUID_PHRASE_16_1.mp3</mp3>
+      <vocabulary>họa tiết</vocabulary>
+      <chinese>（圖案）</chinese>
+      <vocabulary>bướm</vocabulary>
+      <chinese>（蝴蝶）</chinese>
+      <chinesePhrase>蝴蝶圖案</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>tông màu xanh và vàng</text>
+      <mp3>GUID_PHRASE_16_2.mp3</mp3>
+      <vocabulary>tông màu</vocabulary>
+      <chinese>（色調）</chinese>
+      <vocabulary>xanh</vocabulary>
+      <chinese>（藍色）</chinese>
+      <chinesePhrase>藍色及黃色色調</chinesePhrase>
+    </phrase>
+  </subject>
+
+
+  <subject>
+    <text>她還戴著一條有著三個箭頭的粉色項鍊，象徵唐氏症患者多的那條染色體。</text>
+    <translate>Cô ấy còn đeo một chiếc vòng cổ màu hồng có ba mũi tên, tượng trưng cho nhiễm sắc thể dư thừa ở người mắc hội chứng Down.</translate>
+    <mp3>GUID_SENTENCE_17.mp3</mp3>
+
+    <phrase>
+      <text>ba mũi tên</text>
+      <mp3>GUID_PHRASE_17_1.mp3</mp3>
+      <vocabulary>ba</vocabulary>
+      <chinese>（三）</chinese>
+      <vocabulary>mũi tên</vocabulary>
+      <chinese>（箭頭）</chinese>
+      <chinesePhrase>三個箭頭</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>tượng trưng cho</text>
+      <mp3>GUID_PHRASE_17_2.mp3</mp3>
+      <vocabulary>tượng trưng</vocabulary>
+      <chinese>（象徵）</chinese>
+      <vocabulary>cho</vocabulary>
+      <chinese>（對、給）</chinese>
+      <chinesePhrase>象徵</chinesePhrase>
+    </phrase>
+  </subject>
+
+
+  <subject>
+    <text>如同國家唐氏症協會的執行長所述，這個娃娃確實是朝包容性邁進的很大一步。</text>
+    <translate>Như lời của giám đốc điều hành Hiệp hội Down Quốc gia, búp bê này thực sự là một bước tiến lớn hướng tới sự bao dung.</translate>
+    <mp3>GUID_SENTENCE_18.mp3</mp3>
+
+    <phrase>
+      <text>theo lời của</text>
+      <mp3>GUID_PHRASE_18_1.mp3</mp3>
+      <vocabulary>theo</vocabulary>
+      <chinese>（依照）</chinese>
+      <vocabulary>lời</vocabulary>
+      <chinese>（說法）</chinese>
+      <chinesePhrase>如同…所述</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>bước tiến lớn</text>
+      <mp3>GUID_PHRASE_18_2.mp3</mp3>
+      <vocabulary>bước tiến</vocabulary>
+      <chinese>（進展、一步）</chinese>
+      <vocabulary>lớn</vocabulary>
+      <chinese>（大的）</chinese>
+      <chinesePhrase>很大的一步</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>hướng tới sự bao dung</text>
+      <mp3>GUID_PHRASE_18_3.mp3</mp3>
+      <vocabulary>hướng tới</vocabulary>
+      <chinese>（朝向）</chinese>
+      <vocabulary>bao dung</vocabulary>
+      <chinese>（包容性）</chinese>
+      <chinesePhrase>朝包容性邁進</chinesePhrase>
+    </phrase>
+  </subject>
+
+</xml>
+

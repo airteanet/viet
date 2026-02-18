@@ -1,0 +1,474 @@
+<xml>
+
+<subject>
+  <text>藍牙科技讓智慧型手機、平板和其他電子裝置能無線連接。</text>
+  <translate>Công nghệ Bluetooth cho phép điện thoại thông minh, máy tính bảng và các thiết bị điện tử khác kết nối không dây.</translate>
+  <mp3>GUID_SENTENCE_1.mp3</mp3>
+
+  <phrase>
+    <text>Công nghệ Bluetooth</text>
+    <mp3>GUID_PHRASE_1_1.mp3</mp3>
+    <vocabulary>công nghệ</vocabulary>
+    <chinese>（科技）</chinese>
+    <vocabulary>Bluetooth</vocabulary>
+    <chinese>（藍牙）</chinese>
+    <chinesePhrase>藍牙科技</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>cho phép</text>
+    <mp3>GUID_PHRASE_1_2.mp3</mp3>
+    <vocabulary>cho</vocabulary>
+    <chinese>（給予）</chinese>
+    <vocabulary>phép</vocabulary>
+    <chinese>（允許）</chinese>
+    <chinesePhrase>允許</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>kết nối không dây</text>
+    <mp3>GUID_PHRASE_1_3.mp3</mp3>
+    <vocabulary>kết nối</vocabulary>
+    <chinese>（連接）</chinese>
+    <vocabulary>không dây</vocabulary>
+    <chinese>（無線）</chinese>
+    <chinesePhrase>無線連接</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>藍牙不只讓使用者擺脫有線裝置的限制，還成為我們日常生活中不可或缺的一部分。</text>
+  <translate>Bluetooth không chỉ giúp người dùng thoát khỏi sự hạn chế của thiết bị có dây mà còn trở thành một phần không thể thiếu trong cuộc sống hằng ngày của chúng ta.</translate>
+  <mp3>GUID_SENTENCE_2.mp3</mp3>
+
+  <phrase>
+    <text>không chỉ</text>
+    <mp3>GUID_PHRASE_2_1.mp3</mp3>
+    <vocabulary>không</vocabulary>
+    <chinese>（不）</chinese>
+    <vocabulary>chỉ</vocabulary>
+    <chinese>（只）</chinese>
+    <chinesePhrase>不只</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>thoát khỏi</text>
+    <mp3>GUID_PHRASE_2_2.mp3</mp3>
+    <vocabulary>thoát</vocabulary>
+    <chinese>（脫離）</chinese>
+    <vocabulary>khỏi</vocabulary>
+    <chinese>（離開）</chinese>
+    <chinesePhrase>擺脫</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>một phần không thể thiếu</text>
+    <mp3>GUID_PHRASE_2_3.mp3</mp3>
+    <vocabulary>một phần</vocabulary>
+    <chinese>（一部分）</chinese>
+    <vocabulary>không thể thiếu</vocabulary>
+    <chinese>（不可或缺）</chinese>
+    <chinesePhrase>不可或缺的一部分</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>這項科技是如何得到這獨特名稱的呢？</text>
+  <translate>Làm thế nào công nghệ này lại có được cái tên độc đáo như vậy?</translate>
+  <mp3>GUID_SENTENCE_3.mp3</mp3>
+
+  <phrase>
+    <text>Làm thế nào</text>
+    <mp3>GUID_PHRASE_3_1.mp3</mp3>
+    <vocabulary>làm</vocabulary>
+    <chinese>（做）</chinese>
+    <vocabulary>thế nào</vocabulary>
+    <chinese>（如何）</chinese>
+    <chinesePhrase>如何</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>cái tên độc đáo</text>
+    <mp3>GUID_PHRASE_3_2.mp3</mp3>
+    <vocabulary>tên</vocabulary>
+    <chinese>（名稱）</chinese>
+    <vocabulary>độc đáo</vocabulary>
+    <chinese>（獨特）</chinese>
+    <chinesePhrase>獨特的名稱</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>一切都始於 958 年一處冰凍的土地上，那是現在被稱為丹麥的地方。</text>
+  <translate>Mọi chuyện bắt đầu vào năm 958 trên một vùng đất băng giá, nơi ngày nay được gọi là Đan Mạch.</translate>
+  <mp3>GUID_SENTENCE_4.mp3</mp3>
+
+  <phrase>
+    <text>Mọi chuyện bắt đầu</text>
+    <mp3>GUID_PHRASE_4_1.mp3</mp3>
+    <vocabulary>mọi chuyện</vocabulary>
+    <chinese>（一切事情）</chinese>
+    <vocabulary>bắt đầu</vocabulary>
+    <chinese>（開始）</chinese>
+    <chinesePhrase>一切都始於</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>vùng đất băng giá</text>
+    <mp3>GUID_PHRASE_4_2.mp3</mp3>
+    <vocabulary>vùng đất</vocabulary>
+    <chinese>（土地）</chinese>
+    <vocabulary>băng giá</vocabulary>
+    <chinese>（冰凍的）</chinese>
+    <chinesePhrase>冰凍的土地</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>在那裡，一位名叫哈拉爾．戈姆松的男子手掌大權並成為他部落的國王。</text>
+  <translate>Tại đó, một người đàn ông tên là Harald Gormsson nắm giữ quyền lực và trở thành vua của bộ tộc mình.</translate>
+  <mp3>GUID_SENTENCE_5.mp3</mp3>
+
+  <phrase>
+    <text>nắm giữ quyền lực</text>
+    <mp3>GUID_PHRASE_5_1.mp3</mp3>
+    <vocabulary>nắm giữ</vocabulary>
+    <chinese>（掌握）</chinese>
+    <vocabulary>quyền lực</vocabulary>
+    <chinese>（權力）</chinese>
+    <chinesePhrase>手掌大權</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>trở thành vua</text>
+    <mp3>GUID_PHRASE_5_2.mp3</mp3>
+    <vocabulary>trở thành</vocabulary>
+    <chinese>（成為）</chinese>
+    <vocabulary>vua</vocabulary>
+    <chinese>（國王）</chinese>
+    <chinesePhrase>成為國王</chinesePhrase>
+  </phrase>
+</subject>
+
+
+<subject>
+  <text>藍牙科技讓智慧型手機、平板和其他電子裝置能無線連接。</text>
+  <translate>Công nghệ Bluetooth cho phép điện thoại thông minh, máy tính bảng và các thiết bị điện tử khác kết nối không dây.</translate>
+  <mp3>GUID_SENTENCE_1.mp3</mp3>
+
+  <phrase>
+    <text>Công nghệ Bluetooth</text>
+    <mp3>GUID_PHRASE_1_1.mp3</mp3>
+    <vocabulary>công nghệ</vocabulary>
+    <chinese>（科技）</chinese>
+    <vocabulary>Bluetooth</vocabulary>
+    <chinese>（藍牙）</chinese>
+    <chinesePhrase>藍牙科技</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>cho phép</text>
+    <mp3>GUID_PHRASE_1_2.mp3</mp3>
+    <vocabulary>cho</vocabulary>
+    <chinese>（給予）</chinese>
+    <vocabulary>phép</vocabulary>
+    <chinese>（允許）</chinese>
+    <chinesePhrase>允許</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>kết nối không dây</text>
+    <mp3>GUID_PHRASE_1_3.mp3</mp3>
+    <vocabulary>kết nối</vocabulary>
+    <chinese>（連接）</chinese>
+    <vocabulary>không dây</vocabulary>
+    <chinese>（無線）</chinese>
+    <chinesePhrase>無線連接</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>藍牙不只讓使用者擺脫有線裝置的限制，還成為我們日常生活中不可或缺的一部分。</text>
+  <translate>Bluetooth không chỉ giúp người dùng thoát khỏi sự hạn chế của thiết bị có dây mà còn trở thành một phần không thể thiếu trong cuộc sống hằng ngày của chúng ta.</translate>
+  <mp3>GUID_SENTENCE_2.mp3</mp3>
+
+  <phrase>
+    <text>không chỉ</text>
+    <mp3>GUID_PHRASE_2_1.mp3</mp3>
+    <vocabulary>không</vocabulary>
+    <chinese>（不）</chinese>
+    <vocabulary>chỉ</vocabulary>
+    <chinese>（只）</chinese>
+    <chinesePhrase>不只</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>thoát khỏi</text>
+    <mp3>GUID_PHRASE_2_2.mp3</mp3>
+    <vocabulary>thoát</vocabulary>
+    <chinese>（脫離）</chinese>
+    <vocabulary>khỏi</vocabulary>
+    <chinese>（離開）</chinese>
+    <chinesePhrase>擺脫</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>một phần không thể thiếu</text>
+    <mp3>GUID_PHRASE_2_3.mp3</mp3>
+    <vocabulary>một phần</vocabulary>
+    <chinese>（一部分）</chinese>
+    <vocabulary>không thể thiếu</vocabulary>
+    <chinese>（不可或缺）</chinese>
+    <chinesePhrase>不可或缺的一部分</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>這項科技是如何得到這獨特名稱的呢？</text>
+  <translate>Làm thế nào công nghệ này lại có được cái tên độc đáo như vậy?</translate>
+  <mp3>GUID_SENTENCE_3.mp3</mp3>
+
+  <phrase>
+    <text>Làm thế nào</text>
+    <mp3>GUID_PHRASE_3_1.mp3</mp3>
+    <vocabulary>làm</vocabulary>
+    <chinese>（做）</chinese>
+    <vocabulary>thế nào</vocabulary>
+    <chinese>（如何）</chinese>
+    <chinesePhrase>如何</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>cái tên độc đáo</text>
+    <mp3>GUID_PHRASE_3_2.mp3</mp3>
+    <vocabulary>tên</vocabulary>
+    <chinese>（名稱）</chinese>
+    <vocabulary>độc đáo</vocabulary>
+    <chinese>（獨特）</chinese>
+    <chinesePhrase>獨特的名稱</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>一切都始於 958 年一處冰凍的土地上，那是現在被稱為丹麥的地方。</text>
+  <translate>Mọi chuyện bắt đầu vào năm 958 trên một vùng đất băng giá, nơi ngày nay được gọi là Đan Mạch.</translate>
+  <mp3>GUID_SENTENCE_4.mp3</mp3>
+
+  <phrase>
+    <text>Mọi chuyện bắt đầu</text>
+    <mp3>GUID_PHRASE_4_1.mp3</mp3>
+    <vocabulary>mọi chuyện</vocabulary>
+    <chinese>（一切事情）</chinese>
+    <vocabulary>bắt đầu</vocabulary>
+    <chinese>（開始）</chinese>
+    <chinesePhrase>一切都始於</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>vùng đất băng giá</text>
+    <mp3>GUID_PHRASE_4_2.mp3</mp3>
+    <vocabulary>vùng đất</vocabulary>
+    <chinese>（土地）</chinese>
+    <vocabulary>băng giá</vocabulary>
+    <chinese>（冰凍的）</chinese>
+    <chinesePhrase>冰凍的土地</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>在那裡，一位名叫哈拉爾．戈姆松的男子手掌大權並成為他部落的國王。</text>
+  <translate>Tại đó, một người đàn ông tên là Harald Gormsson nắm giữ quyền lực và trở thành vua của bộ tộc mình.</translate>
+  <mp3>GUID_SENTENCE_5.mp3</mp3>
+
+  <phrase>
+    <text>nắm giữ quyền lực</text>
+    <mp3>GUID_PHRASE_5_1.mp3</mp3>
+    <vocabulary>nắm giữ</vocabulary>
+    <chinese>（掌握）</chinese>
+    <vocabulary>quyền lực</vocabulary>
+    <chinese>（權力）</chinese>
+    <chinesePhrase>手掌大權</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>trở thành vua</text>
+    <mp3>GUID_PHRASE_5_2.mp3</mp3>
+    <vocabulary>trở thành</vocabulary>
+    <chinese>（成為）</chinese>
+    <vocabulary>vua</vocabulary>
+    <chinese>（國王）</chinese>
+    <chinesePhrase>成為國王</chinesePhrase>
+  </phrase>
+</subject>
+
+
+<subject>
+  <text>時間快轉到 1996 年，各大科技公司的代表聚集起來開發一套短距離無線電連接的單一標準，但他們卻想不出名稱給這完全創新的科技。</text>
+  <translate>Thời gian chuyển nhanh đến năm 1996, đại diện của các công ty công nghệ lớn đã tụ họp để phát triển một tiêu chuẩn duy nhất cho kết nối vô tuyến tầm ngắn, nhưng họ không thể nghĩ ra tên cho công nghệ hoàn toàn mới này.</translate>
+  <mp3>GUID_SENTENCE_11.mp3</mp3>
+
+  <phrase>
+    <text>Thời gian chuyển nhanh</text>
+    <mp3>GUID_PHRASE_11_1.mp3</mp3>
+    <vocabulary>thời gian</vocabulary>
+    <chinese>（時間）</chinese>
+    <vocabulary>chuyển nhanh</vocabulary>
+    <chinese>（快轉）</chinese>
+    <chinesePhrase>時間快轉</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>các công ty công nghệ lớn</text>
+    <mp3>GUID_PHRASE_11_2.mp3</mp3>
+    <vocabulary>công ty</vocabulary>
+    <chinese>（公司）</chinese>
+    <vocabulary>công nghệ</vocabulary>
+    <chinese>（科技）</chinese>
+    <chinesePhrase>各大科技公司</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>tiêu chuẩn duy nhất</text>
+    <mp3>GUID_PHRASE_11_3.mp3</mp3>
+    <vocabulary>tiêu chuẩn</vocabulary>
+    <chinese>（標準）</chinese>
+    <vocabulary>duy nhất</vocabulary>
+    <chinese>（單一的）</chinese>
+    <chinesePhrase>單一標準</chinesePhrase>
+  </phrase>
+
+  <text>來自 Intel 的吉姆．卡達奇當時正在讀有關哈拉爾國王的書籍，他建議使用藍牙這個名稱作為暫時的解決方案。</text>
+  <translate>Jim Kardach đến từ Intel khi đó đang đọc sách về vua Harald, và ông đề xuất sử dụng cái tên Bluetooth như một giải pháp tạm thời.</translate>
+  <mp3>GUID_SENTENCE_12.mp3</mp3>
+
+  <phrase>
+    <text>đến từ Intel</text>
+    <mp3>GUID_PHRASE_12_1.mp3</mp3>
+    <vocabulary>đến từ</vocabulary>
+    <chinese>（來自）</chinese>
+    <vocabulary>Intel</vocabulary>
+    <chinese>（英特爾）</chinese>
+    <chinesePhrase>來自 Intel</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>giải pháp tạm thời</text>
+    <mp3>GUID_PHRASE_12_2.mp3</mp3>
+    <vocabulary>giải pháp</vocabulary>
+    <chinese>（解決方案）</chinese>
+    <vocabulary>tạm thời</vocabulary>
+    <chinese>（暫時的）</chinese>
+    <chinesePhrase>暫時的解決方案</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>正如該古代國王統一了他的領土，這些科技公司也試圖標準化短距離無線科技的應用。</text>
+  <translate>Giống như vị vua cổ đại đó đã thống nhất lãnh thổ của mình, các công ty công nghệ này cũng cố gắng tiêu chuẩn hóa việc ứng dụng công nghệ không dây tầm ngắn.</translate>
+  <mp3>GUID_SENTENCE_13.mp3</mp3>
+
+  <phrase>
+    <text>giống như</text>
+    <mp3>GUID_PHRASE_13_1.mp3</mp3>
+    <vocabulary>giống</vocabulary>
+    <chinese>（相似）</chinese>
+    <vocabulary>như</vocabulary>
+    <chinese>（如同）</chinese>
+    <chinesePhrase>正如</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>tiêu chuẩn hóa</text>
+    <mp3>GUID_PHRASE_13_2.mp3</mp3>
+    <vocabulary>tiêu chuẩn</vocabulary>
+    <chinese>（標準）</chinese>
+    <vocabulary>hóa</vocabulary>
+    <chinese>（化）</chinese>
+    <chinesePhrase>標準化</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>藍牙這個名稱原本預計之後會被換掉，但多虧其富含意義的聯想，最後變成正式名稱。</text>
+  <translate>Cái tên Bluetooth ban đầu được dự định sẽ được thay thế, nhưng nhờ những liên tưởng giàu ý nghĩa, cuối cùng nó đã trở thành tên chính thức.</translate>
+  <mp3>GUID_SENTENCE_14.mp3</mp3>
+
+  <phrase>
+    <text>ban đầu được dự định</text>
+    <mp3>GUID_PHRASE_14_1.mp3</mp3>
+    <vocabulary>ban đầu</vocabulary>
+    <chinese>（原本）</chinese>
+    <vocabulary>dự định</vocabulary>
+    <chinese>（預計）</chinese>
+    <chinesePhrase>原本預計</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>tên chính thức</text>
+    <mp3>GUID_PHRASE_14_2.mp3</mp3>
+    <vocabulary>chính thức</vocabulary>
+    <chinese>（正式）</chinese>
+    <vocabulary>tên</vocabulary>
+    <chinese>（名稱）</chinese>
+    <chinesePhrase>正式名稱</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>到了要設計商標的時刻，哈拉爾國王又再一次作為靈感來源。</text>
+  <translate>Khi đến lúc thiết kế biểu trưng, vua Harald một lần nữa lại trở thành nguồn cảm hứng.</translate>
+  <mp3>GUID_SENTENCE_15.mp3</mp3>
+
+  <phrase>
+    <text>nguồn cảm hứng</text>
+    <mp3>GUID_PHRASE_15_1.mp3</mp3>
+    <vocabulary>nguồn</vocabulary>
+    <chinese>（來源）</chinese>
+    <vocabulary>cảm hứng</vocabulary>
+    <chinese>（靈感）</chinese>
+    <chinesePhrase>靈感來源</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>藍牙的商標呈現出一個藍色的橢圓形附帶一個符號，該符號融合了以斯堪地那維亞盧恩文寫成的哈拉爾藍牙的首字母。</text>
+  <translate>Biểu trưng của Bluetooth thể hiện một hình bầu dục màu xanh kèm theo một ký hiệu, trong đó kết hợp các chữ cái đầu của Harald Bluetooth được viết bằng chữ rune Scandinavia.</translate>
+  <mp3>GUID_SENTENCE_16.mp3</mp3>
+
+  <phrase>
+    <text>biểu trưng Bluetooth</text>
+    <mp3>GUID_PHRASE_16_1.mp3</mp3>
+    <vocabulary>biểu trưng</vocabulary>
+    <chinese>（商標）</chinese>
+    <vocabulary>Bluetooth</vocabulary>
+    <chinese>（藍牙）</chinese>
+    <chinesePhrase>藍牙商標</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>chữ rune Scandinavia</text>
+    <mp3>GUID_PHRASE_16_2.mp3</mp3>
+    <vocabulary>chữ rune</vocabulary>
+    <chinese>（盧恩文字）</chinese>
+    <vocabulary>Scandinavia</vocabulary>
+    <chinese>（斯堪地那維亞）</chinese>
+    <chinesePhrase>斯堪地那維亞盧恩文</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>因為該國王的功績與這些領頭企業的共同努力不謀而合，他的名字便永遠被烙印在史書上了。</text>
+  <translate>Vì những thành tựu của vị vua này trùng hợp với nỗ lực chung của các doanh nghiệp tiên phong, tên của ông đã vĩnh viễn được khắc ghi trong lịch sử.</translate>
+  <mp3>GUID_SENTENCE_17.mp3</mp3>
+
+  <phrase>
+    <text>khắc ghi trong lịch sử</text>
+    <mp3>GUID_PHRASE_17_1.mp3</mp3>
+    <vocabulary>khắc ghi</vocabulary>
+    <chinese>（銘刻）</chinese>
+    <vocabulary>lịch sử</vocabulary>
+    <chinese>（歷史）</chinese>
+    <chinesePhrase>烙印在史書上</chinesePhrase>
+  </phrase>
+</subject>
+</xml>

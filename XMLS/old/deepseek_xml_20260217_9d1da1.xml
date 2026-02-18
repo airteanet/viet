@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <!-- 標題：春節期間營業的特色咖啡廳介紹 -->
+  <subject>
+    <text>除了Highlands Coffee、The Coffee House、Cộng Cafe、Aha Cafe等通常春節期間照常營業的連鎖咖啡廳外，VnExpress還介紹一些裝飾漂亮、春節期間全天營業的小型咖啡廳。</text>
+    <translate>Bên cạnh các quán cà phê theo chuỗi thường mở cửa xuyên Tết như Highlands Coffee, The Coffee House, Cộng Cafe, Aha Cafe, VnExpress giới thiệu thêm một số quán nhỏ trang trí đẹp, mở cửa phục vụ khách tất cả các ngày trong Tết.</translate>
+    <mp3>subject_cafe_tet_intro_guid.mp3</mp3>
+
+    <!-- 詞組分析1：除了連鎖咖啡廳之外 -->
+    <phrase>
+      <text>Bên cạnh các quán cà phê theo chuỗi</text>
+      <mp3>phrase_ben_canh_cac_quan_cafe_theo_chuoi_guid.mp3</mp3>
+      <vocabulary>bên cạnh</vocabulary>
+      <chinese>（介）除了...之外/在...旁邊</chinese>
+      <vocabulary>các quán cà phê</vocabulary>
+      <chinese>（名）各間咖啡廳</chinese>
+      <vocabulary>theo chuỗi</vocabulary>
+      <chinese>（形）連鎖的</chinese>
+      <chinesePhrase>除了連鎖咖啡廳之外</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析2：通常春節期間照常營業 -->
+    <phrase>
+      <text>thường mở cửa xuyên Tết</text>
+      <mp3>phrase_thuong_mo_cua_xuyen_tet_guid.mp3</mp3>
+      <vocabulary>thường</vocabulary>
+      <chinese>（副）通常</chinese>
+      <vocabulary>mở cửa</vocabulary>
+      <chinese>（動）開門/營業</chinese>
+      <vocabulary>xuyên Tết</vocabulary>
+      <chinese>（動）貫穿春節/春節期間</chinese>
+      <chinesePhrase>通常春節期間照常營業</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析3：如Highlands Coffee等 -->
+    <phrase>
+      <text>như Highlands Coffee, The Coffee House, Cộng Cafe, Aha Cafe</text>
+      <mp3>phrase_nhu_cac_thuong_hieu_cafe_guid.mp3</mp3>
+      <vocabulary>như</vocabulary>
+      <chinese>（介）如/像</chinese>
+      <vocabulary>Highlands Coffee</vocabulary>
+      <chinese>（名）Highlands Coffee</chinese>
+      <vocabulary>The Coffee House</vocabulary>
+      <chinese>（名）The Coffee House</chinese>
+      <vocabulary>Cộng Cafe</vocabulary>
+      <chinese>（名）Cộng Cafe</chinese>
+      <vocabulary>Aha Cafe</vocabulary>
+      <chinese>（名）Aha Cafe</chinese>
+      <chinesePhrase>如Highlands Coffee、The Coffee House、Cộng Cafe、Aha Cafe</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析4：VnExpress介紹 -->
+    <phrase>
+      <text>VnExpress giới thiệu</text>
+      <mp3>phrase_vnexpress_gioi_thieu_guid.mp3</mp3>
+      <vocabulary>VnExpress</vocabulary>
+      <chinese>（名）VnExpress電子報</chinese>
+      <vocabulary>giới thiệu</vocabulary>
+      <chinese>（動）介紹</chinese>
+      <chinesePhrase>VnExpress介紹</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析5：一些小型咖啡廳 -->
+    <phrase>
+      <text>một số quán nhỏ</text>
+      <mp3>phrase_mot_so_quan_nho_guid.mp3</mp3>
+      <vocabulary>một số</vocabulary>
+      <chinese>（形）一些</chinese>
+      <vocabulary>quán nhỏ</vocabulary>
+      <chinese>（名）小店家/小型咖啡廳</chinese>
+      <chinesePhrase>一些小型咖啡廳</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析6：裝飾漂亮 -->
+    <phrase>
+      <text>trang trí đẹp</text>
+      <mp3>phrase_trang_tri_dep_guid.mp3</mp3>
+      <vocabulary>trang trí</vocabulary>
+      <chinese>（動）裝飾</chinese>
+      <vocabulary>đẹp</vocabulary>
+      <chinese>（形）漂亮/美麗</chinese>
+      <chinesePhrase>裝飾漂亮</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析7：春節期間全天營業服務客人 -->
+    <phrase>
+      <text>mở cửa phục vụ khách tất cả các ngày trong Tết</text>
+      <mp3>phrase_mo_cua_phuc_vu_khach_tet_guid.mp3</mp3>
+      <vocabulary>mở cửa</vocabulary>
+      <chinese>（動）營業</chinese>
+      <vocabulary>phục vụ khách</vocabulary>
+      <chinese>服務客人</chinese>
+      <vocabulary>tất cả các ngày</vocabulary>
+      <chinese>所有日子</chinese>
+      <vocabulary>trong Tết</vocabulary>
+      <chinese>春節期間</chinese>
+      <chinesePhrase>春節期間全天營業服務客人</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第一間咖啡廳：Cà phê Cực Bắc (極北咖啡) -->
+  <subject>
+    <text>極北咖啡：宛如縮小版的羅羅寨村莊，帶有河江風格，擁有傳統文化活動和特色。空間帶來溫馨、寧靜的感覺。店內每個角落都可以拍攝春節風格照片。晚上，店家會有音樂節目，包括木笛和民族歌曲。</text>
+    <translate>Cà phê Cực Bắc: Quán cà phê như bản làng Lô Lô Chải thu nhỏ, mang phong cách Hà Giang, với các hoạt động văn hóa truyền thống, có bản sắc. Không gian mang lại cảm giác ấm cúng, bình yên. Các góc trong quán đều có thể chụp ảnh phong cách Tết. Buổi tối, quán có các chương trình âm nhạc với sáo mộc, các bài hát dân tộc.</translate>
+    <mp3>subject_cafe_cucbac_guid.mp3</mp3>
+
+    <!-- 詞組分析8：極北咖啡 -->
+    <phrase>
+      <text>Cà phê Cực Bắc</text>
+      <mp3>phrase_ca_phe_cuc_bac_guid.mp3</mp3>
+      <vocabulary>Cà phê</vocabulary>
+      <chinese>（名）咖啡</chinese>
+      <vocabulary>Cực Bắc</vocabulary>
+      <chinese>（名）極北</chinese>
+      <chinesePhrase>極北咖啡</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析9：宛如縮小版的羅羅寨村莊 -->
+    <phrase>
+      <text>như bản làng Lô Lô Chải thu nhỏ</text>    <mp3>phrase_nhu_ban_lang_lolo_chai_thu_nho_guid.mp3</mp3>
+      <vocabulary>như</vocabulary>
+      <chinese>（介）如/像</chinese>
+      <vocabulary>bản làng Lô Lô Chải</vocabulary>
+      <chinese>（名）羅羅寨村莊</chinese>
+      <vocabulary>thu nhỏ</vocabulary>
+      <chinese>（動）縮小</chinese>
+      <chinesePhrase>宛如縮小版的羅羅寨村莊</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析10：帶有河江風格 -->
+    <phrase>
+      <text>mang phong cách Hà Giang</text>
+      <mp3>phrase_mang_phong_cach_ha_giang_guid.mp3</mp3>
+      <vocabulary>mang</vocabulary>
+      <chinese>（動）帶有/具有</chinese>
+      <vocabulary>phong cách</vocabulary>
+      <chinese>（名）風格</chinese>
+      <vocabulary>Hà Giang</vocabulary>
+      <chinese>（名）河江省</chinese>
+      <chinesePhrase>帶有河江風格</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析11：擁有傳統文化活動 -->
+    <phrase>
+      <text>với các hoạt động văn hóa truyền thống</text>
+      <mp3>phrase_voi_cac_hoat_dong_van_hoa_truyen_thong_guid.mp3</mp3>
+      <vocabulary>với</vocabulary>
+      <chinese>（介）擁有/帶有</chinese>
+      <vocabulary>các hoạt động</vocabulary>
+      <chinese>（名）各項活動</chinese>
+      <vocabulary>văn hóa truyền thống</vocabulary>
+      <chinese>（名）傳統文化</chinese>
+      <chinesePhrase>擁有傳統文化活動</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析12：有特色 -->
+    <phrase>
+      <text>có bản sắc</text>
+      <mp3>phrase_co_ban_sac_guid.mp3</mp3>
+      <vocabulary>có</vocabulary>
+      <chinese>（動）有</chinese>
+      <vocabulary>bản sắc</vocabulary>
+      <chinese>（名）特色/本色</chinese>
+      <chinesePhrase>有特色</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析13：空間帶來溫馨、寧靜的感覺 -->
+    <phrase>
+      <text>Không gian mang lại cảm giác ấm cúng, bình yên</text>
+      <mp3>phrase_khong_gian_mang_lai_cam_giac_am_cung_binh_yen_guid.mp3</mp3>
+      <vocabulary>Không gian</vocabulary>
+      <chinese>（名）空間</chinese>
+      <vocabulary>mang lại</vocabulary>
+      <chinese>（動）帶來</chinese>
+      <vocabulary>cảm giác</vocabulary>
+      <chinese>（名）感覺</chinese>
+      <vocabulary>ấm cúng</vocabulary>
+      <chinese>（形）溫馨</chinese>
+      <vocabulary>bình yên</vocabulary>
+      <chinese>（形）寧靜/平安</chinese>
+      <chinesePhrase>空間帶來溫馨、寧靜的感覺</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析14：店內每個角落都可以拍攝春節風格照片 -->
+    <phrase>
+      <text>Các góc trong quán đều có thể chụp ảnh phong cách Tết</text>
+      <mp3>phrase_cac_goc_trong_quan_chup_anh_tet_guid.mp3</mp3>
+      <vocabulary>Các góc</vocabulary>
+      <chinese>（名）各個角落</chinese>
+      <vocabulary>trong quán</vocabulary>
+      <chinese>店內</chinese>
+      <vocabulary>đều có thể</vocabulary>
+      <chinese>都可以</chinese>
+      <vocabulary>chụp ảnh</vocabulary>
+      <chinese>（動）拍照</chinese>
+      <vocabulary>phong cách Tết</vocabulary>
+      <chinese>春節風格</chinese>
+      <chinesePhrase>店內每個角落都可以拍攝春節風格照片</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析15：晚上 -->
+    <phrase>
+      <text>Buổi tối</text>
+      <mp3>phrase_buoi_toi_guid.mp3</mp3>
+      <vocabulary>Buổi tối</vocabulary>
+      <chinese>（名）晚上</chinese>
+      <chinesePhrase>晚上</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析16：店家會有音樂節目 -->
+    <phrase>
+      <text>quán có các chương trình âm nhạc</text>
+      <mp3>phrase_quan_co_chuong_trinh_am_nhac_guid.mp3</mp3>
+      <vocabulary>quán</vocabulary>
+      <chinese>（名）店家</chinese>
+      <vocabulary>có</vocabulary>
+      <chinese>（動）有</chinese>
+      <vocabulary>các chương trình âm nhạc</vocabulary>
+      <chinese>（名）音樂節目</chinese>
+      <chinesePhrase>店家會有音樂節目</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析17：包括木笛 -->
+    <phrase>
+      <text>với sáo mộc</text>
+      <mp3>phrase_voi_sao_moc_guid.mp3</mp3>
+      <vocabulary>với</vocabulary>
+      <chinese>（介）包括/有</chinese>
+      <vocabulary>sáo mộc</vocabulary>
+      <chinese>（名）木笛</chinese>
+      <chinesePhrase>包括木笛</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析18：民族歌曲 -->
+    <phrase>
+      <text>các bài hát dân tộc</text>
+      <mp3>phrase_cac_bai_hat_dan_toc_guid.mp3</mp3>
+      <vocabulary>các bài hát</vocabulary>
+      <chinese>（名）各首歌曲</chinese>
+      <vocabulary>dân tộc</vocabulary>
+      <chinese>（名）民族</chinese>
+      <chinesePhrase>民族歌曲</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第二間咖啡廳：Unami Coffee -->
+  <subject>
+    <text>Unami Coffee：店家從外到內以桃花為主題裝飾。新年期間，店家推出新菜單，有兩款飲品包括抹茶提拉米蘇和咖啡提拉米蘇。這是新年的兩款主打飲品，寓意「提升精神力量」，期盼一個輕鬆、舒適的一年。</text>
+    <translate>Unami Coffee: Quán trang trí chủ đề hoa đào từ ngoài vào trong. Năm mới, quán có thực đơn mới với hai đồ uống gồm matcha tiramisu và coffee tiramisu. Đây là hai món chủ đạo cho những ngày đầu năm, mang ý nghĩa "nâng cao sức mạnh tinh thần", mong một năm dễ chịu, nhẹ nhàng.</translate>
+    <mp3>subject_cafe_unami_guid.mp3</mp3>
+
+    <!-- 詞組分析19：Unami Coffee -->
+    <phrase>
+      <text>Unami Coffee</text>
+      <mp3>phrase_unami_coffee_guid.mp3</mp3>
+      <vocabulary>Unami Coffee</vocabulary>
+      <chinese>（名）Unami Coffee</chinese>
+      <chinesePhrase>Unami Coffee</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析20：店家以桃花為主題裝飾從外到內 -->
+    <phrase>
+      <text>trang trí chủ đề hoa đào từ ngoài vào trong</text>
+      <mp3>phrase_trang_tri_chu_de_hoa_dao_guid.mp3</mp3>
+      <vocabulary>trang trí</vocabulary>
+      <chinese>（動）裝飾</chinese>
+      <vocabulary>chủ đề</vocabulary>
+      <chinese>（名）主題</chinese>
+      <vocabulary>hoa đào</vocabulary>
+      <chinese>（名）桃花</chinese>
+      <vocabulary>từ ngoài vào trong</vocabulary>
+      <chinese>從外到內</chinese>
+      <chinesePhrase>店家以桃花為主題裝飾從外到內</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析21：新年 -->
+    <phrase>
+      <text>Năm mới</text>
+      <mp3>phrase_nam_moi_guid.mp3</mp3>
+      <vocabulary>Năm mới</vocabulary>
+      <chinese>（名）新年</chinese>
+      <chinesePhrase>新年</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析22：店家推出新菜單 -->
+    <phrase>
+      <text>quán có thực đơn mới</text>
+      <mp3>phrase_quan_co_thuc_don_moi_guid.mp3</mp3>
+      <vocabulary>quán</vocabulary>
+      <chinese>（名）店家</chinese>
+      <vocabulary>có</vocabulary>
+      <chinese>（動）有/推出</chinese>
+      <vocabulary>thực đơn mới</vocabulary>
+      <chinese>（名）新菜單</chinese>
+      <chinesePhrase>店家推出新菜單</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析23：有兩款飲品 -->
+    <phrase>
+      <text>với hai đồ uống</text>
+      <mp3>phrase_voi_hai_do_uong_guid.mp3</mp3>
+      <vocabulary>với</vocabulary>
+      <chinese>（介）有/包括</chinese>
+      <vocabulary>hai đồ uống</vocabulary>
+      <chinese>（名）兩款飲品</chinese>
+      <chinesePhrase>有兩款飲品</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析24：包括抹茶提拉米蘇和咖啡提拉米蘇 -->
+    <phrase>
+      <text>gồm matcha tiramisu và coffee tiramisu</text>
+      <mp3>phrase_gom_matcha_tiramisu_coffee_tiramisu_guid.mp3</mp3>
+      <vocabulary>gồm</vocabulary>
+      <chinese>（動）包括</chinese>
+      <vocabulary>matcha tiramisu</vocabulary>
+      <chinese>（名）抹茶提拉米蘇</chinese>
+      <vocabulary>và</vocabulary>
+      <chinese>（連）和</chinese>
+      <vocabulary>coffee tiramisu</vocabulary>
+      <chinese>（名）咖啡提拉米蘇</chinese>
+      <chinesePhrase>包括抹茶提拉米蘇和咖啡提拉米蘇</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析25：這是兩款主打飲品 -->
+    <phrase>
+      <text>Đây là hai món chủ đạo</text>
+      <mp3>phrase_day_la_hai_mon_chu_dao_guid.mp3</mp3>
+      <vocabulary>Đây là</vocabulary>
+      <chinese>這是</chinese>
+      <vocabulary>hai món</vocabulary>
+      <chinese>兩款</chinese>
+      <vocabulary>chủ đạo</vocabulary>
+      <chinese>（形）主打的/主要的</chinese>
+      <chinesePhrase>這是兩款主打飲品</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析26：給年初的日子 -->
+    <phrase>
+      <text>cho những ngày đầu năm</text>
+      <mp3>phrase_cho_nhung_ngay_dau_nam_guid.mp3</mp3>
+      <vocabulary>cho</vocabulary>
+      <chinese>（介）給/為</chinese>
+      <vocabulary>những ngày đầu năm</vocabulary>
+      <chinese>（名）年初的日子</chinese>
+      <chinesePhrase>給年初的日子</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析27：寓意 -->
+    <phrase>
+      <text>mang ý nghĩa</text>
+      <mp3>phrase_mang_y_nghia_guid.mp3</mp3>
+      <vocabulary>mang</vocabulary>
+      <chinese>（動）帶有</chinese>
+      <vocabulary>ý nghĩa</vocabulary>
+      <chinese>（名）意義/寓意</chinese>
+      <chinesePhrase>寓意</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析28：提升精神力量 -->
+    <phrase>
+      <text>"nâng cao sức mạnh tinh thần"</text>
+      <mp3>phrase_nang_cao_suc_manh_tinh_than_guid.mp3</mp3>
+      <vocabulary>nâng cao</vocabulary>
+      <chinese>（動）提升/提高</chinese>
+      <vocabulary>sức mạnh</vocabulary>
+      <chinese>（名）力量</chinese>
+      <vocabulary>tinh thần</vocabulary>
+      <chinese>（名）精神</chinese>
+      <chinesePhrase>提升精神力量</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析29：期盼 -->
+    <phrase>
+      <text>mong</text>
+      <mp3>phrase_mong_guid.mp3</mp3>
+      <vocabulary>mong</vocabulary>
+      <chinese>（動）期盼/希望</chinese>
+      <chinesePhrase>期盼</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析30：一個輕鬆、舒適的一年 -->
+    <phrase>
+      <text>một năm dễ chịu, nhẹ nhàng</text>
+      <mp3>phrase_mot_nam_de_chiu_nhe_nhang_guid.mp3</mp3>
+      <vocabulary>một năm</vocabulary>
+      <chinese>一年</chinese>
+      <vocabulary>dễ chịu</vocabulary>
+      <chinese>（形）舒適/好受</chinese>
+      <vocabulary>nhẹ nhàng</vocabulary>
+      <chinese>（形）輕鬆/柔和</chinese>
+      <chinesePhrase>一個輕鬆、舒適的一年</chinesePhrase>
+    </phrase>
+  </subject>
+</xml>

@@ -1,0 +1,223 @@
+<xml>
+  <subject>
+    <text>汽油甜甜的氣味能吸引許多人。</text>
+    <translate>Mùi ngọt của xăng có thể thu hút nhiều người.</translate>
+    <mp3>GUID_SENTENCE_1.mp3</mp3>
+
+    <phrase>
+      <text>Mùi ngọt</text>
+      <mp3>GUID_PHRASE_1_1.mp3</mp3>
+      <vocabulary>mùi</vocabulary>
+      <chinese>（氣味）</chinese>
+      <vocabulary>ngọt</vocabulary>
+      <chinese>（甜）</chinese>
+      <chinesePhrase>甜甜的氣味</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>của</text>
+      <mp3>GUID_PHRASE_1_2.mp3</mp3>
+      <vocabulary>của</vocabulary>
+      <chinese>（的）</chinese>
+      <chinesePhrase>…的</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>xăng</text>
+      <mp3>GUID_PHRASE_1_3.mp3</mp3>
+      <vocabulary>xăng</vocabulary>
+      <chinese>（汽油）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>có thể</text>
+      <mp3>GUID_PHRASE_1_4.mp3</mp3>
+      <vocabulary>có</vocabulary>
+      <chinese>（有/可以）</chinese>
+      <vocabulary>thể</vocabulary>
+      <chinese>（能力/能）</chinese>
+      <chinesePhrase>能/可以</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>thu hút</text>
+      <mp3>GUID_PHRASE_1_5.mp3</mp3>
+      <vocabulary>thu</vocabulary>
+      <chinese>（收/吸收）</chinese>
+      <vocabulary>hút</vocabulary>
+      <chinese>（吸/吸引）</chinese>
+      <chinesePhrase>吸引</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>nhiều người</text>
+      <mp3>GUID_PHRASE_1_6.mp3</mp3>
+      <vocabulary>nhiều</vocabulary>
+      <chinese>（許多）</chinese>
+      <vocabulary>người</vocabulary>
+      <chinese>（人）</chinese>
+      <chinesePhrase>許多人</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <subject>
+    <text>汽油是由化合物混合製成的，其中包括苯，苯被添加以提升汽油的性能和燃油效率。</text>
+    <translate>Xăng được tạo thành từ hỗn hợp các hợp chất, trong đó có benzen; benzen được thêm vào để nâng cao hiệu suất và hiệu quả nhiên liệu của xăng.</translate>
+    <mp3>GUID_SENTENCE_2.mp3</mp3>
+
+    <phrase>
+      <text>Xăng</text>
+      <mp3>GUID_PHRASE_2_1.mp3</mp3>
+      <vocabulary>xăng</vocabulary>
+      <chinese>（汽油）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>được</text>
+      <mp3>GUID_PHRASE_2_2.mp3</mp3>
+      <vocabulary>được</vocabulary>
+      <chinese>（被/受到）</chinese>
+      <chinesePhrase>被（被動標記）</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>tạo thành</text>
+      <mp3>GUID_PHRASE_2_3.mp3</mp3>
+      <vocabulary>tạo</vocabulary>
+      <chinese>（創造/製作）</chinese>
+      <vocabulary>thành</vocabulary>
+      <chinese>（成/形成）</chinese>
+      <chinesePhrase>製成/形成</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>từ</text>
+      <mp3>GUID_PHRASE_2_4.mp3</mp3>
+      <vocabulary>từ</vocabulary>
+      <chinese>（由/從）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>hỗn hợp</text>
+      <mp3>GUID_PHRASE_2_5.mp3</mp3>
+      <vocabulary>hỗn</vocabulary>
+      <chinese>（混）</chinese>
+      <vocabulary>hợp</vocabulary>
+      <chinese>（合/合成）</chinese>
+      <chinesePhrase>混合/混合物</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>các</text>
+      <mp3>GUID_PHRASE_2_6.mp3</mp3>
+      <vocabulary>các</vocabulary>
+      <chinese>（各/一些，複數標記）</chinese>
+      <chinesePhrase>（複數/多個）</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>hợp chất</text>
+      <mp3>GUID_PHRASE_2_7.mp3</mp3>
+      <vocabulary>hợp</vocabulary>
+      <chinese>（合/結合）</chinese>
+      <vocabulary>chất</vocabulary>
+      <chinese>（物/質）</chinese>
+      <chinesePhrase>化合物</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>trong đó</text>
+      <mp3>GUID_PHRASE_2_8.mp3</mp3>
+      <vocabulary>trong</vocabulary>
+      <chinese>（在…裡/其中）</chinese>
+      <vocabulary>đó</vocabulary>
+      <chinese>（那/其中的那）</chinese>
+      <chinesePhrase>其中</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>có</text>
+      <mp3>GUID_PHRASE_2_9.mp3</mp3>
+      <vocabulary>có</vocabulary>
+      <chinese>（有/包含）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>benzen</text>
+      <mp3>GUID_PHRASE_2_10.mp3</mp3>
+      <vocabulary>benzen</vocabulary>
+      <chinese>（苯）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>được thêm vào</text>
+      <mp3>GUID_PHRASE_2_11.mp3</mp3>
+      <vocabulary>được</vocabulary>
+      <chinese>（被）</chinese>
+      <vocabulary>thêm</vocabulary>
+      <chinese>（添加/增加）</chinese>
+      <vocabulary>vào</vocabulary>
+      <chinese>（進入/到…裡）</chinese>
+      <chinesePhrase>被添加進去</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>để</text>
+      <mp3>GUID_PHRASE_2_12.mp3</mp3>
+      <vocabulary>để</vocabulary>
+      <chinese>（以/為了）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>nâng cao</text>
+      <mp3>GUID_PHRASE_2_13.mp3</mp3>
+      <vocabulary>nâng</vocabulary>
+      <chinese>（抬/提升）</chinese>
+      <vocabulary>cao</vocabulary>
+      <chinese>（高/提高）</chinese>
+      <chinesePhrase>提升/提高</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>hiệu suất</text>
+      <mp3>GUID_PHRASE_2_14.mp3</mp3>
+      <vocabulary>hiệu</vocabulary>
+      <chinese>（效/效果）</chinese>
+      <vocabulary>suất</vocabulary>
+      <chinese>（率/產出）</chinese>
+      <chinesePhrase>性能/效能</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>và</text>
+      <mp3>GUID_PHRASE_2_15.mp3</mp3>
+      <vocabulary>và</vocabulary>
+      <chinese>（和/以及）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>hiệu quả nhiên liệu</text>
+      <mp3>GUID_PHRASE_2_16.mp3</mp3>
+      <vocabulary>hiệu quả</vocabulary>
+      <chinese>（效果/效率）</chinese>
+      <vocabulary>nhiên liệu</vocabulary>
+      <chinese>（燃料/燃油）</chinese>
+      <chinesePhrase>燃油效率</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>của</text>
+      <mp3>GUID_PHRASE_2_17.mp3</mp3>
+      <vocabulary>của</vocabulary>
+      <chinese>（的）</chinese>
+      <chinesePhrase>…的</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>xăng</text>
+      <mp3>GUID_PHRASE_2_18.mp3</mp3>
+      <vocabulary>xăng</vocabulary>
+      <chinese>（汽油）</chinese>
+    </phrase>
+  </subject>
+</xml>

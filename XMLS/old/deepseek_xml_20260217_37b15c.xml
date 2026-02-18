@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <!-- 標題：梁強主席2026丙午年春節致詞 -->
+  <subject>
+    <text>梁強主席2026丙午年春節致詞，呼籲全黨、全民、全軍同心協力成功實現建設和平、獨立、民主、富強、繁榮、文明、幸福的越南的目標。</text>
+    <translate>Chủ tịch nước Lương Cường chúc Tết Bính Ngọ 2026, kêu gọi toàn Đảng, toàn dân, toàn quân chung sức đồng lòng thực hiện thành công mục tiêu xây dựng Việt Nam hòa bình, độc lập, dân chủ, giàu mạnh, phồn vinh, văn minh, hạnh phúc.</translate>
+    <mp3>subject_president_ny2026_guid.mp3</mp3>
+
+    <!-- 詞組分析1：梁強主席 -->
+    <phrase>
+      <text>Chủ tịch nước Lương Cường</text>
+      <mp3>phrase_chutichnuoc_luongcuong_guid.mp3</mp3>
+      <vocabulary>Chủ tịch nước</vocabulary>
+      <chinese>（名）國家主席</chinese>
+      <vocabulary>Lương Cường</vocabulary>
+      <chinese>（名）梁強</chinese>
+      <chinesePhrase>梁強主席</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析2：2026丙午年春節致詞 -->
+    <phrase>
+      <text>chúc Tết Bính Ngọ 2026</text>
+      <mp3>phrase_chuctet_binhngo2026_guid.mp3</mp3>
+      <vocabulary>chúc Tết</vocabulary>
+      <chinese>（動）拜年/春節祝賀</chinese>
+      <vocabulary>Bính Ngọ</vocabulary>
+      <chinese>（名）丙午年</chinese>
+      <vocabulary>2026</vocabulary>
+      <chinese>2026年</chinese>
+      <chinesePhrase>2026丙午年春節致詞</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析3：呼籲 -->
+    <phrase>
+      <text>kêu gọi</text>
+      <mp3>phrase_keugoi_guid.mp3</mp3>
+      <vocabulary>kêu gọi</vocabulary>
+      <chinese>（動）呼籲</chinese>
+      <chinesePhrase>呼籲</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析4：全黨、全民、全軍 -->
+    <phrase>
+      <text>toàn Đảng, toàn dân, toàn quân</text>
+      <mp3>phrase_toandang_toandan_toanquan_guid.mp3</mp3>
+      <vocabulary>toàn Đảng</vocabulary>
+      <chinese>（名）全黨</chinese>
+      <vocabulary>toàn dân</vocabulary>
+      <chinese>（名）全民</chinese>
+      <vocabulary>toàn quân</vocabulary>
+      <chinese>（名）全軍</chinese>
+      <chinesePhrase>全黨、全民、全軍</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析5：同心協力 -->
+    <phrase>
+      <text>chung sức đồng lòng</text>
+      <mp3>phrase_chungsuc_donglong_guid.mp3</mp3>
+      <vocabulary>chung sức</vocabulary>
+      <chinese>（動）合力</chinese>
+      <vocabulary>đồng lòng</vocabulary>
+      <chinese>（動）同心</chinese>
+      <chinesePhrase>同心協力</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析6：成功實現目標 -->
+    <phrase>
+      <text>thực hiện thành công mục tiêu</text>
+      <mp3>phrase_thuchien_thanhcong_muctieu_guid.mp3</mp3>
+      <vocabulary>thực hiện</vocabulary>
+      <chinese>（動）實現/執行</chinese>
+      <vocabulary>thành công</vocabulary>
+      <chinese>（副/形）成功地/成功</chinese>
+      <vocabulary>mục tiêu</vocabulary>
+      <chinese>（名）目標</chinese>
+      <chinesePhrase>成功實現目標</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析7：建設越南 -->
+    <phrase>
+      <text>xây dựng Việt Nam</text>
+      <mp3>phrase_xaydung_vietnam_guid.mp3</mp3>
+      <vocabulary>xây dựng</vocabulary>
+      <chinese>（動）建設</chinese>
+      <vocabulary>Việt Nam</vocabulary>
+      <chinese>（名）越南</chinese>
+      <chinesePhrase>建設越南</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析8：和平、獨立、民主 -->
+    <phrase>
+      <text>hòa bình, độc lập, dân chủ</text>
+      <mp3>phrase_hoabinh_doclap_danchu_guid.mp3</mp3>
+      <vocabulary>hòa bình</vocabulary>
+      <chinese>（名/形）和平</chinese>
+      <vocabulary>độc lập</vocabulary>
+      <chinese>（名/形）獨立</chinese>
+      <vocabulary>dân chủ</vocabulary>
+      <chinese>（名/形）民主</chinese>
+      <chinesePhrase>和平、獨立、民主</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析9：富強、繁榮、文明、幸福 -->
+    <phrase>
+      <text>giàu mạnh, phồn vinh, văn minh, hạnh phúc</text>
+      <mp3>phrase_giaumanh_phonvinh_vanminh_hanhphuc_guid.mp3</mp3>
+      <vocabulary>giàu mạnh</vocabulary>
+      <chinese>（形）富強</chinese>
+      <vocabulary>phồn vinh</vocabulary>
+      <chinese>（形）繁榮</chinese>
+      <vocabulary>văn minh</vocabulary>
+      <chinese>（形）文明</chinese>
+      <vocabulary>hạnh phúc</vocabulary>
+      <chinese>（形）幸福</chinese>
+      <chinesePhrase>富強、繁榮、文明、幸福</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第二段：除夕夜致詞 -->
+  <subject>
+    <text>2026年2月17日0時，2026丙午年除夕，梁強主席向全國同胞、戰士和海外越南人社群發出春節賀詞。</text>
+    <translate>0h ngày 17/2, giao thừa Tết Bính Ngọ 2026, Chủ tịch nước Lương Cường có thông điệp chúc Tết gửi đến đồng bào, chiến sĩ cả nước và cộng đồng người Việt Nam ở nước ngoài.</translate>
+    <mp3>subject_president_ny2026_eve_guid.mp3</mp3>
+
+    <!-- 詞組分析10：0時2月17日 -->
+    <phrase>
+      <text>0h ngày 17/2</text>
+      <mp3>phrase_0h_ngay172_guid.mp3</mp3>
+      <vocabulary>0h</vocabulary>
+      <chinese>0時/午夜</chinese>
+      <vocabulary>ngày 17/2</vocabulary>
+      <chinese>2月17日</chinese>
+      <chinesePhrase>2月17日0時</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析11：2026丙午年除夕 -->
+    <phrase>
+      <text>giao thừa Tết Bính Ngọ 2026</text>
+      <mp3>phrase_giaothua_tetbinhngo2026_guid.mp3</mp3>
+      <vocabulary>giao thừa</vocabulary>
+      <chinese>（名）除夕</chinese>
+      <vocabulary>Tết Bính Ngọ 2026</vocabulary>
+      <chinese>2026丙午年春節</chinese>
+      <chinesePhrase>2026丙午年除夕</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析12：梁強主席 -->
+    <phrase>
+      <text>Chủ tịch nước Lương Cường</text>
+      <mp3>phrase_chutichnuoc_luongcuong2_guid.mp3</mp3>
+      <vocabulary>Chủ tịch nước</vocabulary>
+      <chinese>（名）國家主席</chinese>
+      <vocabulary>Lương Cường</vocabulary>
+      <chinese>（名）梁強</chinese>
+      <chinesePhrase>梁強主席</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析13：有春節賀詞 -->
+    <phrase>
+      <text>có thông điệp chúc Tết</text>
+      <mp3>phrase_thongdiep_chuctet_guid.mp3</mp3>
+      <vocabulary>có</vocabulary>
+      <chinese>（動）有</chinese>
+      <vocabulary>thông điệp</vocabulary>
+      <chinese>（名）訊息/信息</chinese>
+      <vocabulary>chúc Tết</vocabulary>
+      <chinese>（動）春節祝賀</chinese>
+      <chinesePhrase>發表春節賀詞</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析14：發送給 -->
+    <phrase>
+      <text>gửi đến</text>
+      <mp3>phrase_gui_den_guid.mp3</mp3>
+      <vocabulary>gửi</vocabulary>
+      <chinese>（動）發送</chinese>
+      <vocabulary>đến</vocabulary>
+      <chinese>（介）到/給</chinese>
+      <chinesePhrase>發送給</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析15：同胞、戰士 -->
+    <phrase>
+      <text>đồng bào, chiến sĩ</text>
+      <mp3>phrase_dongbao_chiensi_guid.mp3</mp3>
+      <vocabulary>đồng bào</vocabulary>
+      <chinese>（名）同胞</chinese>
+      <vocabulary>chiến sĩ</vocabulary>
+      <chinese>（名）戰士</chinese>
+      <chinesePhrase>同胞、戰士</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析16：全國 -->
+    <phrase>
+      <text>cả nước</text>
+      <mp3>phrase_ca_nuoc_guid.mp3</mp3>
+      <vocabulary>cả nước</vocabulary>
+      <chinese>（名）全國</chinese>
+      <chinesePhrase>全國</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析17：海外越南人社群 -->
+    <phrase>
+      <text>cộng đồng người Việt Nam ở nước ngoài</text>
+      <mp3>phrase_congdong_nguoiviet_ohaiguide.mp3</mp3>
+      <vocabulary>cộng đồng</vocabulary>
+      <chinese>（名）社群</chinese>
+      <vocabulary>người Việt Nam</vocabulary>
+      <chinese>（名）越南人</chinese>
+      <vocabulary>ở nước ngoài</vocabulary>
+      <chinese>（介）在外國/海外</chinese>
+      <chinesePhrase>海外越南人社群</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第三段：主席致詞內容 -->
+  <subject>
+    <text>「丙午春已至，在新舊年交替之際，我親切地向全國同胞、同志、戰士以及海外同胞致以平安、健康、幸福的新年祝福。我謹向國際友人與合作夥伴致以最美好的祝願，祝願新的一年和平、幸福與共同發展」，梁強主席說道。</text>
+    <translate>"Xuân Bính Ngọ đã tới, trong thời khắc chuyển giao năm cũ - năm mới, tôi thân ái gửi tới đồng bào, đồng chí, chiến sĩ cả nước và đồng bào ta ở nước ngoài lời chúc năm mới an lành, mạnh khỏe và hạnh phúc. Tôi trân trọng gửi tới nhân dân, bạn bè quốc tế những lời chúc tốt đẹp nhất, chúc một năm mới hòa bình, hạnh phúc và cùng phát triển", ông nói.</translate>
+    <mp3>subject_president_ny2026_speech_guid.mp3</mp3>
+
+    <!-- 詞組分析18：丙午春已至 -->
+    <phrase>
+      <text>Xuân Bính Ngọ đã tới</text>
+      <mp3>phrase_xuanbinhngo_datoi_guid.mp3</mp3>
+      <vocabulary>Xuân Bính Ngọ</vocabulary>
+      <chinese>（名）丙午年春</chinese>
+      <vocabulary>đã tới</vocabulary>
+      <chinese>已來到</chinese>
+      <chinesePhrase>丙午春已至</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析19：在新舊年交替之際 -->
+    <phrase>
+      <text>trong thời khắc chuyển giao năm cũ - năm mới</text>
+      <mp3>phrase_thoikhac_chuyengiao_guid.mp3</mp3>
+      <vocabulary>trong</vocabulary>
+      <chinese>（介）在...之中</chinese>
+      <vocabulary>thời khắc</vocabulary>
+      <chinese>（名）時刻</chinese>
+      <vocabulary>chuyển giao</vocabulary>
+      <chinese>（動）交接/轉換</chinese>
+      <vocabulary>năm cũ - năm mới</vocabulary>
+      <chinese>舊年-新年</chinese>
+      <chinesePhrase>在新舊年交替之際</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析20：我親切地發送 -->
+    <phrase>
+      <text>tôi thân ái gửi tới</text>
+      <mp3>phrase_toi_thanaigui_guid.mp3</mp3>
+      <vocabulary>tôi</vocabulary>
+      <chinese>（代）我</chinese>
+      <vocabulary>thân ái</vocabulary>
+      <chinese>（副）親切地</chinese>
+      <vocabulary>gửi tới</vocabulary>
+      <chinese>發送給</chinese>
+      <chinesePhrase>我親切地向...致以</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析21：同胞、同志、戰士 -->
+    <phrase>
+      <text>đồng bào, đồng chí, chiến sĩ</text>
+      <mp3>phrase_dongbao_dongchi_chiensi_guid.mp3</mp3>
+      <vocabulary>đồng bào</vocabulary>
+      <chinese>（名）同胞</chinese>
+      <vocabulary>đồng chí</vocabulary>
+      <chinese>（名）同志</chinese>
+      <vocabulary>chiến sĩ</vocabulary>
+      <chinese>（名）戰士</chinese>
+      <chinesePhrase>同胞、同志、戰士</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析22：全國和海外同胞 -->
+    <phrase>
+      <text>cả nước và đồng bào ta ở nước ngoài</text>
+      <mp3>phrase_canuoc_dongbaota_ohaiguide.mp3</mp3>
+      <vocabulary>cả nước</vocabulary>
+      <chinese>全國</chinese>
+      <vocabulary>đồng bào ta</vocabulary>
+      <chinese>我們同胞</chinese>
+      <vocabulary>ở nước ngoài</vocabulary>
+      <chinese>在海外</chinese>
+      <chinesePhrase>全國和海外同胞</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析23：新年祝福 -->
+    <phrase>
+      <text>lời chúc năm mới</text>
+      <mp3>phrase_loichuc_nammoi_guid.mp3</mp3>
+      <vocabulary>lời chúc</vocabulary>
+      <chinese>（名）祝福語</chinese>
+      <vocabulary>năm mới</vocabulary>
+      <chinese>（名）新年</chinese>
+      <chinesePhrase>新年祝福</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析24：平安、健康、幸福 -->
+    <phrase>
+      <text>an lành, mạnh khỏe và hạnh phúc</text>
+      <mp3>phrase_anlanh_manhkhoe_hanhphuc_guid.mp3</mp3>
+      <vocabulary>an lành</vocabulary>
+      <chinese>（形）平安</chinese>
+      <vocabulary>mạnh khỏe</vocabulary>
+      <chinese>（形）健康</chinese>
+      <vocabulary>hạnh phúc</vocabulary>
+      <chinese>（形）幸福</chinese>
+      <chinesePhrase>平安、健康、幸福</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析25：我謹以敬意發送 -->
+    <phrase>
+      <text>Tôi trân trọng gửi tới</text>
+      <mp3>phrase_toi_trantrong_gui_guid.mp3</mp3>
+      <vocabulary>Tôi</vocabulary>
+      <chinese>（代）我</chinese>
+      <vocabulary>trân trọng</vocabulary>
+      <chinese>（副）謹/鄭重地</chinese>
+      <vocabulary>gửi tới</vocabulary>
+      <chinese>發送給</chinese>
+      <chinesePhrase>我謹向...致以</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析26：人民、國際友人 -->
+    <phrase>
+      <text>nhân dân, bạn bè quốc tế</text>
+      <mp3>phrase_nhandan_banbe_quocte_guid.mp3</mp3>
+      <vocabulary>nhân dân</vocabulary>
+      <chinese>（名）人民</chinese>
+      <vocabulary>bạn bè quốc tế</vocabulary>
+      <chinese>（名）國際友人</chinese>
+      <chinesePhrase>人民和國際友人</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析27：最美好的祝福 -->
+    <phrase>
+      <text>những lời chúc tốt đẹp nhất</text>
+      <mp3>phrase_nhungloichuc_totdepnhat_guid.mp3</mp3>
+      <vocabulary>những lời chúc</vocabulary>
+      <chinese>（名）祝福語（複數）</chinese>
+      <vocabulary>tốt đẹp nhất</vocabulary>
+      <chinese>最美好的</chinese>
+      <chinesePhrase>最美好的祝福</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析28：祝新的一年和平、幸福、共同發展 -->
+    <phrase>
+      <text>chúc một năm mới hòa bình, hạnh phúc và cùng phát triển</text>
+      <mp3>phrase_chuc_nammoi_hoabinh_hanhphuc_guid.mp3</mp3>
+      <vocabulary>chúc</vocabulary>
+      <chinese>（動）祝</chinese>
+      <vocabulary>một năm mới</vocabulary>
+      <chinese>新的一年</chinese>
+      <vocabulary>hòa bình</vocabulary>
+      <chinese>（名/形）和平</chinese>
+      <vocabulary>hạnh phúc</vocabulary>
+      <chinese>（形）幸福</chinese>
+      <vocabulary>cùng phát triển</vocabulary>
+      <chinese>共同發展</chinese>
+      <chinesePhrase>祝新的一年和平、幸福、共同發展</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析29：他說道 -->
+    <phrase>
+      <text>ông nói</text>
+      <mp3>phrase_ong_noi_guid.mp3</mp3>
+      <vocabulary>ông</vocabulary>
+      <chinese>（代）他</chinese>
+      <vocabulary>nói</vocabulary>
+      <chinese>（動）說/說道</chinese>
+      <chinesePhrase>他說道</chinesePhrase>
+    </phrase>
+  </subject>
+</xml>

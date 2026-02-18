@@ -1,0 +1,2929 @@
+<xml>
+
+<subject>
+  <text>對許多學齡兒童來說，設計及摺一架效能好的紙飛機是必經之路。</text>
+  <translate>Đối với nhiều trẻ em trong độ tuổi đi học, việc thiết kế và gấp một chiếc máy bay giấy có hiệu suất tốt là một bước tất yếu.</translate>
+  <mp3>GUID_SENTENCE_1.mp3</mp3>
+
+  <phrase>
+    <text>Đối với</text>
+    <mp3>GUID_PHRASE_1_1.mp3</mp3>
+    <vocabulary>đối với</vocabulary>
+    <chinese>（對於）</chinese>
+    <chinesePhrase>對於</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>nhiều</text>
+    <mp3>GUID_PHRASE_1_2.mp3</mp3>
+    <vocabulary>nhiều</vocabulary>
+    <chinese>（許多）</chinese>
+    <chinesePhrase>許多</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>trẻ em</text>
+    <mp3>GUID_PHRASE_1_3.mp3</mp3>
+    <vocabulary>trẻ em</vocabulary>
+    <chinese>（兒童）</chinese>
+    <chinesePhrase>兒童</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>trong</text>
+    <mp3>GUID_PHRASE_1_4.mp3</mp3>
+    <vocabulary>trong</vocabulary>
+    <chinese>（在…之中）</chinese>
+    <chinesePhrase>在…之中</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>độ tuổi</text>
+    <mp3>GUID_PHRASE_1_5.mp3</mp3>
+    <vocabulary>độ tuổi</vocabulary>
+    <chinese>（年齡階段）</chinese>
+    <chinesePhrase>年齡階段</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>đi học</text>
+    <mp3>GUID_PHRASE_1_6.mp3</mp3>
+    <vocabulary>đi</vocabulary>
+    <chinese>（去/上（學））</chinese>
+    <vocabulary>học</vocabulary>
+    <chinese>（學習/上學）</chinese>
+    <chinesePhrase>上學（學齡）</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>việc</text>
+    <mp3>GUID_PHRASE_1_7.mp3</mp3>
+    <vocabulary>việc</vocabulary>
+    <chinese>（事情；名詞化）</chinese>
+    <chinesePhrase>…這件事</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>thiết kế</text>
+    <mp3>GUID_PHRASE_1_8.mp3</mp3>
+    <vocabulary>thiết kế</vocabulary>
+    <chinese>（設計）</chinese>
+    <chinesePhrase>設計</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>và</text>
+    <mp3>GUID_PHRASE_1_9.mp3</mp3>
+    <vocabulary>và</vocabulary>
+    <chinese>（和）</chinese>
+    <chinesePhrase>和</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>gấp</text>
+    <mp3>GUID_PHRASE_1_10.mp3</mp3>
+    <vocabulary>gấp</vocabulary>
+    <chinese>（摺）</chinese>
+    <chinesePhrase>摺</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>một</text>
+    <mp3>GUID_PHRASE_1_11.mp3</mp3>
+    <vocabulary>một</vocabulary>
+    <chinese>（一）</chinese>
+    <chinesePhrase>一</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>chiếc</text>
+    <mp3>GUID_PHRASE_1_12.mp3</mp3>
+    <vocabulary>chiếc</vocabulary>
+    <chinese>（量詞：一架/一個）</chinese>
+    <chinesePhrase>一架</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>máy bay giấy</text>
+    <mp3>GUID_PHRASE_1_13.mp3</mp3>
+    <vocabulary>máy bay</vocabulary>
+    <chinese>（飛機）</chinese>
+    <vocabulary>giấy</vocabulary>
+    <chinese>（紙）</chinese>
+    <chinesePhrase>紙飛機</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>có</text>
+    <mp3>GUID_PHRASE_1_14.mp3</mp3>
+    <vocabulary>có</vocabulary>
+    <chinese>（有；具有）</chinese>
+    <chinesePhrase>具有</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>hiệu suất</text>
+    <mp3>GUID_PHRASE_1_15.mp3</mp3>
+    <vocabulary>hiệu suất</vocabulary>
+    <chinese>（效能/性能）</chinese>
+    <chinesePhrase>效能</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>tốt</text>
+    <mp3>GUID_PHRASE_1_16.mp3</mp3>
+    <vocabulary>tốt</vocabulary>
+    <chinese>（好）</chinese>
+    <chinesePhrase>好</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>là</text>
+    <mp3>GUID_PHRASE_1_17.mp3</mp3>
+    <vocabulary>là</vocabulary>
+    <chinese>（是）</chinese>
+    <chinesePhrase>是</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>một bước</text>
+    <mp3>GUID_PHRASE_1_18.mp3</mp3>
+    <vocabulary>một</vocabulary>
+    <chinese>（一）</chinese>
+    <vocabulary>bước</vocabulary>
+    <chinese>（一步/步驟）</chinese>
+    <chinesePhrase>一步（步驟）</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>tất yếu</text>
+    <mp3>GUID_PHRASE_1_19.mp3</mp3>
+    <vocabulary>tất yếu</vocabulary>
+    <chinese>（必然的/不可避免的）</chinese>
+    <chinesePhrase>必經（必然）</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>一架好的紙飛機如果打造得恰當，可以滑行過整間教室。</text>
+  <translate>Một chiếc máy bay giấy tốt, nếu được chế tạo đúng cách, có thể lướt qua cả căn phòng học.</translate>
+  <mp3>GUID_SENTENCE_2.mp3</mp3>
+
+  <phrase>
+    <text>Một</text>
+    <mp3>GUID_PHRASE_2_1.mp3</mp3>
+    <vocabulary>một</vocabulary>
+    <chinese>（一）</chinese>
+    <chinesePhrase>一</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>chiếc</text>
+    <mp3>GUID_PHRASE_2_2.mp3</mp3>
+    <vocabulary>chiếc</vocabulary>
+    <chinese>（量詞：一架）</chinese>
+    <chinesePhrase>一架</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>máy bay giấy</text>
+    <mp3>GUID_PHRASE_2_3.mp3</mp3>
+    <vocabulary>máy bay</vocabulary>
+    <chinese>（飛機）</chinese>
+    <vocabulary>giấy</vocabulary>
+    <chinese>（紙）</chinese>
+    <chinesePhrase>紙飛機</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>tốt</text>
+    <mp3>GUID_PHRASE_2_4.mp3</mp3>
+    <vocabulary>tốt</vocabulary>
+    <chinese>（好）</chinese>
+    <chinesePhrase>好的</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>nếu</text>
+    <mp3>GUID_PHRASE_2_5.mp3</mp3>
+    <vocabulary>nếu</vocabulary>
+    <chinese>（如果）</chinese>
+    <chinesePhrase>如果</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>được</text>
+    <mp3>GUID_PHRASE_2_6.mp3</mp3>
+    <vocabulary>được</vocabulary>
+    <chinese>（被；用於被動）</chinese>
+    <chinesePhrase>被</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>chế tạo</text>
+    <mp3>GUID_PHRASE_2_7.mp3</mp3>
+    <vocabulary>chế tạo</vocabulary>
+    <chinese>（打造/製作）</chinese>
+    <chinesePhrase>打造</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>đúng cách</text>
+    <mp3>GUID_PHRASE_2_8.mp3</mp3>
+    <vocabulary>đúng</vocabulary>
+    <chinese>（正確）</chinese>
+    <vocabulary>cách</vocabulary>
+    <chinese>（方式）</chinese>
+    <chinesePhrase>恰當地（用正確方式）</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>có thể</text>
+    <mp3>GUID_PHRASE_2_9.mp3</mp3>
+    <vocabulary>có thể</vocabulary>
+    <chinese>（可以/能夠）</chinese>
+    <chinesePhrase>可以</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>lướt</text>
+    <mp3>GUID_PHRASE_2_10.mp3</mp3>
+    <vocabulary>lướt</vocabulary>
+    <chinese>（滑行/掠過）</chinese>
+    <chinesePhrase>滑行</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>qua</text>
+    <mp3>GUID_PHRASE_2_11.mp3</mp3>
+    <vocabulary>qua</vocabulary>
+    <chinese>（過/穿過）</chinese>
+    <chinesePhrase>過</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>cả</text>
+    <mp3>GUID_PHRASE_2_12.mp3</mp3>
+    <vocabulary>cả</vocabulary>
+    <chinese>（整個）</chinese>
+    <chinesePhrase>整間</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>căn phòng học</text>
+    <mp3>GUID_PHRASE_2_13.mp3</mp3>
+    <vocabulary>căn</vocabulary>
+    <chinese>（間（分類詞））</chinese>
+    <vocabulary>phòng học</vocabulary>
+    <chinese>（教室）</chinese>
+    <chinesePhrase>教室</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>但你能想像建造一架能夠飛行近一整個足球場長度的紙飛機嗎？</text>
+  <translate>Nhưng bạn có thể tưởng tượng việc chế tạo một chiếc máy bay giấy có thể bay gần bằng chiều dài của cả một sân bóng đá không?</translate>
+  <mp3>GUID_SENTENCE_3.mp3</mp3>
+
+  <phrase>
+    <text>Nhưng</text>
+    <mp3>GUID_PHRASE_3_1.mp3</mp3>
+    <vocabulary>nhưng</vocabulary>
+    <chinese>（但是）</chinese>
+    <chinesePhrase>但</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>bạn</text>
+    <mp3>GUID_PHRASE_3_2.mp3</mp3>
+    <vocabulary>bạn</vocabulary>
+    <chinese>（你）</chinese>
+    <chinesePhrase>你</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>có thể</text>
+    <mp3>GUID_PHRASE_3_3.mp3</mp3>
+    <vocabulary>có thể</vocabulary>
+    <chinese>（能/可以）</chinese>
+    <chinesePhrase>能</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>tưởng tượng</text>
+    <mp3>GUID_PHRASE_3_4.mp3</mp3>
+    <vocabulary>tưởng tượng</vocabulary>
+    <chinese>（想像）</chinese>
+    <chinesePhrase>想像</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>việc</text>
+    <mp3>GUID_PHRASE_3_5.mp3</mp3>
+    <vocabulary>việc</vocabulary>
+    <chinese>（事情；名詞化）</chinese>
+    <chinesePhrase>…這件事</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>chế tạo</text>
+    <mp3>GUID_PHRASE_3_6.mp3</mp3>
+    <vocabulary>chế tạo</vocabulary>
+    <chinese>（建造/製作）</chinese>
+    <chinesePhrase>建造</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>một</text>
+    <mp3>GUID_PHRASE_3_7.mp3</mp3>
+    <vocabulary>một</vocabulary>
+    <chinese>（一）</chinese>
+    <chinesePhrase>一</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>chiếc</text>
+    <mp3>GUID_PHRASE_3_8.mp3</mp3>
+    <vocabulary>chiếc</vocabulary>
+    <chinese>（量詞：一架）</chinese>
+    <chinesePhrase>一架</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>máy bay giấy</text>
+    <mp3>GUID_PHRASE_3_9.mp3</mp3>
+    <vocabulary>máy bay</vocabulary>
+    <chinese>（飛機）</chinese>
+    <vocabulary>giấy</vocabulary>
+    <chinese>（紙）</chinese>
+    <chinesePhrase>紙飛機</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>có thể</text>
+    <mp3>GUID_PHRASE_3_10.mp3</mp3>
+    <vocabulary>có thể</vocabulary>
+    <chinese>（能夠）</chinese>
+    <chinesePhrase>能夠</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>bay</text>
+    <mp3>GUID_PHRASE_3_11.mp3</mp3>
+    <vocabulary>bay</vocabulary>
+    <chinese>（飛行）</chinese>
+    <chinesePhrase>飛行</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>gần bằng</text>
+    <mp3>GUID_PHRASE_3_12.mp3</mp3>
+    <vocabulary>gần</vocabulary>
+    <chinese>（接近）</chinese>
+    <vocabulary>bằng</vocabulary>
+    <chinese>（等於/相當於）</chinese>
+    <chinesePhrase>接近於</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>chiều dài</text>
+    <mp3>GUID_PHRASE_3_13.mp3</mp3>
+    <vocabulary>chiều</vocabulary>
+    <chinese>（方向/長度（語義成分））</chinese>
+    <vocabulary>dài</vocabulary>
+    <chinese>（長的）</chinese>
+    <chinesePhrase>長度</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_3_14.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>cả</text>
+    <mp3>GUID_PHRASE_3_15.mp3</mp3>
+    <vocabulary>cả</vocabulary>
+    <chinese>（整個）</chinese>
+    <chinesePhrase>整個</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>một sân bóng đá</text>
+    <mp3>GUID_PHRASE_3_16.mp3</mp3>
+    <vocabulary>một</vocabulary>
+    <chinese>（一）</chinese>
+    <vocabulary>sân bóng đá</vocabulary>
+    <chinese>（足球場）</chinese>
+    <chinesePhrase>一個足球場</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>không</text>
+    <mp3>GUID_PHRASE_3_17.mp3</mp3>
+    <vocabulary>không</vocabulary>
+    <chinese>（嗎（疑問助詞））</chinese>
+    <chinesePhrase>嗎</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>那正是三位朋友在打破了紙飛機飛行最長距離的金氏世界紀錄時所實現的。</text>
+  <translate>Đó chính là điều mà ba người bạn đã thực hiện khi phá vỡ kỷ lục thế giới Guinness về khoảng cách bay xa nhất của máy bay giấy.</translate>
+  <mp3>GUID_SENTENCE_4.mp3</mp3>
+
+  <phrase>
+    <text>Đó</text>
+    <mp3>GUID_PHRASE_4_1.mp3</mp3>
+    <vocabulary>đó</vocabulary>
+    <chinese>（那）</chinese>
+    <chinesePhrase>那</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>chính</text>
+    <mp3>GUID_PHRASE_4_2.mp3</mp3>
+    <vocabulary>chính</vocabulary>
+    <chinese>（正/正是）</chinese>
+    <chinesePhrase>正是</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>là</text>
+    <mp3>GUID_PHRASE_4_3.mp3</mp3>
+    <vocabulary>là</vocabulary>
+    <chinese>（是）</chinese>
+    <chinesePhrase>是</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>điều</text>
+    <mp3>GUID_PHRASE_4_4.mp3</mp3>
+    <vocabulary>điều</vocabulary>
+    <chinese>（事情/事）</chinese>
+    <chinesePhrase>事情</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>mà</text>
+    <mp3>GUID_PHRASE_4_5.mp3</mp3>
+    <vocabulary>mà</vocabulary>
+    <chinese>（關係詞：所…的）</chinese>
+    <chinesePhrase>所…的</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>ba</text>
+    <mp3>GUID_PHRASE_4_6.mp3</mp3>
+    <vocabulary>ba</vocabulary>
+    <chinese>（三）</chinese>
+    <chinesePhrase>三</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>người bạn</text>
+    <mp3>GUID_PHRASE_4_7.mp3</mp3>
+    <vocabulary>người</vocabulary>
+    <chinese>（人）</chinese>
+    <vocabulary>bạn</vocabulary>
+    <chinese>（朋友）</chinese>
+    <chinesePhrase>朋友</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>đã</text>
+    <mp3>GUID_PHRASE_4_8.mp3</mp3>
+    <vocabulary>đã</vocabulary>
+    <chinese>（已經/過去）</chinese>
+    <chinesePhrase>已經</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>thực hiện</text>
+    <mp3>GUID_PHRASE_4_9.mp3</mp3>
+    <vocabulary>thực hiện</vocabulary>
+    <chinese>（實現/做到）</chinese>
+    <chinesePhrase>實現</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>khi</text>
+    <mp3>GUID_PHRASE_4_10.mp3</mp3>
+    <vocabulary>khi</vocabulary>
+    <chinese>（當…時）</chinese>
+    <chinesePhrase>當…時</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>phá vỡ</text>
+    <mp3>GUID_PHRASE_4_11.mp3</mp3>
+    <vocabulary>phá</vocabulary>
+    <chinese>（打破）</chinese>
+    <vocabulary>vỡ</vocabulary>
+    <chinese>（破/碎（構詞））</chinese>
+    <chinesePhrase>打破</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>kỷ lục</text>
+    <mp3>GUID_PHRASE_4_12.mp3</mp3>
+    <vocabulary>kỷ lục</vocabulary>
+    <chinese>（紀錄）</chinese>
+    <chinesePhrase>紀錄</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>thế giới</text>
+    <mp3>GUID_PHRASE_4_13.mp3</mp3>
+    <vocabulary>thế giới</vocabulary>
+    <chinese>（世界）</chinese>
+    <chinesePhrase>世界</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>Guinness</text>
+    <mp3>GUID_PHRASE_4_14.mp3</mp3>
+    <vocabulary>Guinness</vocabulary>
+    <chinese>（金氏（Guinness））</chinese>
+    <chinesePhrase>金氏</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>về</text>
+    <mp3>GUID_PHRASE_4_15.mp3</mp3>
+    <vocabulary>về</vocabulary>
+    <chinese>（關於）</chinese>
+    <chinesePhrase>關於</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>khoảng cách</text>
+    <mp3>GUID_PHRASE_4_16.mp3</mp3>
+    <vocabulary>khoảng</vocabulary>
+    <chinese>（間隔）</chinese>
+    <vocabulary>cách</vocabulary>
+    <chinese>（距離/方式（語義成分））</chinese>
+    <chinesePhrase>距離</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>bay</text>
+    <mp3>GUID_PHRASE_4_17.mp3</mp3>
+    <vocabulary>bay</vocabulary>
+    <chinese>（飛行）</chinese>
+    <chinesePhrase>飛行</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>xa nhất</text>
+    <mp3>GUID_PHRASE_4_18.mp3</mp3>
+    <vocabulary>xa</vocabulary>
+    <chinese>（遠）</chinese>
+    <vocabulary>nhất</vocabulary>
+    <chinese>（最）</chinese>
+    <chinesePhrase>最遠</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_4_19.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>máy bay giấy</text>
+    <mp3>GUID_PHRASE_4_20.mp3</mp3>
+    <vocabulary>máy bay</vocabulary>
+    <chinese>（飛機）</chinese>
+    <vocabulary>giấy</vocabulary>
+    <chinese>（紙）</chinese>
+    <chinesePhrase>紙飛機</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>製作紙飛機並不一定需要先進的技術。</text>
+  <translate>Việc làm máy bay giấy không nhất thiết cần kỹ thuật tiên tiến.</translate>
+  <mp3>GUID_SENTENCE_5.mp3</mp3>
+
+  <phrase>
+    <text>Việc</text>
+    <mp3>GUID_PHRASE_5_1.mp3</mp3>
+    <vocabulary>việc</vocabulary>
+    <chinese>（…這件事；名詞化）</chinese>
+    <chinesePhrase>…這件事</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>làm</text>
+    <mp3>GUID_PHRASE_5_2.mp3</mp3>
+    <vocabulary>làm</vocabulary>
+    <chinese>（做/製作）</chinese>
+    <chinesePhrase>製作</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>máy bay giấy</text>
+    <mp3>GUID_PHRASE_5_3.mp3</mp3>
+    <vocabulary>máy bay</vocabulary>
+    <chinese>（飛機）</chinese>
+    <vocabulary>giấy</vocabulary>
+    <chinese>（紙）</chinese>
+    <chinesePhrase>紙飛機</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>không</text>
+    <mp3>GUID_PHRASE_5_4.mp3</mp3>
+    <vocabulary>không</vocabulary>
+    <chinese>（不）</chinese>
+    <chinesePhrase>不</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>nhất thiết</text>
+    <mp3>GUID_PHRASE_5_5.mp3</mp3>
+    <vocabulary>nhất thiết</vocabulary>
+    <chinese>（一定/必須）</chinese>
+    <chinesePhrase>一定</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>cần</text>
+    <mp3>GUID_PHRASE_5_6.mp3</mp3>
+    <vocabulary>cần</vocabulary>
+    <chinese>（需要）</chinese>
+    <chinesePhrase>需要</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>kỹ thuật</text>
+    <mp3>GUID_PHRASE_5_7.mp3</mp3>
+    <vocabulary>kỹ thuật</vocabulary>
+    <chinese>（技術）</chinese>
+    <chinesePhrase>技術</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>tiên tiến</text>
+    <mp3>GUID_PHRASE_5_8.mp3</mp3>
+    <vocabulary>tiên tiến</vocabulary>
+    <chinese>（先進的）</chinese>
+    <chinesePhrase>先進的</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>幾乎任何人都可以將一張平展的紙摺個幾摺來製作一架紙飛機。</text>
+  <translate>Hầu như bất kỳ ai cũng có thể gấp vài nếp từ một tờ giấy phẳng để làm ra một chiếc máy bay giấy.</translate>
+  <mp3>GUID_SENTENCE_6.mp3</mp3>
+
+  <phrase>
+    <text>Hầu như</text>
+    <mp3>GUID_PHRASE_6_1.mp3</mp3>
+    <vocabulary>hầu như</vocabulary>
+    <chinese>（幾乎）</chinese>
+    <chinesePhrase>幾乎</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>bất kỳ</text>
+    <mp3>GUID_PHRASE_6_2.mp3</mp3>
+    <vocabulary>bất kỳ</vocabulary>
+    <chinese>（任何）</chinese>
+    <chinesePhrase>任何</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>ai</text>
+    <mp3>GUID_PHRASE_6_3.mp3</mp3>
+    <vocabulary>ai</vocabulary>
+    <chinese>（誰（人））</chinese>
+    <chinesePhrase>人</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>cũng</text>
+    <mp3>GUID_PHRASE_6_4.mp3</mp3>
+    <vocabulary>cũng</vocabulary>
+    <chinese>（都/也）</chinese>
+    <chinesePhrase>都</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>có thể</text>
+    <mp3>GUID_PHRASE_6_5.mp3</mp3>
+    <vocabulary>có thể</vocabulary>
+    <chinese>（可以）</chinese>
+    <chinesePhrase>可以</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>gấp</text>
+    <mp3>GUID_PHRASE_6_6.mp3</mp3>
+    <vocabulary>gấp</vocabulary>
+    <chinese>（摺）</chinese>
+    <chinesePhrase>摺</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>vài</text>
+    <mp3>GUID_PHRASE_6_7.mp3</mp3>
+    <vocabulary>vài</vocabulary>
+    <chinese>（幾個）</chinese>
+    <chinesePhrase>幾</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>nếp</text>
+    <mp3>GUID_PHRASE_6_8.mp3</mp3>
+    <vocabulary>nếp</vocabulary>
+    <chinese>（摺痕/折）</chinese>
+    <chinesePhrase>摺</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>từ</text>
+    <mp3>GUID_PHRASE_6_9.mp3</mp3>
+    <vocabulary>từ</vocabulary>
+    <chinese>（從）</chinese>
+    <chinesePhrase>從</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>một</text>
+    <mp3>GUID_PHRASE_6_10.mp3</mp3>
+    <vocabulary>một</vocabulary>
+    <chinese>（一）</chinese>
+    <chinesePhrase>一</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>tờ</text>
+    <mp3>GUID_PHRASE_6_11.mp3</mp3>
+    <vocabulary>tờ</vocabulary>
+    <chinese>（張（量詞））</chinese>
+    <chinesePhrase>張</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>giấy</text>
+    <mp3>GUID_PHRASE_6_12.mp3</mp3>
+    <vocabulary>giấy</vocabulary>
+    <chinese>（紙）</chinese>
+    <chinesePhrase>紙</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>phẳng</text>
+    <mp3>GUID_PHRASE_6_13.mp3</mp3>
+    <vocabulary>phẳng</vocabulary>
+    <chinese>（平的/平展的）</chinese>
+    <chinesePhrase>平展的</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>để</text>
+    <mp3>GUID_PHRASE_6_14.mp3</mp3>
+    <vocabulary>để</vocabulary>
+    <chinese>（為了/用來）</chinese>
+    <chinesePhrase>用來</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>làm ra</text>
+    <mp3>GUID_PHRASE_6_15.mp3</mp3>
+    <vocabulary>làm</vocabulary>
+    <chinese>（做）</chinese>
+    <vocabulary>ra</vocabulary>
+    <chinese>（出來）</chinese>
+    <chinesePhrase>製作出</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>một</text>
+    <mp3>GUID_PHRASE_6_16.mp3</mp3>
+    <vocabulary>một</vocabulary>
+    <chinese>（一）</chinese>
+    <chinesePhrase>一</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>chiếc</text>
+    <mp3>GUID_PHRASE_6_17.mp3</mp3>
+    <vocabulary>chiếc</vocabulary>
+    <chinese>（量詞：一架）</chinese>
+    <chinesePhrase>架</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>máy bay giấy</text>
+    <mp3>GUID_PHRASE_6_18.mp3</mp3>
+    <vocabulary>máy bay</vocabulary>
+    <chinese>（飛機）</chinese>
+    <vocabulary>giấy</vocabulary>
+    <chinese>（紙）</chinese>
+    <chinesePhrase>紙飛機</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>然而，具有航空太空工程背景當然也不是什麼壞事。</text>
+  <translate>Tuy nhiên, có nền tảng về kỹ thuật hàng không vũ trụ thì dĩ nhiên cũng không phải là điều xấu.</translate>
+  <mp3>GUID_SENTENCE_7.mp3</mp3>
+
+  <phrase>
+    <text>Tuy nhiên</text>
+    <mp3>GUID_PHRASE_7_1.mp3</mp3>
+    <vocabulary>tuy nhiên</vocabulary>
+    <chinese>（然而）</chinese>
+    <chinesePhrase>然而</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>có</text>
+    <mp3>GUID_PHRASE_7_2.mp3</mp3>
+    <vocabulary>có</vocabulary>
+    <chinese>（有/具有）</chinese>
+    <chinesePhrase>具有</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>nền tảng</text>
+    <mp3>GUID_PHRASE_7_3.mp3</mp3>
+    <vocabulary>nền tảng</vocabulary>
+    <chinese>（背景/基礎）</chinese>
+    <chinesePhrase>背景</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>về</text>
+    <mp3>GUID_PHRASE_7_4.mp3</mp3>
+    <vocabulary>về</vocabulary>
+    <chinese>（關於/在…方面）</chinese>
+    <chinesePhrase>在…方面</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>kỹ thuật</text>
+    <mp3>GUID_PHRASE_7_5.mp3</mp3>
+    <vocabulary>kỹ thuật</vocabulary>
+    <chinese>（工程/技術）</chinese>
+    <chinesePhrase>工程</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>hàng không</text>
+    <mp3>GUID_PHRASE_7_6.mp3</mp3>
+    <vocabulary>hàng không</vocabulary>
+    <chinese>（航空）</chinese>
+    <chinesePhrase>航空</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>vũ trụ</text>
+    <mp3>GUID_PHRASE_7_7.mp3</mp3>
+    <vocabulary>vũ trụ</vocabulary>
+    <chinese>（太空）</chinese>
+    <chinesePhrase>太空</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>thì</text>
+    <mp3>GUID_PHRASE_7_8.mp3</mp3>
+    <vocabulary>thì</vocabulary>
+    <chinese>（則/就（語氣/結構詞））</chinese>
+    <chinesePhrase>則</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>dĩ nhiên</text>
+    <mp3>GUID_PHRASE_7_9.mp3</mp3>
+    <vocabulary>dĩ nhiên</vocabulary>
+    <chinese>（當然）</chinese>
+    <chinesePhrase>當然</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>cũng</text>
+    <mp3>GUID_PHRASE_7_10.mp3</mp3>
+    <vocabulary>cũng</vocabulary>
+    <chinese>（也）</chinese>
+    <chinesePhrase>也</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>không</text>
+    <mp3>GUID_PHRASE_7_11.mp3</mp3>
+    <vocabulary>không</vocabulary>
+    <chinese>（不）</chinese>
+    <chinesePhrase>不</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>phải</text>
+    <mp3>GUID_PHRASE_7_12.mp3</mp3>
+    <vocabulary>phải</vocabulary>
+    <chinese>（是）</chinese>
+    <chinesePhrase>是</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>là</text>
+    <mp3>GUID_PHRASE_7_13.mp3</mp3>
+    <vocabulary>là</vocabulary>
+    <chinese>（是）</chinese>
+    <chinesePhrase>是</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>điều</text>
+    <mp3>GUID_PHRASE_7_14.mp3</mp3>
+    <vocabulary>điều</vocabulary>
+    <chinese>（事情/事）</chinese>
+    <chinesePhrase>事情</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>xấu</text>
+    <mp3>GUID_PHRASE_7_15.mp3</mp3>
+    <vocabulary>xấu</vocabulary>
+    <chinese>（壞的）</chinese>
+    <chinesePhrase>壞事</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>在 2022 年，波音的工程師迪倫‧魯波和蓋瑞特‧簡森透過重新思考了紙飛機的飛行方式，接下了突破當時紀錄的挑戰，當時的紙飛機飛行距離略超過七十七公尺。</text>
+  <translate>Vào năm 2022, các kỹ sư của Boeing là Dillon Ruble và Garrett Jensen đã nhận thử thách phá kỷ lục lúc bấy giờ bằng cách suy nghĩ lại về cách bay của máy bay giấy; khi đó khoảng cách bay của máy bay giấy chỉ nhỉnh hơn 77 mét một chút.</translate>
+  <mp3>GUID_SENTENCE_8.mp3</mp3>
+
+  <phrase>
+    <text>Vào</text>
+    <mp3>GUID_PHRASE_8_1.mp3</mp3>
+    <vocabulary>vào</vocabulary>
+    <chinese>（在/於）</chinese>
+    <chinesePhrase>在</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>năm 2022</text>
+    <mp3>GUID_PHRASE_8_2.mp3</mp3>
+    <vocabulary>năm</vocabulary>
+    <chinese>（年）</chinese>
+    <vocabulary>2022</vocabulary>
+    <chinese>（2022）</chinese>
+    <chinesePhrase>2022 年</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>các</text>
+    <mp3>GUID_PHRASE_8_3.mp3</mp3>
+    <vocabulary>các</vocabulary>
+    <chinese>（複數：各/多個）</chinese>
+    <chinesePhrase>（複數）</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>kỹ sư</text>
+    <mp3>GUID_PHRASE_8_4.mp3</mp3>
+    <vocabulary>kỹ sư</vocabulary>
+    <chinese>（工程師）</chinese>
+    <chinesePhrase>工程師</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_8_5.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>Boeing</text>
+    <mp3>GUID_PHRASE_8_6.mp3</mp3>
+    <vocabulary>Boeing</vocabulary>
+    <chinese>（波音）</chinese>
+    <chinesePhrase>波音</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>là</text>
+    <mp3>GUID_PHRASE_8_7.mp3</mp3>
+    <vocabulary>là</vocabulary>
+    <chinese>（是）</chinese>
+    <chinesePhrase>是</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>Dillon Ruble</text>
+    <mp3>GUID_PHRASE_8_8.mp3</mp3>
+    <vocabulary>Dillon Ruble</vocabulary>
+    <chinese>（迪倫‧魯波）</chinese>
+    <chinesePhrase>迪倫‧魯波</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>và</text>
+    <mp3>GUID_PHRASE_8_9.mp3</mp3>
+    <vocabulary>và</vocabulary>
+    <chinese>（和）</chinese>
+    <chinesePhrase>和</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>Garrett Jensen</text>
+    <mp3>GUID_PHRASE_8_10.mp3</mp3>
+    <vocabulary>Garrett Jensen</vocabulary>
+    <chinese>（蓋瑞特‧簡森）</chinese>
+    <chinesePhrase>蓋瑞特‧簡森</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>đã</text>
+    <mp3>GUID_PHRASE_8_11.mp3</mp3>
+    <vocabulary>đã</vocabulary>
+    <chinese>（已經/過去）</chinese>
+    <chinesePhrase>已</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>nhận</text>
+    <mp3>GUID_PHRASE_8_12.mp3</mp3>
+    <vocabulary>nhận</vocabulary>
+    <chinese>（接下/接受）</chinese>
+    <chinesePhrase>接下</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>thử thách</text>
+    <mp3>GUID_PHRASE_8_13.mp3</mp3>
+    <vocabulary>thử thách</vocabulary>
+    <chinese>（挑戰）</chinese>
+    <chinesePhrase>挑戰</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>phá</text>
+    <mp3>GUID_PHRASE_8_14.mp3</mp3>
+    <vocabulary>phá</vocabulary>
+    <chinese>（打破）</chinese>
+    <chinesePhrase>打破</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>kỷ lục</text>
+    <mp3>GUID_PHRASE_8_15.mp3</mp3>
+    <vocabulary>kỷ lục</vocabulary>
+    <chinese>（紀錄）</chinese>
+    <chinesePhrase>紀錄</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>lúc bấy giờ</text>
+    <mp3>GUID_PHRASE_8_16.mp3</mp3>
+    <vocabulary>lúc</vocabulary>
+    <chinese>（時候）</chinese>
+    <vocabulary>bấy giờ</vocabulary>
+    <chinese>（當時）</chinese>
+    <chinesePhrase>當時</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>bằng cách</text>
+    <mp3>GUID_PHRASE_8_17.mp3</mp3>
+    <vocabulary>bằng</vocabulary>
+    <chinese>（用/以）</chinese>
+    <vocabulary>cách</vocabulary>
+    <chinese>（方式）</chinese>
+    <chinesePhrase>透過</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>suy nghĩ</text>
+    <mp3>GUID_PHRASE_8_18.mp3</mp3>
+    <vocabulary>suy nghĩ</vocabulary>
+    <chinese>（思考）</chinese>
+    <chinesePhrase>思考</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>lại</text>
+    <mp3>GUID_PHRASE_8_19.mp3</mp3>
+    <vocabulary>lại</vocabulary>
+    <chinese>（再次/重新）</chinese>
+    <chinesePhrase>重新</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>về</text>
+    <mp3>GUID_PHRASE_8_20.mp3</mp3>
+    <vocabulary>về</vocabulary>
+    <chinese>（關於）</chinese>
+    <chinesePhrase>關於</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>cách bay</text>
+    <mp3>GUID_PHRASE_8_21.mp3</mp3>
+    <vocabulary>cách</vocabulary>
+    <chinese>（方式）</chinese>
+    <vocabulary>bay</vocabulary>
+    <chinese>（飛行）</chinese>
+    <chinesePhrase>飛行方式</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_8_22.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>máy bay giấy</text>
+    <mp3>GUID_PHRASE_8_23.mp3</mp3>
+    <vocabulary>máy bay</vocabulary>
+    <chinese>（飛機）</chinese>
+    <vocabulary>giấy</vocabulary>
+    <chinese>（紙）</chinese>
+    <chinesePhrase>紙飛機</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>khi đó</text>
+    <mp3>GUID_PHRASE_8_24.mp3</mp3>
+    <vocabulary>khi</vocabulary>
+    <chinese>（當…時）</chinese>
+    <vocabulary>đó</vocabulary>
+    <chinese>（那/當時）</chinese>
+    <chinesePhrase>當時</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>khoảng cách bay</text>
+    <mp3>GUID_PHRASE_8_25.mp3</mp3>
+    <vocabulary>khoảng cách</vocabulary>
+    <chinese>（距離）</chinese>
+    <vocabulary>bay</vocabulary>
+    <chinese>（飛行）</chinese>
+    <chinesePhrase>飛行距離</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>chỉ</text>
+    <mp3>GUID_PHRASE_8_26.mp3</mp3>
+    <vocabulary>chỉ</vocabulary>
+    <chinese>（只/僅）</chinese>
+    <chinesePhrase>略/只</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>nhỉnh hơn</text>
+    <mp3>GUID_PHRASE_8_27.mp3</mp3>
+    <vocabulary>nhỉnh</vocabulary>
+    <chinese>（稍微超出）</chinese>
+    <vocabulary>hơn</vocabulary>
+    <chinese>（超過）</chinese>
+    <chinesePhrase>略超過</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>77</text>
+    <mp3>GUID_PHRASE_8_28.mp3</mp3>
+    <vocabulary>77</vocabulary>
+    <chinese>（七十七）</chinese>
+    <chinesePhrase>七十七</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>mét</text>
+    <mp3>GUID_PHRASE_8_29.mp3</mp3>
+    <vocabulary>mét</vocabulary>
+    <chinese>（公尺）</chinese>
+    <chinesePhrase>公尺</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>một chút</text>
+    <mp3>GUID_PHRASE_8_30.mp3</mp3>
+    <vocabulary>một</vocabulary>
+    <chinese>（一）</chinese>
+    <vocabulary>chút</vocabulary>
+    <chinese>（點點）</chinese>
+    <chinesePhrase>一點點</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>為了追求這個目標，這兩位工程師和他們的朋友納撒尼爾‧艾力克森奉獻了數百個小時在這個計畫上。</text>
+  <translate>Để theo đuổi mục tiêu này, hai kỹ sư này và người bạn của họ, Nathaniel Erickson, đã dành hàng trăm giờ cho dự án này.</translate>
+  <mp3>GUID_SENTENCE_9.mp3</mp3>
+
+  <phrase>
+    <text>Để</text>
+    <mp3>GUID_PHRASE_9_1.mp3</mp3>
+    <vocabulary>để</vocabulary>
+    <chinese>（為了）</chinese>
+    <chinesePhrase>為了</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>theo đuổi</text>
+    <mp3>GUID_PHRASE_9_2.mp3</mp3>
+    <vocabulary>theo</vocabulary>
+    <chinese>（跟隨/追）</chinese>
+    <vocabulary>đuổi</vocabulary>
+    <chinese>（追趕（構詞））</chinese>
+    <chinesePhrase>追求</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>mục tiêu</text>
+    <mp3>GUID_PHRASE_9_3.mp3</mp3>
+    <vocabulary>mục tiêu</vocabulary>
+    <chinese>（目標）</chinese>
+    <chinesePhrase>目標</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>này</text>
+    <mp3>GUID_PHRASE_9_4.mp3</mp3>
+    <vocabulary>này</vocabulary>
+    <chinese>（這個）</chinese>
+    <chinesePhrase>這個</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>hai</text>
+    <mp3>GUID_PHRASE_9_5.mp3</mp3>
+    <vocabulary>hai</vocabulary>
+    <chinese>（兩）</chinese>
+    <chinesePhrase>兩</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>kỹ sư</text>
+    <mp3>GUID_PHRASE_9_6.mp3</mp3>
+    <vocabulary>kỹ sư</vocabulary>
+    <chinese>（工程師）</chinese>
+    <chinesePhrase>工程師</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>này</text>
+    <mp3>GUID_PHRASE_9_7.mp3</mp3>
+    <vocabulary>này</vocabulary>
+    <chinese>（這些/這兩位）</chinese>
+    <chinesePhrase>這兩位</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>và</text>
+    <mp3>GUID_PHRASE_9_8.mp3</mp3>
+    <vocabulary>và</vocabulary>
+    <chinese>（和）</chinese>
+    <chinesePhrase>和</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>người bạn</text>
+    <mp3>GUID_PHRASE_9_9.mp3</mp3>
+    <vocabulary>người</vocabulary>
+    <chinese>（人）</chinese>
+    <vocabulary>bạn</vocabulary>
+    <chinese>（朋友）</chinese>
+    <chinesePhrase>朋友</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_9_10.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>họ</text>
+    <mp3>GUID_PHRASE_9_11.mp3</mp3>
+    <vocabulary>họ</vocabulary>
+    <chinese>（他們）</chinese>
+    <chinesePhrase>他們</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>Nathaniel Erickson</text>
+    <mp3>GUID_PHRASE_9_12.mp3</mp3>
+    <vocabulary>Nathaniel Erickson</vocabulary>
+    <chinese>（納撒尼爾‧艾力克森）</chinese>
+    <chinesePhrase>納撒尼爾‧艾力克森</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>đã</text>
+    <mp3>GUID_PHRASE_9_13.mp3</mp3>
+    <vocabulary>đã</vocabulary>
+    <chinese>（已經/過去）</chinese>
+    <chinesePhrase>已</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>dành</text>
+    <mp3>GUID_PHRASE_9_14.mp3</mp3>
+    <vocabulary>dành</vocabulary>
+    <chinese>（投入/奉獻（時間/精力））</chinese>
+    <chinesePhrase>奉獻</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>hàng trăm</text>
+    <mp3>GUID_PHRASE_9_15.mp3</mp3>
+    <vocabulary>hàng trăm</vocabulary>
+    <chinese>（數百）</chinese>
+    <chinesePhrase>數百</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>giờ</text>
+    <mp3>GUID_PHRASE_9_16.mp3</mp3>
+    <vocabulary>giờ</vocabulary>
+    <chinese>（小時）</chinese>
+    <chinesePhrase>小時</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>cho</text>
+    <mp3>GUID_PHRASE_9_17.mp3</mp3>
+    <vocabulary>cho</vocabulary>
+    <chinese>（給/用於）</chinese>
+    <chinesePhrase>在…上</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>dự án</text>
+    <mp3>GUID_PHRASE_9_18.mp3</mp3>
+    <vocabulary>dự án</vocabulary>
+    <chinese>（計畫/專案）</chinese>
+    <chinesePhrase>計畫</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>này</text>
+    <mp3>GUID_PHRASE_9_19.mp3</mp3>
+    <vocabulary>này</vocabulary>
+    <chinese>（這個）</chinese>
+    <chinesePhrase>這個</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>經過多次試驗和原型，他們想出了一個設計，他們相信這個設計可以達到目的。</text>
+  <translate>Sau nhiều lần thử nghiệm và làm nguyên mẫu, họ đã nghĩ ra một thiết kế, và họ tin rằng thiết kế này có thể đạt được mục đích.</translate>
+  <mp3>GUID_SENTENCE_10.mp3</mp3>
+
+  <phrase>
+    <text>Sau</text>
+    <mp3>GUID_PHRASE_10_1.mp3</mp3>
+    <vocabulary>sau</vocabulary>
+    <chinese>（經過/之後）</chinese>
+    <chinesePhrase>經過</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>nhiều</text>
+    <mp3>GUID_PHRASE_10_2.mp3</mp3>
+    <vocabulary>nhiều</vocabulary>
+    <chinese>（多）</chinese>
+    <chinesePhrase>多</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>lần</text>
+    <mp3>GUID_PHRASE_10_3.mp3</mp3>
+    <vocabulary>lần</vocabulary>
+    <chinese>（次（量詞））</chinese>
+    <chinesePhrase>次</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>thử nghiệm</text>
+    <mp3>GUID_PHRASE_10_4.mp3</mp3>
+    <vocabulary>thử</vocabulary>
+    <chinese>（試）</chinese>
+    <vocabulary>nghiệm</vocabulary>
+    <chinese>（驗/實驗（構詞））</chinese>
+    <chinesePhrase>試驗</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>và</text>
+    <mp3>GUID_PHRASE_10_5.mp3</mp3>
+    <vocabulary>và</vocabulary>
+    <chinese>（和）</chinese>
+    <chinesePhrase>和</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>làm</text>
+    <mp3>GUID_PHRASE_10_6.mp3</mp3>
+    <vocabulary>làm</vocabulary>
+    <chinese>（做/製作）</chinese>
+    <chinesePhrase>做</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>nguyên mẫu</text>
+    <mp3>GUID_PHRASE_10_7.mp3</mp3>
+    <vocabulary>nguyên</vocabulary>
+    <chinese>（原）</chinese>
+    <vocabulary>mẫu</vocabulary>
+    <chinese>（樣/模型（構詞））</chinese>
+    <chinesePhrase>原型</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>họ</text>
+    <mp3>GUID_PHRASE_10_8.mp3</mp3>
+    <vocabulary>họ</vocabulary>
+    <chinese>（他們）</chinese>
+    <chinesePhrase>他們</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>đã</text>
+    <mp3>GUID_PHRASE_10_9.mp3</mp3>
+    <vocabulary>đã</vocabulary>
+    <chinese>（已經/過去）</chinese>
+    <chinesePhrase>已</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>nghĩ ra</text>
+    <mp3>GUID_PHRASE_10_10.mp3</mp3>
+    <vocabulary>nghĩ</vocabulary>
+    <chinese>（想）</chinese>
+    <vocabulary>ra</vocabulary>
+    <chinese>（出來）</chinese>
+    <chinesePhrase>想出</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>một</text>
+    <mp3>GUID_PHRASE_10_11.mp3</mp3>
+    <vocabulary>một</vocabulary>
+    <chinese>（一）</chinese>
+    <chinesePhrase>一個</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>thiết kế</text>
+    <mp3>GUID_PHRASE_10_12.mp3</mp3>
+    <vocabulary>thiết kế</vocabulary>
+    <chinese>（設計）</chinese>
+    <chinesePhrase>設計</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>và</text>
+    <mp3>GUID_PHRASE_10_13.mp3</mp3>
+    <vocabulary>và</vocabulary>
+    <chinese>（並且）</chinese>
+    <chinesePhrase>並且</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>tin</text>
+    <mp3>GUID_PHRASE_10_14.mp3</mp3>
+    <vocabulary>tin</vocabulary>
+    <chinese>（相信）</chinese>
+    <chinesePhrase>相信</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>rằng</text>
+    <mp3>GUID_PHRASE_10_15.mp3</mp3>
+    <vocabulary>rằng</vocabulary>
+    <chinese>（…（引導從句：說/認為））</chinese>
+    <chinesePhrase>認為</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>thiết kế</text>
+    <mp3>GUID_PHRASE_10_16.mp3</mp3>
+    <vocabulary>thiết kế</vocabulary>
+    <chinese>（設計）</chinese>
+    <chinesePhrase>設計</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>này</text>
+    <mp3>GUID_PHRASE_10_17.mp3</mp3>
+    <vocabulary>này</vocabulary>
+    <chinese>（這個）</chinese>
+    <chinesePhrase>這個</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>có thể</text>
+    <mp3>GUID_PHRASE_10_18.mp3</mp3>
+    <vocabulary>có thể</vocabulary>
+    <chinese>（可以/能夠）</chinese>
+    <chinesePhrase>可以</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>đạt</text>
+    <mp3>GUID_PHRASE_10_19.mp3</mp3>
+    <vocabulary>đạt</vocabulary>
+    <chinese>（達到）</chinese>
+    <chinesePhrase>達到</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>được</text>
+    <mp3>GUID_PHRASE_10_20.mp3</mp3>
+    <vocabulary>được</vocabulary>
+    <chinese>（到/得（結果補語））</chinese>
+    <chinesePhrase>到</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>mục đích</text>
+    <mp3>GUID_PHRASE_10_21.mp3</mp3>
+    <vocabulary>mục đích</vocabulary>
+    <chinese>（目的）</chinese>
+    <chinesePhrase>目的</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>他們利用在空氣動力學上的知識，選出的設計與你在小學時可能使用的截然不同。</text>
+  <translate>Họ đã sử dụng kiến thức về khí động học để chọn ra một thiết kế hoàn toàn khác với loại mà bạn có thể đã dùng khi học tiểu học.</translate>
+  <mp3>GUID_SENTENCE_11.mp3</mp3>
+
+  <phrase>
+    <text>Họ</text>
+    <mp3>GUID_PHRASE_11_1.mp3</mp3>
+    <vocabulary>họ</vocabulary>
+    <chinese>（他們）</chinese>
+    <chinesePhrase>他們</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>đã</text>
+    <mp3>GUID_PHRASE_11_2.mp3</mp3>
+    <vocabulary>đã</vocabulary>
+    <chinese>（已經/過去）</chinese>
+    <chinesePhrase>已</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>sử dụng</text>
+    <mp3>GUID_PHRASE_11_3.mp3</mp3>
+    <vocabulary>sử</vocabulary>
+    <chinese>（使/用（構詞））</chinese>
+    <vocabulary>dụng</vocabulary>
+    <chinese>（用（構詞））</chinese>
+    <chinesePhrase>利用/使用</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>kiến thức</text>
+    <mp3>GUID_PHRASE_11_4.mp3</mp3>
+    <vocabulary>kiến</vocabulary>
+    <chinese>（見/知（構詞））</chinese>
+    <vocabulary>thức</vocabulary>
+    <chinese>（識/知（構詞））</chinese>
+    <chinesePhrase>知識</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>về</text>
+    <mp3>GUID_PHRASE_11_5.mp3</mp3>
+    <vocabulary>về</vocabulary>
+    <chinese>（關於）</chinese>
+    <chinesePhrase>關於</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>khí động học</text>
+    <mp3>GUID_PHRASE_11_6.mp3</mp3>
+    <vocabulary>khí</vocabulary>
+    <chinese>（氣/空氣）</chinese>
+    <vocabulary>động</vocabulary>
+    <chinese>（動）</chinese>
+    <vocabulary>học</vocabulary>
+    <chinese>（學）</chinese>
+    <chinesePhrase>空氣動力學</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>để</text>
+    <mp3>GUID_PHRASE_11_7.mp3</mp3>
+    <vocabulary>để</vocabulary>
+    <chinese>（為了/用來）</chinese>
+    <chinesePhrase>用來</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>chọn</text>
+    <mp3>GUID_PHRASE_11_8.mp3</mp3>
+    <vocabulary>chọn</vocabulary>
+    <chinese>（選）</chinese>
+    <chinesePhrase>選</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>ra</text>
+    <mp3>GUID_PHRASE_11_9.mp3</mp3>
+    <vocabulary>ra</vocabulary>
+    <chinese>（出來）</chinese>
+    <chinesePhrase>出</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>một thiết kế</text>
+    <mp3>GUID_PHRASE_11_10.mp3</mp3>
+    <vocabulary>một</vocabulary>
+    <chinese>（一）</chinese>
+    <vocabulary>thiết kế</vocabulary>
+    <chinese>（設計）</chinese>
+    <chinesePhrase>一個設計</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>hoàn toàn</text>
+    <mp3>GUID_PHRASE_11_11.mp3</mp3>
+    <vocabulary>hoàn toàn</vocabulary>
+    <chinese>（完全）</chinese>
+    <chinesePhrase>完全</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>khác</text>
+    <mp3>GUID_PHRASE_11_12.mp3</mp3>
+    <vocabulary>khác</vocabulary>
+    <chinese>（不同）</chinese>
+    <chinesePhrase>不同</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>với</text>
+    <mp3>GUID_PHRASE_11_13.mp3</mp3>
+    <vocabulary>với</vocabulary>
+    <chinese>（與）</chinese>
+    <chinesePhrase>與</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>loại</text>
+    <mp3>GUID_PHRASE_11_14.mp3</mp3>
+    <vocabulary>loại</vocabulary>
+    <chinese>（種類）</chinese>
+    <chinesePhrase>種類</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>mà</text>
+    <mp3>GUID_PHRASE_11_15.mp3</mp3>
+    <vocabulary>mà</vocabulary>
+    <chinese>（關係詞：…的）</chinese>
+    <chinesePhrase>…的</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>bạn</text>
+    <mp3>GUID_PHRASE_11_16.mp3</mp3>
+    <vocabulary>bạn</vocabulary>
+    <chinese>（你）</chinese>
+    <chinesePhrase>你</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>có thể</text>
+    <mp3>GUID_PHRASE_11_17.mp3</mp3>
+    <vocabulary>có thể</vocabulary>
+    <chinese>（可能）</chinese>
+    <chinesePhrase>可能</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>đã</text>
+    <mp3>GUID_PHRASE_11_18.mp3</mp3>
+    <vocabulary>đã</vocabulary>
+    <chinese>（曾經）</chinese>
+    <chinesePhrase>曾</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>dùng</text>
+    <mp3>GUID_PHRASE_11_19.mp3</mp3>
+    <vocabulary>dùng</vocabulary>
+    <chinese>（使用）</chinese>
+    <chinesePhrase>用</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>khi</text>
+    <mp3>GUID_PHRASE_11_20.mp3</mp3>
+    <vocabulary>khi</vocabulary>
+    <chinese>（當…時）</chinese>
+    <chinesePhrase>在…時</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>học</text>
+    <mp3>GUID_PHRASE_11_21.mp3</mp3>
+    <vocabulary>học</vocabulary>
+    <chinese>（念/學）</chinese>
+    <chinesePhrase>讀</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>tiểu học</text>
+    <mp3>GUID_PHRASE_11_22.mp3</mp3>
+    <vocabulary>tiểu</vocabulary>
+    <chinese>（小）</chinese>
+    <vocabulary>học</vocabulary>
+    <chinese>（學）</chinese>
+    <chinesePhrase>小學</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>事實上，他們的設計需要的並不是簡單的幾摺而已，而是要花費二十多分鐘的時間來精準打造。</text>
+  <translate>Thực tế là thiết kế của họ không chỉ cần vài nếp gấp đơn giản, mà còn cần tốn hơn hai mươi phút để chế tạo một cách chính xác.</translate>
+  <mp3>GUID_SENTENCE_12.mp3</mp3>
+
+  <phrase>
+    <text>Thực tế là</text>
+    <mp3>GUID_PHRASE_12_1.mp3</mp3>
+    <vocabulary>thực tế</vocabulary>
+    <chinese>（事實/實際）</chinese>
+    <vocabulary>là</vocabulary>
+    <chinese>（是）</chinese>
+    <chinesePhrase>事實上</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>thiết kế</text>
+    <mp3>GUID_PHRASE_12_2.mp3</mp3>
+    <vocabulary>thiết kế</vocabulary>
+    <chinese>（設計）</chinese>
+    <chinesePhrase>設計</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_12_3.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>họ</text>
+    <mp3>GUID_PHRASE_12_4.mp3</mp3>
+    <vocabulary>họ</vocabulary>
+    <chinese>（他們）</chinese>
+    <chinesePhrase>他們</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>không</text>
+    <mp3>GUID_PHRASE_12_5.mp3</mp3>
+    <vocabulary>không</vocabulary>
+    <chinese>（不）</chinese>
+    <chinesePhrase>不</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>chỉ</text>
+    <mp3>GUID_PHRASE_12_6.mp3</mp3>
+    <vocabulary>chỉ</vocabulary>
+    <chinese>（只）</chinese>
+    <chinesePhrase>只</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>cần</text>
+    <mp3>GUID_PHRASE_12_7.mp3</mp3>
+    <vocabulary>cần</vocabulary>
+    <chinese>（需要）</chinese>
+    <chinesePhrase>需要</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>vài</text>
+    <mp3>GUID_PHRASE_12_8.mp3</mp3>
+    <vocabulary>vài</vocabulary>
+    <chinese>（幾個）</chinese>
+    <chinesePhrase>幾</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>nếp gấp</text>
+    <mp3>GUID_PHRASE_12_9.mp3</mp3>
+    <vocabulary>nếp</vocabulary>
+    <chinese>（摺痕）</chinese>
+    <vocabulary>gấp</vocabulary>
+    <chinese>（摺（構詞））</chinese>
+    <chinesePhrase>摺痕/摺</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>đơn giản</text>
+    <mp3>GUID_PHRASE_12_10.mp3</mp3>
+    <vocabulary>đơn giản</vocabulary>
+    <chinese>（簡單）</chinese>
+    <chinesePhrase>簡單的</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>mà</text>
+    <mp3>GUID_PHRASE_12_11.mp3</mp3>
+    <vocabulary>mà</vocabulary>
+    <chinese>（而/但（對比連接））</chinese>
+    <chinesePhrase>而是</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>còn</text>
+    <mp3>GUID_PHRASE_12_12.mp3</mp3>
+    <vocabulary>còn</vocabulary>
+    <chinese>（還/更）</chinese>
+    <chinesePhrase>還</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>cần</text>
+    <mp3>GUID_PHRASE_12_13.mp3</mp3>
+    <vocabulary>cần</vocabulary>
+    <chinese>（需要）</chinese>
+    <chinesePhrase>需要</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>tốn</text>
+    <mp3>GUID_PHRASE_12_14.mp3</mp3>
+    <vocabulary>tốn</vocabulary>
+    <chinese>（花費/耗費）</chinese>
+    <chinesePhrase>花費</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>hơn</text>
+    <mp3>GUID_PHRASE_12_15.mp3</mp3>
+    <vocabulary>hơn</vocabulary>
+    <chinese>（超過）</chinese>
+    <chinesePhrase>多於</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>hai mươi phút</text>
+    <mp3>GUID_PHRASE_12_16.mp3</mp3>
+    <vocabulary>hai mươi</vocabulary>
+    <chinese>（二十）</chinese>
+    <vocabulary>phút</vocabulary>
+    <chinese>（分鐘）</chinese>
+    <chinesePhrase>二十分鐘</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>để</text>
+    <mp3>GUID_PHRASE_12_17.mp3</mp3>
+    <vocabulary>để</vocabulary>
+    <chinese>（為了/用來）</chinese>
+    <chinesePhrase>來</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>chế tạo</text>
+    <mp3>GUID_PHRASE_12_18.mp3</mp3>
+    <vocabulary>chế tạo</vocabulary>
+    <chinese>（打造/製作）</chinese>
+    <chinesePhrase>打造</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>một cách</text>
+    <mp3>GUID_PHRASE_12_19.mp3</mp3>
+    <vocabulary>một</vocabulary>
+    <chinese>（一）</chinese>
+    <vocabulary>cách</vocabulary>
+    <chinese>（方式）</chinese>
+    <chinesePhrase>以…方式</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>chính xác</text>
+    <mp3>GUID_PHRASE_12_20.mp3</mp3>
+    <vocabulary>chính</vocabulary>
+    <chinese>（正）</chinese>
+    <vocabulary>xác</vocabulary>
+    <chinese>（確（構詞））</chinese>
+    <chinesePhrase>精準地</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>他們創意十足的模型滑行方式和大多數的紙飛機不一樣，這個設計是像飛鏢一樣劃破空氣。</text>
+  <translate>Cách lướt của mô hình đầy sáng tạo của họ khác với hầu hết máy bay giấy; thiết kế này rạch không khí như một chiếc phi tiêu.</translate>
+  <mp3>GUID_SENTENCE_13.mp3</mp3>
+
+  <phrase>
+    <text>Cách</text>
+    <mp3>GUID_PHRASE_13_1.mp3</mp3>
+    <vocabulary>cách</vocabulary>
+    <chinese>（方式）</chinese>
+    <chinesePhrase>方式</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>lướt</text>
+    <mp3>GUID_PHRASE_13_2.mp3</mp3>
+    <vocabulary>lướt</vocabulary>
+    <chinese>（滑行/掠過）</chinese>
+    <chinesePhrase>滑行</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_13_3.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>mô hình</text>
+    <mp3>GUID_PHRASE_13_4.mp3</mp3>
+    <vocabulary>mô</vocabulary>
+    <chinese>（模型（構詞））</chinese>
+    <vocabulary>hình</vocabulary>
+    <chinese>（形/模型（構詞））</chinese>
+    <chinesePhrase>模型</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>đầy</text>
+    <mp3>GUID_PHRASE_13_5.mp3</mp3>
+    <vocabulary>đầy</vocabulary>
+    <chinese>（充滿）</chinese>
+    <chinesePhrase>十足/充滿</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>sáng tạo</text>
+    <mp3>GUID_PHRASE_13_6.mp3</mp3>
+    <vocabulary>sáng tạo</vocabulary>
+    <chinese>（創意）</chinese>
+    <chinesePhrase>創意</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_13_7.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>họ</text>
+    <mp3>GUID_PHRASE_13_8.mp3</mp3>
+    <vocabulary>họ</vocabulary>
+    <chinese>（他們）</chinese>
+    <chinesePhrase>他們</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>khác</text>
+    <mp3>GUID_PHRASE_13_9.mp3</mp3>
+    <vocabulary>khác</vocabulary>
+    <chinese>（不同）</chinese>
+    <chinesePhrase>不一樣</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>với</text>
+    <mp3>GUID_PHRASE_13_10.mp3</mp3>
+    <vocabulary>với</vocabulary>
+    <chinese>（與）</chinese>
+    <chinesePhrase>和/與</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>hầu hết</text>
+    <mp3>GUID_PHRASE_13_11.mp3</mp3>
+    <vocabulary>hầu hết</vocabulary>
+    <chinese>（大多數）</chinese>
+    <chinesePhrase>大多數</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>máy bay giấy</text>
+    <mp3>GUID_PHRASE_13_12.mp3</mp3>
+    <vocabulary>máy bay</vocabulary>
+    <chinese>（飛機）</chinese>
+    <vocabulary>giấy</vocabulary>
+    <chinese>（紙）</chinese>
+    <chinesePhrase>紙飛機</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>thiết kế</text>
+    <mp3>GUID_PHRASE_13_13.mp3</mp3>
+    <vocabulary>thiết kế</vocabulary>
+    <chinese>（設計）</chinese>
+    <chinesePhrase>設計</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>này</text>
+    <mp3>GUID_PHRASE_13_14.mp3</mp3>
+    <vocabulary>này</vocabulary>
+    <chinese>（這個）</chinese>
+    <chinesePhrase>這個</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>rạch</text>
+    <mp3>GUID_PHRASE_13_15.mp3</mp3>
+    <vocabulary>rạch</vocabulary>
+    <chinese>（劃開/劃破）</chinese>
+    <chinesePhrase>劃破</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>không khí</text>
+    <mp3>GUID_PHRASE_13_16.mp3</mp3>
+    <vocabulary>không khí</vocabulary>
+    <chinese>（空氣）</chinese>
+    <chinesePhrase>空氣</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>như</text>
+    <mp3>GUID_PHRASE_13_17.mp3</mp3>
+    <vocabulary>như</vocabulary>
+    <chinese>（像/如同）</chinese>
+    <chinesePhrase>像</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>một</text>
+    <mp3>GUID_PHRASE_13_18.mp3</mp3>
+    <vocabulary>một</vocabulary>
+    <chinese>（一）</chinese>
+    <chinesePhrase>一</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>chiếc</text>
+    <mp3>GUID_PHRASE_13_19.mp3</mp3>
+    <vocabulary>chiếc</vocabulary>
+    <chinese>（量詞：一支/一個）</chinese>
+    <chinesePhrase>支</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>phi tiêu</text>
+    <mp3>GUID_PHRASE_13_20.mp3</mp3>
+    <vocabulary>phi</vocabulary>
+    <chinese>（飛（構詞））</chinese>
+    <vocabulary>tiêu</vocabulary>
+    <chinese>（鏢（構詞））</chinese>
+    <chinesePhrase>飛鏢</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>因此，它需要極大的力量和四十度特定的發射角度才能達到最佳效果。</text>
+  <translate>Vì vậy, nó cần lực rất lớn và một góc phóng cụ thể khoảng 40 độ thì mới đạt được hiệu quả tốt nhất.</translate>
+  <mp3>GUID_SENTENCE_14.mp3</mp3>
+
+  <phrase>
+    <text>Vì vậy</text>
+    <mp3>GUID_PHRASE_14_1.mp3</mp3>
+    <vocabulary>vì</vocabulary>
+    <chinese>（因為）</chinese>
+    <vocabulary>vậy</vocabulary>
+    <chinese>（所以/因此）</chinese>
+    <chinesePhrase>因此</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>nó</text>
+    <mp3>GUID_PHRASE_14_2.mp3</mp3>
+    <vocabulary>nó</vocabulary>
+    <chinese>（它）</chinese>
+    <chinesePhrase>它</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>cần</text>
+    <mp3>GUID_PHRASE_14_3.mp3</mp3>
+    <vocabulary>cần</vocabulary>
+    <chinese>（需要）</chinese>
+    <chinesePhrase>需要</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>lực</text>
+    <mp3>GUID_PHRASE_14_4.mp3</mp3>
+    <vocabulary>lực</vocabulary>
+    <chinese>（力量）</chinese>
+    <chinesePhrase>力量</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>rất lớn</text>
+    <mp3>GUID_PHRASE_14_5.mp3</mp3>
+    <vocabulary>rất</vocabulary>
+    <chinese>（非常）</chinese>
+    <vocabulary>lớn</vocabulary>
+    <chinese>（大）</chinese>
+    <chinesePhrase>極大</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>và</text>
+    <mp3>GUID_PHRASE_14_6.mp3</mp3>
+    <vocabulary>và</vocabulary>
+    <chinese>（和）</chinese>
+    <chinesePhrase>和</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>một góc</text>
+    <mp3>GUID_PHRASE_14_7.mp3</mp3>
+    <vocabulary>một</vocabulary>
+    <chinese>（一）</chinese>
+    <vocabulary>góc</vocabulary>
+    <chinese>（角度）</chinese>
+    <chinesePhrase>一個角度</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>phóng</text>
+    <mp3>GUID_PHRASE_14_8.mp3</mp3>
+    <vocabulary>phóng</vocabulary>
+    <chinese>（發射/投射）</chinese>
+    <chinesePhrase>發射</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>cụ thể</text>
+    <mp3>GUID_PHRASE_14_9.mp3</mp3>
+    <vocabulary>cụ thể</vocabulary>
+    <chinese>（特定/具體）</chinese>
+    <chinesePhrase>特定的</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>khoảng</text>
+    <mp3>GUID_PHRASE_14_10.mp3</mp3>
+    <vocabulary>khoảng</vocabulary>
+    <chinese>（大約）</chinese>
+    <chinesePhrase>約</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>40</text>
+    <mp3>GUID_PHRASE_14_11.mp3</mp3>
+    <vocabulary>40</vocabulary>
+    <chinese>（四十）</chinese>
+    <chinesePhrase>四十</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>độ</text>
+    <mp3>GUID_PHRASE_14_12.mp3</mp3>
+    <vocabulary>độ</vocabulary>
+    <chinese>（度）</chinese>
+    <chinesePhrase>度</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>thì</text>
+    <mp3>GUID_PHRASE_14_13.mp3</mp3>
+    <vocabulary>thì</vocabulary>
+    <chinese>（才/就（強調條件結果））</chinese>
+    <chinesePhrase>才</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>mới</text>
+    <mp3>GUID_PHRASE_14_14.mp3</mp3>
+    <vocabulary>mới</vocabulary>
+    <chinese>（才（搭配條件））</chinese>
+    <chinesePhrase>能</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>đạt</text>
+    <mp3>GUID_PHRASE_14_15.mp3</mp3>
+    <vocabulary>đạt</vocabulary>
+    <chinese>（達到）</chinese>
+    <chinesePhrase>達到</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>được</text>
+    <mp3>GUID_PHRASE_14_16.mp3</mp3>
+    <vocabulary>được</vocabulary>
+    <chinese>（到（結果補語））</chinese>
+    <chinesePhrase>到</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>hiệu quả</text>
+    <mp3>GUID_PHRASE_14_17.mp3</mp3>
+    <vocabulary>hiệu quả</vocabulary>
+    <chinese>（效果）</chinese>
+    <chinesePhrase>效果</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>tốt nhất</text>
+    <mp3>GUID_PHRASE_14_18.mp3</mp3>
+    <vocabulary>tốt</vocabulary>
+    <chinese>（好）</chinese>
+    <vocabulary>nhất</vocabulary>
+    <chinese>（最）</chinese>
+    <chinesePhrase>最佳</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>在打破紀錄的那天，是魯波負責投擲。</text>
+  <translate>Vào ngày phá kỷ lục, Ruble là người chịu trách nhiệm ném.</translate>
+  <mp3>GUID_SENTENCE_15.mp3</mp3>
+
+  <phrase>
+    <text>Vào</text>
+    <mp3>GUID_PHRASE_15_1.mp3</mp3>
+    <vocabulary>vào</vocabulary>
+    <chinese>（在/於）</chinese>
+    <chinesePhrase>在</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>ngày</text>
+    <mp3>GUID_PHRASE_15_2.mp3</mp3>
+    <vocabulary>ngày</vocabulary>
+    <chinese>（天/日）</chinese>
+    <chinesePhrase>那天</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>phá</text>
+    <mp3>GUID_PHRASE_15_3.mp3</mp3>
+    <vocabulary>phá</vocabulary>
+    <chinese>（打破）</chinese>
+    <chinesePhrase>打破</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>kỷ lục</text>
+    <mp3>GUID_PHRASE_15_4.mp3</mp3>
+    <vocabulary>kỷ lục</vocabulary>
+    <chinese>（紀錄）</chinese>
+    <chinesePhrase>紀錄</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>Ruble</text>
+    <mp3>GUID_PHRASE_15_5.mp3</mp3>
+    <vocabulary>Ruble</vocabulary>
+    <chinese>（魯波）</chinese>
+    <chinesePhrase>魯波</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>là</text>
+    <mp3>GUID_PHRASE_15_6.mp3</mp3>
+    <vocabulary>là</vocabulary>
+    <chinese>（是）</chinese>
+    <chinesePhrase>是</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>người</text>
+    <mp3>GUID_PHRASE_15_7.mp3</mp3>
+    <vocabulary>người</vocabulary>
+    <chinese>（人）</chinese>
+    <chinesePhrase>人</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>chịu</text>
+    <mp3>GUID_PHRASE_15_8.mp3</mp3>
+    <vocabulary>chịu</vocabulary>
+    <chinese>（承擔/負擔）</chinese>
+    <chinesePhrase>承擔</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>trách nhiệm</text>
+    <mp3>GUID_PHRASE_15_9.mp3</mp3>
+    <vocabulary>trách nhiệm</vocabulary>
+    <chinese>（責任）</chinese>
+    <chinesePhrase>責任</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>ném</text>
+    <mp3>GUID_PHRASE_15_10.mp3</mp3>
+    <vocabulary>ném</vocabulary>
+    <chinese>（投擲）</chinese>
+    <chinesePhrase>投擲</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>他的技巧類似於棒球的外野手試圖讓跑者在本壘板前出局。</text>
+  <translate>Kỹ thuật của anh ấy giống như một cầu thủ ngoại sân bóng chày cố gắng loại người chạy trước đĩa nhà.</translate>
+  <mp3>GUID_SENTENCE_16.mp3</mp3>
+
+  <phrase>
+    <text>Kỹ thuật</text>
+    <mp3>GUID_PHRASE_16_1.mp3</mp3>
+    <vocabulary>kỹ thuật</vocabulary>
+    <chinese>（技巧/技術）</chinese>
+    <chinesePhrase>技巧</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_16_2.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>anh ấy</text>
+    <mp3>GUID_PHRASE_16_3.mp3</mp3>
+    <vocabulary>anh</vocabulary>
+    <chinese>（他（男性））</chinese>
+    <vocabulary>ấy</vocabulary>
+    <chinese>（那/該（指示））</chinese>
+    <chinesePhrase>他</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>giống</text>
+    <mp3>GUID_PHRASE_16_4.mp3</mp3>
+    <vocabulary>giống</vocabulary>
+    <chinese>（像/相似）</chinese>
+    <chinesePhrase>類似</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>như</text>
+    <mp3>GUID_PHRASE_16_5.mp3</mp3>
+    <vocabulary>như</vocabulary>
+    <chinese>（如同）</chinese>
+    <chinesePhrase>於</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>một cầu thủ</text>
+    <mp3>GUID_PHRASE_16_6.mp3</mp3>
+    <vocabulary>một</vocabulary>
+    <chinese>（一）</chinese>
+    <vocabulary>cầu thủ</vocabulary>
+    <chinese>（球員）</chinese>
+    <chinesePhrase>一名球員</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>ngoại sân</text>
+    <mp3>GUID_PHRASE_16_7.mp3</mp3>
+    <vocabulary>ngoại</vocabulary>
+    <chinese>（外）</chinese>
+    <vocabulary>sân</vocabulary>
+    <chinese>（場）</chinese>
+    <chinesePhrase>外野</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>bóng chày</text>
+    <mp3>GUID_PHRASE_16_8.mp3</mp3>
+    <vocabulary>bóng chày</vocabulary>
+    <chinese>（棒球）</chinese>
+    <chinesePhrase>棒球</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>cố gắng</text>
+    <mp3>GUID_PHRASE_16_9.mp3</mp3>
+    <vocabulary>cố</vocabulary>
+    <chinese>（努力/用力）</chinese>
+    <vocabulary>gắng</vocabulary>
+    <chinese>（努力（構詞））</chinese>
+    <chinesePhrase>試圖</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>loại</text>
+    <mp3>GUID_PHRASE_16_10.mp3</mp3>
+    <vocabulary>loại</vocabulary>
+    <chinese>（使…出局/淘汰）</chinese>
+    <chinesePhrase>讓…出局</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>người chạy</text>
+    <mp3>GUID_PHRASE_16_11.mp3</mp3>
+    <vocabulary>người</vocabulary>
+    <chinese>（人）</chinese>
+    <vocabulary>chạy</vocabulary>
+    <chinese>（跑）</chinese>
+    <chinesePhrase>跑者</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>trước</text>
+    <mp3>GUID_PHRASE_16_12.mp3</mp3>
+    <vocabulary>trước</vocabulary>
+    <chinese>（在…前）</chinese>
+    <chinesePhrase>在…前</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>đĩa nhà</text>
+    <mp3>GUID_PHRASE_16_13.mp3</mp3>
+    <vocabulary>đĩa</vocabulary>
+    <chinese>（板/盤）</chinese>
+    <vocabulary>nhà</vocabulary>
+    <chinese>（家（棒球術語：本壘））</chinese>
+    <chinesePhrase>本壘板</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>雖然他前兩次嘗試未能達到紀錄，但在第三次嘗試中，他以超過八十八公尺一點點的驚人距離打破了紀錄，比原紀錄還多了十一公尺。</text>
+  <translate>Mặc dù hai lần thử đầu tiên của anh ấy không đạt kỷ lục, nhưng ở lần thử thứ ba, anh đã phá kỷ lục với khoảng cách đáng kinh ngạc hơn 88 mét một chút, dài hơn kỷ lục cũ thêm 11 mét.</translate>
+  <mp3>GUID_SENTENCE_17.mp3</mp3>
+
+  <phrase>
+    <text>Mặc dù</text>
+    <mp3>GUID_PHRASE_17_1.mp3</mp3>
+    <vocabulary>mặc dù</vocabulary>
+    <chinese>（雖然）</chinese>
+    <chinesePhrase>雖然</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>hai</text>
+    <mp3>GUID_PHRASE_17_2.mp3</mp3>
+    <vocabulary>hai</vocabulary>
+    <chinese>（兩）</chinese>
+    <chinesePhrase>兩</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>lần</text>
+    <mp3>GUID_PHRASE_17_3.mp3</mp3>
+    <vocabulary>lần</vocabulary>
+    <chinese>（次）</chinese>
+    <chinesePhrase>次</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>thử</text>
+    <mp3>GUID_PHRASE_17_4.mp3</mp3>
+    <vocabulary>thử</vocabulary>
+    <chinese>（試/嘗試）</chinese>
+    <chinesePhrase>嘗試</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>đầu tiên</text>
+    <mp3>GUID_PHRASE_17_5.mp3</mp3>
+    <vocabulary>đầu</vocabulary>
+    <chinese>（頭/開始）</chinese>
+    <vocabulary>tiên</vocabulary>
+    <chinese>（先（構詞））</chinese>
+    <chinesePhrase>前面的</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>không</text>
+    <mp3>GUID_PHRASE_17_6.mp3</mp3>
+    <vocabulary>không</vocabulary>
+    <chinese>（不）</chinese>
+    <chinesePhrase>未</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>đạt</text>
+    <mp3>GUID_PHRASE_17_7.mp3</mp3>
+    <vocabulary>đạt</vocabulary>
+    <chinese>（達到）</chinese>
+    <chinesePhrase>達到</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>kỷ lục</text>
+    <mp3>GUID_PHRASE_17_8.mp3</mp3>
+    <vocabulary>kỷ lục</vocabulary>
+    <chinese>（紀錄）</chinese>
+    <chinesePhrase>紀錄</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>nhưng</text>
+    <mp3>GUID_PHRASE_17_9.mp3</mp3>
+    <vocabulary>nhưng</vocabulary>
+    <chinese>（但是）</chinese>
+    <chinesePhrase>但</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>ở</text>
+    <mp3>GUID_PHRASE_17_10.mp3</mp3>
+    <vocabulary>ở</vocabulary>
+    <chinese>（在）</chinese>
+    <chinesePhrase>在</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>lần</text>
+    <mp3>GUID_PHRASE_17_11.mp3</mp3>
+    <vocabulary>lần</vocabulary>
+    <chinese>（次）</chinese>
+    <chinesePhrase>次</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>thử</text>
+    <mp3>GUID_PHRASE_17_12.mp3</mp3>
+    <vocabulary>thử</vocabulary>
+    <chinese>（嘗試）</chinese>
+    <chinesePhrase>嘗試</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>thứ ba</text>
+    <mp3>GUID_PHRASE_17_13.mp3</mp3>
+    <vocabulary>thứ</vocabulary>
+    <chinese>（第）</chinese>
+    <vocabulary>ba</vocabulary>
+    <chinese>（三）</chinese>
+    <chinesePhrase>第三</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>anh</text>
+    <mp3>GUID_PHRASE_17_14.mp3</mp3>
+    <vocabulary>anh</vocabulary>
+    <chinese>（他）</chinese>
+    <chinesePhrase>他</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>đã</text>
+    <mp3>GUID_PHRASE_17_15.mp3</mp3>
+    <vocabulary>đã</vocabulary>
+    <chinese>（已經/過去）</chinese>
+    <chinesePhrase>已</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>phá</text>
+    <mp3>GUID_PHRASE_17_16.mp3</mp3>
+    <vocabulary>phá</vocabulary>
+    <chinese>（打破）</chinese>
+    <chinesePhrase>打破</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>kỷ lục</text>
+    <mp3>GUID_PHRASE_17_17.mp3</mp3>
+    <vocabulary>kỷ lục</vocabulary>
+    <chinese>（紀錄）</chinese>
+    <chinesePhrase>紀錄</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>với</text>
+    <mp3>GUID_PHRASE_17_18.mp3</mp3>
+    <vocabulary>với</vocabulary>
+    <chinese>（以）</chinese>
+    <chinesePhrase>以</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>khoảng cách</text>
+    <mp3>GUID_PHRASE_17_19.mp3</mp3>
+    <vocabulary>khoảng cách</vocabulary>
+    <chinese>（距離）</chinese>
+    <chinesePhrase>距離</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>đáng kinh ngạc</text>
+    <mp3>GUID_PHRASE_17_20.mp3</mp3>
+    <vocabulary>đáng</vocabulary>
+    <chinese>（值得/令人）</chinese>
+    <vocabulary>kinh ngạc</vocabulary>
+    <chinese>（驚訝）</chinese>
+    <chinesePhrase>驚人的</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>hơn</text>
+    <mp3>GUID_PHRASE_17_21.mp3</mp3>
+    <vocabulary>hơn</vocabulary>
+    <chinese>（超過）</chinese>
+    <chinesePhrase>超過</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>88</text>
+    <mp3>GUID_PHRASE_17_22.mp3</mp3>
+    <vocabulary>88</vocabulary>
+    <chinese>（八十八）</chinese>
+    <chinesePhrase>八十八</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>mét</text>
+    <mp3>GUID_PHRASE_17_23.mp3</mp3>
+    <vocabulary>mét</vocabulary>
+    <chinese>（公尺）</chinese>
+    <chinesePhrase>公尺</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>một chút</text>
+    <mp3>GUID_PHRASE_17_24.mp3</mp3>
+    <vocabulary>một</vocabulary>
+    <chinese>（一）</chinese>
+    <vocabulary>chút</vocabulary>
+    <chinese>（點點）</chinese>
+    <chinesePhrase>一點點</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>dài hơn</text>
+    <mp3>GUID_PHRASE_17_25.mp3</mp3>
+    <vocabulary>dài</vocabulary>
+    <chinese>（長）</chinese>
+    <vocabulary>hơn</vocabulary>
+    <chinese>（更/比…）</chinese>
+    <chinesePhrase>比…長/多</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>kỷ lục cũ</text>
+    <mp3>GUID_PHRASE_17_26.mp3</mp3>
+    <vocabulary>kỷ lục</vocabulary>
+    <chinese>（紀錄）</chinese>
+    <vocabulary>cũ</vocabulary>
+    <chinese>（舊的）</chinese>
+    <chinesePhrase>原紀錄</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>thêm</text>
+    <mp3>GUID_PHRASE_17_27.mp3</mp3>
+    <vocabulary>thêm</vocabulary>
+    <chinese>（再/多）</chinese>
+    <chinesePhrase>多了</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>11</text>
+    <mp3>GUID_PHRASE_17_28.mp3</mp3>
+    <vocabulary>11</vocabulary>
+    <chinese>（十一）</chinese>
+    <chinesePhrase>十一</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>mét</text>
+    <mp3>GUID_PHRASE_17_29.mp3</mp3>
+    <vocabulary>mét</vocabulary>
+    <chinese>（公尺）</chinese>
+    <chinesePhrase>公尺</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>他們的成就證明，即使是一個不起眼的童年娛樂活動，在正確方法下也能達到非凡的高度。</text>
+  <translate>Thành tựu của họ chứng minh rằng, ngay cả một hoạt động giải trí thời thơ ấu tưởng chừng bình thường cũng có thể đạt tới những tầm cao phi thường khi áp dụng đúng phương pháp.</translate>
+  <mp3>GUID_SENTENCE_18.mp3</mp3>
+
+  <phrase>
+    <text>Thành tựu</text>
+    <mp3>GUID_PHRASE_18_1.mp3</mp3>
+    <vocabulary>thành tựu</vocabulary>
+    <chinese>（成就）</chinese>
+    <chinesePhrase>成就</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_18_2.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>họ</text>
+    <mp3>GUID_PHRASE_18_3.mp3</mp3>
+    <vocabulary>họ</vocabulary>
+    <chinese>（他們）</chinese>
+    <chinesePhrase>他們</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>chứng minh</text>
+    <mp3>GUID_PHRASE_18_4.mp3</mp3>
+    <vocabulary>chứng</vocabulary>
+    <chinese>（證（構詞））</chinese>
+    <vocabulary>minh</vocabulary>
+    <chinese>（明/明確（構詞））</chinese>
+    <chinesePhrase>證明</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>rằng</text>
+    <mp3>GUID_PHRASE_18_5.mp3</mp3>
+    <vocabulary>rằng</vocabulary>
+    <chinese>（（引導從句：…））</chinese>
+    <chinesePhrase>…（引出內容）</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>ngay cả</text>
+    <mp3>GUID_PHRASE_18_6.mp3</mp3>
+    <vocabulary>ngay</vocabulary>
+    <chinese>（即/立刻（語義成分））</chinese>
+    <vocabulary>cả</vocabulary>
+    <chinese>（連/甚至）</chinese>
+    <chinesePhrase>即使</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>một</text>
+    <mp3>GUID_PHRASE_18_7.mp3</mp3>
+    <vocabulary>một</vocabulary>
+    <chinese>（一）</chinese>
+    <chinesePhrase>一個</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>hoạt động</text>
+    <mp3>GUID_PHRASE_18_8.mp3</mp3>
+    <vocabulary>hoạt</vocabulary>
+    <chinese>（活動（構詞））</chinese>
+    <vocabulary>động</vocabulary>
+    <chinese>（動（構詞））</chinese>
+    <chinesePhrase>活動</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>giải trí</text>
+    <mp3>GUID_PHRASE_18_9.mp3</mp3>
+    <vocabulary>giải trí</vocabulary>
+    <chinese>（娛樂）</chinese>
+    <chinesePhrase>娛樂</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>thời thơ ấu</text>
+    <mp3>GUID_PHRASE_18_10.mp3</mp3>
+    <vocabulary>thời</vocabulary>
+    <chinese>（時期）</chinese>
+    <vocabulary>thơ ấu</vocabulary>
+    <chinese>（童年）</chinese>
+    <chinesePhrase>童年時期</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>tưởng chừng</text>
+    <mp3>GUID_PHRASE_18_11.mp3</mp3>
+    <vocabulary>tưởng</vocabulary>
+    <chinese>（以為）</chinese>
+    <vocabulary>chừng</vocabulary>
+    <chinese>（似乎/彷彿）</chinese>
+    <chinesePhrase>看似</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>bình thường</text>
+    <mp3>GUID_PHRASE_18_12.mp3</mp3>
+    <vocabulary>bình</vocabulary>
+    <chinese>（平）</chinese>
+    <vocabulary>thường</vocabulary>
+    <chinese>（常（構詞））</chinese>
+    <chinesePhrase>不起眼/普通</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>cũng</text>
+    <mp3>GUID_PHRASE_18_13.mp3</mp3>
+    <vocabulary>cũng</vocabulary>
+    <chinese>（也）</chinese>
+    <chinesePhrase>也</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>có thể</text>
+    <mp3>GUID_PHRASE_18_14.mp3</mp3>
+    <vocabulary>có thể</vocabulary>
+    <chinese>（可以/能夠）</chinese>
+    <chinesePhrase>能夠</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>đạt tới</text>
+    <mp3>GUID_PHRASE_18_15.mp3</mp3>
+    <vocabulary>đạt</vocabulary>
+    <chinese>（達到）</chinese>
+    <vocabulary>tới</vocabulary>
+    <chinese>（到/至）</chinese>
+    <chinesePhrase>達到</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>những</text>
+    <mp3>GUID_PHRASE_18_16.mp3</mp3>
+    <vocabulary>những</vocabulary>
+    <chinese>（（複數：一些/那些））</chinese>
+    <chinesePhrase>（複數）</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>tầm cao</text>
+    <mp3>GUID_PHRASE_18_17.mp3</mp3>
+    <vocabulary>tầm</vocabulary>
+    <chinese>（層級/程度）</chinese>
+    <vocabulary>cao</vocabulary>
+    <chinese>（高）</chinese>
+    <chinesePhrase>高度</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>phi thường</text>
+    <mp3>GUID_PHRASE_18_18.mp3</mp3>
+    <vocabulary>phi</vocabulary>
+    <chinese>（非）</chinese>
+    <vocabulary>thường</vocabulary>
+    <chinese>（常）</chinese>
+    <chinesePhrase>非凡</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>khi</text>
+    <mp3>GUID_PHRASE_18_19.mp3</mp3>
+    <vocabulary>khi</vocabulary>
+    <chinese>（當…時）</chinese>
+    <chinesePhrase>在…下</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>áp dụng</text>
+    <mp3>GUID_PHRASE_18_20.mp3</mp3>
+    <vocabulary>áp</vocabulary>
+    <chinese>（施加/套用（構詞））</chinese>
+    <vocabulary>dụng</vocabulary>
+    <chinese>（用（構詞））</chinese>
+    <chinesePhrase>採用/應用</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>đúng</text>
+    <mp3>GUID_PHRASE_18_21.mp3</mp3>
+    <vocabulary>đúng</vocabulary>
+    <chinese>（正確）</chinese>
+    <chinesePhrase>正確</chinesePhrase>
+  </phrase>
+
+  <phrase>
+    <text>phương pháp</text>
+    <mp3>GUID_PHRASE_18_22.mp3</mp3>
+    <vocabulary>phương</vocabulary>
+    <chinese>（方（方法））</chinese>
+    <vocabulary>pháp</vocabulary>
+    <chinese>（法）</chinese>
+    <chinesePhrase>方法</chinesePhrase>
+  </phrase>
+</subject>
+
+</xml>

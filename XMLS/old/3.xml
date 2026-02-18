@@ -1,0 +1,194 @@
+<xml>
+  <subject>
+    <text>空氣中只要有百萬分之一的苯濃度，人類的嗅覺就能察覺到它的存在。</text>
+    <translate>Chỉ cần có nồng độ benzen ở mức một phần triệu trong không khí, khứu giác của con người đã có thể nhận ra sự tồn tại của nó.</translate>
+    <mp3>GUID_SENTENCE_5.mp3</mp3>
+
+    <phrase>
+      <text>Chỉ cần</text>
+      <mp3>GUID_PHRASE_5_1.mp3</mp3>
+      <vocabulary>Chỉ</vocabulary>
+      <chinese>（只）</chinese>
+      <vocabulary>cần</vocabulary>
+      <chinese>（需要/要）</chinese>
+      <chinesePhrase>只要</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>có</text>
+      <mp3>GUID_PHRASE_5_2.mp3</mp3>
+      <vocabulary>có</vocabulary>
+      <chinese>（有）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>nồng độ benzen</text>
+      <mp3>GUID_PHRASE_5_3.mp3</mp3>
+      <vocabulary>nồng độ</vocabulary>
+      <chinese>（濃度）</chinese>
+      <vocabulary>benzen</vocabulary>
+      <chinese>（苯）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>ở mức một phần triệu</text>
+      <mp3>GUID_PHRASE_5_4.mp3</mp3>
+      <vocabulary>ở mức</vocabulary>
+      <chinese>（在…水平/程度）</chinese>
+      <vocabulary>một</vocabulary>
+      <chinese>（一）</chinese>
+      <vocabulary>phần triệu</vocabulary>
+      <chinese>（百萬分之一）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>trong không khí</text>
+      <mp3>GUID_PHRASE_5_5.mp3</mp3>
+      <vocabulary>trong</vocabulary>
+      <chinese>（在…裡）</chinese>
+      <vocabulary>không khí</vocabulary>
+      <chinese>（空氣）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>khứu giác của con người</text>
+      <mp3>GUID_PHRASE_5_6.mp3</mp3>
+      <vocabulary>khứu giác</vocabulary>
+      <chinese>（嗅覺）</chinese>
+      <vocabulary>của</vocabulary>
+      <chinese>（的）</chinese>
+      <vocabulary>con người</vocabulary>
+      <chinese>（人類）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>đã có thể</text>
+      <mp3>GUID_PHRASE_5_7.mp3</mp3>
+      <vocabulary>đã</vocabulary>
+      <chinese>（已經）</chinese>
+      <vocabulary>có thể</vocabulary>
+      <chinese>（能/可以）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>nhận ra</text>
+      <mp3>GUID_PHRASE_5_8.mp3</mp3>
+      <vocabulary>nhận</vocabulary>
+      <chinese>（認/察覺）</chinese>
+      <vocabulary>ra</vocabulary>
+      <chinese>（出/到）</chinese>
+      <chinesePhrase>察覺/認出</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>sự tồn tại của nó</text>
+      <mp3>GUID_PHRASE_5_9.mp3</mp3>
+      <vocabulary>sự tồn tại</vocabulary>
+      <chinese>（存在）</chinese>
+      <vocabulary>của</vocabulary>
+      <chinese>（的）</chinese>
+      <vocabulary>nó</vocabulary>
+      <chinese>（它）</chinese>
+    </phrase>
+  </subject>
+
+  <subject>
+    <text>有趣的是，過去苯曾被用於鬍後水中，甚至用作去除咖啡中咖啡因的溶劑。</text>
+    <translate>Điều thú vị là, trước đây benzen từng được dùng trong nước sau khi cạo râu, thậm chí còn được sử dụng như dung môi để loại bỏ caffeine trong cà phê.</translate>
+    <mp3>GUID_SENTENCE_6.mp3</mp3>
+
+    <phrase>
+      <text>Điều thú vị là</text>
+      <mp3>GUID_PHRASE_6_1.mp3</mp3>
+      <vocabulary>Điều</vocabulary>
+      <chinese>（事情/事物）</chinese>
+      <vocabulary>thú vị</vocabulary>
+      <chinese>（有趣）</chinese>
+      <vocabulary>là</vocabulary>
+      <chinese>（是）</chinese>
+      <chinesePhrase>有趣的是</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>trước đây</text>
+      <mp3>GUID_PHRASE_6_2.mp3</mp3>
+      <vocabulary>trước</vocabulary>
+      <chinese>（以前/之前）</chinese>
+      <vocabulary>đây</vocabulary>
+      <chinese>（這裡/這）</chinese>
+      <chinesePhrase>過去/以前</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>benzen</text>
+      <mp3>GUID_PHRASE_6_3.mp3</mp3>
+      <vocabulary>benzen</vocabulary>
+      <chinese>（苯）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>từng được dùng</text>
+      <mp3>GUID_PHRASE_6_4.mp3</mp3>
+      <vocabulary>từng</vocabulary>
+      <chinese>（曾經）</chinese>
+      <vocabulary>được</vocabulary>
+      <chinese>（被）</chinese>
+      <vocabulary>dùng</vocabulary>
+      <chinese>（使用）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>trong nước sau khi cạo râu</text>
+      <mp3>GUID_PHRASE_6_5.mp3</mp3>
+      <vocabulary>trong</vocabulary>
+      <chinese>（在…裡）</chinese>
+      <vocabulary>nước</vocabulary>
+      <chinese>（水/液體）</chinese>
+      <vocabulary>sau khi</vocabulary>
+      <chinese>（之後）</chinese>
+      <vocabulary>cạo râu</vocabulary>
+      <chinese>（刮鬍子）</chinese>
+      <chinesePhrase>鬍後水</chinesePhrase>
+    </phrase>
+
+    <phrase>
+      <text>thậm chí</text>
+      <mp3>GUID_PHRASE_6_6.mp3</mp3>
+      <vocabulary>thậm chí</vocabulary>
+      <chinese>（甚至）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>còn được sử dụng</text>
+      <mp3>GUID_PHRASE_6_7.mp3</mp3>
+      <vocabulary>còn</vocabulary>
+      <chinese>（還/甚至）</chinese>
+      <vocabulary>được</vocabulary>
+      <chinese>（被）</chinese>
+      <vocabulary>sử dụng</vocabulary>
+      <chinese>（使用/用作）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>như dung môi</text>
+      <mp3>GUID_PHRASE_6_8.mp3</mp3>
+      <vocabulary>như</vocabulary>
+      <chinese>（如/作為）</chinese>
+      <vocabulary>dung môi</vocabulary>
+      <chinese>（溶劑）</chinese>
+    </phrase>
+
+    <phrase>
+      <text>để loại bỏ caffeine</text>
+      <mp3>GUID_PHRASE_6_9.mp3</mp3>
+      <vocabulary>để</vocabulary>
+      <chinese>（為了）</chinese>
+      <vocabulary>loại bỏ</vocabulary>
+      <chinese>（去除/消除）</chinese>
+      <vocabulary>caffeine</vocabulary>
+      <chinese>（咖啡因）</chinese>
+    </phrase>
+
+
+  </subject>
+  </xml>

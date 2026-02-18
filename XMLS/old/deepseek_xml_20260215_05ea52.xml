@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <!-- 標題：30秒熱門新聞 -->
+  <subject>
+    <text>30秒熱門新聞：客車在梂堅橋附近猛烈燃燒；觀賞會發光的馬形吉祥物</text>
+    <translate>Bản tin 30s Nóng: Xe khách cháy dữ dội gần cầu Cổ Chiên; Ngắm linh vật ngựa 'phát sáng'</translate>
+    <mp3>subject_title_001_guid.mp3</mp3>
+
+    <!-- 詞組分析1：30秒熱門新聞 -->
+    <phrase>
+      <text>Bản tin 30s Nóng</text>
+      <mp3>phrase_bantin30s_guid.mp3</mp3>
+      <vocabulary>bản tin</vocabulary>
+      <chinese>（名）新聞/簡報</chinese>
+      <vocabulary>30s</vocabulary>
+      <chinese>30秒</chinese>
+      <vocabulary>nóng</vocabulary>
+      <chinese>（形）熱門/新鮮</chinese>
+      <chinesePhrase>30秒熱門新聞</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析2：客車在梂堅橋附近猛烈燃燒 -->
+    <phrase>
+      <text>Xe khách cháy dữ dội gần cầu Cổ Chiên</text>
+      <mp3>phrase_xekhach_chay_guid.mp3</mp3>
+      <vocabulary>xe khách</vocabulary>
+      <chinese>（名）客車</chinese>
+      <vocabulary>cháy</vocabulary>
+      <chinese>（動）燃燒</chinese>
+      <vocabulary>dữ dội</vocabulary>
+      <chinese>（形）猛烈/劇烈</chinese>
+      <vocabulary>gần</vocabulary>
+      <chinese>（介）附近</chinese>
+      <vocabulary>cầu Cổ Chiên</vocabulary>
+      <chinese>（名）梂堅橋</chinese>
+      <chinesePhrase>客車在梂堅橋附近猛烈燃燒</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析3：觀賞會發光的馬形吉祥物 -->
+    <phrase>
+      <text>Ngắm linh vật ngựa 'phát sáng'</text>
+      <mp3>phrase_ngam_linhvat_guid.mp3</mp3>
+      <vocabulary>ngắm</vocabulary>
+      <chinese>（動）觀賞</chinese>
+      <vocabulary>linh vật</vocabulary>
+      <chinese>（名）吉祥物</chinese>
+      <vocabulary>ngựa</vocabulary>
+      <chinese>（名）馬</chinese>
+      <vocabulary>phát sáng</vocabulary>
+      <chinese>（動）發光</chinese>
+      <chinesePhrase>觀賞會發光的馬形吉祥物</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 新聞第一段：女子騎機車闖平交道被火車撞 -->
+  <subject>
+    <text>2月8日上午，一段記錄一名女子騎機車試圖闖越已放下的平交道欄杆，然後被火車撞飛的影片在社交網路上流傳。</text>
+    <translate>Sáng 8-2, đoạn clip ghi lại cảnh một phụ nữ đi xe máy cố gắng lao qua đường sắt dù cần chắn đã hạ, rồi bị tàu hỏa tông văng được lan truyền trên mạng xã hội.</translate>
+    <mp3>subject_news1_001_guid.mp3</mp3>
+
+    <!-- 詞組分析4：2月8日上午 -->
+    <phrase>
+      <text>Sáng 8-2</text>
+      <mp3>phrase_sang82_guid.mp3</mp3>
+      <vocabulary>sáng</vocabulary>
+      <chinese>（名）上午</chinese>
+      <vocabulary>8-2</vocabulary>
+      <chinese>2月8日</chinese>
+      <chinesePhrase>2月8日上午</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析5：一段記錄...的影片 -->
+    <phrase>
+      <text>đoạn clip ghi lại cảnh</text>
+      <mp3>phrase_doanclip_ghilai_guid.mp3</mp3>
+      <vocabulary>đoạn clip</vocabulary>
+      <chinese>（名）影片片段</chinese>
+      <vocabulary>ghi lại</vocabulary>
+      <chinese>（動）記錄</chinese>
+      <vocabulary>cảnh</vocabulary>
+      <chinese>（名）景象/畫面</chinese>
+      <chinesePhrase>一段記錄...的影片</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析6：一名女子騎機車 -->
+    <phrase>
+      <text>một phụ nữ đi xe máy</text>
+      <mp3>phrase_phunu_dixemay_guid.mp3</mp3>
+      <vocabulary>một</vocabulary>
+      <chinese>（數）一</chinese>
+      <vocabulary>phụ nữ</vocabulary>
+      <chinese>（名）婦女/女子</chinese>
+      <vocabulary>đi</vocabulary>
+      <chinese>（動）騎/去</chinese>
+      <vocabulary>xe máy</vocabulary>
+      <chinese>（名）機車</chinese>
+      <chinesePhrase>一名騎機車的女子</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析7：試圖闖越已放下的平交道欄杆 -->
+    <phrase>
+      <text>cố gắng lao qua đường sắt dù cần chắn đã hạ</text>
+      <mp3>phrase_cogang_laoqua_guid.mp3</mp3>
+      <vocabulary>cố gắng</vocabulary>
+      <chinese>（動）試圖/努力</chinese>
+      <vocabulary>lao qua</vocabulary>
+      <chinese>（動）闖越/衝過</chinese>
+      <vocabulary>đường sắt</vocabulary>
+      <chinese>（名）鐵路</chinese>
+      <vocabulary>dù</vocabulary>
+      <chinese>（連）儘管</chinese>
+      <vocabulary>cần chắn</vocabulary>
+      <chinese>（名）欄杆</chinese>
+      <vocabulary>đã hạ</vocabulary>
+      <chinese>已放下</chinese>
+      <chinesePhrase>試圖闖越已放下欄杆的鐵路</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析8：被火車撞飛 -->
+    <phrase>
+      <text>bị tàu hỏa tông văng</text>
+      <mp3>phrase_bitauhoa_tongvang_guid.mp3</mp3>
+      <vocabulary>bị</vocabulary>
+      <chinese>（助）被</chinese>
+      <vocabulary>tàu hỏa</vocabulary>
+      <chinese>（名）火車</chinese>
+      <vocabulary>tông</vocabulary>
+      <chinese>（動）撞</chinese>
+      <vocabulary>văng</vocabulary>
+      <chinese>（動）飛濺/彈飛</chinese>
+      <chinesePhrase>被火車撞飛</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析9：在社交網路上流傳 -->
+    <phrase>
+      <text>được lan truyền trên mạng xã hội</text>
+      <mp3>phrase_lantruyen_mangxahoi_guid.mp3</mp3>
+      <vocabulary>được</vocabulary>
+      <chinese>（助）被/得到</chinese>
+      <vocabulary>lan truyền</vocabulary>
+      <chinese>（動）流傳</chinese>
+      <vocabulary>trên</vocabulary>
+      <chinese>（介）在...上</chinese>
+      <vocabulary>mạng xã hội</vocabulary>
+      <chinese>（名）社交網路</chinese>
+      <chinesePhrase>在社交網路上流傳</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 新聞第二段：交通警察局的說明 -->
+  <subject>
+    <text>據交通警察局稱，事件發生於2月7日上午約7點17分，在河內-胡志明市鐵路線的（同文-府里區間）。</text>
+    <translate>Theo Cục Cảnh sát giao thông, sự việc xảy ra khoảng 7h17 ngày 7-2 tại (khu gian Đồng Văn - Phủ Lý) tuyến đường sắt Hà Nội - TP.HCM.</translate>
+    <mp3>subject_news2_001_guid.mp3</mp3>
+
+    <!-- 詞組分析10：據交通警察局稱 -->
+    <phrase>
+      <text>Theo Cục Cảnh sát giao thông</text>
+      <mp3>phrase_theo_cucCSGT_guid.mp3</mp3>
+      <vocabulary>Theo</vocabulary>
+      <chinese>（介）根據/據</chinese>
+      <vocabulary>Cục</vocabulary>
+      <chinese>（名）局</chinese>
+      <vocabulary>Cảnh sát giao thông</vocabulary>
+      <chinese>（名）交通警察</chinese>
+      <chinesePhrase>據交通警察局</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析11：事件發生於 -->
+    <phrase>
+      <text>sự việc xảy ra</text>
+      <mp3>phrase_suviec_xayra_guid.mp3</mp3>
+      <vocabulary>sự việc</vocabulary>
+      <chinese>（名）事件</chinese>
+      <vocabulary>xảy ra</vocabulary>
+      <chinese>（動）發生</chinese>
+      <chinesePhrase>事件發生</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析12：約7點17分2月7日 -->
+    <phrase>
+      <text>khoảng 7h17 ngày 7-2</text>
+      <mp3>phrase_khoang7h17_ngay72_guid.mp3</mp3>
+      <vocabulary>khoảng</vocabulary>
+      <chinese>（副）大約</chinese>
+      <vocabulary>7h17</vocabulary>
+      <chinese>7點17分</chinese>
+      <vocabulary>ngày 7-2</vocabulary>
+      <chinese>2月7日</chinese>
+      <chinesePhrase>約2月7日上午7點17分</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析13：在同文-府里區間 -->
+    <phrase>
+      <text>tại (khu gian Đồng Văn - Phủ Lý)</text>
+      <mp3>phrase_khugian_DongVanPhuLy_guid.mp3</mp3>
+      <vocabulary>tại</vocabulary>
+      <chinese>（介）在</chinese>
+      <vocabulary>khu gian</vocabulary>
+      <chinese>（名）區間</chinese>
+      <vocabulary>Đồng Văn</vocabulary>
+      <chinese>（名）同文</chinese>
+      <vocabulary>Phủ Lý</vocabulary>
+      <chinese>（名）府里</chinese>
+      <chinesePhrase>在同文-府里區間</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析14：河內-胡志明市鐵路線 -->
+    <phrase>
+      <text>tuyến đường sắt Hà Nội - TP.HCM</text>
+      <mp3>phrase_tuyenduongsat_HaNoiHCM_guid.mp3</mp3>
+      <vocabulary>tuyến</vocabulary>
+      <chinese>（名）線路</chinese>
+      <vocabulary>đường sắt</vocabulary>
+      <chinese>（名）鐵路</chinese>
+      <vocabulary>Hà Nội</vocabulary>
+      <chinese>（名）河內</chinese>
+      <vocabulary>TP.HCM</vocabulary>
+      <chinese>（名）胡志明市</chinese>
+      <chinesePhrase>河內-胡志明市鐵路線</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 新聞第三段：地點所屬區域 -->
+  <subject>
+    <text>該區域屬於寧平省同文坊轄區。</text>
+    <translate>Khu vực trên thuộc địa bàn phường Đồng Văn, tỉnh Ninh Bình.</translate>
+    <mp3>subject_news3_001_guid.mp3</mp3>
+
+    <!-- 詞組分析15：該區域 -->
+    <phrase>
+      <text>Khu vực trên</text>
+      <mp3>phrase_khuvuc_tren_guid.mp3</mp3>
+      <vocabulary>Khu vực</vocabulary>
+      <chinese>（名）區域</chinese>
+      <vocabulary>trên</vocabulary>
+      <chinese>（形）上述/該</chinese>
+      <chinesePhrase>上述區域/該區域</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析16：屬於寧平省同文坊轄區 -->
+    <phrase>
+      <text>thuộc địa bàn phường Đồng Văn, tỉnh Ninh Bình</text>
+      <mp3>phrase_thuoc_diaban_guid.mp3</mp3>
+      <vocabulary>thuộc</vocabulary>
+      <chinese>（動）屬於</chinese>
+      <vocabulary>địa bàn</vocabulary>
+      <chinese>（名）轄區/地盤</chinese>
+      <vocabulary>phường Đồng Văn</vocabulary>
+      <chinese>（名）同文坊</chinese>
+      <vocabulary>tỉnh Ninh Bình</vocabulary>
+      <chinese>（名）寧平省</chinese>
+      <chinesePhrase>屬於寧平省同文坊轄區</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 新聞第四段：事發當時情況 -->
+  <subject>
+    <text>當時，由司機M.（名字縮寫）駕駛的SE7次列車正往河內-胡志明市方向行駛。</text>
+    <translate>Lúc này, tàu SE7 do lái tàu M. (tên viết tắt) điều khiển chạy hướng Hà Nội - TP.HCM.</translate>
+    <mp3>subject_news4_001_guid.mp3</mp3>
+
+    <!-- 詞組分析17：當時 -->
+    <phrase>
+      <text>Lúc này</text>
+      <mp3>phrase_luc_nay_guid.mp3</mp3>
+      <vocabulary>Lúc</vocabulary>
+      <chinese>（名）時候</chinese>
+      <vocabulary>này</vocabulary>
+      <chinese>（代）這</chinese>
+      <chinesePhrase>此時/當時</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析18：SE7次列車 -->
+    <phrase>
+      <text>tàu SE7</text>
+      <mp3>phrase_tau_SE7_guid.mp3</mp3>
+      <vocabulary>tàu</vocabulary>
+      <chinese>（名）列車</chinese>
+      <vocabulary>SE7</vocabulary>
+      <chinese>SE7次</chinese>
+      <chinesePhrase>SE7次列車</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析19：由司機M.駕駛 -->
+    <phrase>
+      <text>do lái tàu M. (tên viết tắt) điều khiển</text>
+      <mp3>phrase_do_laitauM_guid.mp3</mp3>
+      <vocabulary>do</vocabulary>
+      <chinese>（介）由</chinese>
+      <vocabulary>lái tàu</vocabulary>
+      <chinese>（名）司機</chinese>
+      <vocabulary>M.</vocabulary>
+      <chinese>M.（名字縮寫）</chinese>
+      <vocabulary>tên viết tắt</vocabulary>
+      <chinese>（名）名字縮寫</chinese>
+      <vocabulary>điều khiển</vocabulary>
+      <chinese>（動）駕駛/控制</chinese>
+      <chinesePhrase>由司機M.駕駛</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析20：往河內-胡志明市方向行駛 -->
+    <phrase>
+      <text>chạy hướng Hà Nội - TP.HCM</text>
+      <mp3>phrase_chay_huong_HaNoiHCM_guid.mp3</mp3>
+      <vocabulary>chạy</vocabulary>
+      <chinese>（動）行駛/跑</chinese>
+      <vocabulary>hướng</vocabulary>
+      <chinese>（名）方向</chinese>
+      <chinesePhrase>往河內-胡志明市方向行駛</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 新聞第五段：撞擊發生 -->
+  <subject>
+    <text>當到達上述地點時，火車撞上了由H女士（名字縮寫，33歲，住河內美德鄉艾村）駕駛試圖穿越鐵路的摩托車。</text>
+    <translate>Khi tới địa điểm trên, tàu hỏa đâm va vào người điều khiển mô tô do chị H. (tên viết tắt, 33 tuổi, trú tại thôn Ải, xã Mỹ Đức, Hà Nội) điều khiển vượt qua đường sắt.</translate>
+    <mp3>subject_news5_001_guid.mp3</mp3>
+
+    <!-- 詞組分析21：當到達上述地點時 -->
+    <phrase>
+      <text>Khi tới địa điểm trên</text>
+      <mp3>phrase_khi_toi_diadiem_guid.mp3</mp3>
+      <vocabulary>Khi</vocabulary>
+      <chinese>（連）當...時</chinese>
+      <vocabulary>tới</vocabulary>
+      <chinese>（動）到達</chinese>
+      <vocabulary>địa điểm trên</vocabulary>
+      <chinese>上述地點</chinese>
+      <chinesePhrase>當到達上述地點時</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析22：火車撞上了 -->
+    <phrase>
+      <text>tàu hỏa đâm va vào</text>
+      <mp3>phrase_tauhoa_damva_guid.mp3</mp3>
+      <vocabulary>tàu hỏa</vocabulary>
+      <chinese>（名）火車</chinese>
+      <vocabulary>đâm va</vocabulary>
+      <chinese>（動）撞擊</chinese>
+      <vocabulary>vào</vocabulary>
+      <chinese>（介）進入/上</chinese>
+      <chinesePhrase>火車撞上了</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析23：由H女士駕駛的摩托車 -->
+    <phrase>
+      <text>người điều khiển mô tô do chị H. điều khiển</text>
+      <mp3>phrase_nguoidieukhien_moto_guid.mp3</mp3>
+      <vocabulary>người điều khiển</vocabulary>
+      <chinese>（名）駕駛者</chinese>
+      <vocabulary>mô tô</vocabulary>
+      <chinese>（名）摩托車</chinese>
+      <vocabulary>do</vocabulary>
+      <chinese>（介）由</chinese>
+      <vocabulary>chị H.</vocabulary>
+      <chinese>H女士</chinese>
+      <chinesePhrase>由H女士駕駛的摩托車</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析24：33歲，住河內美德鄉艾村 -->
+    <phrase>
+      <text>33 tuổi, trú tại thôn Ải, xã Mỹ Đức, Hà Nội</text>
+      <mp3>phrase_33tuoi_thonAi_guid.mp3</mp3>
+      <vocabulary>33 tuổi</vocabulary>
+      <chinese>33歲</chinese>
+      <vocabulary>trú tại</vocabulary>
+      <chinese>（動）居住於</chinese>
+      <vocabulary>thôn Ải</vocabulary>
+      <chinese>（名）艾村</chinese>
+      <vocabulary>xã Mỹ Đức</vocabulary>
+      <chinese>（名）美德鄉</chinese>
+      <vocabulary>Hà Nội</vocabulary>
+      <chinese>（名）河內</chinese>
+      <chinesePhrase>33歲，住河內美德鄉艾村</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析25：穿越鐵路 -->
+    <phrase>
+      <text>vượt qua đường sắt</text>
+      <mp3>phrase_vuotqua_duongsat_guid.mp3</mp3>
+      <vocabulary>vượt qua</vocabulary>
+      <chinese>（動）越過/穿越</chinese>
+      <vocabulary>đường sắt</vocabulary>
+      <chinese>（名）鐵路</chinese>
+      <chinesePhrase>穿越鐵路</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 新聞第六段：原因分析 -->
+  <subject>
+    <text>職能部門認定女司機在鐵路與道路交叉口，當鈴聲、警示燈、安全欄杆已放下時，未注意觀察。</text>
+    <translate>Cơ quan chức năng nhận định nữ tài xế không chú ý quan sát tại nơi giao nhau với đường sắt khi chuông, đèn cảnh báo, cần chắn an toàn qua đường sắt đã hạ.</translate>
+    <mp3>subject_news6_001_guid.mp3</mp3>
+
+    <!-- 詞組分析26：職能部門認定 -->
+    <phrase>
+      <text>Cơ quan chức năng nhận định</text>
+      <mp3>phrase_coquan_chucnang_guid.mp3</mp3>
+      <vocabulary>Cơ quan chức năng</vocabulary>
+      <chinese>（名）職能部門</chinese>
+      <vocabulary>nhận định</vocabulary>
+      <chinese>（動）認定/判斷</chinese>
+      <chinesePhrase>職能部門認定</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析27：女司機未注意觀察 -->
+    <phrase>
+      <text>nữ tài xế không chú ý quan sát</text>
+      <mp3>phrase_nutaixe_khongchuy_guid.mp3</mp3>
+      <vocabulary>nữ tài xế</vocabulary>
+      <chinese>（名）女司機</chinese>
+      <vocabulary>không</vocabulary>
+      <chinese>（副）不/沒有</chinese>
+      <vocabulary>chú ý quan sát</vocabulary>
+      <chinese>（動）注意觀察</chinese>
+      <chinesePhrase>女司機未注意觀察</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析28：在鐵路與道路交叉口 -->
+    <phrase>
+      <text>tại nơi giao nhau với đường sắt</text>
+      <mp3>phrase_noi_giaonhau_guid.mp3</mp3>
+      <vocabulary>tại</vocabulary>
+      <chinese>（介）在</chinese>
+      <vocabulary>nơi giao nhau</vocabulary>
+      <chinese>（名）交叉口</chinese>
+      <vocabulary>với</vocabulary>
+      <chinese>（介）與</chinese>
+      <vocabulary>đường sắt</vocabulary>
+      <chinese>（名）鐵路</chinese>
+      <chinesePhrase>在鐵路交叉口</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析29：當鈴聲、警示燈、安全欄杆已放下時 -->
+    <phrase>
+      <text>khi chuông, đèn cảnh báo, cần chắn an toàn qua đường sắt đã hạ</text>
+      <mp3>phrase_chuong_den_canchan_guid.mp3</mp3>
+      <vocabulary>khi</vocabulary>
+      <chinese>（連）當...時</chinese>
+      <vocabulary>chuông</vocabulary>
+      <chinese>（名）鈴聲</chinese>
+      <vocabulary>đèn cảnh báo</vocabulary>
+      <chinese>（名）警示燈</chinese>
+      <vocabulary>cần chắn an toàn</vocabulary>
+      <chinese>（名）安全欄杆</chinese>
+      <vocabulary>qua đường sắt</vocabulary>
+      <chinese>平交道/穿越鐵路</chinese>
+      <vocabulary>đã hạ</vocabulary>
+      <chinese>已放下</chinese>
+      <chinesePhrase>當平交道的鈴聲、警示燈、安全欄杆已放下時</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 新聞第七段：事故後果 -->
+  <subject>
+    <text>事故導致H女士受傷被送往醫院急救，摩托車被撞飛變形。事故導致SE7次列車比原行程延誤14分鐘。</text>
+    <translate>Hậu quả vụ tai nạn khiến chị H. bị thương được đưa đi cấp cứu tại bệnh viện, chiếc xe mô tô bị húc văng biến dạng. Sự cố khiến đoàn tàu SE7 chậm tàu 14 phút so với hành trình ban đầu.</translate>
+    <mp3>subject_news7_001_guid.mp3</mp3>
+
+    <!-- 詞組分析30：事故導致 -->
+    <phrase>
+      <text>Hậu quả vụ tai nạn khiến</text>
+      <mp3>phrase_hauqua_vutainan_guid.mp3</mp3>
+      <vocabulary>Hậu quả</vocabulary>
+      <chinese>（名）後果</chinese>
+      <vocabulary>vụ tai nạn</vocabulary>
+      <chinese>（名）事故</chinese>
+      <vocabulary>khiến</vocabulary>
+      <chinese>（動）導致/使</chinese>
+      <chinesePhrase>事故導致</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析31：H女士受傷被送往醫院急救 -->
+    <phrase>
+      <text>chị H. bị thương được đưa đi cấp cứu tại bệnh viện</text>
+      <mp3>phrase_chih_bithuong_guid.mp3</mp3>
+      <vocabulary>chị H.</vocabulary>
+      <chinese>H女士</chinese>
+      <vocabulary>bị thương</vocabulary>
+      <chinese>（動）受傷</chinese>
+      <vocabulary>được đưa đi</vocabulary>
+      <chinese>被送往</chinese>
+      <vocabulary>cấp cứu</vocabulary>
+      <chinese>（動）急救</chinese>
+      <vocabulary>tại bệnh viện</vocabulary>
+      <chinese>在醫院</chinese>
+      <chinesePhrase>H女士受傷被送往醫院急救</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析32：摩托車被撞飛變形 -->
+    <phrase>
+      <text>chiếc xe mô tô bị húc văng biến dạng</text>
+      <mp3>phrase_xemoto_bihucvang_guid.mp3</mp3>
+      <vocabulary>chiếc xe mô tô</vocabulary>
+      <chinese>（名）摩托車</chinese>
+      <vocabulary>bị húc văng</vocabulary>
+      <chinese>被撞飛</chinese>
+      <vocabulary>biến dạng</vocabulary>
+      <chinese>（動）變形</chinese>
+      <chinesePhrase>摩托車被撞飛變形</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析33：事故導致SE7次列車延誤 -->
+    <phrase>
+      <text>Sự cố khiến đoàn tàu SE7 chậm tàu</text>
+      <mp3>phrase_suco_khien_chamtau_guid.mp3</mp3>
+      <vocabulary>Sự cố</vocabulary>
+      <chinese>（名）事故/事件</chinese>
+      <vocabulary>khiến</vocabulary>
+      <chinese>（動）導致</chinese>
+      <vocabulary>đoàn tàu SE7</vocabulary>
+      <chinese>SE7次列車</chinese>
+      <vocabulary>chậm tàu</vocabulary>
+      <chinese>（動）列車延誤</chinese>
+      <chinesePhrase>事故導致SE7次列車延誤</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析34：比原行程延誤14分鐘 -->
+    <phrase>
+      <text>14 phút so với hành trình ban đầu</text>
+      <mp3>phrase_14phut_so voi_guid.mp3</mp3>
+      <vocabulary>14 phút</vocabulary>
+      <chinese>14分鐘</chinese>
+      <vocabulary>so với</vocabulary>
+      <chinese>（介）相比/與...相比</chinese>
+      <vocabulary>hành trình ban đầu</vocabulary>
+      <chinese>（名）原行程</chinese>
+      <chinesePhrase>比原行程延誤14分鐘</chinesePhrase>
+    </phrase>
+  </subject>
+</xml>

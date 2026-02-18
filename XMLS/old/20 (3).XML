@@ -1,0 +1,2066 @@
+<xml>
+
+<subject>
+  <text>汽油甜甜的氣味能吸引許多人。</text>
+  <translate>Mùi xăng ngọt ngào có thể thu hút nhiều người.</translate>
+  <mp3>GUID_SENTENCE_1.mp3</mp3>
+
+  <phrase>
+    <text>mùi</text>
+    <mp3>GUID_PHRASE_1_1.mp3</mp3>
+    <vocabulary>mùi</vocabulary>
+    <chinese>（氣味）</chinese>
+    <chinesePhrase>氣味</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>xăng</text>
+    <mp3>GUID_PHRASE_1_2.mp3</mp3>
+    <vocabulary>xăng</vocabulary>
+    <chinese>（汽油）</chinese>
+    <chinesePhrase>汽油</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>ngọt ngào</text>
+    <mp3>GUID_PHRASE_1_3.mp3</mp3>
+    <vocabulary>ngọt</vocabulary>
+    <chinese>（甜）</chinese>
+    <vocabulary>ngào</vocabulary>
+    <chinese>（柔和、加強語感）</chinese>
+    <chinesePhrase>甜甜的</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>có thể</text>
+    <mp3>GUID_PHRASE_1_4.mp3</mp3>
+    <vocabulary>có thể</vocabulary>
+    <chinese>（可以、能夠）</chinese>
+    <chinesePhrase>能</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>thu hút</text>
+    <mp3>GUID_PHRASE_1_5.mp3</mp3>
+    <vocabulary>thu</vocabulary>
+    <chinese>（吸收）</chinese>
+    <vocabulary>hút</vocabulary>
+    <chinese>（吸引）</chinese>
+    <chinesePhrase>吸引</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>nhiều người</text>
+    <mp3>GUID_PHRASE_1_6.mp3</mp3>
+    <vocabulary>nhiều</vocabulary>
+    <chinese>（許多）</chinese>
+    <vocabulary>người</vocabulary>
+    <chinese>（人）</chinese>
+    <chinesePhrase>許多人</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>汽油是由化合物混合製成的，其中包括苯，苯被添加以提升汽油的性能和燃油效率。</text>
+  <translate>Xăng được tạo thành từ hỗn hợp các hợp chất, trong đó có benzen; benzen được thêm vào để nâng cao hiệu suất và hiệu quả nhiên liệu của xăng.</translate>
+  <mp3>GUID_SENTENCE_2.mp3</mp3>
+
+  <phrase>
+    <text>xăng</text>
+    <mp3>GUID_PHRASE_2_1.mp3</mp3>
+    <vocabulary>xăng</vocabulary>
+    <chinese>（汽油）</chinese>
+    <chinesePhrase>汽油</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>được</text>
+    <mp3>GUID_PHRASE_2_2.mp3</mp3>
+    <vocabulary>được</vocabulary>
+    <chinese>（被（被動））</chinese>
+    <chinesePhrase>被</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>tạo thành</text>
+    <mp3>GUID_PHRASE_2_3.mp3</mp3>
+    <vocabulary>tạo</vocabulary>
+    <chinese>（造成、製造）</chinese>
+    <vocabulary>thành</vocabulary>
+    <chinese>（成為）</chinese>
+    <chinesePhrase>製成</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>từ</text>
+    <mp3>GUID_PHRASE_2_4.mp3</mp3>
+    <vocabulary>từ</vocabulary>
+    <chinese>（由、從）</chinese>
+    <chinesePhrase>由</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>hỗn hợp</text>
+    <mp3>GUID_PHRASE_2_5.mp3</mp3>
+    <vocabulary>hỗn</vocabulary>
+    <chinese>（混）</chinese>
+    <vocabulary>hợp</vocabulary>
+    <chinese>（合）</chinese>
+    <chinesePhrase>混合物</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>các hợp chất</text>
+    <mp3>GUID_PHRASE_2_6.mp3</mp3>
+    <vocabulary>các</vocabulary>
+    <chinese>（複數）</chinese>
+    <vocabulary>hợp chất</vocabulary>
+    <chinese>（化合物）</chinese>
+    <chinesePhrase>化合物（複數）</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>trong đó</text>
+    <mp3>GUID_PHRASE_2_7.mp3</mp3>
+    <vocabulary>trong</vocabulary>
+    <chinese>（在…中）</chinese>
+    <vocabulary>đó</vocabulary>
+    <chinese>（其中）</chinese>
+    <chinesePhrase>其中</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>có</text>
+    <mp3>GUID_PHRASE_2_8.mp3</mp3>
+    <vocabulary>có</vocabulary>
+    <chinese>（有、包含）</chinese>
+    <chinesePhrase>包括</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>benzen</text>
+    <mp3>GUID_PHRASE_2_9.mp3</mp3>
+    <vocabulary>benzen</vocabulary>
+    <chinese>（苯）</chinese>
+    <chinesePhrase>苯</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>được thêm vào</text>
+    <mp3>GUID_PHRASE_2_10.mp3</mp3>
+    <vocabulary>được</vocabulary>
+    <chinese>（被）</chinese>
+    <vocabulary>thêm</vocabulary>
+    <chinese>（添加）</chinese>
+    <vocabulary>vào</vocabulary>
+    <chinese>（進入）</chinese>
+    <chinesePhrase>被添加</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>để</text>
+    <mp3>GUID_PHRASE_2_11.mp3</mp3>
+    <vocabulary>để</vocabulary>
+    <chinese>（為了、用來）</chinese>
+    <chinesePhrase>以</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>nâng cao</text>
+    <mp3>GUID_PHRASE_2_12.mp3</mp3>
+    <vocabulary>nâng</vocabulary>
+    <chinese>（提升）</chinese>
+    <vocabulary>cao</vocabulary>
+    <chinese>（高）</chinese>
+    <chinesePhrase>提升</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>hiệu suất</text>
+    <mp3>GUID_PHRASE_2_13.mp3</mp3>
+    <vocabulary>hiệu suất</vocabulary>
+    <chinese>（性能）</chinese>
+    <chinesePhrase>性能</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>và</text>
+    <mp3>GUID_PHRASE_2_14.mp3</mp3>
+    <vocabulary>và</vocabulary>
+    <chinese>（和）</chinese>
+    <chinesePhrase>和</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>hiệu quả nhiên liệu</text>
+    <mp3>GUID_PHRASE_2_15.mp3</mp3>
+    <vocabulary>hiệu quả</vocabulary>
+    <chinese>（效率）</chinese>
+    <vocabulary>nhiên liệu</vocabulary>
+    <chinese>（燃料）</chinese>
+    <chinesePhrase>燃油效率</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_2_16.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>xăng</text>
+    <mp3>GUID_PHRASE_2_17.mp3</mp3>
+    <vocabulary>xăng</vocabulary>
+    <chinese>（汽油）</chinese>
+    <chinesePhrase>汽油</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>這種化學物質是造成汽油獨特氣味的主因。</text>
+  <translate>Chất hóa học này là nguyên nhân chính tạo ra mùi đặc trưng của xăng.</translate>
+  <mp3>GUID_SENTENCE_3.mp3</mp3>
+
+  <phrase>
+    <text>chất hóa học</text>
+    <mp3>GUID_PHRASE_3_1.mp3</mp3>
+    <vocabulary>chất</vocabulary>
+    <chinese>（物質）</chinese>
+    <vocabulary>hóa học</vocabulary>
+    <chinese>（化學的）</chinese>
+    <chinesePhrase>化學物質</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>này</text>
+    <mp3>GUID_PHRASE_3_2.mp3</mp3>
+    <vocabulary>này</vocabulary>
+    <chinese>（這個）</chinese>
+    <chinesePhrase>這種</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>là</text>
+    <mp3>GUID_PHRASE_3_3.mp3</mp3>
+    <vocabulary>là</vocabulary>
+    <chinese>（是）</chinese>
+    <chinesePhrase>是</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>nguyên nhân chính</text>
+    <mp3>GUID_PHRASE_3_4.mp3</mp3>
+    <vocabulary>nguyên nhân</vocabulary>
+    <chinese>（原因）</chinese>
+    <vocabulary>chính</vocabulary>
+    <chinese>（主要）</chinese>
+    <chinesePhrase>主因</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>tạo ra</text>
+    <mp3>GUID_PHRASE_3_5.mp3</mp3>
+    <vocabulary>tạo</vocabulary>
+    <chinese>（造成）</chinese>
+    <vocabulary>ra</vocabulary>
+    <chinese>（出來）</chinese>
+    <chinesePhrase>造成</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>mùi</text>
+    <mp3>GUID_PHRASE_3_6.mp3</mp3>
+    <vocabulary>mùi</vocabulary>
+    <chinese>（氣味）</chinese>
+    <chinesePhrase>氣味</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>đặc trưng</text>
+    <mp3>GUID_PHRASE_3_7.mp3</mp3>
+    <vocabulary>đặc</vocabulary>
+    <chinese>（特）</chinese>
+    <vocabulary>trưng</vocabulary>
+    <chinese>（徵/特徵）</chinese>
+    <chinesePhrase>獨特的</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_3_8.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>xăng</text>
+    <mp3>GUID_PHRASE_3_9.mp3</mp3>
+    <vocabulary>xăng</vocabulary>
+    <chinese>（汽油）</chinese>
+    <chinesePhrase>汽油</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>苯具有天然的甜味，而我們的嗅覺對其非常敏感。</text>
+  <translate>Benzen có vị ngọt tự nhiên, và khứu giác của chúng ta rất nhạy với nó.</translate>
+  <mp3>GUID_SENTENCE_4.mp3</mp3>
+
+  <phrase>
+    <text>benzen</text>
+    <mp3>GUID_PHRASE_4_1.mp3</mp3>
+    <vocabulary>benzen</vocabulary>
+    <chinese>（苯）</chinese>
+    <chinesePhrase>苯</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>có</text>
+    <mp3>GUID_PHRASE_4_2.mp3</mp3>
+    <vocabulary>có</vocabulary>
+    <chinese>（具有）</chinese>
+    <chinesePhrase>具有</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>vị ngọt</text>
+    <mp3>GUID_PHRASE_4_3.mp3</mp3>
+    <vocabulary>vị</vocabulary>
+    <chinese>（味道）</chinese>
+    <vocabulary>ngọt</vocabulary>
+    <chinese>（甜）</chinese>
+    <chinesePhrase>甜味</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>tự nhiên</text>
+    <mp3>GUID_PHRASE_4_4.mp3</mp3>
+    <vocabulary>tự</vocabulary>
+    <chinese>（自）</chinese>
+    <vocabulary>nhiên</vocabulary>
+    <chinese>（然）</chinese>
+    <chinesePhrase>天然的</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>và</text>
+    <mp3>GUID_PHRASE_4_5.mp3</mp3>
+    <vocabulary>và</vocabulary>
+    <chinese>（而、並且）</chinese>
+    <chinesePhrase>而</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>khứu giác</text>
+    <mp3>GUID_PHRASE_4_6.mp3</mp3>
+    <vocabulary>khứu</vocabulary>
+    <chinese>（嗅）</chinese>
+    <vocabulary>giác</vocabulary>
+    <chinese>（覺）</chinese>
+    <chinesePhrase>嗅覺</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_4_7.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>chúng ta</text>
+    <mp3>GUID_PHRASE_4_8.mp3</mp3>
+    <vocabulary>chúng ta</vocabulary>
+    <chinese>（我們）</chinese>
+    <chinesePhrase>我們</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>rất</text>
+    <mp3>GUID_PHRASE_4_9.mp3</mp3>
+    <vocabulary>rất</vocabulary>
+    <chinese>（非常）</chinese>
+    <chinesePhrase>非常</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>nhạy</text>
+    <mp3>GUID_PHRASE_4_10.mp3</mp3>
+    <vocabulary>nhạy</vocabulary>
+    <chinese>（敏感）</chinese>
+    <chinesePhrase>敏感</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>với</text>
+    <mp3>GUID_PHRASE_4_11.mp3</mp3>
+    <vocabulary>với</vocabulary>
+    <chinese>（對、對於）</chinese>
+    <chinesePhrase>對</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>nó</text>
+    <mp3>GUID_PHRASE_4_12.mp3</mp3>
+    <vocabulary>nó</vocabulary>
+    <chinese>（它）</chinese>
+    <chinesePhrase>它</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>空氣中只要有百萬分之一（編按：縮寫為 ppm，是一種衡量物質在混合物中濃度的單位）的苯濃度，</text>
+  <translate>Chỉ cần nồng độ benzen trong không khí ở mức một phần triệu (ppm),</translate>
+  <mp3>GUID_SENTENCE_5.mp3</mp3>
+
+  <phrase>
+    <text>chỉ cần</text>
+    <mp3>GUID_PHRASE_5_1.mp3</mp3>
+    <vocabulary>chỉ</vocabulary>
+    <chinese>（只）</chinese>
+    <vocabulary>cần</vocabulary>
+    <chinese>（需要/只要）</chinese>
+    <chinesePhrase>只要</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>nồng độ</text>
+    <mp3>GUID_PHRASE_5_2.mp3</mp3>
+    <vocabulary>nồng</vocabulary>
+    <chinese>（濃）</chinese>
+    <vocabulary>độ</vocabulary>
+    <chinese>（度）</chinese>
+    <chinesePhrase>濃度</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>benzen</text>
+    <mp3>GUID_PHRASE_5_3.mp3</mp3>
+    <vocabulary>benzen</vocabulary>
+    <chinese>（苯）</chinese>
+    <chinesePhrase>苯</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>trong</text>
+    <mp3>GUID_PHRASE_5_4.mp3</mp3>
+    <vocabulary>trong</vocabulary>
+    <chinese>（在…中）</chinese>
+    <chinesePhrase>在</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>không khí</text>
+    <mp3>GUID_PHRASE_5_5.mp3</mp3>
+    <vocabulary>không khí</vocabulary>
+    <chinese>（空氣）</chinese>
+    <chinesePhrase>空氣中</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>ở mức</text>
+    <mp3>GUID_PHRASE_5_6.mp3</mp3>
+    <vocabulary>ở</vocabulary>
+    <chinese>（在）</chinese>
+    <vocabulary>mức</vocabulary>
+    <chinese>（水平/程度）</chinese>
+    <chinesePhrase>達到…程度</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>một phần triệu</text>
+    <mp3>GUID_PHRASE_5_7.mp3</mp3>
+    <vocabulary>một</vocabulary>
+    <chinese>（一）</chinese>
+    <vocabulary>phần</vocabulary>
+    <chinese>（份/部分）</chinese>
+    <vocabulary>triệu</vocabulary>
+    <chinese>（百萬）</chinese>
+    <chinesePhrase>百萬分之一</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>ppm</text>
+    <mp3>GUID_PHRASE_5_8.mp3</mp3>
+    <vocabulary>ppm</vocabulary>
+    <chinese>（ppm（百萬分之一的縮寫））</chinese>
+    <chinesePhrase>ppm</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>人類的嗅覺就能察覺到它的存在。</text>
+  <translate>khứu giác của con người cũng có thể nhận ra sự tồn tại của nó.</translate>
+  <mp3>GUID_SENTENCE_6.mp3</mp3>
+
+  <phrase>
+    <text>khứu giác</text>
+    <mp3>GUID_PHRASE_6_1.mp3</mp3>
+    <vocabulary>khứu giác</vocabulary>
+    <chinese>（嗅覺）</chinese>
+    <chinesePhrase>嗅覺</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_6_2.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>con người</text>
+    <mp3>GUID_PHRASE_6_3.mp3</mp3>
+    <vocabulary>con người</vocabulary>
+    <chinese>（人類）</chinese>
+    <chinesePhrase>人類</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>cũng</text>
+    <mp3>GUID_PHRASE_6_4.mp3</mp3>
+    <vocabulary>cũng</vocabulary>
+    <chinese>（就/也）</chinese>
+    <chinesePhrase>就</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>có thể</text>
+    <mp3>GUID_PHRASE_6_5.mp3</mp3>
+    <vocabulary>có thể</vocabulary>
+    <chinese>（能夠）</chinese>
+    <chinesePhrase>能</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>nhận ra</text>
+    <mp3>GUID_PHRASE_6_6.mp3</mp3>
+    <vocabulary>nhận</vocabulary>
+    <chinese>（察覺）</chinese>
+    <vocabulary>ra</vocabulary>
+    <chinese>（出來）</chinese>
+    <chinesePhrase>察覺到</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>sự tồn tại</text>
+    <mp3>GUID_PHRASE_6_7.mp3</mp3>
+    <vocabulary>sự</vocabulary>
+    <chinese>（名詞化）</chinese>
+    <vocabulary>tồn tại</vocabulary>
+    <chinese>（存在）</chinese>
+    <chinesePhrase>存在</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_6_8.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>nó</text>
+    <mp3>GUID_PHRASE_6_9.mp3</mp3>
+    <vocabulary>nó</vocabulary>
+    <chinese>（它）</chinese>
+    <chinesePhrase>它</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>有趣的是，過去苯曾被用於鬍後水中，甚至用作去除咖啡中咖啡因的溶劑。</text>
+  <translate>Thú vị là, trước đây benzen từng được dùng trong nước hoa sau cạo râu, thậm chí còn được dùng làm dung môi để loại bỏ caffeine trong cà phê.</translate>
+  <mp3>GUID_SENTENCE_7.mp3</mp3>
+
+  <phrase>
+    <text>thú vị</text>
+    <mp3>GUID_PHRASE_7_1.mp3</mp3>
+    <vocabulary>thú vị</vocabulary>
+    <chinese>（有趣）</chinese>
+    <chinesePhrase>有趣</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>là</text>
+    <mp3>GUID_PHRASE_7_2.mp3</mp3>
+    <vocabulary>là</vocabulary>
+    <chinese>（是（引出說明））</chinese>
+    <chinesePhrase>（引出）</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>trước đây</text>
+    <mp3>GUID_PHRASE_7_3.mp3</mp3>
+    <vocabulary>trước</vocabulary>
+    <chinese>（之前）</chinese>
+    <vocabulary>đây</vocabulary>
+    <chinese>（此/這）</chinese>
+    <chinesePhrase>過去</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>benzen</text>
+    <mp3>GUID_PHRASE_7_4.mp3</mp3>
+    <vocabulary>benzen</vocabulary>
+    <chinese>（苯）</chinese>
+    <chinesePhrase>苯</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>từng</text>
+    <mp3>GUID_PHRASE_7_5.mp3</mp3>
+    <vocabulary>từng</vocabulary>
+    <chinese>（曾經）</chinese>
+    <chinesePhrase>曾</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>được</text>
+    <mp3>GUID_PHRASE_7_6.mp3</mp3>
+    <vocabulary>được</vocabulary>
+    <chinese>（被）</chinese>
+    <chinesePhrase>被</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>dùng</text>
+    <mp3>GUID_PHRASE_7_7.mp3</mp3>
+    <vocabulary>dùng</vocabulary>
+    <chinese>（使用）</chinese>
+    <chinesePhrase>用</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>trong</text>
+    <mp3>GUID_PHRASE_7_8.mp3</mp3>
+    <vocabulary>trong</vocabulary>
+    <chinese>（在…中）</chinese>
+    <chinesePhrase>在…中</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>nước hoa</text>
+    <mp3>GUID_PHRASE_7_9.mp3</mp3>
+    <vocabulary>nước hoa</vocabulary>
+    <chinese>（香水/香氛）</chinese>
+    <chinesePhrase>鬍後水/香氛</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>sau cạo râu</text>
+    <mp3>GUID_PHRASE_7_10.mp3</mp3>
+    <vocabulary>sau</vocabulary>
+    <chinese>（之後）</chinese>
+    <vocabulary>cạo</vocabulary>
+    <chinese>（刮）</chinese>
+    <vocabulary>râu</vocabulary>
+    <chinese>（鬍子）</chinese>
+    <chinesePhrase>刮鬍後</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>thậm chí</text>
+    <mp3>GUID_PHRASE_7_11.mp3</mp3>
+    <vocabulary>thậm</vocabulary>
+    <chinese>（甚至）</chinese>
+    <vocabulary>chí</vocabulary>
+    <chinese>（更）</chinese>
+    <chinesePhrase>甚至</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>còn</text>
+    <mp3>GUID_PHRASE_7_12.mp3</mp3>
+    <vocabulary>còn</vocabulary>
+    <chinese>（還）</chinese>
+    <chinesePhrase>還</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>được</text>
+    <mp3>GUID_PHRASE_7_13.mp3</mp3>
+    <vocabulary>được</vocabulary>
+    <chinese>（被）</chinese>
+    <chinesePhrase>被</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>dùng</text>
+    <mp3>GUID_PHRASE_7_14.mp3</mp3>
+    <vocabulary>dùng</vocabulary>
+    <chinese>（用）</chinese>
+    <chinesePhrase>用</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>làm</text>
+    <mp3>GUID_PHRASE_7_15.mp3</mp3>
+    <vocabulary>làm</vocabulary>
+    <chinese>（作為）</chinese>
+    <chinesePhrase>作為</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>dung môi</text>
+    <mp3>GUID_PHRASE_7_16.mp3</mp3>
+    <vocabulary>dung</vocabulary>
+    <chinese>（溶（構詞））</chinese>
+    <vocabulary>môi</vocabulary>
+    <chinese>（媒/介（構詞））</chinese>
+    <chinesePhrase>溶劑</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>để</text>
+    <mp3>GUID_PHRASE_7_17.mp3</mp3>
+    <vocabulary>để</vocabulary>
+    <chinese>（用來）</chinese>
+    <chinesePhrase>用來</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>loại bỏ</text>
+    <mp3>GUID_PHRASE_7_18.mp3</mp3>
+    <vocabulary>loại</vocabulary>
+    <chinese>（去除）</chinese>
+    <vocabulary>bỏ</vocabulary>
+    <chinese>（去掉）</chinese>
+    <chinesePhrase>去除</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>caffeine</text>
+    <mp3>GUID_PHRASE_7_19.mp3</mp3>
+    <vocabulary>caffeine</vocabulary>
+    <chinese>（咖啡因）</chinese>
+    <chinesePhrase>咖啡因</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>trong</text>
+    <mp3>GUID_PHRASE_7_20.mp3</mp3>
+    <vocabulary>trong</vocabulary>
+    <chinese>（在…中）</chinese>
+    <chinesePhrase>在</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>cà phê</text>
+    <mp3>GUID_PHRASE_7_21.mp3</mp3>
+    <vocabulary>cà phê</vocabulary>
+    <chinese>（咖啡）</chinese>
+    <chinesePhrase>咖啡中</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>然而，由於苯被歸類為已知的致癌物，且苯以高濃度或長時間吸入時存在潛在風險，所以這些應用很短暫。</text>
+  <translate>Tuy nhiên, vì benzen được xếp vào nhóm chất gây ung thư đã biết, và việc hít benzen ở nồng độ cao hoặc trong thời gian dài có rủi ro tiềm ẩn, nên những ứng dụng đó chỉ tồn tại trong thời gian ngắn.</translate>
+  <mp3>GUID_SENTENCE_8.mp3</mp3>
+
+  <phrase>
+    <text>tuy nhiên</text>
+    <mp3>GUID_PHRASE_8_1.mp3</mp3>
+    <vocabulary>tuy nhiên</vocabulary>
+    <chinese>（然而）</chinese>
+    <chinesePhrase>然而</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>vì</text>
+    <mp3>GUID_PHRASE_8_2.mp3</mp3>
+    <vocabulary>vì</vocabulary>
+    <chinese>（因為）</chinese>
+    <chinesePhrase>由於</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>benzen</text>
+    <mp3>GUID_PHRASE_8_3.mp3</mp3>
+    <vocabulary>benzen</vocabulary>
+    <chinese>（苯）</chinese>
+    <chinesePhrase>苯</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>được</text>
+    <mp3>GUID_PHRASE_8_4.mp3</mp3>
+    <vocabulary>được</vocabulary>
+    <chinese>（被）</chinese>
+    <chinesePhrase>被</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>xếp vào</text>
+    <mp3>GUID_PHRASE_8_5.mp3</mp3>
+    <vocabulary>xếp</vocabulary>
+    <chinese>（歸類）</chinese>
+    <vocabulary>vào</vocabulary>
+    <chinese>（進入）</chinese>
+    <chinesePhrase>歸類為</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>nhóm</text>
+    <mp3>GUID_PHRASE_8_6.mp3</mp3>
+    <vocabulary>nhóm</vocabulary>
+    <chinese>（群/類）</chinese>
+    <chinesePhrase>類</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>chất gây ung thư</text>
+    <mp3>GUID_PHRASE_8_7.mp3</mp3>
+    <vocabulary>chất</vocabulary>
+    <chinese>（物質）</chinese>
+    <vocabulary>gây</vocabulary>
+    <chinese>（造成）</chinese>
+    <vocabulary>ung thư</vocabulary>
+    <chinese>（癌症）</chinese>
+    <chinesePhrase>致癌物</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>đã biết</text>
+    <mp3>GUID_PHRASE_8_8.mp3</mp3>
+    <vocabulary>đã</vocabulary>
+    <chinese>（已經/已）</chinese>
+    <vocabulary>biết</vocabulary>
+    <chinese>（知道）</chinese>
+    <chinesePhrase>已知的</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>và</text>
+    <mp3>GUID_PHRASE_8_9.mp3</mp3>
+    <vocabulary>và</vocabulary>
+    <chinese>（且）</chinese>
+    <chinesePhrase>且</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>việc hít</text>
+    <mp3>GUID_PHRASE_8_10.mp3</mp3>
+    <vocabulary>việc</vocabulary>
+    <chinese>（事情/名詞化）</chinese>
+    <vocabulary>hít</vocabulary>
+    <chinese>（吸入）</chinese>
+    <chinesePhrase>吸入（這件事）</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>ở</text>
+    <mp3>GUID_PHRASE_8_11.mp3</mp3>
+    <vocabulary>ở</vocabulary>
+    <chinese>（在/以）</chinese>
+    <chinesePhrase>以</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>nồng độ cao</text>
+    <mp3>GUID_PHRASE_8_12.mp3</mp3>
+    <vocabulary>nồng độ</vocabulary>
+    <chinese>（濃度）</chinese>
+    <vocabulary>cao</vocabulary>
+    <chinese>（高）</chinese>
+    <chinesePhrase>高濃度</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>hoặc</text>
+    <mp3>GUID_PHRASE_8_13.mp3</mp3>
+    <vocabulary>hoặc</vocabulary>
+    <chinese>（或）</chinese>
+    <chinesePhrase>或</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>trong</text>
+    <mp3>GUID_PHRASE_8_14.mp3</mp3>
+    <vocabulary>trong</vocabulary>
+    <chinese>（在…中）</chinese>
+    <chinesePhrase>在</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>thời gian dài</text>
+    <mp3>GUID_PHRASE_8_15.mp3</mp3>
+    <vocabulary>thời gian</vocabulary>
+    <chinese>（時間）</chinese>
+    <vocabulary>dài</vocabulary>
+    <chinese>（長）</chinese>
+    <chinesePhrase>長時間</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>có</text>
+    <mp3>GUID_PHRASE_8_16.mp3</mp3>
+    <vocabulary>có</vocabulary>
+    <chinese>（有）</chinese>
+    <chinesePhrase>存在</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>rủi ro tiềm ẩn</text>
+    <mp3>GUID_PHRASE_8_17.mp3</mp3>
+    <vocabulary>rủi ro</vocabulary>
+    <chinese>（風險）</chinese>
+    <vocabulary>tiềm ẩn</vocabulary>
+    <chinese>（潛在）</chinese>
+    <chinesePhrase>潛在風險</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>nên</text>
+    <mp3>GUID_PHRASE_8_18.mp3</mp3>
+    <vocabulary>nên</vocabulary>
+    <chinese>（所以）</chinese>
+    <chinesePhrase>所以</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>những ứng dụng đó</text>
+    <mp3>GUID_PHRASE_8_19.mp3</mp3>
+    <vocabulary>những</vocabulary>
+    <chinese>（複數）</chinese>
+    <vocabulary>ứng dụng</vocabulary>
+    <chinese>（應用）</chinese>
+    <vocabulary>đó</vocabulary>
+    <chinese>（那些）</chinese>
+    <chinesePhrase>這些應用</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>chỉ</text>
+    <mp3>GUID_PHRASE_8_20.mp3</mp3>
+    <vocabulary>chỉ</vocabulary>
+    <chinese>（只）</chinese>
+    <chinesePhrase>僅</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>tồn tại</text>
+    <mp3>GUID_PHRASE_8_21.mp3</mp3>
+    <vocabulary>tồn tại</vocabulary>
+    <chinese>（存在）</chinese>
+    <chinesePhrase>存在</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>trong thời gian ngắn</text>
+    <mp3>GUID_PHRASE_8_22.mp3</mp3>
+    <vocabulary>trong</vocabulary>
+    <chinese>（在）</chinese>
+    <vocabulary>thời gian</vocabulary>
+    <chinese>（時間）</chinese>
+    <vocabulary>ngắn</vocabulary>
+    <chinese>（短）</chinese>
+    <chinesePhrase>短暫</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>有關汽油味會吸引人，有兩個理論試圖解釋其中的原因。</text>
+  <translate>Về việc mùi xăng có thể hấp dẫn con người, có hai giả thuyết cố gắng giải thích nguyên nhân của điều đó.</translate>
+  <mp3>GUID_SENTENCE_9.mp3</mp3>
+
+  <phrase>
+    <text>về</text>
+    <mp3>GUID_PHRASE_9_1.mp3</mp3>
+    <vocabulary>về</vocabulary>
+    <chinese>（關於）</chinese>
+    <chinesePhrase>有關</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>việc</text>
+    <mp3>GUID_PHRASE_9_2.mp3</mp3>
+    <vocabulary>việc</vocabulary>
+    <chinese>（…這件事）</chinese>
+    <chinesePhrase>…這件事</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>mùi xăng</text>
+    <mp3>GUID_PHRASE_9_3.mp3</mp3>
+    <vocabulary>mùi</vocabulary>
+    <chinese>（氣味）</chinese>
+    <vocabulary>xăng</vocabulary>
+    <chinese>（汽油）</chinese>
+    <chinesePhrase>汽油味</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>có thể</text>
+    <mp3>GUID_PHRASE_9_4.mp3</mp3>
+    <vocabulary>có thể</vocabulary>
+    <chinese>（可能/能夠）</chinese>
+    <chinesePhrase>會</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>hấp dẫn</text>
+    <mp3>GUID_PHRASE_9_5.mp3</mp3>
+    <vocabulary>hấp</vocabulary>
+    <chinese>（吸）</chinese>
+    <vocabulary>dẫn</vocabulary>
+    <chinese>（引）</chinese>
+    <chinesePhrase>吸引</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>con người</text>
+    <mp3>GUID_PHRASE_9_6.mp3</mp3>
+    <vocabulary>con người</vocabulary>
+    <chinese>（人類）</chinese>
+    <chinesePhrase>人</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>có</text>
+    <mp3>GUID_PHRASE_9_7.mp3</mp3>
+    <vocabulary>có</vocabulary>
+    <chinese>（有）</chinese>
+    <chinesePhrase>有</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>hai</text>
+    <mp3>GUID_PHRASE_9_8.mp3</mp3>
+    <vocabulary>hai</vocabulary>
+    <chinese>（兩）</chinese>
+    <chinesePhrase>兩個</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>giả thuyết</text>
+    <mp3>GUID_PHRASE_9_9.mp3</mp3>
+    <vocabulary>giả</vocabulary>
+    <chinese>（假）</chinese>
+    <vocabulary>thuyết</vocabulary>
+    <chinese>（說/理論）</chinese>
+    <chinesePhrase>理論</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>cố gắng</text>
+    <mp3>GUID_PHRASE_9_10.mp3</mp3>
+    <vocabulary>cố</vocabulary>
+    <chinese>（努力）</chinese>
+    <vocabulary>gắng</vocabulary>
+    <chinese>（努力）</chinese>
+    <chinesePhrase>試圖</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>giải thích</text>
+    <mp3>GUID_PHRASE_9_11.mp3</mp3>
+    <vocabulary>giải</vocabulary>
+    <chinese>（解）</chinese>
+    <vocabulary>thích</vocabulary>
+    <chinese>（釋）</chinese>
+    <chinesePhrase>解釋</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>nguyên nhân</text>
+    <mp3>GUID_PHRASE_9_12.mp3</mp3>
+    <vocabulary>nguyên nhân</vocabulary>
+    <chinese>（原因）</chinese>
+    <chinesePhrase>原因</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_9_13.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>điều đó</text>
+    <mp3>GUID_PHRASE_9_14.mp3</mp3>
+    <vocabulary>điều</vocabulary>
+    <chinese>（事情）</chinese>
+    <vocabulary>đó</vocabulary>
+    <chinese>（那）</chinese>
+    <chinesePhrase>其中</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>第一個理論圍繞著氣味能喚起鮮明記憶的力量。</text>
+  <translate>Giả thuyết thứ nhất xoay quanh sức mạnh của mùi hương trong việc gợi lên những ký ức sống động.</translate>
+  <mp3>GUID_SENTENCE_10.mp3</mp3>
+
+  <phrase>
+    <text>giả thuyết</text>
+    <mp3>GUID_PHRASE_10_1.mp3</mp3>
+    <vocabulary>giả thuyết</vocabulary>
+    <chinese>（理論）</chinese>
+    <chinesePhrase>理論</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>thứ nhất</text>
+    <mp3>GUID_PHRASE_10_2.mp3</mp3>
+    <vocabulary>thứ</vocabulary>
+    <chinese>（第）</chinese>
+    <vocabulary>nhất</vocabulary>
+    <chinese>（一）</chinese>
+    <chinesePhrase>第一個</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>xoay quanh</text>
+    <mp3>GUID_PHRASE_10_3.mp3</mp3>
+    <vocabulary>xoay</vocabulary>
+    <chinese>（轉/圍繞）</chinese>
+    <vocabulary>quanh</vocabulary>
+    <chinese>（周圍）</chinese>
+    <chinesePhrase>圍繞著</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>sức mạnh</text>
+    <mp3>GUID_PHRASE_10_4.mp3</mp3>
+    <vocabulary>sức</vocabulary>
+    <chinese>（力）</chinese>
+    <vocabulary>mạnh</vocabulary>
+    <chinese>（強）</chinese>
+    <chinesePhrase>力量</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_10_5.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>mùi hương</text>
+    <mp3>GUID_PHRASE_10_6.mp3</mp3>
+    <vocabulary>mùi</vocabulary>
+    <chinese>（氣味）</chinese>
+    <vocabulary>hương</vocabulary>
+    <chinese>（香）</chinese>
+    <chinesePhrase>氣味</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>trong</text>
+    <mp3>GUID_PHRASE_10_7.mp3</mp3>
+    <vocabulary>trong</vocabulary>
+    <chinese>（在…中）</chinese>
+    <chinesePhrase>在</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>việc</text>
+    <mp3>GUID_PHRASE_10_8.mp3</mp3>
+    <vocabulary>việc</vocabulary>
+    <chinese>（…這件事）</chinese>
+    <chinesePhrase>…方面</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>gợi lên</text>
+    <mp3>GUID_PHRASE_10_9.mp3</mp3>
+    <vocabulary>gợi</vocabulary>
+    <chinese>（勾起）</chinese>
+    <vocabulary>lên</vocabulary>
+    <chinese>（起來）</chinese>
+    <chinesePhrase>喚起</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>những ký ức</text>
+    <mp3>GUID_PHRASE_10_10.mp3</mp3>
+    <vocabulary>những</vocabulary>
+    <chinese>（複數）</chinese>
+    <vocabulary>ký ức</vocabulary>
+    <chinese>（記憶）</chinese>
+    <chinesePhrase>記憶</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>sống động</text>
+    <mp3>GUID_PHRASE_10_11.mp3</mp3>
+    <vocabulary>sống</vocabulary>
+    <chinese>（活）</chinese>
+    <vocabulary>động</vocabulary>
+    <chinese>（動）</chinese>
+    <chinesePhrase>鮮明的</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>氣味可以引發特定的回憶，將熟悉的香氣與懷舊的經歷聯想在一起。</text>
+  <translate>Mùi hương có thể khơi gợi những hồi ức cụ thể, liên kết hương thơm quen thuộc với những trải nghiệm hoài niệm.</translate>
+  <mp3>GUID_SENTENCE_11.mp3</mp3>
+
+  <phrase>
+    <text>mùi hương</text>
+    <mp3>GUID_PHRASE_11_1.mp3</mp3>
+    <vocabulary>mùi</vocabulary>
+    <chinese>（氣味）</chinese>
+    <vocabulary>hương</vocabulary>
+    <chinese>（香）</chinese>
+    <chinesePhrase>氣味</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>có thể</text>
+    <mp3>GUID_PHRASE_11_2.mp3</mp3>
+    <vocabulary>có thể</vocabulary>
+    <chinese>（可以）</chinese>
+    <chinesePhrase>可以</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>khơi gợi</text>
+    <mp3>GUID_PHRASE_11_3.mp3</mp3>
+    <vocabulary>khơi</vocabulary>
+    <chinese>（挑起/引）</chinese>
+    <vocabulary>gợi</vocabulary>
+    <chinese>（勾起）</chinese>
+    <chinesePhrase>引發</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>những hồi ức</text>
+    <mp3>GUID_PHRASE_11_4.mp3</mp3>
+    <vocabulary>những</vocabulary>
+    <chinese>（複數）</chinese>
+    <vocabulary>hồi ức</vocabulary>
+    <chinese>（回憶）</chinese>
+    <chinesePhrase>回憶</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>cụ thể</text>
+    <mp3>GUID_PHRASE_11_5.mp3</mp3>
+    <vocabulary>cụ thể</vocabulary>
+    <chinese>（特定的）</chinese>
+    <chinesePhrase>特定的</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>liên kết</text>
+    <mp3>GUID_PHRASE_11_6.mp3</mp3>
+    <vocabulary>liên</vocabulary>
+    <chinese>（連）</chinese>
+    <vocabulary>kết</vocabulary>
+    <chinese>（結）</chinese>
+    <chinesePhrase>聯想/連結</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>hương thơm</text>
+    <mp3>GUID_PHRASE_11_7.mp3</mp3>
+    <vocabulary>hương</vocabulary>
+    <chinese>（香）</chinese>
+    <vocabulary>thơm</vocabulary>
+    <chinese>（香）</chinese>
+    <chinesePhrase>香氣</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>quen thuộc</text>
+    <mp3>GUID_PHRASE_11_8.mp3</mp3>
+    <vocabulary>quen</vocabulary>
+    <chinese>（熟）</chinese>
+    <vocabulary>thuộc</vocabulary>
+    <chinese>（熟悉）</chinese>
+    <chinesePhrase>熟悉的</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>với</text>
+    <mp3>GUID_PHRASE_11_9.mp3</mp3>
+    <vocabulary>với</vocabulary>
+    <chinese>（與）</chinese>
+    <chinesePhrase>與</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>những trải nghiệm</text>
+    <mp3>GUID_PHRASE_11_10.mp3</mp3>
+    <vocabulary>những</vocabulary>
+    <chinese>（複數）</chinese>
+    <vocabulary>trải nghiệm</vocabulary>
+    <chinese>（經歷）</chinese>
+    <chinesePhrase>經歷</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>hoài niệm</text>
+    <mp3>GUID_PHRASE_11_11.mp3</mp3>
+    <vocabulary>hoài</vocabulary>
+    <chinese>（懷）</chinese>
+    <vocabulary>niệm</vocabulary>
+    <chinese>（念）</chinese>
+    <chinesePhrase>懷舊的</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>第二個理論則著重於苯對神經受器的物理效應。</text>
+  <translate>Giả thuyết thứ hai tập trung vào tác động vật lý của benzen lên các thụ thể thần kinh.</translate>
+  <mp3>GUID_SENTENCE_12.mp3</mp3>
+
+  <phrase>
+    <text>giả thuyết</text>
+    <mp3>GUID_PHRASE_12_1.mp3</mp3>
+    <vocabulary>giả thuyết</vocabulary>
+    <chinese>（理論）</chinese>
+    <chinesePhrase>理論</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>thứ hai</text>
+    <mp3>GUID_PHRASE_12_2.mp3</mp3>
+    <vocabulary>thứ</vocabulary>
+    <chinese>（第）</chinese>
+    <vocabulary>hai</vocabulary>
+    <chinese>（二）</chinese>
+    <chinesePhrase>第二個</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>tập trung</text>
+    <mp3>GUID_PHRASE_12_3.mp3</mp3>
+    <vocabulary>tập</vocabulary>
+    <chinese>（聚）</chinese>
+    <vocabulary>trung</vocabulary>
+    <chinese>（中）</chinese>
+    <chinesePhrase>著重</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>vào</text>
+    <mp3>GUID_PHRASE_12_4.mp3</mp3>
+    <vocabulary>vào</vocabulary>
+    <chinese>（於）</chinese>
+    <chinesePhrase>於</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>tác động</text>
+    <mp3>GUID_PHRASE_12_5.mp3</mp3>
+    <vocabulary>tác</vocabulary>
+    <chinese>（作）</chinese>
+    <vocabulary>động</vocabulary>
+    <chinese>（動）</chinese>
+    <chinesePhrase>效應</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>vật lý</text>
+    <mp3>GUID_PHRASE_12_6.mp3</mp3>
+    <vocabulary>vật</vocabulary>
+    <chinese>（物）</chinese>
+    <vocabulary>lý</vocabulary>
+    <chinese>（理）</chinese>
+    <chinesePhrase>物理的</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_12_7.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>benzen</text>
+    <mp3>GUID_PHRASE_12_8.mp3</mp3>
+    <vocabulary>benzen</vocabulary>
+    <chinese>（苯）</chinese>
+    <chinesePhrase>苯</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>lên</text>
+    <mp3>GUID_PHRASE_12_9.mp3</mp3>
+    <vocabulary>lên</vocabulary>
+    <chinese>（對…）</chinese>
+    <chinesePhrase>對</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>các thụ thể</text>
+    <mp3>GUID_PHRASE_12_10.mp3</mp3>
+    <vocabulary>các</vocabulary>
+    <chinese>（複數）</chinese>
+    <vocabulary>thụ thể</vocabulary>
+    <chinese>（受器）</chinese>
+    <chinesePhrase>受器</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>thần kinh</text>
+    <mp3>GUID_PHRASE_12_11.mp3</mp3>
+    <vocabulary>thần</vocabulary>
+    <chinese>（神）</chinese>
+    <vocabulary>kinh</vocabulary>
+    <chinese>（經）</chinese>
+    <chinesePhrase>神經</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>吸入苯和其他碳氫化合物可以暫時抑制神經系統。</text>
+  <translate>Hít benzen và các hợp chất hydrocarbon khác có thể tạm thời ức chế hệ thần kinh.</translate>
+  <mp3>GUID_SENTENCE_13.mp3</mp3>
+
+  <phrase>
+    <text>hít</text>
+    <mp3>GUID_PHRASE_13_1.mp3</mp3>
+    <vocabulary>hít</vocabulary>
+    <chinese>（吸入）</chinese>
+    <chinesePhrase>吸入</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>benzen</text>
+    <mp3>GUID_PHRASE_13_2.mp3</mp3>
+    <vocabulary>benzen</vocabulary>
+    <chinese>（苯）</chinese>
+    <chinesePhrase>苯</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>và</text>
+    <mp3>GUID_PHRASE_13_3.mp3</mp3>
+    <vocabulary>và</vocabulary>
+    <chinese>（和）</chinese>
+    <chinesePhrase>和</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>các hợp chất</text>
+    <mp3>GUID_PHRASE_13_4.mp3</mp3>
+    <vocabulary>các</vocabulary>
+    <chinese>（複數）</chinese>
+    <vocabulary>hợp chất</vocabulary>
+    <chinese>（化合物）</chinese>
+    <chinesePhrase>化合物</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>hydrocarbon</text>
+    <mp3>GUID_PHRASE_13_5.mp3</mp3>
+    <vocabulary>hydrocarbon</vocabulary>
+    <chinese>（碳氫化合物）</chinese>
+    <chinesePhrase>碳氫化合物</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>khác</text>
+    <mp3>GUID_PHRASE_13_6.mp3</mp3>
+    <vocabulary>khác</vocabulary>
+    <chinese>（其他）</chinese>
+    <chinesePhrase>其他</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>có thể</text>
+    <mp3>GUID_PHRASE_13_7.mp3</mp3>
+    <vocabulary>có thể</vocabulary>
+    <chinese>（可以）</chinese>
+    <chinesePhrase>可以</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>tạm thời</text>
+    <mp3>GUID_PHRASE_13_8.mp3</mp3>
+    <vocabulary>tạm</vocabulary>
+    <chinese>（暫）</chinese>
+    <vocabulary>thời</vocabulary>
+    <chinese>（時）</chinese>
+    <chinesePhrase>暫時</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>ức chế</text>
+    <mp3>GUID_PHRASE_13_9.mp3</mp3>
+    <vocabulary>ức</vocabulary>
+    <chinese>（抑）</chinese>
+    <vocabulary>chế</vocabulary>
+    <chinese>（制）</chinese>
+    <chinesePhrase>抑制</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>hệ</text>
+    <mp3>GUID_PHRASE_13_10.mp3</mp3>
+    <vocabulary>hệ</vocabulary>
+    <chinese>（系統）</chinese>
+    <chinesePhrase>系統</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>thần kinh</text>
+    <mp3>GUID_PHRASE_13_11.mp3</mp3>
+    <vocabulary>thần kinh</vocabulary>
+    <chinese>（神經）</chinese>
+    <chinesePhrase>神經</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>這可能會產生一種類似於酒精或某些藥物效果的亢奮感。</text>
+  <translate>Điều này có thể tạo ra một cảm giác hưng phấn tương tự như tác dụng của rượu hoặc một số loại thuốc.</translate>
+  <mp3>GUID_SENTENCE_14.mp3</mp3>
+
+  <phrase>
+    <text>điều này</text>
+    <mp3>GUID_PHRASE_14_1.mp3</mp3>
+    <vocabulary>điều</vocabulary>
+    <chinese>（這件事）</chinese>
+    <vocabulary>này</vocabulary>
+    <chinese>（這）</chinese>
+    <chinesePhrase>這</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>có thể</text>
+    <mp3>GUID_PHRASE_14_2.mp3</mp3>
+    <vocabulary>có thể</vocabulary>
+    <chinese>（可能）</chinese>
+    <chinesePhrase>可能</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>tạo ra</text>
+    <mp3>GUID_PHRASE_14_3.mp3</mp3>
+    <vocabulary>tạo</vocabulary>
+    <chinese>（造成）</chinese>
+    <vocabulary>ra</vocabulary>
+    <chinese>（出來）</chinese>
+    <chinesePhrase>產生</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>một</text>
+    <mp3>GUID_PHRASE_14_4.mp3</mp3>
+    <vocabulary>một</vocabulary>
+    <chinese>（一）</chinese>
+    <chinesePhrase>一種</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>cảm giác</text>
+    <mp3>GUID_PHRASE_14_5.mp3</mp3>
+    <vocabulary>cảm</vocabulary>
+    <chinese>（感）</chinese>
+    <vocabulary>giác</vocabulary>
+    <chinese>（覺）</chinese>
+    <chinesePhrase>感覺</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>hưng phấn</text>
+    <mp3>GUID_PHRASE_14_6.mp3</mp3>
+    <vocabulary>hưng</vocabulary>
+    <chinese>（興）</chinese>
+    <vocabulary>phấn</vocabulary>
+    <chinese>（奮）</chinese>
+    <chinesePhrase>亢奮</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>tương tự</text>
+    <mp3>GUID_PHRASE_14_7.mp3</mp3>
+    <vocabulary>tương</vocabulary>
+    <chinese>（相）</chinese>
+    <vocabulary>tự</vocabulary>
+    <chinese>（似）</chinese>
+    <chinesePhrase>類似</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>như</text>
+    <mp3>GUID_PHRASE_14_8.mp3</mp3>
+    <vocabulary>như</vocabulary>
+    <chinese>（如同）</chinese>
+    <chinesePhrase>於/如</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>tác dụng</text>
+    <mp3>GUID_PHRASE_14_9.mp3</mp3>
+    <vocabulary>tác</vocabulary>
+    <chinese>（作）</chinese>
+    <vocabulary>dụng</vocabulary>
+    <chinese>（用）</chinese>
+    <chinesePhrase>效果</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_14_10.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>rượu</text>
+    <mp3>GUID_PHRASE_14_11.mp3</mp3>
+    <vocabulary>rượu</vocabulary>
+    <chinese>（酒）</chinese>
+    <chinesePhrase>酒精</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>hoặc</text>
+    <mp3>GUID_PHRASE_14_12.mp3</mp3>
+    <vocabulary>hoặc</vocabulary>
+    <chinese>（或）</chinese>
+    <chinesePhrase>或</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>một số</text>
+    <mp3>GUID_PHRASE_14_13.mp3</mp3>
+    <vocabulary>một</vocabulary>
+    <chinese>（一）</chinese>
+    <vocabulary>số</vocabulary>
+    <chinese>（數）</chinese>
+    <chinesePhrase>某些</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>loại thuốc</text>
+    <mp3>GUID_PHRASE_14_14.mp3</mp3>
+    <vocabulary>loại</vocabulary>
+    <chinese>（種類）</chinese>
+    <vocabulary>thuốc</vocabulary>
+    <chinese>（藥）</chinese>
+    <chinesePhrase>藥物</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>雖然這些理論提供了可能的解釋，但值得一提的是，有關汽油味吸引力背後的科學仍沒有定論。</text>
+  <translate>Mặc dù các giả thuyết này đưa ra những lời giải thích có thể, nhưng đáng nói là khoa học đằng sau sức hấp dẫn của mùi xăng vẫn chưa có kết luận chắc chắn.</translate>
+  <mp3>GUID_SENTENCE_15.mp3</mp3>
+
+  <phrase>
+    <text>mặc dù</text>
+    <mp3>GUID_PHRASE_15_1.mp3</mp3>
+    <vocabulary>mặc dù</vocabulary>
+    <chinese>（雖然）</chinese>
+    <chinesePhrase>雖然</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>các giả thuyết</text>
+    <mp3>GUID_PHRASE_15_2.mp3</mp3>
+    <vocabulary>các</vocabulary>
+    <chinese>（複數）</chinese>
+    <vocabulary>giả thuyết</vocabulary>
+    <chinese>（理論）</chinese>
+    <chinesePhrase>理論</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>này</text>
+    <mp3>GUID_PHRASE_15_3.mp3</mp3>
+    <vocabulary>này</vocabulary>
+    <chinese>（這些）</chinese>
+    <chinesePhrase>這些</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>đưa ra</text>
+    <mp3>GUID_PHRASE_15_4.mp3</mp3>
+    <vocabulary>đưa</vocabulary>
+    <chinese>（提出）</chinese>
+    <vocabulary>ra</vocabulary>
+    <chinese>（出來）</chinese>
+    <chinesePhrase>提供</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>những lời giải thích</text>
+    <mp3>GUID_PHRASE_15_5.mp3</mp3>
+    <vocabulary>những</vocabulary>
+    <chinese>（複數）</chinese>
+    <vocabulary>lời</vocabulary>
+    <chinese>（話/說明）</chinese>
+    <vocabulary>giải thích</vocabulary>
+    <chinese>（解釋）</chinese>
+    <chinesePhrase>解釋</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>có thể</text>
+    <mp3>GUID_PHRASE_15_6.mp3</mp3>
+    <vocabulary>có thể</vocabulary>
+    <chinese>（可能的）</chinese>
+    <chinesePhrase>可能的</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>nhưng</text>
+    <mp3>GUID_PHRASE_15_7.mp3</mp3>
+    <vocabulary>nhưng</vocabulary>
+    <chinese>（但是）</chinese>
+    <chinesePhrase>但</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>đáng nói</text>
+    <mp3>GUID_PHRASE_15_8.mp3</mp3>
+    <vocabulary>đáng</vocabulary>
+    <chinese>（值得）</chinese>
+    <vocabulary>nói</vocabulary>
+    <chinese>（說）</chinese>
+    <chinesePhrase>值得一提</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>là</text>
+    <mp3>GUID_PHRASE_15_9.mp3</mp3>
+    <vocabulary>là</vocabulary>
+    <chinese>（是）</chinese>
+    <chinesePhrase>（引出）</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>khoa học</text>
+    <mp3>GUID_PHRASE_15_10.mp3</mp3>
+    <vocabulary>khoa</vocabulary>
+    <chinese>（科）</chinese>
+    <vocabulary>học</vocabulary>
+    <chinese>（學）</chinese>
+    <chinesePhrase>科學</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>đằng sau</text>
+    <mp3>GUID_PHRASE_15_11.mp3</mp3>
+    <vocabulary>đằng</vocabulary>
+    <chinese>（後面）</chinese>
+    <vocabulary>sau</vocabulary>
+    <chinese>（後）</chinese>
+    <chinesePhrase>背後</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>sức hấp dẫn</text>
+    <mp3>GUID_PHRASE_15_12.mp3</mp3>
+    <vocabulary>sức</vocabulary>
+    <chinese>（力量）</chinese>
+    <vocabulary>hấp dẫn</vocabulary>
+    <chinese>（吸引力）</chinese>
+    <chinesePhrase>吸引力</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_15_13.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>mùi xăng</text>
+    <mp3>GUID_PHRASE_15_14.mp3</mp3>
+    <vocabulary>mùi</vocabulary>
+    <chinese>（氣味）</chinese>
+    <vocabulary>xăng</vocabulary>
+    <chinese>（汽油）</chinese>
+    <chinesePhrase>汽油味</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>vẫn</text>
+    <mp3>GUID_PHRASE_15_15.mp3</mp3>
+    <vocabulary>vẫn</vocabulary>
+    <chinese>（仍然）</chinese>
+    <chinesePhrase>仍</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>chưa</text>
+    <mp3>GUID_PHRASE_15_16.mp3</mp3>
+    <vocabulary>chưa</vocabulary>
+    <chinese>（尚未）</chinese>
+    <chinesePhrase>沒有</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>có</text>
+    <mp3>GUID_PHRASE_15_17.mp3</mp3>
+    <vocabulary>có</vocabulary>
+    <chinese>（有）</chinese>
+    <chinesePhrase>有</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>kết luận</text>
+    <mp3>GUID_PHRASE_15_18.mp3</mp3>
+    <vocabulary>kết</vocabulary>
+    <chinese>（結）</chinese>
+    <vocabulary>luận</vocabulary>
+    <chinese>（論）</chinese>
+    <chinesePhrase>定論</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>chắc chắn</text>
+    <mp3>GUID_PHRASE_15_19.mp3</mp3>
+    <vocabulary>chắc</vocabulary>
+    <chinese>（確）</chinese>
+    <vocabulary>chắn</vocabulary>
+    <chinese>（定）</chinese>
+    <chinesePhrase>確定的</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>目前對該主題進行的研究有限，且科學家仍持續在揭露我們嗅覺複雜性中的新奧祕。</text>
+  <translate>Hiện nay, nghiên cứu về chủ đề này còn hạn chế, và các nhà khoa học vẫn đang tiếp tục khám phá những bí ẩn mới trong sự phức tạp của khứu giác của chúng ta.</translate>
+  <mp3>GUID_SENTENCE_16.mp3</mp3>
+
+  <phrase>
+    <text>hiện nay</text>
+    <mp3>GUID_PHRASE_16_1.mp3</mp3>
+    <vocabulary>hiện</vocabulary>
+    <chinese>（現）</chinese>
+    <vocabulary>nay</vocabulary>
+    <chinese>（今）</chinese>
+    <chinesePhrase>目前</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>nghiên cứu</text>
+    <mp3>GUID_PHRASE_16_2.mp3</mp3>
+    <vocabulary>nghiên cứu</vocabulary>
+    <chinese>（研究）</chinese>
+    <chinesePhrase>研究</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>về</text>
+    <mp3>GUID_PHRASE_16_3.mp3</mp3>
+    <vocabulary>về</vocabulary>
+    <chinese>（關於）</chinese>
+    <chinesePhrase>對該</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>chủ đề</text>
+    <mp3>GUID_PHRASE_16_4.mp3</mp3>
+    <vocabulary>chủ</vocabulary>
+    <chinese>（主）</chinese>
+    <vocabulary>đề</vocabulary>
+    <chinese>（題）</chinese>
+    <chinesePhrase>主題</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>này</text>
+    <mp3>GUID_PHRASE_16_5.mp3</mp3>
+    <vocabulary>này</vocabulary>
+    <chinese>（這個）</chinese>
+    <chinesePhrase>這個</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>còn</text>
+    <mp3>GUID_PHRASE_16_6.mp3</mp3>
+    <vocabulary>còn</vocabulary>
+    <chinese>（仍）</chinese>
+    <chinesePhrase>仍</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>hạn chế</text>
+    <mp3>GUID_PHRASE_16_7.mp3</mp3>
+    <vocabulary>hạn</vocabulary>
+    <chinese>（限）</chinese>
+    <vocabulary>chế</vocabulary>
+    <chinese>（制）</chinese>
+    <chinesePhrase>有限</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>và</text>
+    <mp3>GUID_PHRASE_16_8.mp3</mp3>
+    <vocabulary>và</vocabulary>
+    <chinese>（且）</chinese>
+    <chinesePhrase>且</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>các nhà khoa học</text>
+    <mp3>GUID_PHRASE_16_9.mp3</mp3>
+    <vocabulary>các</vocabulary>
+    <chinese>（複數）</chinese>
+    <vocabulary>nhà khoa học</vocabulary>
+    <chinese>（科學家）</chinese>
+    <chinesePhrase>科學家</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>vẫn</text>
+    <mp3>GUID_PHRASE_16_10.mp3</mp3>
+    <vocabulary>vẫn</vocabulary>
+    <chinese>（仍）</chinese>
+    <chinesePhrase>仍</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>đang</text>
+    <mp3>GUID_PHRASE_16_11.mp3</mp3>
+    <vocabulary>đang</vocabulary>
+    <chinese>（正在）</chinese>
+    <chinesePhrase>持續在</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>tiếp tục</text>
+    <mp3>GUID_PHRASE_16_12.mp3</mp3>
+    <vocabulary>tiếp</vocabulary>
+    <chinese>（接）</chinese>
+    <vocabulary>tục</vocabulary>
+    <chinese>（續）</chinese>
+    <chinesePhrase>持續</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>khám phá</text>
+    <mp3>GUID_PHRASE_16_13.mp3</mp3>
+    <vocabulary>khám</vocabulary>
+    <chinese>（探）</chinese>
+    <vocabulary>phá</vocabulary>
+    <chinese>（發掘）</chinese>
+    <chinesePhrase>揭露/探索</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>những bí ẩn</text>
+    <mp3>GUID_PHRASE_16_14.mp3</mp3>
+    <vocabulary>những</vocabulary>
+    <chinese>（複數）</chinese>
+    <vocabulary>bí ẩn</vocabulary>
+    <chinese>（奧祕）</chinese>
+    <chinesePhrase>奧祕</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>mới</text>
+    <mp3>GUID_PHRASE_16_15.mp3</mp3>
+    <vocabulary>mới</vocabulary>
+    <chinese>（新）</chinese>
+    <chinesePhrase>新</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>trong</text>
+    <mp3>GUID_PHRASE_16_16.mp3</mp3>
+    <vocabulary>trong</vocabulary>
+    <chinese>（在…中）</chinese>
+    <chinesePhrase>在</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>sự phức tạp</text>
+    <mp3>GUID_PHRASE_16_17.mp3</mp3>
+    <vocabulary>sự</vocabulary>
+    <chinese>（名詞化）</chinese>
+    <vocabulary>phức tạp</vocabulary>
+    <chinese>（複雜性）</chinese>
+    <chinesePhrase>複雜性</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_16_18.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>khứu giác</text>
+    <mp3>GUID_PHRASE_16_19.mp3</mp3>
+    <vocabulary>khứu giác</vocabulary>
+    <chinese>（嗅覺）</chinese>
+    <chinesePhrase>嗅覺</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_16_20.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>chúng ta</text>
+    <mp3>GUID_PHRASE_16_21.mp3</mp3>
+    <vocabulary>chúng ta</vocabulary>
+    <chinese>（我們）</chinese>
+    <chinesePhrase>我們</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>因此，儘管一些人可能很愛汽油的味道，但有必要注意其潛在風險，</text>
+  <translate>Vì vậy, mặc dù một số người có thể rất thích mùi xăng, nhưng cần phải chú ý đến các rủi ro tiềm ẩn của nó,</translate>
+  <mp3>GUID_SENTENCE_17.mp3</mp3>
+
+  <phrase>
+    <text>vì vậy</text>
+    <mp3>GUID_PHRASE_17_1.mp3</mp3>
+    <vocabulary>vì</vocabulary>
+    <chinese>（因為）</chinese>
+    <vocabulary>vậy</vocabulary>
+    <chinese>（所以）</chinese>
+    <chinesePhrase>因此</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>mặc dù</text>
+    <mp3>GUID_PHRASE_17_2.mp3</mp3>
+    <vocabulary>mặc dù</vocabulary>
+    <chinese>（儘管）</chinese>
+    <chinesePhrase>儘管</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>một số</text>
+    <mp3>GUID_PHRASE_17_3.mp3</mp3>
+    <vocabulary>một</vocabulary>
+    <chinese>（一）</chinese>
+    <vocabulary>số</vocabulary>
+    <chinese>（數）</chinese>
+    <chinesePhrase>一些</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>người</text>
+    <mp3>GUID_PHRASE_17_4.mp3</mp3>
+    <vocabulary>người</vocabulary>
+    <chinese>（人）</chinese>
+    <chinesePhrase>人</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>có thể</text>
+    <mp3>GUID_PHRASE_17_5.mp3</mp3>
+    <vocabulary>có thể</vocabulary>
+    <chinese>（可能）</chinese>
+    <chinesePhrase>可能</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>rất</text>
+    <mp3>GUID_PHRASE_17_6.mp3</mp3>
+    <vocabulary>rất</vocabulary>
+    <chinese>（很）</chinese>
+    <chinesePhrase>很</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>thích</text>
+    <mp3>GUID_PHRASE_17_7.mp3</mp3>
+    <vocabulary>thích</vocabulary>
+    <chinese>（喜愛）</chinese>
+    <chinesePhrase>愛</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>mùi xăng</text>
+    <mp3>GUID_PHRASE_17_8.mp3</mp3>
+    <vocabulary>mùi</vocabulary>
+    <chinese>（氣味）</chinese>
+    <vocabulary>xăng</vocabulary>
+    <chinese>（汽油）</chinese>
+    <chinesePhrase>汽油味</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>nhưng</text>
+    <mp3>GUID_PHRASE_17_9.mp3</mp3>
+    <vocabulary>nhưng</vocabulary>
+    <chinese>（但是）</chinese>
+    <chinesePhrase>但</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>cần</text>
+    <mp3>GUID_PHRASE_17_10.mp3</mp3>
+    <vocabulary>cần</vocabulary>
+    <chinese>（需要）</chinese>
+    <chinesePhrase>有必要</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>phải</text>
+    <mp3>GUID_PHRASE_17_11.mp3</mp3>
+    <vocabulary>phải</vocabulary>
+    <chinese>（必須）</chinese>
+    <chinesePhrase>要</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>chú ý</text>
+    <mp3>GUID_PHRASE_17_12.mp3</mp3>
+    <vocabulary>chú</vocabulary>
+    <chinese>（注）</chinese>
+    <vocabulary>ý</vocabulary>
+    <chinese>（意）</chinese>
+    <chinesePhrase>注意</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>đến</text>
+    <mp3>GUID_PHRASE_17_13.mp3</mp3>
+    <vocabulary>đến</vocabulary>
+    <chinese>（到/對於）</chinese>
+    <chinesePhrase>到</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>các rủi ro</text>
+    <mp3>GUID_PHRASE_17_14.mp3</mp3>
+    <vocabulary>các</vocabulary>
+    <chinese>（複數）</chinese>
+    <vocabulary>rủi ro</vocabulary>
+    <chinese>（風險）</chinese>
+    <chinesePhrase>風險</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>tiềm ẩn</text>
+    <mp3>GUID_PHRASE_17_15.mp3</mp3>
+    <vocabulary>tiềm</vocabulary>
+    <chinese>（潛）</chinese>
+    <vocabulary>ẩn</vocabulary>
+    <chinese>（隱）</chinese>
+    <chinesePhrase>潛在</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>của</text>
+    <mp3>GUID_PHRASE_17_16.mp3</mp3>
+    <vocabulary>của</vocabulary>
+    <chinese>（的）</chinese>
+    <chinesePhrase>的</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>nó</text>
+    <mp3>GUID_PHRASE_17_17.mp3</mp3>
+    <vocabulary>nó</vocabulary>
+    <chinese>（它）</chinese>
+    <chinesePhrase>它</chinesePhrase>
+  </phrase>
+</subject>
+
+<subject>
+  <text>並要避免故意長時間暴露在像汽油這樣有害氣味的環境中。</text>
+  <translate>và tránh cố ý tiếp xúc lâu dài trong môi trường có mùi độc hại như xăng.</translate>
+  <mp3>GUID_SENTENCE_18.mp3</mp3>
+
+  <phrase>
+    <text>và</text>
+    <mp3>GUID_PHRASE_18_1.mp3</mp3>
+    <vocabulary>và</vocabulary>
+    <chinese>（並且）</chinese>
+    <chinesePhrase>並</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>tránh</text>
+    <mp3>GUID_PHRASE_18_2.mp3</mp3>
+    <vocabulary>tránh</vocabulary>
+    <chinese>（避免）</chinese>
+    <chinesePhrase>避免</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>cố ý</text>
+    <mp3>GUID_PHRASE_18_3.mp3</mp3>
+    <vocabulary>cố</vocabulary>
+    <chinese>（故意）</chinese>
+    <vocabulary>ý</vocabulary>
+    <chinese>（意）</chinese>
+    <chinesePhrase>故意</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>tiếp xúc</text>
+    <mp3>GUID_PHRASE_18_4.mp3</mp3>
+    <vocabulary>tiếp</vocabulary>
+    <chinese>（接）</chinese>
+    <vocabulary>xúc</vocabulary>
+    <chinese>（觸）</chinese>
+    <chinesePhrase>暴露/接觸</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>lâu dài</text>
+    <mp3>GUID_PHRASE_18_5.mp3</mp3>
+    <vocabulary>lâu</vocabulary>
+    <chinese>（久）</chinese>
+    <vocabulary>dài</vocabulary>
+    <chinese>（長）</chinese>
+    <chinesePhrase>長時間</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>trong</text>
+    <mp3>GUID_PHRASE_18_6.mp3</mp3>
+    <vocabulary>trong</vocabulary>
+    <chinese>（在…中）</chinese>
+    <chinesePhrase>在</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>môi trường</text>
+    <mp3>GUID_PHRASE_18_7.mp3</mp3>
+    <vocabulary>môi</vocabulary>
+    <chinese>（環境（構詞））</chinese>
+    <vocabulary>trường</vocabulary>
+    <chinese>（場）</chinese>
+    <chinesePhrase>環境</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>có</text>
+    <mp3>GUID_PHRASE_18_8.mp3</mp3>
+    <vocabulary>có</vocabulary>
+    <chinese>（有）</chinese>
+    <chinesePhrase>有</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>mùi</text>
+    <mp3>GUID_PHRASE_18_9.mp3</mp3>
+    <vocabulary>mùi</vocabulary>
+    <chinese>（氣味）</chinese>
+    <chinesePhrase>氣味</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>độc hại</text>
+    <mp3>GUID_PHRASE_18_10.mp3</mp3>
+    <vocabulary>độc</vocabulary>
+    <chinese>（毒）</chinese>
+    <vocabulary>hại</vocabulary>
+    <chinese>（害）</chinese>
+    <chinesePhrase>有害</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>như</text>
+    <mp3>GUID_PHRASE_18_11.mp3</mp3>
+    <vocabulary>như</vocabulary>
+    <chinese>（像）</chinese>
+    <chinesePhrase>像</chinesePhrase>
+  </phrase>
+  <phrase>
+    <text>xăng</text>
+    <mp3>GUID_PHRASE_18_12.mp3</mp3>
+    <vocabulary>xăng</vocabulary>
+    <chinese>（汽油）</chinese>
+    <chinesePhrase>汽油</chinesePhrase>
+  </phrase>
+</subject>
+
+</xml>
