@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <!-- 標題：胡志明市三大重點交通項目2026年完工 -->
+  <subject>
+    <text>胡志明市三大重點交通項目2026年完工</text>
+    <translate>Ba dự án giao thông trọng điểm ở TP HCM hoàn thành năm 2026</translate>
+    <mp3>subject_title_3_duan_guid.mp3</mp3>
+
+    <!-- 詞組分析1：三大重點交通項目 -->
+    <phrase>
+      <text>Ba dự án giao thông trọng điểm</text>
+      <mp3>phrase_ba_duan_giaothong_trongdiem_guid.mp3</mp3>
+      <vocabulary>Ba</vocabulary>
+      <chinese>（數）三</chinese>
+      <vocabulary>dự án</vocabulary>
+      <chinese>（名）項目</chinese>
+      <vocabulary>giao thông</vocabulary>
+      <chinese>（名）交通</chinese>
+      <vocabulary>trọng điểm</vocabulary>
+      <chinese>（形）重點</chinese>
+      <chinesePhrase>三大重點交通項目</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析2：在胡志明市 -->
+    <phrase>
+      <text>ở TP HCM</text>
+      <mp3>phrase_o_tphcm_guid.mp3</mp3>
+      <vocabulary>ở</vocabulary>
+      <chinese>（介）在</chinese>
+      <vocabulary>TP HCM</vocabulary>
+      <chinese>（名）胡志明市</chinese>
+      <chinesePhrase>在胡志明市</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析3：2026年完工 -->
+    <phrase>
+      <text>hoàn thành năm 2026</text>
+      <mp3>phrase_hoanthanh_nam2026_guid.mp3</mp3>
+      <vocabulary>hoàn thành</vocabulary>
+      <chinese>（動）完成/完工</chinese>
+      <vocabulary>năm 2026</vocabulary>
+      <chinese>2026年</chinese>
+      <chinesePhrase>2026年完工</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第二段：項目總覽 -->
+  <subject>
+    <text>第三環線 - 東南部最大幹線，以及安富、美水互通立交將於今年完工，有助於疏通胡志明市門戶並增加發展空間。</text>
+    <translate>Vành đai 3 - tuyến lớn nhất Đông Nam Bộ cùng các nút giao An Phú, Mỹ Thủy hoàn thành năm nay giúp khơi thông cửa ngõ và thêm không gian phát triển cho TP HCM.</translate>
+    <mp3>subject_tongquan_duan_guid.mp3</mp3>
+
+    <!-- 詞組分析4：第三環線 -->
+    <phrase>
+      <text>Vành đai 3</text>
+      <mp3>phrase_vanh_dai_3_guid.mp3</mp3>
+      <vocabulary>Vành đai</vocabulary>
+      <chinese>（名）環線</chinese>
+      <vocabulary>3</vocabulary>
+      <chinese>三</chinese>
+      <chinesePhrase>第三環線</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析5：東南部最大幹線 -->
+    <phrase>
+      <text>tuyến lớn nhất Đông Nam Bộ</text>
+      <mp3>phrase_tuyen_lon_nhat_dongnambo_guid.mp3</mp3>
+      <vocabulary>tuyến</vocabulary>
+      <chinese>（名）幹線/路線</chinese>
+      <vocabulary>lớn nhất</vocabulary>
+      <chinese>最大</chinese>
+      <vocabulary>Đông Nam Bộ</vocabulary>
+      <chinese>（名）東南部</chinese>
+      <chinesePhrase>東南部最大幹線</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析6：以及安富、美水互通立交 -->
+    <phrase>
+      <text>cùng các nút giao An Phú, Mỹ Thủy</text>
+      <mp3>phrase_cung_cac_nutgiao_anphu_mythuy_guid.mp3</mp3>
+      <vocabulary>cùng</vocabulary>
+      <chinese>（連）以及</chinese>
+      <vocabulary>các nút giao</vocabulary>
+      <chinese>（名）各互通立交/各路口</chinese>
+      <vocabulary>An Phú</vocabulary>
+      <chinese>（名）安富</chinese>
+      <vocabulary>Mỹ Thủy</vocabulary>
+      <chinese>（名）美水</chinese>
+      <chinesePhrase>以及安富、美水互通立交</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析7：將於今年完工 -->
+    <phrase>
+      <text>hoàn thành năm nay</text>
+      <mp3>phrase_hoanthanh_namnay_guid.mp3</mp3>
+      <vocabulary>hoàn thành</vocabulary>
+      <chinese>（動）完工</chinese>
+      <vocabulary>năm nay</vocabulary>
+      <chinese>今年</chinese>
+      <chinesePhrase>將於今年完工</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析8：有助於疏通胡志明市門戶 -->
+    <phrase>
+      <text>giúp khơi thông cửa ngõ cho TP HCM</text>
+      <mp3>phrase_giup_khoithong_cuango_tphcm_guid.mp3</mp3>
+      <vocabulary>giúp</vocabulary>
+      <chinese>（動）幫助/有助於</chinese>
+      <vocabulary>khơi thông</vocabulary>
+      <chinese>（動）疏通</chinese>
+      <vocabulary>cửa ngõ</vocabulary>
+      <chinese>（名）門戶</chinese>
+      <vocabulary>cho TP HCM</vocabulary>
+      <chinese>為胡志明市</chinese>
+      <chinesePhrase>有助於疏通胡志明市門戶</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析9：並增加發展空間 -->
+    <phrase>
+      <text>và thêm không gian phát triển</text>
+      <mp3>phrase_va_them_khonggian_phattrien_guid.mp3</mp3>
+      <vocabulary>và</vocabulary>
+      <chinese>（連）並/和</chinese>
+      <vocabulary>thêm</vocabulary>
+      <chinese>（動）增加/添加</chinese>
+      <vocabulary>không gian phát triển</vocabulary>
+      <chinese>發展空間</chinese>
+      <chinesePhrase>並增加發展空間</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第三段：第三環線基本資訊 -->
+  <subject>
+    <text>總投資額超過75,300億越南盾，胡志明市第三環線是南部正在實施的最大公路項目。路線全長超過76公里，穿越胡志明市、平陽省、同奈省和隆安省。</text>
+    <translate>Với tổng mức đầu tư hơn 75.300 tỷ đồng, Vành đai 3 TP HCM là dự án đường bộ lớn nhất phía Nam đang triển khai. Tuyến dài hơn 76 km, đi qua TP HCM, Bình Dương, Đồng Nai và Long An.</translate>
+    <mp3>subject_vanhdai3_thongtin_guid.mp3</mp3>
+
+    <!-- 詞組分析10：總投資額超過75,300億越南盾 -->
+    <phrase>
+      <text>Với tổng mức đầu tư hơn 75.300 tỷ đồng</text>
+      <mp3>phrase_voi_tongmuc_dautu_hon75300ty_guid.mp3</mp3>
+      <vocabulary>Với</vocabulary>
+      <chinese>（介）以/擁有</chinese>
+      <vocabulary>tổng mức đầu tư</vocabulary>
+      <chinese>（名）總投資額</chinese>
+      <vocabulary>hơn</vocabulary>
+      <chinese>（介）超過</chinese>
+      <vocabulary>75.300 tỷ đồng</vocabulary>
+      <chinese>75,300億越南盾</chinese>
+      <chinesePhrase>總投資額超過75,300億越南盾</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析11：胡志明市第三環線是南部最大公路項目 -->
+    <phrase>
+      <text>Vành đai 3 TP HCM là dự án đường bộ lớn nhất phía Nam</text>
+      <mp3>phrase_vanhdai3_tphcm_la_duan_duongbo_lonnhat_phianam_guid.mp3</mp3>
+      <vocabulary>Vành đai 3 TP HCM</vocabulary>
+      <chinese>胡志明市第三環線</chinese>
+      <vocabulary>là</vocabulary>
+      <chinese>是</chinese>
+      <vocabulary>dự án đường bộ</vocabulary>
+      <chinese>公路項目</chinese>
+      <vocabulary>lớn nhất phía Nam</vocabulary>
+      <chinese>南部最大</chinese>
+      <chinesePhrase>胡志明市第三環線是南部最大公路項目</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析12：正在實施 -->
+    <phrase>
+      <text>đang triển khai</text>
+      <mp3>phrase_dang_trienkhai_guid.mp3</mp3>
+      <vocabulary>đang</vocabulary>
+      <chinese>（副）正在</chinese>
+      <vocabulary>triển khai</vocabulary>
+      <chinese>（動）展開/實施</chinese>
+      <chinesePhrase>正在實施</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析13：路線全長超過76公里 -->
+    <phrase>
+      <text>Tuyến dài hơn 76 km</text>
+      <mp3>phrase_tuyen_dai_hon76km_guid.mp3</mp3>
+      <vocabulary>Tuyến</vocabulary>
+      <chinese>（名）路線</chinese>
+      <vocabulary>dài</vocabulary>
+      <chinese>（形）長</chinese>
+      <vocabulary>hơn 76 km</vocabulary>
+      <chinese>超過76公里</chinese>
+      <chinesePhrase>路線全長超過76公里</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析14：穿越胡志明市、平陽省、同奈省和隆安省 -->
+    <phrase>
+      <text>đi qua TP HCM, Bình Dương, Đồng Nai và Long An</text>
+      <mp3>phrase_diqua_tphcm_binhduong_dongnai_longan_guid.mp3</mp3>
+      <vocabulary>đi qua</vocabulary>
+      <chinese>（動）經過/穿越</chinese>
+      <vocabulary>TP HCM</vocabulary>
+      <chinese>胡志明市</chinese>
+      <vocabulary>Bình Dương</vocabulary>
+      <chinese>（名）平陽省</chinese>
+      <vocabulary>Đồng Nai</vocabulary>
+      <chinese>（名）同奈省</chinese>
+      <vocabulary>Long An</vocabulary>
+      <chinese>（名）隆安省</chinese>
+      <chinesePhrase>穿越胡志明市、平陽省、同奈省和隆安省</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第四段：第一期工程規模 -->
+  <subject>
+    <text>第一期工程，路線建設四線高速公路，兩側有平行道路，按63-120米寬的完整規模進行場地清拆。項目包括多個大型子項目，如高架橋、跨河大橋和互通立交。</text>
+    <translate>Giai đoạn một, tuyến được xây dựng 4 làn cao tốc, hai bên có đường song hành, giải phóng mặt bằng theo quy mô hoàn chỉnh rộng 63-120 m. Dự án gồm nhiều hạng mục lớn như cầu cạn, cầu vượt sông và nút giao liên thông.</translate>
+    <mp3>subject_giaidoan1_guid.mp3</mp3>
+
+    <!-- 詞組分析15：第一期工程 -->
+    <phrase>
+      <text>Giai đoạn một</text>
+      <mp3>phrase_giaidoan_mot_guid.mp3</mp3>
+      <vocabulary>Giai đoạn</vocabulary>
+      <chinese>（名）階段/期</chinese>
+      <vocabulary>một</vocabulary>
+      <chinese>一</chinese>
+      <chinesePhrase>第一期工程</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析16：路線建設四線高速公路 -->
+    <phrase>
+      <text>tuyến được xây dựng 4 làn cao tốc</text>
+      <mp3>phrase_tuyen_duoc_xaydung_4lan_caotoc_guid.mp3</mp3>
+      <vocabulary>tuyến</vocabulary>
+      <chinese>（名）路線</chinese>
+      <vocabulary>được xây dựng</vocabulary>
+      <chinese>被建設</chinese>
+      <vocabulary>4 làn cao tốc</vocabulary>
+      <chinese>四線高速公路</chinese>
+      <chinesePhrase>路線建設四線高速公路</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析17：兩側有平行道路 -->
+    <phrase>
+      <text>hai bên có đường song hành</text>
+      <mp3>phrase_haiben_co_duong_songhanh_guid.mp3</mp3>
+      <vocabulary>hai bên</vocabulary>
+      <chinese>兩側</chinese>
+      <vocabulary>có</vocabulary>
+      <chinese>有</chinese>
+      <vocabulary>đường song hành</vocabulary>
+      <chinese>（名）平行道路</chinese>
+      <chinesePhrase>兩側有平行道路</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析18：按63-120米寬的完整規模進行場地清拆 -->
+    <phrase>
+      <text>giải phóng mặt bằng theo quy mô hoàn chỉnh rộng 63-120 m</text>
+      <mp3>phrase_giaiphong_matbang_theo_quymo_hoanchinh_rong_guid.mp3</mp3>
+      <vocabulary>giải phóng mặt bằng</vocabulary>
+      <chinese>（動）場地清拆/徵地</chinese>
+      <vocabulary>theo</vocabulary>
+      <chinese>（介）按照</chinese>
+      <vocabulary>quy mô hoàn chỉnh</vocabulary>
+      <chinese>完整規模</chinese>
+      <vocabulary>rộng 63-120 m</vocabulary>
+      <chinese>寬63-120米</chinese>
+      <chinesePhrase>按63-120米寬的完整規模進行場地清拆</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析19：項目包括多個大型子項目 -->
+    <phrase>
+      <text>Dự án gồm nhiều hạng mục lớn</text>
+      <mp3>phrase_duan_gom_nhieu_hangmuc_lon_guid.mp3</mp3>
+      <vocabulary>Dự án</vocabulary>
+      <chinese>（名）項目</chinese>
+      <vocabulary>gồm</vocabulary>
+      <chinese>（動）包括</chinese>
+      <vocabulary>nhiều hạng mục lớn</vocabulary>
+      <chinese>多個大型子項目</chinese>
+      <chinesePhrase>項目包括多個大型子項目</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析20：如高架橋、跨河大橋和互通立交 -->
+    <phrase>
+      <text>như cầu cạn, cầu vượt sông và nút giao liên thông</text>
+      <mp3>phrase_nhu_caucan_cauvuotsong_nutgiaolienthong_guid.mp3</mp3>
+      <vocabulary>như</vocabulary>
+      <chinese>（介）如/像</chinese>
+      <vocabulary>cầu cạn</vocabulary>
+      <chinese>（名）高架橋</chinese>
+      <vocabulary>cầu vượt sông</vocabulary>
+      <chinese>（名）跨河大橋</chinese>
+      <vocabulary>nút giao liên thông</vocabulary>
+      <chinese>（名）互通立交</chinese>
+      <chinesePhrase>如高架橋、跨河大橋和互通立交</chinesePhrase>
+    </phrase>
+  </subject>
+</xml>

@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <!-- 標題：小巷年夜飯30年情誼 -->
+  <subject>
+    <text>30多年來，德潤坊小巷許多住戶維持著一起吃年夜飯、過春節的習俗，從湊菜聚餐變成了連結彼此的紐帶，在困難時互相幫助。</text>
+    <translate>Suốt hơn 30 năm, nhiều hộ dân hẻm ở phường Đức Nhuận duy trì lệ tất niên, đón Tết cùng nhau, từ bữa cơm góp món thành sợi dây gắn kết, giúp nhau lúc khó khăn.</translate>
+    <mp3>subject_alley_tet_tradition_title_guid.mp3</mp3>
+
+    <!-- 詞組分析1：30多年來 -->
+    <phrase>
+      <text>Suốt hơn 30 năm</text>
+      <mp3>phrase_suot_hon_30_nam_guid.mp3</mp3>
+      <vocabulary>Suốt</vocabulary>
+      <chinese>（副）整個/一直</chinese>
+      <vocabulary>hơn</vocabulary>
+      <chinese>（介）超過</chinese>
+      <vocabulary>30 năm</vocabulary>
+      <chinese>30年</chinese>
+      <chinesePhrase>30多年來</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析2：德潤坊小巷許多住戶 -->
+    <phrase>
+      <text>nhiều hộ dân hẻm ở phường Đức Nhuận</text>
+      <mp3>phrase_nhieu_ho_dan_hem_phuong_duc_nhuan_guid.mp3</mp3>
+      <vocabulary>nhiều hộ dân</vocabulary>
+      <chinese>許多住戶</chinese>
+      <vocabulary>hẻm</vocabulary>
+      <chinese>（名）小巷</chinese>
+      <vocabulary>phường Đức Nhuận</vocabulary>
+      <chinese>（名）德潤坊</chinese>
+      <chinesePhrase>德潤坊小巷許多住戶</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析3：維持著一起吃年夜飯、過春節的習俗 -->
+    <phrase>
+      <text>duy trì lệ tất niên, đón Tết cùng nhau</text>
+      <mp3>phrase_duy_tri_le_tat_nien_don_tet_cung_nhau_guid.mp3</mp3>
+      <vocabulary>duy trì</vocabulary>
+      <chinese>（動）維持</chinese>
+      <vocabulary>lệ tất niên</vocabulary>
+      <chinese>（名）年夜飯習俗</chinese>
+      <vocabulary>đón Tết</vocabulary>
+      <chinese>（動）過春節</chinese>
+      <vocabulary>cùng nhau</vocabulary>
+      <chinese>一起</chinese>
+      <chinesePhrase>維持著一起吃年夜飯、過春節的習俗</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析4：從湊菜聚餐 -->
+    <phrase>
+      <text>từ bữa cơm góp món</text>
+      <mp3>phrase_ti_bua_com_gop_mon_guid.mp3</mp3>
+      <vocabulary>từ</vocabulary>
+      <chinese>（介）從</chinese>
+      <vocabulary>bữa cơm</vocabulary>
+      <chinese>（名）餐飯</chinese>
+      <vocabulary>góp món</vocabulary>
+      <chinese>（動）湊菜/各家帶菜</chinese>
+      <chinesePhrase>從湊菜聚餐</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析5：變成了連結彼此的紐帶 -->
+    <phrase>
+      <text>thành sợi dây gắn kết</text>
+      <mp3>phrase_thanh_soi_day_gan_ket_guid.mp3</mp3>
+      <vocabulary>thành</vocabulary>
+      <chinese>（動）成為/變成</chinese>
+      <vocabulary>sợi dây gắn kết</vocabulary>
+      <chinese>連結的紐帶</chinese>
+      <chinesePhrase>變成了連結彼此的紐帶</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析6：在困難時互相幫助 -->
+    <phrase>
+      <text>giúp nhau lúc khó khăn</text>
+      <mp3>phrase_giup_nhau_luc_kho_khan_guid.mp3</mp3>
+      <vocabulary>giúp nhau</vocabulary>
+      <chinese>互相幫助</chinese>
+      <vocabulary>lúc khó khăn</vocabulary>
+      <chinese>困難時</chinese>
+      <chinesePhrase>在困難時互相幫助</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第二段：小巷熱鬧景象 -->
+  <subject>
+    <text>春節臨近的日子裡，德潤坊陶維英路88號小巷熱鬧得像辦婚禮一樣。有人打掃屋前，有人搬桌椅，互相呼喊準備近十桌酒席。當燈光亮起，整個街區一起坐在熟悉的巷道上，舉杯賀新年。</text>
+    <translate>Những ngày cận Tết, hẻm 88 đường Đào Duy Anh, phường Đức Nhuận, rộn ràng như có đám cưới. Người lau dọn trước hiên nhà, người khiêng bàn ghế, í ới gọi nhau chuẩn bị gần chục mâm tiệc. Khi đèn lên, cả khu phố cùng ngồi lại giữa lối đi quen thuộc, nâng ly chúc Tết.</translate>
+    <mp3>subject_alley_preparation_guid.mp3</mp3>
+
+    <!-- 詞組分析7：春節臨近的日子裡 -->
+    <phrase>
+      <text>Những ngày cận Tết</text>
+      <mp3>phrase_nhung_ngay_can_tet_002_guid.mp3</mp3>
+      <vocabulary>Những ngày</vocabulary>
+      <chinese>那些日子</chinese>
+      <vocabulary>cận Tết</vocabulary>
+      <chinese>臨近春節</chinese>
+      <chinesePhrase>春節臨近的日子裡</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析8：德潤坊陶維英路88號小巷 -->
+    <phrase>
+      <text>hẻm 88 đường Đào Duy Anh, phường Đức Nhuận</text>
+      <mp3>phrase_hem_88_dao_duy_anh_duc_nhuan_guid.mp3</mp3>
+      <vocabulary>hẻm 88</vocabulary>
+      <chinese>88號小巷</chinese>
+      <vocabulary>đường Đào Duy Anh</vocabulary>
+      <chinese>陶維英路</chinese>
+      <vocabulary>phường Đức Nhuận</vocabulary>
+      <chinese>德潤坊</chinese>
+      <chinesePhrase>德潤坊陶維英路88號小巷</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析9：熱鬧得像辦婚禮一樣 -->
+    <phrase>
+      <text>rộn ràng như có đám cưới</text>
+      <mp3>phrase_ron_rang_nhu_co_dam_cuoi_guid.mp3</mp3>
+      <vocabulary>rộn ràng</vocabulary>
+      <chinese>（形）熱鬧</chinese>
+      <vocabulary>như có đám cưới</vocabulary>
+      <chinese>像辦婚禮一樣</chinese>
+      <chinesePhrase>熱鬧得像辦婚禮一樣</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析10：有人打掃屋前 -->
+    <phrase>
+      <text>Người lau dọn trước hiên nhà</text>
+      <mp3>phrase_nguoi_lau_don_truoc_hien_nha_guid.mp3</mp3>
+      <vocabulary>Người</vocabulary>
+      <chinese>有人</chinese>
+      <vocabulary>lau dọn</vocabulary>
+      <chinese>（動）打掃</chinese>
+      <vocabulary>trước hiên nhà</vocabulary>
+      <chinese>屋前</chinese>
+      <chinesePhrase>有人打掃屋前</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析11：有人搬桌椅 -->
+    <phrase>
+      <text>người khiêng bàn ghế</text>
+      <mp3>phrase_nguoi_khieng_ban_ghe_guid.mp3</mp3>
+      <vocabulary>người</vocabulary>
+      <chinese>有人</chinese>
+      <vocabulary>khiêng bàn ghế</vocabulary>
+      <chinese>（動）搬桌椅</chinese>
+      <chinesePhrase>有人搬桌椅</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析12：互相呼喊準備近十桌酒席 -->
+    <phrase>
+      <text>í ới gọi nhau chuẩn bị gần chục mâm tiệc</text>
+      <mp3>phrase_i_oi_goi_nhau_chuan_bi_gan_chuc_mam_tiec_guid.mp3</mp3>
+      <vocabulary>í ới gọi nhau</vocabulary>
+      <chinese>互相呼喊</chinese>
+      <vocabulary>chuẩn bị</vocabulary>
+      <chinese>（動）準備</chinese>
+      <vocabulary>gần chục mâm tiệc</vocabulary>
+      <chinese>近十桌酒席</chinese>
+      <chinesePhrase>互相呼喊準備近十桌酒席</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析13：當燈光亮起 -->
+    <phrase>
+      <text>Khi đèn lên</text>
+      <mp3>phrase_khi_den_len_guid.mp3</mp3>
+      <vocabulary>Khi</vocabulary>
+      <chinese>（連）當...時</chinese>
+      <vocabulary>đèn lên</vocabulary>
+      <chinese>燈亮起</chinese>
+      <chinesePhrase>當燈光亮起</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析14：整個街區一起坐在熟悉的巷道上 -->
+    <phrase>
+      <text>cả khu phố cùng ngồi lại giữa lối đi quen thuộc</text>
+      <mp3>phrase_ca_khu_pho_cung_ngoi_lai_giua_loi_di_quen_thuoc_guid.mp3</mp3>
+      <vocabulary>cả khu phố</vocabulary>
+      <chinese>整個街區</chinese>
+      <vocabulary>cùng ngồi lại</vocabulary>
+      <chinese>一起坐下</chinese>
+      <vocabulary>giữa lối đi quen thuộc</vocabulary>
+      <chinese>在熟悉的巷道中間</chinese>
+      <chinesePhrase>整個街區一起坐在熟悉的巷道上</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析15：舉杯賀新年 -->
+    <phrase>
+      <text>nâng ly chúc Tết</text>
+      <mp3>phrase_nang_ly_chuc_tet_guid.mp3</mp3>
+      <vocabulary>nâng ly</vocabulary>
+      <chinese>（動）舉杯</chinese>
+      <vocabulary>chúc Tết</vocabulary>
+      <chinese>賀新年</chinese>
+      <chinesePhrase>舉杯賀新年</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第三段：居民分享 -->
+  <subject>
+    <text>范氏白玉女士表示這是一年中最期待的時刻。十多年前剛搬來時，她曾覺得鄰居在路中央擺酒席很奇怪。「起初我不明白為什麼要在巷子裡吃飯。但當坐下來，聽到各種關於薪資、工作、誰家遇到困難的事情後，我才體會到其中的意義」，她分享道。</text>
+    <translate>Chị Phạm Thị Bạch Nga cho biết đây là dịp chị mong chờ nhất trong năm. Hơn mười năm trước, khi mới chuyển về, chị từng thấy lạ khi hàng xóm bày tiệc giữa đường. "Lúc đầu tôi không hiểu sao phải ăn uống ngoài hẻm. Nhưng khi ngồi xuống, nghe đủ chuyện tiền lương, việc làm, nhà ai đang gặp khó, tôi mới thấy ý nghĩa", chị kể.</translate>
+    <mp3>subject_resident_share_guid.mp3</mp3>
+
+    <!-- 詞組分析16：范氏白玉女士 -->
+    <phrase>
+      <text>Chị Phạm Thị Bạch Nga</text>
+      <mp3>phrase_chi_pham_thi_bach_nga_guid.mp3</mp3>
+      <vocabulary>Chị</vocabulary>
+      <chinese>（代）女士/姊</chinese>
+      <vocabulary>Phạm Thị Bạch Nga</vocabulary>
+      <chinese>（名）范氏白玉</chinese>
+      <chinesePhrase>范氏白玉女士</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析17：表示這是一年中最期待的時刻 -->
+    <phrase>
+      <text>cho biết đây là dịp chị mong chờ nhất trong năm</text>
+      <mp3>phrase_cho_biet_day_la_dip_chi_mong_cho_nhat_trong_nam_guid.mp3</mp3>
+      <vocabulary>cho biết</vocabulary>
+      <chinese>表示</chinese>
+      <vocabulary>đây là</vocabulary>
+      <chinese>這是</chinese>
+      <vocabulary>dịp</vocabulary>
+      <chinese>（名）時刻/機會</chinese>
+      <vocabulary>chị mong chờ nhất trong năm</vocabulary>
+      <chinese>她一年中最期待的</chinese>
+      <chinesePhrase>表示這是一年中最期待的時刻</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析18：十多年前剛搬來時 -->
+    <phrase>
+      <text>Hơn mười năm trước, khi mới chuyển về</text>
+      <mp3>phrase_hon_muoi_nam_truoc_khi_moi_chuyen_ve_guid.mp3</mp3>
+      <vocabulary>Hơn mười năm trước</vocabulary>
+      <chinese>十多年前</chinese>
+      <vocabulary>khi mới chuyển về</vocabulary>
+      <chinese>剛搬來時</chinese>
+      <chinesePhrase>十多年前剛搬來時</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析19：她曾覺得鄰居在路中央擺酒席很奇怪 -->
+    <phrase>
+      <text>chị từng thấy lạ khi hàng xóm bày tiệc giữa đường</text>
+      <mp3>phrase_chi_tung_thay_la_khi_hang_xom_bay_tiec_giua_duong_guid.mp3</mp3>
+      <vocabulary>chị từng</vocabulary>
+      <chinese>她曾經</chinese>
+      <vocabulary>thấy lạ</vocabulary>
+      <chinese>覺得奇怪</chinese>
+      <vocabulary>khi hàng xóm bày tiệc giữa đường</vocabulary>
+      <chinese>當鄰居在路中央擺酒席時</chinese>
+      <chinesePhrase>她曾覺得鄰居在路中央擺酒席很奇怪</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析20：起初我不明白為什麼要在巷子裡吃飯 -->
+    <phrase>
+      <text>"Lúc đầu tôi không hiểu sao phải ăn uống ngoài hẻm"</text>
+      <mp3>phrase_luc_dau_toi_khong_hieu_sao_phai_an_uong_ngoai_hem_guid.mp3</mp3>
+      <vocabulary>Lúc đầu</vocabulary>
+      <chinese>起初</chinese>
+      <vocabulary>tôi không hiểu sao</vocabulary>
+      <chinese>我不明白為什麼</chinese>
+      <vocabulary>phải ăn uống ngoài hẻm</vocabulary>
+      <chinese>要在巷子裡吃飯</chinese>
+      <chinesePhrase>起初我不明白為什麼要在巷子裡吃飯</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析21：但當坐下來 -->
+    <phrase>
+      <text>Nhưng khi ngồi xuống</text>
+      <mp3>phrase_nhung_khi_ngoi_xuong_guid.mp3</mp3>
+      <vocabulary>Nhưng</vocabulary>
+      <chinese>（連）但是</chinese>
+      <vocabulary>khi ngồi xuống</vocabulary>
+      <chinese>當坐下來時</chinese>
+      <chinesePhrase>但當坐下來</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析22：聽到各種關於薪資、工作、誰家遇到困難的事情 -->
+    <phrase>
+      <text>nghe đủ chuyện tiền lương, việc làm, nhà ai đang gặp khó</text>
+      <mp3>phrase_nghe_du_chuyen_tien_luong_viec_lam_nha_ai_dang_gap_kho_guid.mp3</mp3>
+      <vocabulary>nghe đủ chuyện</vocabulary>
+      <chinese>聽到各種事情</chinese>
+      <vocabulary>tiền lương</vocabulary>
+      <chinese>薪資</chinese>
+      <vocabulary>việc làm</vocabulary>
+      <chinese>工作</chinese>
+      <vocabulary>nhà ai đang gặp khó</vocabulary>
+      <chinese>誰家正在遇到困難</chinese>
+      <chinesePhrase>聽到各種關於薪資、工作、誰家遇到困難的事情</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析23：我才體會到其中的意義 -->
+    <phrase>
+      <text>tôi mới thấy ý nghĩa</text>
+      <mp3>phrase_toi_moi_thay_y_nghia_guid.mp3</mp3>
+      <vocabulary>tôi mới</vocabulary>
+      <chinese>我才</chinese>
+      <vocabulary>thấy ý nghĩa</vocabulary>
+      <chinese>體會到意義</chinese>
+      <chinesePhrase>我才體會到其中的意義</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析24：她分享道 -->
+    <phrase>
+      <text>chị kể</text>
+      <mp3>phrase_chi_ke_guid.mp3</mp3>
+      <vocabulary>chị kể</vocabulary>
+      <chinese>她分享/她說道</chinese>
+      <chinesePhrase>她分享道</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第四段：情感轉變與社區連結 -->
+  <subject>
+    <text>從旁觀者，她逐漸意識到緊閉的門扉背後有許多未曾分享的心事。年夜飯成了難得的機會讓大家傾訴，取代了平日下班回家時的點頭之交。特別是在疫情過後，鄰里情誼更加明顯。只要誰有事，在街坊群組發個訊息，大家就會立刻前來支援。</text>
+    <translate>Từ chỗ đứng ngoài cuộc, chị dần nhận ra phía sau những cánh cửa khép kín là nhiều nỗi niềm chưa từng được sẻ chia. Bữa cơm tất niên trở thành dịp hiếm hoi để mọi người tỉ tê, thay cho những cái gật đầu xã giao lúc đi làm về. Đặc biệt sau dịch bệnh, tình làng nghĩa xóm càng rõ rệt. Chỉ cần ai có việc, nhắn lên nhóm khu phố, mọi người tới hỗ trợ ngay.</translate>
+    <mp3>subject_community_bond_guid.mp3</mp3>
+
+    <!-- 詞組分析25：從旁觀者 -->
+    <phrase>
+      <text>Từ chỗ đứng ngoài cuộc</text>
+      <mp3>phrase_tu_cho_dung_ngoai_cuoc_guid.mp3</mp3>
+      <vocabulary>Từ chỗ</vocabulary>
+      <chinese>從...位置</chinese>
+      <vocabulary>đứng ngoài cuộc</vocabulary>
+      <chinese>站在局外/旁觀者</chinese>
+      <chinesePhrase>從旁觀者</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析26：她逐漸意識到 -->
+    <phrase>
+      <text>chị dần nhận ra</text>
+      <mp3>phrase_chi_dan_nhan_ra_guid.mp3</mp3>
+      <vocabulary>chị dần</vocabulary>
+      <chinese>她逐漸</chinese>
+      <vocabulary>nhận ra</vocabulary>
+      <chinese>意識到</chinese>
+      <chinesePhrase>她逐漸意識到</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析27：緊閉的門扉背後有許多未曾分享的心事 -->
+    <phrase>
+      <text>phía sau những cánh cửa khép kín là nhiều nỗi niềm chưa từng được sẻ chia</text>
+      <mp3>phrase_phia_sau_nhung_canh_cua_khep_kin_la_nhieu_noi_niem_chua_tung_duoc_se_chia_guid.mp3</mp3>
+      <vocabulary>phía sau</vocabulary>
+      <chinese>在...背後</chinese>
+      <vocabulary>những cánh cửa khép kín</vocabulary>
+      <chinese>緊閉的門扉</chinese>
+      <vocabulary>là</vocabulary>
+      <chinese>是</chinese>
+      <vocabulary>nhiều nỗi niềm</vocabulary>
+      <chinese>許多心事</chinese>
+      <vocabulary>chưa từng được sẻ chia</vocabulary>
+      <chinese>未曾被分享</chinese>
+      <chinesePhrase>緊閉的門扉背後有許多未曾分享的心事</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析28：年夜飯成了難得的機會 -->
+    <phrase>
+      <text>Bữa cơm tất niên trở thành dịp hiếm hoi</text>
+      <mp3>phrase_bua_com_tat_nien_tro_thanh_dip_hiem_hoi_guid.mp3</mp3>
+      <vocabulary>Bữa cơm tất niên</vocabulary>
+      <chinese>年夜飯</chinese>
+      <vocabulary>trở thành</vocabulary>
+      <chinese>成為</chinese>
+      <vocabulary>dịp hiếm hoi</vocabulary>
+      <chinese>難得的機會</chinese>
+      <chinesePhrase>年夜飯成了難得的機會</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析29：讓大家傾訴 -->
+    <phrase>
+      <text>để mọi người tỉ tê</text>
+      <mp3>phrase_de_moi_nguoi_ti_te_guid.mp3</mp3>
+      <vocabulary>để</vocabulary>
+      <chinese>讓</chinese>
+      <vocabulary>mọi người tỉ tê</vocabulary>
+      <chinese>大家傾訴/細語交談</chinese>
+      <chinesePhrase>讓大家傾訴</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析30：取代了平日下班回家時的點頭之交 -->
+    <phrase>
+      <text>thay cho những cái gật đầu xã giao lúc đi làm về</text>
+      <mp3>phrase_thay_cho_nhung_cai_gat_dau_xa_giao_luc_di_lam_ve_guid.mp3</mp3>
+      <vocabulary>thay cho</vocabulary>
+      <chinese>取代</chinese>
+      <vocabulary>những cái gật đầu xã giao</vocabulary>
+      <chinese>那些點頭之交/社交性點頭</chinese>
+      <vocabulary>lúc đi làm về</vocabulary>
+      <chinese>下班回家時</chinese>
+      <chinesePhrase>取代了平日下班回家時的點頭之交</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析31：特別是在疫情過後 -->
+    <phrase>
+      <text>Đặc biệt sau dịch bệnh</text>
+      <mp3>phrase_dac_biet_sau_dich_benh_guid.mp3</mp3>
+      <vocabulary>Đặc biệt</vocabulary>
+      <chinese>特別</chinese>
+      <vocabulary>sau dịch bệnh</vocabulary>
+      <chinese>疫情過後</chinese>
+      <chinesePhrase>特別是在疫情過後</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析32：鄰里情誼更加明顯 -->
+    <phrase>
+      <text>tình làng nghĩa xóm càng rõ rệt</text>
+      <mp3>phrase_tinh_lang_nghia_xom_cang_ro_ret_guid.mp3</mp3>
+      <vocabulary>tình làng nghĩa xóm</vocabulary>
+      <chinese>鄰里情誼</chinese>
+      <vocabulary>càng rõ rệt</vocabulary>
+      <chinese>更加明顯</chinese>
+      <chinesePhrase>鄰里情誼更加明顯</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析33：只要誰有事 -->
+    <phrase>
+      <text>Chỉ cần ai có việc</text>
+      <mp3>phrase_chi_can_ai_co_viec_guid.mp3</mp3>
+      <vocabulary>Chỉ cần</vocabulary>
+      <chinese>只要</chinese>
+      <vocabulary>ai có việc</vocabulary>
+      <chinese>誰有事</chinese>
+      <chinesePhrase>只要誰有事</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析34：在街坊群組發個訊息 -->
+    <phrase>
+      <text>nhắn lên nhóm khu phố</text>
+      <mp3>phrase_nhan_len_nhom_khu_pho_guid.mp3</mp3>
+      <vocabulary>nhắn lên</vocabulary>
+      <chinese>發訊息上</chinese>
+      <vocabulary>nhóm khu phố</vocabulary>
+      <chinese>街坊群組</chinese>
+      <chinesePhrase>在街坊群組發個訊息</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析35：大家就會立刻前來支援 -->
+    <phrase>
+      <text>mọi người tới hỗ trợ ngay</text>
+      <mp3>phrase_moi_nguoi_toi_ho_tro_ngay_guid.mp3</mp3>
+      <vocabulary>mọi người</vocabulary>
+      <chinese>大家</chinese>
+      <vocabulary>tới hỗ trợ ngay</vocabulary>
+      <chinese>立刻前來支援</chinese>
+      <chinesePhrase>大家就會立刻前來支援</chinesePhrase>
+    </phrase>
+  </subject>
+</xml>

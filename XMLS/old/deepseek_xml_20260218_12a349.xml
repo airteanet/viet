@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <!-- 標題：為什麼韓國夫妻過年後容易離婚？ -->
+  <subject>
+    <text>為什麼韓國夫妻過年後容易離婚？</text>
+    <translate>Vì sao vợ chồng Hàn Quốc dễ ly hôn sau Tết?</translate>
+    <mp3>subject_title_hanquoc_lyhon_guid.mp3</mp3>
+
+    <!-- 詞組分析1：為什麼 -->
+    <phrase>
+      <text>Vì sao</text>
+      <mp3>phrase_vi_sao_guid.mp3</mp3>
+      <vocabulary>Vì sao</vocabulary>
+      <chinese>（疑問詞）為什麼</chinese>
+      <chinesePhrase>為什麼</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析2：韓國夫妻 -->
+    <phrase>
+      <text>vợ chồng Hàn Quốc</text>
+      <mp3>phrase_vo_chong_hanquoc_guid.mp3</mp3>
+      <vocabulary>vợ chồng</vocabulary>
+      <chinese>（名）夫妻</chinese>
+      <vocabulary>Hàn Quốc</vocabulary>
+      <chinese>（名）韓國</chinese>
+      <chinesePhrase>韓國夫妻</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析3：容易離婚 -->
+    <phrase>
+      <text>dễ ly hôn</text>
+      <mp3>phrase_de_ly_hon_guid.mp3</mp3>
+      <vocabulary>dễ</vocabulary>
+      <chinese>（形）容易</chinese>
+      <vocabulary>ly hôn</vocabulary>
+      <chinese>（動）離婚</chinese>
+      <chinesePhrase>容易離婚</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析4：過年後 -->
+    <phrase>
+      <text>sau Tết</text>
+      <mp3>phrase_sau_tet_guid.mp3</mp3>
+      <vocabulary>sau</vocabulary>
+      <chinese>（介）之後</chinese>
+      <vocabulary>Tết</vocabulary>
+      <chinese>（名）春節/過年</chinese>
+      <chinesePhrase>過年後</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第二段：離婚率統計 -->
+  <subject>
+    <text>農曆新年過後，離婚申請數量往往急劇增加，因為家務壓力、婆媳矛盾在「忍耐馬拉松」後爆發。</text>
+    <translate>Số đơn ly hôn thường tăng vọt ngay sau Tết Nguyên đán Seollal, khi những dồn nén về việc nhà, mâu thuẫn mẹ chồng - nàng dâu bùng phát sau chuỗi ngày "marathon chịu đựng".</translate>
+    <mp3>subject_lyhon_thongke_guid.mp3</mp3>
+
+    <!-- 詞組分析5：離婚申請數量 -->
+    <phrase>
+      <text>Số đơn ly hôn</text>
+      <mp3>phrase_so_don_ly_hon_guid.mp3</mp3>
+      <vocabulary>Số đơn</vocabulary>
+      <chinese>（名）申請數量</chinese>
+      <vocabulary>ly hôn</vocabulary>
+      <chinese>（名）離婚</chinese>
+      <chinesePhrase>離婚申請數量</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析6：往往急劇增加 -->
+    <phrase>
+      <text>thường tăng vọt</text>
+      <mp3>phrase_thuong_tang_vot_guid.mp3</mp3>
+      <vocabulary>thường</vocabulary>
+      <chinese>（副）通常/往往</chinese>
+      <vocabulary>tăng vọt</vocabulary>
+      <chinese>（動）急劇增加</chinese>
+      <chinesePhrase>往往急劇增加</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析7：農曆新年過後 -->
+    <phrase>
+      <text>ngay sau Tết Nguyên đán Seollal</text>
+      <mp3>phrase_ngay_sau_tet_nguyendan_seollal_guid.mp3</mp3>
+      <vocabulary>ngay sau</vocabulary>
+      <chinese>緊接在...之後</chinese>
+      <vocabulary>Tết Nguyên đán Seollal</vocabulary>
+      <chinese>（名）農曆新年/春節</chinese>
+      <chinesePhrase>農曆新年過後</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析8：當那些壓抑 -->
+    <phrase>
+      <text>khi những dồn nén</text>
+      <mp3>phrase_khi_nhung_don_nen_guid.mp3</mp3>
+      <vocabulary>khi</vocabulary>
+      <chinese>（連）當...時</chinese>
+      <vocabulary>những dồn nén</vocabulary>
+      <chinese>（名）那些壓抑</chinese>
+      <chinesePhrase>當那些壓抑</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析9：關於家務 -->
+    <phrase>
+      <text>về việc nhà</text>
+      <mp3>phrase_ve_viec_nha_guid.mp3</mp3>
+      <vocabulary>về</vocabulary>
+      <chinese>（介）關於</chinese>
+      <vocabulary>việc nhà</vocabulary>
+      <chinese>（名）家務</chinese>
+      <chinesePhrase>關於家務</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析10：婆媳矛盾 -->
+    <phrase>
+      <text>mâu thuẫn mẹ chồng - nàng dâu</text>
+      <mp3>phrase_mau_thuan_me_chong_nang_dau_guid.mp3</mp3>
+      <vocabulary>mâu thuẫn</vocabulary>
+      <chinese>（名）矛盾</chinese>
+      <vocabulary>mẹ chồng</vocabulary>
+      <chinese>（名）婆婆</chinese>
+      <vocabulary>nàng dâu</vocabulary>
+      <chinese>（名）媳婦</chinese>
+      <chinesePhrase>婆媳矛盾</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析11：爆發 -->
+    <phrase>
+      <text>bùng phát</text>
+      <mp3>phrase_bung_phat_guid.mp3</mp3>
+      <vocabulary>bùng phát</vocabulary>
+      <chinese>（動）爆發</chinese>
+      <chinesePhrase>爆發</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析12：在「忍耐馬拉松」日子之後 -->
+    <phrase>
+      <text>sau chuỗi ngày "marathon chịu đựng"</text>
+      <mp3>phrase_sau_chuoi_ngay_marathon_chiu_dung_guid.mp3</mp3>
+      <vocabulary>sau</vocabulary>
+      <chinese>（介）在...之後</chinese>
+      <vocabulary>chuỗi ngày</vocabulary>
+      <chinese>（名）一系列日子</chinese>
+      <vocabulary>"marathon chịu đựng"</vocabulary>
+      <chinese>「忍耐馬拉松」</chinese>
+      <chinesePhrase>在「忍耐馬拉松」日子之後</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第三段：韓國統計數據 -->
+  <subject>
+    <text>根據韓國統計廳2025年統計，1月份（通常與春節假期重疊）佔全年離婚總數的近9%。第一季度向法院提起離婚的夫妻比例始終明顯高於其他時間。</text>
+    <translate>Theo thống kê của Cơ quan Thống kê Hàn Quốc năm 2025, tháng 1 (thường trùng với dịp Tết Seollal) chiếm gần 9% tổng số vụ ly hôn cả năm. Giai đoạn 3 tháng đầu năm luôn ghi nhận tỷ lệ các cặp đôi ra tòa cao hơn hẳn các thời điểm khác.</translate>
+    <mp3>subject_thongke_hanquoc_guid.mp3</mp3>
+
+    <!-- 詞組分析13：根據韓國統計廳2025年統計 -->
+    <phrase>
+      <text>Theo thống kê của Cơ quan Thống kê Hàn Quốc năm 2025</text>
+      <mp3>phrase_theo_thongke_coquan_thongke_hanquoc_guid.mp3</mp3>
+      <vocabulary>Theo</vocabulary>
+      <chinese>（介）根據</chinese>
+      <vocabulary>thống kê</vocabulary>
+      <chinese>（名）統計</chinese>
+      <vocabulary>Cơ quan Thống kê Hàn Quốc</vocabulary>
+      <chinese>韓國統計廳</chinese>
+      <vocabulary>năm 2025</vocabulary>
+      <chinese>2025年</chinese>
+      <chinesePhrase>根據韓國統計廳2025年統計</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析14：1月份（通常與春節假期重疊） -->
+    <phrase>
+      <text>tháng 1 (thường trùng với dịp Tết Seollal)</text>
+      <mp3>phrase_thang1_thuong_trung_dip_tet_seollal_guid.mp3</mp3>
+      <vocabulary>tháng 1</vocabulary>
+      <chinese>1月份</chinese>
+      <vocabulary>thường trùng với</vocabulary>
+      <chinese>通常與...重疊</chinese>
+      <vocabulary>dịp Tết Seollal</vocabulary>
+      <chinese>春節假期</chinese>
+      <chinesePhrase>1月份（通常與春節假期重疊）</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析15：佔全年離婚總數的近9% -->
+    <phrase>
+      <text>chiếm gần 9% tổng số vụ ly hôn cả năm</text>
+      <mp3>phrase_chiem_gan9pt_tongso_vu_lyhon_canam_guid.mp3</mp3>
+      <vocabulary>chiếm</vocabulary>
+      <chinese>（動）佔</chinese>
+      <vocabulary>gần 9%</vocabulary>
+      <chinese>近9%</chinese>
+      <vocabulary>tổng số vụ ly hôn cả năm</vocabulary>
+      <chinese>全年離婚總數</chinese>
+      <chinesePhrase>佔全年離婚總數的近9%</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析16：第一季度 -->
+    <phrase>
+      <text>Giai đoạn 3 tháng đầu năm</text>
+      <mp3>phrase_giaidoan_3thang_daunam_guid.mp3</mp3>
+      <vocabulary>Giai đoạn</vocabulary>
+      <chinese>（名）階段</chinese>
+      <vocabulary>3 tháng đầu năm</vocabulary>
+      <chinese>年初3個月/第一季度</chinese>
+      <chinesePhrase>第一季度</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析17：始終記錄夫妻向法院提起離婚的比例 -->
+    <phrase>
+      <text>luôn ghi nhận tỷ lệ các cặp đôi ra tòa</text>
+      <mp3>phrase_luon_ghinhan_tyle_cac_capdoi_ra_toa_guid.mp3</mp3>
+      <vocabulary>luôn ghi nhận</vocabulary>
+      <chinese>始終記錄</chinese>
+      <vocabulary>tỷ lệ các cặp đôi ra tòa</vocabulary>
+      <chinese>夫妻向法院提起離婚的比例</chinese>
+      <chinesePhrase>始終記錄夫妻向法院提起離婚的比例</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析18：明顯高於其他時間 -->
+    <phrase>
+      <text>cao hơn hẳn các thời điểm khác</text>
+      <mp3>phrase_cao_hon_han_cac_thoidiem_khac_guid.mp3</mp3>
+      <vocabulary>cao hơn hẳn</vocabulary>
+      <chinese>明顯高於</chinese>
+      <vocabulary>các thời điểm khác</vocabulary>
+      <chinese>其他時間</chinese>
+      <chinesePhrase>明顯高於其他時間</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第四段：專有名詞 -->
+  <subject>
+    <text>這一現象普遍到韓國人有一個專有名詞：「Myeong-jeol divorce」（節日離婚）。</text>
+    <translate>Hiện tượng này phổ biến đến mức người Hàn Quốc có thuật ngữ riêng là "Myeong-jeol divorce" (Ly hôn mùa lễ hội).</translate>
+    <mp3>subject_thuatngu_guid.mp3</mp3>
+
+    <!-- 詞組分析19：這一現象 -->
+    <phrase>
+      <text>Hiện tượng này</text>
+      <mp3>phrase_hientuong_nay_guid.mp3</mp3>
+      <vocabulary>Hiện tượng</vocabulary>
+      <chinese>（名）現象</chinese>
+      <vocabulary>này</vocabulary>
+      <chinese>（代）這</chinese>
+      <chinesePhrase>這一現象</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析20：普遍到 -->
+    <phrase>
+      <text>phổ biến đến mức</text>
+      <mp3>phrase_pho_bien_den_muc_guid.mp3</mp3>
+      <vocabulary>phổ biến</vocabulary>
+      <chinese>（形）普遍</chinese>
+      <vocabulary>đến mức</vocabulary>
+      <chinese>到...程度</chinese>
+      <chinesePhrase>普遍到</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析21：韓國人有專有名詞 -->
+    <phrase>
+      <text>người Hàn Quốc có thuật ngữ riêng</text>
+      <mp3>phrase_nguoi_hanquoc_co_thuatngu_rieng_guid.mp3</mp3>
+      <vocabulary>người Hàn Quốc</vocabulary>
+      <chinese>韓國人</chinese>
+      <vocabulary>có thuật ngữ riêng</vocabulary>
+      <chinese>有專有名詞</chinese>
+      <chinesePhrase>韓國人有專有名詞</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析22：是 "Myeong-jeol divorce" (節日離婚) -->
+    <phrase>
+      <text>là "Myeong-jeol divorce" (Ly hôn mùa lễ hội)</text>
+      <mp3>phrase_la_myeongjeol_divorce_lyhon_mualehoi_guid.mp3</mp3>
+      <vocabulary>là</vocabulary>
+      <chinese>是</chinese>
+      <vocabulary>"Myeong-jeol divorce"</vocabulary>
+      <chinese>（名）Myeong-jeol divorce</chinese>
+      <vocabulary>Ly hôn mùa lễ hội</vocabulary>
+      <chinese>節日離婚</chinese>
+      <chinesePhrase>是「Myeong-jeol divorce」（節日離婚）</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第五段：智恩的故事 -->
+  <subject>
+    <text>35歲的智恩認為春節3天是她7年婚姻中最可怕的時期。她必須從凌晨4點起床，準備20多道祭祀祖先的菜餚，並服侍婆家直到深夜。</text>
+    <translate>Ji-eun, 35 tuổi, xem 3 ngày Tết là giai đoạn kinh khủng nhất trong 7 năm hôn nhân. Cô phải dậy từ 4h sáng, chuẩn bị hơn 20 món cúng tổ tiên và phục vụ gia đình chồng đến tận khuya.</translate>
+    <mp3>subject_jieun_cauhoi_guid.mp3</mp3>
+
+    <!-- 詞組分析23：35歲的智恩 -->
+    <phrase>
+      <text>Ji-eun, 35 tuổi</text>
+      <mp3>phrase_jieun_35tuoi_guid.mp3</mp3>
+      <vocabulary>Ji-eun</vocabulary>
+      <chinese>（名）智恩</chinese>
+      <vocabulary>35 tuổi</vocabulary>
+      <chinese>35歲</chinese>
+      <chinesePhrase>35歲的智恩</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析24：認為春節3天是她7年婚姻中最可怕的時期 -->
+    <phrase>
+      <text>xem 3 ngày Tết là giai đoạn kinh khủng nhất trong 7 năm hôn nhân</text>
+      <mp3>phrase_xem_3ngaytet_giaidoan_kinkhungnhat_7nam_honhan_guid.mp3</mp3>
+      <vocabulary>xem</vocabulary>
+      <chinese>（動）認為/看作</chinese>
+      <vocabulary>3 ngày Tết</vocabulary>
+      <chinese>春節3天</chinese>
+      <vocabulary>là giai đoạn kinh khủng nhất</vocabulary>
+      <chinese>是最可怕的時期</chinese>
+      <vocabulary>trong 7 năm hôn nhân</vocabulary>
+      <chinese>在7年婚姻中</chinese>
+      <chinesePhrase>認為春節3天是她7年婚姻中最可怕的時期</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析25：她必須從凌晨4點起床 -->
+    <phrase>
+      <text>Cô phải dậy từ 4h sáng</text>
+      <mp3>phrase_co_phai_day_tu_4h_sang_guid.mp3</mp3>
+      <vocabulary>Cô</vocabulary>
+      <chinese>她</chinese>
+      <vocabulary>phải dậy</vocabulary>
+      <chinese>必須起床</chinese>
+      <vocabulary>từ 4h sáng</vocabulary>
+      <chinese>從凌晨4點</chinese>
+      <chinesePhrase>她必須從凌晨4點起床</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析26：準備20多道祭祀祖先的菜餚 -->
+    <phrase>
+      <text>chuẩn bị hơn 20 món cúng tổ tiên</text>
+      <mp3>phrase_chuanbi_hon20mon_cung_totien_guid.mp3</mp3>
+      <vocabulary>chuẩn bị</vocabulary>
+      <chinese>（動）準備</chinese>
+      <vocabulary>hơn 20 món</vocabulary>
+      <chinese>20多道</chinese>
+      <vocabulary>cúng tổ tiên</vocabulary>
+      <chinese>祭祀祖先</chinese>
+      <chinesePhrase>準備20多道祭祀祖先的菜餚</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析27：並服侍婆家直到深夜 -->
+    <phrase>
+      <text>và phục vụ gia đình chồng đến tận khuya</text>
+      <mp3>phrase_va_phucvu_gia_dinh_chong_den_tan_khuya_guid.mp3</mp3>
+      <vocabulary>và</vocabulary>
+      <chinese>（連）並</chinese>
+      <vocabulary>phục vụ</vocabulary>
+      <chinese>（動）服侍/服務</chinese>
+      <vocabulary>gia đình chồng</vocabulary>
+      <chinese>婆家</chinese>
+      <vocabulary>đến tận khuya</vocabulary>
+      <chinese>直到深夜</chinese>
+      <chinesePhrase>並服侍婆家直到深夜</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第六段：廣告(略過) 實際內容接續智恩的敘述 -->
+
+  <!-- 第七段：智恩的敘述繼續 -->
+  <subject>
+    <text>「當我在廚房忙得團團轉，被婆婆挑剔切菜方式時，小姑卻坐著看電視。我丈夫也只忙著招待客人，放任妻子獨自應付」，智恩敘述。積累的壓抑使得假期一結束，離婚申請書就擺上了桌，起因是金錢爭吵和冷漠的態度。</text>
+    <translate>"Trong khi tôi tất bật bếp núc, bị mẹ chồng soi mói cách thái rau thì em chồng ngồi xem tivi. Chồng tôi cũng chỉ lo tiếp khách, bỏ mặc vợ xoay xở", Ji-eun kể. Sự ức chế tích tụ khiến ngay khi kỳ nghỉ kết thúc, lá đơn ly hôn đã được đặt lên bàn vì những tranh cãi về tiền bạc và thái độ vô tâm.</translate>
+    <mp3>subject_jieun_chia_se_guid.mp3</mp3>
+
+    <!-- 詞組分析28：當我在廚房忙得團團轉 -->
+    <phrase>
+      <text>"Trong khi tôi tất bật bếp núc</text>
+      <mp3>phrase_trongkhi_toi_tatbat_bepnuc_guid.mp3</mp3>
+      <vocabulary>Trong khi</vocabulary>
+      <chinese>（連）當...的時候</chinese>
+      <vocabulary>tôi tất bật bếp núc</vocabulary>
+      <chinese>我在廚房忙得團團轉</chinese>
+      <chinesePhrase>當我在廚房忙得團團轉</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析29：被婆婆挑剔切菜方式 -->
+    <phrase>
+      <text>bị mẹ chồng soi mói cách thái rau</text>
+      <mp3>phrase_bi_mechong_soimoi_cach_thairau_guid.mp3</mp3>
+      <vocabulary>bị</vocabulary>
+      <chinese>（助）被</chinese>
+      <vocabulary>mẹ chồng soi mói</vocabulary>
+      <chinese>婆婆挑剔</chinese>
+      <vocabulary>cách thái rau</vocabulary>
+      <chinese>切菜方式</chinese>
+      <chinesePhrase>被婆婆挑剔切菜方式</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析30：小姑卻坐著看電視 -->
+    <phrase>
+      <text>thì em chồng ngồi xem tivi</text>
+      <mp3>phrase_thi_emchong_ngoi_xem_tivi_guid.mp3</mp3>
+      <vocabulary>thì</vocabulary>
+      <chinese>（連）卻</chinese>
+      <vocabulary>em chồng</vocabulary>
+      <chinese>（名）小姑</chinese>
+      <vocabulary>ngồi xem tivi</vocabulary>
+      <chinese>坐著看電視</chinese>
+      <chinesePhrase>小姑卻坐著看電視</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析31：我丈夫也只忙著招待客人 -->
+    <phrase>
+      <text>Chồng tôi cũng chỉ lo tiếp khách</text>
+      <mp3>phrase_chong_toi_cung_chi_lo_tiep_khach_guid.mp3</mp3>
+      <vocabulary>Chồng tôi</vocabulary>
+      <chinese>我丈夫</chinese>
+      <vocabulary>cũng chỉ lo</vocabulary>
+      <chinese>也只忙著</chinese>
+      <vocabulary>tiếp khách</vocabulary>
+      <chinese>招待客人</chinese>
+      <chinesePhrase>我丈夫也只忙著招待客人</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析32：放任妻子獨自應付 -->
+    <phrase>
+      <text>bỏ mặc vợ xoay xở</text>
+      <mp3>phrase_bo_mac_vo_xoay_xo_guid.mp3</mp3>
+      <vocabulary>bỏ mặc</vocabulary>
+      <chinese>（動）放任/拋下不管</chinese>
+      <vocabulary>vợ xoay xở</vocabulary>
+      <chinese>妻子獨自應付</chinese>
+      <chinesePhrase>放任妻子獨自應付</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析33：智恩敘述 -->
+    <phrase>
+      <text>Ji-eun kể</text>
+      <mp3>phrase_jieun_ke_guid.mp3</mp3>
+      <vocabulary>Ji-eun</vocabulary>
+      <chinese>智恩</chinese>
+      <vocabulary>kể</vocabulary>
+      <chinese>敘述</chinese>
+      <chinesePhrase>智恩敘述</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析34：積累的壓抑 -->
+    <phrase>
+      <text>Sự ức chế tích tụ</text>
+      <mp3>phrase_su_ucche_tichtu_guid.mp3</mp3>
+      <vocabulary>Sự ức chế</vocabulary>
+      <chinese>（名）壓抑</chinese>
+      <vocabulary>tích tụ</vocabulary>
+      <chinese>（動）積累</chinese>
+      <chinesePhrase>積累的壓抑</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析35：使得假期一結束 -->
+    <phrase>
+      <text>khiến ngay khi kỳ nghỉ kết thúc</text>
+      <mp3>phrase_khien_ngaykhi_ky_nghi_ketthuc_guid.mp3</mp3>
+      <vocabulary>khiến</vocabulary>
+      <chinese>（動）使得</chinese>
+      <vocabulary>ngay khi kỳ nghỉ kết thúc</vocabulary>
+      <chinese>假期一結束</chinese>
+      <chinesePhrase>使得假期一結束</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析36：離婚申請書就擺上了桌 -->
+    <phrase>
+      <text>lá đơn ly hôn đã được đặt lên bàn</text>
+      <mp3>phrase_la_don_lyhon_duoc_dat_len_ban_guid.mp3</mp3>
+      <vocabulary>lá đơn ly hôn</vocabulary>
+      <chinese>離婚申請書</chinese>
+      <vocabulary>đã được đặt lên bàn</vocabulary>
+      <chinese>被擺上了桌</chinese>
+      <chinesePhrase>離婚申請書就擺上了桌</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析37：因為金錢爭吵和冷漠的態度 -->
+    <phrase>
+      <text>vì những tranh cãi về tiền bạc và thái độ vô tâm</text>
+      <mp3>phrase_vi_nhung_tranhcai_tienbac_thaido_votam_guid.mp3</mp3>
+      <vocabulary>vì</vocabulary>
+      <chinese>（介）因為</chinese>
+      <vocabulary>những tranh cãi về tiền bạc</vocabulary>
+      <chinese>那些金錢爭吵</chinese>
+      <vocabulary>và thái độ vô tâm</vocabulary>
+      <chinese>和冷漠的態度</chinese>
+      <chinesePhrase>因為金錢爭吵和冷漠的態度</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第八段：調查數據 -->
+  <subject>
+    <text>Duo Life Consulting對400多名已婚女性的調查顯示，近60%的女性在過年回婆家時感到「困難和壓抑」。婆婆是最大的壓力來源（42%），其次是小姑和妯娌。</text>
+    <translate>Khảo sát của Duo Life Consulting với hơn 400 phụ nữ đã kết hôn cho thấy, gần 60% cảm thấy "khó khăn và ngột ngạt" khi về nhà chồng dịp Tết. Mẹ chồng là nguồn gây căng thẳng lớn nhất (42%), tiếp đó là chị em chồng.</translate>
+    <mp3>subject_khaosat_guid.mp3</mp3>
+
+    <!-- 詞組分析38：Duo Life Consulting對400多名已婚女性的調查顯示 -->
+    <phrase>
+      <text>Khảo sát của Duo Life Consulting với hơn 400 phụ nữ đã kết hôn cho thấy</text>
+      <mp3>phrase_khaosat_duolifeconsulting_400phunu_dakethon_guid.mp3</mp3>
+      <vocabulary>Khảo sát</vocabulary>
+      <chinese>（名）調查</chinese>
+      <vocabulary>của Duo Life Consulting</vocabulary>
+      <chinese>Duo Life Consulting的</chinese>
+      <vocabulary>với hơn 400 phụ nữ đã kết hôn</vocabulary>
+      <chinese>對400多名已婚女性</chinese>
+      <vocabulary>cho thấy</vocabulary>
+      <chinese>顯示</chinese>
+      <chinesePhrase>Duo Life Consulting對400多名已婚女性的調查顯示</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析39：近60%感到「困難和壓抑」 -->
+    <phrase>
+      <text>gần 60% cảm thấy "khó khăn và ngột ngạt"</text>
+      <mp3>phrase_gan60pt_camthay_khokhan_ngotngat_guid.mp3</mp3>
+      <vocabulary>gần 60%</vocabulary>
+      <chinese>近60%</chinese>
+      <vocabulary>cảm thấy</vocabulary>
+      <chinese>感到</chinese>
+      <vocabulary>"khó khăn và ngột ngạt"</vocabulary>
+      <chinese>「困難和壓抑」</chinese>
+      <chinesePhrase>近60%感到「困難和壓抑」</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析40：當過年回婆家時 -->
+    <phrase>
+      <text>khi về nhà chồng dịp Tết</text>
+      <mp3>phrase_khi_ve_nhachong_dip_tet_guid.mp3</mp3>
+      <vocabulary>khi</vocabulary>
+      <chinese>當...時</chinese>
+      <vocabulary>về nhà chồng</vocabulary>
+      <chinese>回婆家</chinese>
+      <vocabulary>dịp Tết</vocabulary>
+      <chinese>過年期間</chinese>
+      <chinesePhrase>當過年回婆家時</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析41：婆婆是最大的壓力來源（42%） -->
+    <phrase>
+      <text>Mẹ chồng là nguồn gây căng thẳng lớn nhất (42%)</text>
+      <mp3>phrase_mechong_nguon_gay_cangthang_lonnhat_42_guid.mp3</mp3>
+      <vocabulary>Mẹ chồng</vocabulary>
+      <chinese>婆婆</chinese>
+      <vocabulary>là nguồn gây căng thẳng lớn nhất</vocabulary>
+      <chinese>是最大的壓力來源</chinese>
+      <vocabulary>(42%)</vocabulary>
+      <chinese>（42%）</chinese>
+      <chinesePhrase>婆婆是最大的壓力來源（42%）</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析42：其次是小姑和妯娌 -->
+    <phrase>
+      <text>tiếp đó là chị em chồng</text>
+      <mp3>phrase_tiepdo_la_chi_em_chong_guid.mp3</mp3>
+      <vocabulary>tiếp đó là</vocabulary>
+      <chinese>其次是</chinese>
+      <vocabulary>chị em chồng</vocabulary>
+      <chinese>（名）小姑和妯娌</chinese>
+      <chinesePhrase>其次是小姑和妯娌</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第九段：夕陽離婚趨勢 -->
+  <subject>
+    <text>不僅是年輕夫妻，「夕陽離婚」（共同生活超過30年的夫妻）的趨勢在年後也急劇增加，佔總數的10%以上。</text>
+    <translate>Không chỉ các cặp đôi trẻ, xu hướng "ly hôn tuổi xế chiều" (các cặp sống chung trên 30 năm) cũng gia tăng mạnh sau Tết, chiếm hơn 10% tổng số vụ.</translate>
+    <mp3>subject_xuhuong_lyhon_guid.mp3</mp3>
+
+    <!-- 詞組分析43：不僅是年輕夫妻 -->
+    <phrase>
+      <text>Không chỉ các cặp đôi trẻ</text>
+      <mp3>phrase_khongchi_cac_capdoi_tre_guid.mp3</mp3>
+      <vocabulary>Không chỉ</vocabulary>
+      <chinese>不僅</chinese>
+      <vocabulary>các cặp đôi trẻ</vocabulary>
+      <chinese>年輕夫妻</chinese>
+      <chinesePhrase>不僅是年輕夫妻</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析44：「夕陽離婚」趨勢 -->
+    <phrase>
+      <text>xu hướng "ly hôn tuổi xế chiều"</text>
+      <mp3>phrase_xuhuong_lyhon_tuoixechieu_guid.mp3</mp3>
+      <vocabulary>xu hướng</vocabulary>
+      <chinese>（名）趨勢</chinese>
+      <vocabulary>"ly hôn tuổi xế chiều"</vocabulary>
+      <chinese>「夕陽離婚」</chinese>
+      <chinesePhrase>「夕陽離婚」趨勢</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析45：（共同生活超過30年的夫妻） -->
+    <phrase>
+      <text>(các cặp sống chung trên 30 năm)</text>
+      <mp3>phrase_cac_cap_songchung_tren30nam_guid.mp3</mp3>
+      <vocabulary>các cặp sống chung</vocabulary>
+      <chinese>共同生活的夫妻</chinese>
+      <vocabulary>trên 30 năm</vocabulary>
+      <chinese>超過30年</chinese>
+      <chinesePhrase>（共同生活超過30年的夫妻）</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析46：在年後也急劇增加 -->
+    <phrase>
+      <text>cũng gia tăng mạnh sau Tết</text>
+      <mp3>phrase_cung_giatang_manh_sau_tet_guid.mp3</mp3>
+      <vocabulary>cũng</vocabulary>
+      <chinese>也</chinese>
+      <vocabulary>gia tăng mạnh</vocabulary>
+      <chinese>急劇增加</chinese>
+      <vocabulary>sau Tết</vocabulary>
+      <chinese>年後</chinese>
+      <chinesePhrase>在年後也急劇增加</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析47：佔總數的10%以上 -->
+    <phrase>
+      <text>chiếm hơn 10% tổng số vụ</text>
+      <mp3>phrase_chiem_hon10pt_tongso_vu_guid.mp3</mp3>
+      <vocabulary>chiếm</vocabulary>
+      <chinese>佔</chinese>
+      <vocabulary>hơn 10% tổng số vụ</vocabulary>
+      <chinese>總數的10%以上</chinese>
+      <chinesePhrase>佔總數的10%以上</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第十段：專家解釋 -->
+  <subject>
+    <text>專家解釋，平日夫妻可以因為工作忙碌而忽略小矛盾。但當被迫在假期24/7相處，加上來自親戚的壓力、禮物比較和不平等的家務分配，原本的裂痕會擴大成為無法彌補的巨大鴻溝。</text>
+    <translate>Các chuyên gia lý giải, ngày thường vợ chồng có thể lờ đi những mâu thuẫn nhỏ nhờ công việc bận rộn. Nhưng khi bị buộc phải ở cạnh nhau 24/7 trong kỳ nghỉ, cộng thêm áp lực từ họ hàng, so sánh quà cáp và sự phân chia lao động bất bình đẳng, những rạn nứt vốn có sẽ toác ra thành khe hở lớn không thể hàn gắn.</translate>
+    <mp3>subject_chuyengia_lygiai_guid.mp3</mp3>
+
+    <!-- 詞組分析48：專家解釋 -->
+    <phrase>
+      <text>Các chuyên gia lý giải</text>
+      <mp3>phrase_cac_chuyengia_lygiai_guid.mp3</mp3>
+      <vocabulary>Các chuyên gia</vocabulary>
+      <chinese>專家們</chinese>
+      <vocabulary>lý giải</vocabulary>
+      <chinese>（動）解釋</chinese>
+      <chinesePhrase>專家解釋</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析49：平日夫妻可以因為工作忙碌而忽略小矛盾 -->
+    <phrase>
+      <text>ngày thường vợ chồng có thể lờ đi những mâu thuẫn nhỏ nhờ công việc bận rộn</text>
+      <mp3>phrase_ngaythuong_vo_chong_loidi_mauthuan_nho_nho_congviec_banron_guid.mp3</mp3>
+      <vocabulary>ngày thường</vocabulary>
+      <chinese>平日</chinese>
+      <vocabulary>vợ chồng có thể lờ đi</vocabulary>
+      <chinese>夫妻可以忽略</chinese>
+      <vocabulary>những mâu thuẫn nhỏ</vocabulary>
+      <chinese>小矛盾</chinese>
+      <vocabulary>nhờ công việc bận rộn</vocabulary>
+      <chinese>因為工作忙碌</chinese>
+      <chinesePhrase>平日夫妻可以因為工作忙碌而忽略小矛盾</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析50：但當被迫在假期24/7相處 -->
+    <phrase>
+      <text>Nhưng khi bị buộc phải ở cạnh nhau 24/7 trong kỳ nghỉ</text>
+      <mp3>phrase_nhung_khi_bi_buocphai_o_canhnhau_24_7_trong_ky_nghi_guid.mp3</mp3>
+      <vocabulary>Nhưng khi</vocabulary>
+      <chinese>但當</chinese>
+      <vocabulary>bị buộc phải ở cạnh nhau 24/7</vocabulary>
+      <chinese>被迫24/7相處</chinese>
+      <vocabulary>trong kỳ nghỉ</vocabulary>
+      <chinese>在假期中</chinese>
+      <chinesePhrase>但當被迫在假期24/7相處</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析51：加上來自親戚的壓力 -->
+    <phrase>
+      <text>cộng thêm áp lực từ họ hàng</text>
+      <mp3>phrase_congthem_ap_luc_tu_ho_hang_guid.mp3</mp3>
+      <vocabulary>cộng thêm</vocabulary>
+      <chinese>加上</chinese>
+      <vocabulary>áp lực từ họ hàng</vocabulary>
+      <chinese>來自親戚的壓力</chinese>
+      <chinesePhrase>加上來自親戚的壓力</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析52：禮物比較和不平等的家務分配 -->
+    <phrase>
+      <text>so sánh quà cáp và sự phân chia lao động bất bình đẳng</text>
+      <mp3>phrase_sosanh_quacap_va_phanchia_laodong_batbinhdang_guid.mp3</mp3>
+      <vocabulary>so sánh quà cáp</vocabulary>
+      <chinese>禮物比較</chinese>
+      <vocabulary>và</vocabulary>
+      <chinese>和</chinese>
+      <vocabulary>sự phân chia lao động bất bình đẳng</vocabulary>
+      <chinese>不平等的家務分配</chinese>
+      <chinesePhrase>禮物比較和不平等的家務分配</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析53：原本的裂痕會擴大成為無法彌補的巨大鴻溝 -->
+    <phrase>
+      <text>những rạn nứt vốn có sẽ toác ra thành khe hở lớn không thể hàn gắn</text>
+      <mp3>phrase_nhung_ran_nut_vonco_toac_ra_kheho_lon_khongthe_han_gan_guid.mp3</mp3>
+      <vocabulary>những rạn nứt vốn có</vocabulary>
+      <chinese>原本的裂痕</chinese>
+      <vocabulary>sẽ toác ra thành</vocabulary>
+      <chinese>會擴大成為</chinese>
+      <vocabulary>khe hở lớn không thể hàn gắn</vocabulary>
+      <chinese>無法彌補的巨大鴻溝</chinese>
+      <chinesePhrase>原本的裂痕會擴大成為無法彌補的巨大鴻溝</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第十一段：社群媒體文章 -->
+  <subject>
+    <text>最近韓國社交媒體上流傳的一篇文章問道：「婚姻值得嗎？」作者將悠閒去旅行的單身人士與在婆家廚房裡蓬頭垢面的妻子形象進行比較。這篇文章獲得了極大的共鳴，反映了日益增長的懷疑婚姻心理。</text>
+    <translate>Một bài viết lan truyền trên mạng xã hội Hàn Quốc gần đây đặt câu hỏi: "Liệu hôn nhân có đáng giá không?". Tác giả so sánh cảnh người độc thân thảnh thơi đi du lịch với hình ảnh những người vợ đầu bù tóc rối trong bếp nhà chồng. Bài viết nhận được sự đồng cảm lớn, phản ánh tâm lý hoài nghi hôn nhân ngày càng tăng.</translate>
+    <mp3>subject_baiviet_mangxahoi_guid.mp3</mp3>
+
+    <!-- 詞組分析54：最近韓國社交媒體上流傳的一篇文章問道 -->
+    <phrase>
+      <text>Một bài viết lan truyền trên mạng xã hội Hàn Quốc gần đây đặt câu hỏi</text>
+      <mp3>phrase_mot_baiviet_lantruyen_mangxahoi_hanquoc_gan_day_datcauhoi_guid.mp3</mp3>
+      <vocabulary>Một bài viết</vocabulary>
+      <chinese>一篇文章</chinese>
+      <vocabulary>lan truyền trên mạng xã hội Hàn Quốc gần đây</vocabulary>
+      <chinese>最近在韓國社交媒體上流傳</chinese>
+      <vocabulary>đặt câu hỏi</vocabulary>
+      <chinese>提問/問道</chinese>
+      <chinesePhrase>最近韓國社交媒體上流傳的一篇文章問道</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析55：「婚姻值得嗎？」 -->
+    <phrase>
+      <text>"Liệu hôn nhân có đáng giá không?"</text>
+      <mp3>phrase_lieu_hon_nhan_co_dang_gia_khong_guid.mp3</mp3>
+      <vocabulary>Liệu</vocabulary>
+      <chinese>是否</chinese>
+      <vocabulary>hôn nhân có đáng giá không</vocabulary>
+      <chinese>婚姻值得嗎</chinese>
+      <chinesePhrase>「婚姻值得嗎？」</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析56：作者將悠閒去旅行的單身人士 -->
+    <phrase>
+      <text>Tác giả so sánh cảnh người độc thân thảnh thơi đi du lịch</text>
+      <mp3>phrase_tacgia_sosanh_canh_nguo_docthan_thanhthoi_di dulich_guid.mp3</mp3>
+      <vocabulary>Tác giả</vocabulary>
+      <chinese>作者</chinese>
+      <vocabulary>so sánh</vocabulary>
+      <chinese>比較</chinese>
+      <vocabulary>cảnh người độc thân thảnh thơi đi du lịch</vocabulary>
+      <chinese>悠閒去旅行的單身人士的景象</chinese>
+      <chinesePhrase>作者將悠閒去旅行的單身人士</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析57：與在婆家廚房裡蓬頭垢面的妻子形象進行比較 -->
+    <phrase>
+      <text>với hình ảnh những người vợ đầu bù tóc rối trong bếp nhà chồng</text>
+      <mp3>phrase_voi_hinhanh_nhung_nguoi_vo_daubutocroi_trong_bep_nhachong_guid.mp3</mp3>
+      <vocabulary>với</vocabulary>
+      <chinese>與</chinese>
+      <vocabulary>hình ảnh những người vợ đầu bù tóc rối trong bếp nhà chồng</vocabulary>
+      <chinese>在婆家廚房裡蓬頭垢面的妻子形象</chinese>
+      <chinesePhrase>與在婆家廚房裡蓬頭垢面的妻子形象進行比較</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析58：文章獲得了極大的共鳴 -->
+    <phrase>
+      <text>Bài viết nhận được sự đồng cảm lớn</text>
+      <mp3>phrase_baiviet_nhanduoc_su_dongcam_lon_guid.mp3</mp3>
+      <vocabulary>Bài viết</vocabulary>
+      <chinese>文章</chinese>
+      <vocabulary>nhận được</vocabulary>
+      <chinese>獲得</chinese>
+      <vocabulary>sự đồng cảm lớn</vocabulary>
+      <chinese>極大的共鳴</chinese>
+      <chinesePhrase>文章獲得了極大的共鳴</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析59：反映了日益增長的懷疑婚姻心理 -->
+    <phrase>
+      <text>phản ánh tâm lý hoài nghi hôn nhân ngày càng tăng</text>
+      <mp3>phrase_phananh_tamly_hoainghi_honnhân_ngaycang_tang_guid.mp3</mp3>
+      <vocabulary>phản ánh</vocabulary>
+      <chinese>反映</chinese>
+      <vocabulary>tâm lý hoài nghi hôn nhân</vocabulary>
+      <chinese>懷疑婚姻心理</chinese>
+      <vocabulary>ngày càng tăng</vocabulary>
+      <chinese>日益增長</chinese>
+      <chinesePhrase>反映了日益增長的懷疑婚姻心理</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第十二段：律師觀點 -->
+  <subject>
+    <text>Sungin法律事務所的Yang So-young律師表示，拒絕回婆家一次不足以構成離婚的法律依據。然而，如果這種情況反覆發生，並伴隨著長期的缺乏尊重態度，法院可以將其視為終止婚姻的理由。</text>
+    <translate>Luật sư Yang So-young (Công ty luật Sungin) cho biết, việc từ chối về quê chồng một lần không đủ căn cứ pháp lý để ly hôn. Tuy nhiên, nếu sự việc lặp lại kèm theo thái độ thiếu tôn trọng kéo dài, tòa án có thể xem xét đó là lý do chấm dứt hôn nhân.</translate>
+    <mp3>subject_luatsu_guid.mp3</mp3>
+
+    <!-- 詞組分析60：Sungin法律事務所的Yang So-young律師表示 -->
+    <phrase>
+      <text>Luật sư Yang So-young (Công ty luật Sungin) cho biết</text>
+      <mp3>phrase_luatsu_yangsoyoung_sungin_chobiet_guid.mp3</mp3>
+      <vocabulary>Luật sư Yang So-young</vocabulary>
+      <chinese>Yang So-young律師</chinese>
+      <vocabulary>(Công ty luật Sungin)</vocabulary>
+      <chinese>Sungin法律事務所</chinese>
+      <vocabulary>cho biết</vocabulary>
+      <chinese>表示</chinese>
+      <chinesePhrase>Sungin法律事務所的Yang So-young律師表示</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析61：拒絕回婆家一次不足以構成離婚的法律依據 -->
+    <phrase>
+      <text>việc từ chối về quê chồng một lần không đủ căn cứ pháp lý để ly hôn</text>
+      <mp3>phrase_viec_tuchoi_ve_quechong_motlan_khongdu_cancu_phaply_lyhon_guid.mp3</mp3>
+      <vocabulary>việc từ chối về quê chồng một lần</vocabulary>
+      <chinese>拒絕回婆家一次</chinese>
+      <vocabulary>không đủ căn cứ pháp lý</vocabulary>
+      <chinese>不足法律依據</chinese>
+      <vocabulary>để ly hôn</vocabulary>
+      <chinese>離婚</chinese>
+      <chinesePhrase>拒絕回婆家一次不足以構成離婚的法律依據</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析62：然而 -->
+    <phrase>
+      <text>Tuy nhiên</text>
+      <mp3>phrase_tuy_nhien_guid.mp3</mp3>
+      <vocabulary>Tuy nhiên</vocabulary>
+      <chinese>（連）然而</chinese>
+      <chinesePhrase>然而</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析63：如果這種情況反覆發生 -->
+    <phrase>
+      <text>nếu sự việc lặp lại</text>
+      <mp3>phrase_neu_su_viec_lap_lai_guid.mp3</mp3>
+      <vocabulary>nếu</vocabulary>
+      <chinese>如果</chinese>
+      <vocabulary>sự việc lặp lại</vocabulary>
+      <chinese>這種情況反覆發生</chinese>
+      <chinesePhrase>如果這種情況反覆發生</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析64：伴隨著長期的缺乏尊重態度 -->
+    <phrase>
+      <text>kèm theo thái độ thiếu tôn trọng kéo dài</text>
+      <mp3>phrase_kemtheo_thaido_thieu_tontrong_keodai_guid.mp3</mp3>
+      <vocabulary>kèm theo</vocabulary>
+      <chinese>伴隨著</chinese>
+      <vocabulary>thái độ thiếu tôn trọng kéo dài</vocabulary>
+      <chinese>長期的缺乏尊重態度</chinese>
+      <chinesePhrase>伴隨著長期的缺乏尊重態度</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析65：法院可以將其視為終止婚姻的理由 -->
+    <phrase>
+      <text>tòa án có thể xem xét đó là lý do chấm dứt hôn nhân</text>
+      <mp3>phrase_toa_an_co_the_xemxet_do_lydo_chamdut_hon_nhan_guid.mp3</mp3>
+      <vocabulary>tòa án</vocabulary>
+      <chinese>法院</chinese>
+      <vocabulary>có thể xem xét đó là</vocabulary>
+      <chinese>可以將其視為</chinese>
+      <vocabulary>lý do chấm dứt hôn nhân</vocabulary>
+      <chinese>終止婚姻的理由</chinese>
+      <chinesePhrase>法院可以將其視為終止婚姻的理由</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第十三段：專家建議 -->
+  <subject>
+    <text>為避免「開心過年然後分手」的悲劇，Only-You婚姻諮詢公司CEO Sohn Dong-kyu建議夫妻在假期前需要有一個「作戰計劃」。</text>
+    <translate>Để tránh bi kịch "vui Tết rồi chia tay", ông Sohn Dong-kyu, CEO công ty tư vấn hôn nhân Only-You, khuyên các cặp vợ chồng cần có "hợp đồng tác chiến" trước kỳ nghỉ.</translate>
+    <mp3>subject_chuyengia_khuyen_guid.mp3</mp3>
+
+    <!-- 詞組分析66：為避免「開心過年然後分手」的悲劇 -->
+    <phrase>
+      <text>Để tránh bi kịch "vui Tết rồi chia tay"</text>
+      <mp3>phrase_de_tranh_bikich_vui_tet_roi_chiatay_guid.mp3</mp3>
+      <vocabulary>Để tránh</vocabulary>
+      <chinese>為了避免</chinese>
+      <vocabulary>bi kịch</vocabulary>
+      <chinese>悲劇</chinese>
+      <vocabulary>"vui Tết rồi chia tay"</vocabulary>
+      <chinese>「開心過年然後分手」</chinese>
+      <chinesePhrase>為避免「開心過年然後分手」的悲劇</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析67：Only-You婚姻諮詢公司CEO Sohn Dong-kyu -->
+    <phrase>
+      <text>ông Sohn Dong-kyu, CEO công ty tư vấn hôn nhân Only-You</text>
+      <mp3>phrase_ong_sohndongkyu_ceo_onlyyou_guid.mp3</mp3>
+      <vocabulary>ông Sohn Dong-kyu</vocabulary>
+      <chinese>Sohn Dong-kyu先生</chinese>
+      <vocabulary>CEO công ty tư vấn hôn nhân Only-You</vocabulary>
+      <chinese>Only-You婚姻諮詢公司CEO</chinese>
+      <chinesePhrase>Only-You婚姻諮詢公司CEO Sohn Dong-kyu</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析68：建議夫妻在假期前需要有一個「作戰計劃」 -->
+    <phrase>
+      <text>khuyên các cặp vợ chồng cần có "hợp đồng tác chiến" trước kỳ nghỉ</text>
+      <mp3>phrase_khuyen_cac_cap_vo_chong_can_co_hopdong_tacchien_truoc_ky_nghi_guid.mp3</mp3>
+      <vocabulary>khuyên</vocabulary>
+      <chinese>建議</chinese>
+      <vocabulary>các cặp vợ chồng</vocabulary>
+      <chinese>夫妻們</chinese>
+      <vocabulary>cần có</vocabulary>
+      <chinese>需要有</chinese>
+      <vocabulary>"hợp đồng tác chiến"</vocabulary>
+      <chinese>「作戰計劃」</chinese>
+      <vocabulary>trước kỳ nghỉ</vocabulary>
+      <chinese>假期前</chinese>
+      <chinesePhrase>建議夫妻在假期前需要有一個「作戰計劃」</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第十四段：具體建議 -->
+  <subject>
+    <text>「請就公平探望婆家和娘家的時間表達成一致，丈夫必須分擔洗碗、打掃等家務，並在親戚提出無理要求時保護妻子。不要讓妻子在婆家感到孤獨」，Sohn先生強調。</text>
+    <translate>"Hãy thống nhất lịch trình thăm nội ngoại công bằng, chồng phải chia sẻ việc rửa bát, dọn dẹp và bảo vệ vợ trước những đòi hỏi vô lý của họ hàng. Đừng để vợ mình cảm thấy cô độc ngay giữa gia đình chồng", ông Sohn nhấn mạnh.</translate>
+    <mp3>subject_loi_khuyen_guid.mp3</mp3>
+
+    <!-- 詞組分析69：請就公平探望婆家和娘家的時間表達成一致 -->
+    <phrase>
+      <text>"Hãy thống nhất lịch trình thăm nội ngoại công bằng</text>
+      <mp3>phrase_hay_thongnhat_lich_trinh_tham_noingoai_congbang_guid.mp3</mp3>
+      <vocabulary>Hãy</vocabulary>
+      <chinese>請</chinese>
+      <vocabulary>thống nhất</vocabulary>
+      <chinese>（動）統一/達成一致</chinese>
+      <vocabulary>lịch trình thăm nội ngoại công bằng</vocabulary>
+      <chinese>公平探望婆家和娘家的時間表</chinese>
+      <chinesePhrase>請就公平探望婆家和娘家的時間表達成一致</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析70：丈夫必須分擔洗碗、打掃等家務 -->
+    <phrase>
+      <text>chồng phải chia sẻ việc rửa bát, dọn dẹp</text>
+      <mp3>phrase_chong_phai_chia_se_viec_ruabat_dondep_guid.mp3</mp3>
+      <vocabulary>chồng phải</vocabulary>
+      <chinese>丈夫必須</chinese>
+      <vocabulary>chia sẻ việc rửa bát, dọn dẹp</vocabulary>
+      <chinese>分擔洗碗、打掃等家務</chinese>
+      <chinesePhrase>丈夫必須分擔洗碗、打掃等家務</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析71：並在親戚提出無理要求時保護妻子 -->
+    <phrase>
+      <text>và bảo vệ vợ trước những đòi hỏi vô lý của họ hàng</text>
+      <mp3>phrase_va_baove_vo_truoc_nhung_doihoi_voly_cua_hohang_guid.mp3</mp3>
+      <vocabulary>và</vocabulary>
+      <chinese>並</chinese>
+      <vocabulary>bảo vệ vợ</vocabulary>
+      <chinese>保護妻子</chinese>
+      <vocabulary>trước những đòi hỏi vô lý của họ hàng</vocabulary>
+      <chinese>在親戚提出無理要求時</chinese>
+      <chinesePhrase>並在親戚提出無理要求時保護妻子</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析72：不要讓妻子在婆家感到孤獨 -->
+    <phrase>
+      <text>Đừng để vợ mình cảm thấy cô độc ngay giữa gia đình chồng</text>
+      <mp3>phrase_dung_de_vo_minh_camthay_codoc_ngay_giua_gia_dinh_chong_guid.mp3</mp3>
+      <vocabulary>Đừng để</vocabulary>
+      <chinese>不要讓</chinese>
+      <vocabulary>vợ mình cảm thấy cô độc</vocabulary>
+      <chinese>自己的妻子感到孤獨</chinese>
+      <vocabulary>ngay giữa gia đình chồng</vocabulary>
+      <chinese>就在婆家</chinese>
+      <chinesePhrase>不要讓妻子在婆家感到孤獨</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析73：Sohn先生強調 -->
+    <phrase>
+      <text>ông Sohn nhấn mạnh</text>
+      <mp3>phrase_ong_sohn_nhan_manh_guid.mp3</mp3>
+      <vocabulary>ông Sohn</vocabulary>
+      <chinese>Sohn先生</chinese>
+      <vocabulary>nhấn mạnh</vocabulary>
+      <chinese>強調</chinese>
+      <chinesePhrase>Sohn先生強調</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第十五段：來源 -->
+  <subject>
+    <text>玉銀（根據Korea Times, Maeil Kyungjae）</text>
+    <translate>Ngọc Ngân (Theo Korea Times, Maeil Kyungjae)</translate>
+    <mp3>subject_nguon_guid.mp3</mp3>
+
+    <!-- 詞組分析74：玉銀 -->
+    <phrase>
+      <text>Ngọc Ngân</text>
+      <mp3>phrase_ngoc_ngan_guid.mp3</mp3>
+      <vocabulary>Ngọc Ngân</vocabulary>
+      <chinese>（名）玉銀</chinese>
+      <chinesePhrase>玉銀</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析75：根據Korea Times, Maeil Kyungjae -->
+    <phrase>
+      <text>(Theo Korea Times, Maeil Kyungjae)</text>
+      <mp3>phrase_theo_koreatimes_maeilkyungjae_guid.mp3</mp3>
+      <vocabulary>Theo</vocabulary>
+      <chinese>根據</chinese>
+      <vocabulary>Korea Times, Maeil Kyungjae</vocabulary>
+      <chinese>（名）Korea Times, Maeil Kyungjae</chinese>
+      <chinesePhrase>根據Korea Times, Maeil Kyungjae</chinesePhrase>
+    </phrase>
+  </subject>
+</xml>
