@@ -1,0 +1,1896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <!-- 標題：陳友的《親愛的兔子》突破1000億越南盾 -->
+  <subject>
+    <text>陳友的《親愛的兔子》突破1000億越南盾</text>
+    <translate>'Thỏ ơi' của Trấn Thành vượt 100 tỷ đồng</translate>
+    <mp3>subject_title_tho_oi_guid.mp3</mp3>
+
+    <!-- 詞組分析1：Thỏ ơi -->
+    <phrase>
+      <text>Thỏ ơi</text>
+      <mp3>phrase_tho_oi_guid.mp3</mp3>
+      <vocabulary>Thỏ</vocabulary>
+      <chinese>（名）兔子</chinese>
+      <vocabulary>ơi</vocabulary>
+      <chinese>（嘆）親愛的/啊</chinese>
+      <chinesePhrase>親愛的兔子</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析2：của -->
+    <phrase>
+      <text>của</text>
+      <mp3>phrase_cua_guid.mp3</mp3>
+      <vocabulary>của</vocabulary>
+      <chinese>（介）的</chinese>
+      <chinesePhrase>的</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析3：Trấn Thành -->
+    <phrase>
+      <text>Trấn Thành</text>
+      <mp3>phrase_tran_thanh_guid.mp3</mp3>
+      <vocabulary>Trấn Thành</vocabulary>
+      <chinese>（名）陳友</chinese>
+      <chinesePhrase>陳友</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析4：vượt -->
+    <phrase>
+      <text>vượt</text>
+      <mp3>phrase_vuot_guid.mp3</mp3>
+      <vocabulary>vượt</vocabulary>
+      <chinese>（動）超越/突破</chinese>
+      <chinesePhrase>突破</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析5：100 tỷ đồng -->
+    <phrase>
+      <text>100 tỷ đồng</text>
+      <mp3>phrase_100_ty_dong_guid.mp3</mp3>
+      <vocabulary>100</vocabulary>
+      <chinese>（數）一百</chinese>
+      <vocabulary>tỷ</vocabulary>
+      <chinese>（數）十億</chinese>
+      <vocabulary>đồng</vocabulary>
+      <chinese>（名）越南盾</chinese>
+      <chinesePhrase>1000億越南盾</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第二段：票房成績 -->
+  <subject>
+    <text>18+電影《親愛的兔子》上映兩天多後突破1000億越南盾，打破同樣由陳友執導的《搗蛋四人組》的紀錄。</text>
+    <translate>Phim 18+ "Thỏ ơi" vượt 100 tỷ đồng sau hơn hai ngày chiếu, phá kỷ lục "Bộ tứ báo thủ" - đều do Trấn Thành đạo diễn.</translate>
+    <mp3>subject_box_office_record_guid.mp3</mp3>
+
+    <!-- 詞組分析6：Phim -->
+    <phrase>
+      <text>Phim</text>
+      <mp3>phrase_phim_guid.mp3</mp3>
+      <vocabulary>Phim</vocabulary>
+      <chinese>（名）電影</chinese>
+      <chinesePhrase>電影</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析7：18+ -->
+    <phrase>
+      <text>18+</text>
+      <mp3>phrase_18+_guid.mp3</mp3>
+      <vocabulary>18+</vocabulary>
+      <chinese>18歲以上/限制級</chinese>
+      <chinesePhrase>18+</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析8：sau -->
+    <phrase>
+      <text>sau</text>
+      <mp3>phrase_sau_guid.mp3</mp3>
+      <vocabulary>sau</vocabulary>
+      <chinese>（介）之後</chinese>
+      <chinesePhrase>之後</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析9：hơn -->
+    <phrase>
+      <text>hơn</text>
+      <mp3>phrase_hon_guid.mp3</mp3>
+      <vocabulary>hơn</vocabulary>
+      <chinese>（介）超過</chinese>
+      <chinesePhrase>超過</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析10：hai ngày -->
+    <phrase>
+      <text>hai ngày</text>
+      <mp3>phrase_hai_ngay_guid.mp3</mp3>
+      <vocabulary>hai</vocabulary>
+      <chinese>兩</chinese>
+      <vocabulary>ngày</vocabulary>
+      <chinese>（名）天</chinese>
+      <chinesePhrase>兩天</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析11：chiếu -->
+    <phrase>
+      <text>chiếu</text>
+      <mp3>phrase_chieu_guid.mp3</mp3>
+      <vocabulary>chiếu</vocabulary>
+      <chinese>（動）放映/上映</chinese>
+      <chinesePhrase>上映</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析12：phá -->
+    <phrase>
+      <text>phá</text>
+      <mp3>phrase_pha_guid.mp3</mp3>
+      <vocabulary>phá</vocabulary>
+      <chinese>（動）打破</chinese>
+      <chinesePhrase>打破</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析13：kỷ lục -->
+    <phrase>
+      <text>kỷ lục</text>
+      <mp3>phrase_ky_luc_guid.mp3</mp3>
+      <vocabulary>kỷ</vocabulary>
+      <chinese>（名）紀</chinese>
+      <vocabulary>lục</vocabulary>
+      <chinese>（名）錄</chinese>
+      <chinesePhrase>紀錄</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析14：Bộ tứ báo thủ -->
+    <phrase>
+      <text>"Bộ tứ báo thủ"</text>
+      <mp3>phrase_bo_tu_bao_thu_guid.mp3</mp3>
+      <vocabulary>Bộ tứ</vocabulary>
+      <chinese>（名）四部/四人組</chinese>
+      <vocabulary>báo thủ</vocabulary>
+      <chinese>（名）搗蛋鬼</chinese>
+      <chinesePhrase>搗蛋四人組</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析15：đều -->
+    <phrase>
+      <text>đều</text>
+      <mp3>phrase_deu_guid.mp3</mp3>
+      <vocabulary>đều</vocabulary>
+      <chinese>（副）都/同樣</chinese>
+      <chinesePhrase>同樣</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析16：do -->
+    <phrase>
+      <text>do</text>
+      <mp3>phrase_do_guid.mp3</mp3>
+      <vocabulary>do</vocabulary>
+      <chinese>（介）由</chinese>
+      <chinesePhrase>由</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析17：đạo diễn -->
+    <phrase>
+      <text>đạo diễn</text>
+      <mp3>phrase_dao_dien_guid.mp3</mp3>
+      <vocabulary>đạo diễn</vocabulary>
+      <chinese>（名）導演</chinese>
+      <chinesePhrase>導演</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第三段：詳細票房數據 -->
+  <subject>
+    <text>2月19日中午，該作品創下新的票房里程碑，根據Box Office Vietnam，比陳友去年春節上映的《搗蛋四人組》快了約三小時。此票房包括預售票。</text>
+    <translate>Trưa 19/2, tác phẩm lập cột mốc doanh thu mới, nhanh hơn khoảng ba tiếng so với Bộ tứ báo thủ - phim Tết của Trấn Thành công chiếu năm ngoái, theo Box Office Vietnam. Doanh thu này gồm vé đặt trước.</translate>
+    <mp3>subject_box_office_detail_guid.mp3</mp3>
+
+    <!-- 詞組分析18：Trưa -->
+    <phrase>
+      <text>Trưa</text>
+      <mp3>phrase_trua_guid.mp3</mp3>
+      <vocabulary>Trưa</vocabulary>
+      <chinese>（名）中午</chinese>
+      <chinesePhrase>中午</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析19：19/2 -->
+    <phrase>
+      <text>19/2</text>
+      <mp3>phrase_19_2_guid.mp3</mp3>
+      <vocabulary>19/2</vocabulary>
+      <chinese>2月19日</chinese>
+      <chinesePhrase>2月19日</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析20：tác phẩm -->
+    <phrase>
+      <text>tác phẩm</text>
+      <mp3>phrase_tac_pham_guid.mp3</mp3>
+      <vocabulary>tác phẩm</vocabulary>
+      <chinese>（名）作品</chinese>
+      <chinesePhrase>作品</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析21：lập -->
+    <phrase>
+      <text>lập</text>
+      <mp3>phrase_lap_guid.mp3</mp3>
+      <vocabulary>lập</vocabulary>
+      <chinese>（動）創立/達成</chinese>
+      <chinesePhrase>創下</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析22：cột mốc -->
+    <phrase>
+      <text>cột mốc</text>
+      <mp3>phrase_cot_moc_guid.mp3</mp3>
+      <vocabulary>cột</vocabulary>
+      <chinese>（名）柱子</chinese>
+      <vocabulary>mốc</vocabulary>
+      <chinese>（名）里程碑/標記</chinese>
+      <chinesePhrase>里程碑</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析23：doanh thu -->
+    <phrase>
+      <text>doanh thu</text>
+      <mp3>phrase_doanh_thu_guid.mp3</mp3>
+      <vocabulary>doanh thu</vocabulary>
+      <chinese>（名）收入/票房</chinese>
+      <chinesePhrase>票房</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析24：mới -->
+    <phrase>
+      <text>mới</text>
+      <mp3>phrase_moi_guid.mp3</mp3>
+      <vocabulary>mới</vocabulary>
+      <chinese>（形）新的</chinese>
+      <chinesePhrase>新的</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析25：nhanh hơn -->
+    <phrase>
+      <text>nhanh hơn</text>
+      <mp3>phrase_nhanh_hon_guid.mp3</mp3>
+      <vocabulary>nhanh</vocabulary>
+      <chinese>（形）快</chinese>
+      <vocabulary>hơn</vocabulary>
+      <chinese>（介）比</chinese>
+      <chinesePhrase>比...快</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析26：khoảng -->
+    <phrase>
+      <text>khoảng</text>
+      <mp3>phrase_khoang_guid.mp3</mp3>
+      <vocabulary>khoảng</vocabulary>
+      <chinese>（副）大約</chinese>
+      <chinesePhrase>大約</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析27：ba tiếng -->
+    <phrase>
+      <text>ba tiếng</text>
+      <mp3>phrase_ba_tieng_guid.mp3</mp3>
+      <vocabulary>ba</vocabulary>
+      <chinese>三</chinese>
+      <vocabulary>tiếng</vocabulary>
+      <chinese>（名）小時</chinese>
+      <chinesePhrase>三小時</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析28：so với -->
+    <phrase>
+      <text>so với</text>
+      <mp3>phrase_so_voi_guid.mp3</mp3>
+      <vocabulary>so với</vocabulary>
+      <chinese>（介）相比/比</chinese>
+      <chinesePhrase>相比</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析29：phim Tết -->
+    <phrase>
+      <text>phim Tết</text>
+      <mp3>phrase_phim_tet_guid.mp3</mp3>
+      <vocabulary>phim</vocabulary>
+      <chinese>電影</chinese>
+      <vocabulary>Tết</vocabulary>
+      <chinese>（名）春節</chinese>
+      <chinesePhrase>春節檔電影</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析30：công chiếu -->
+    <phrase>
+      <text>công chiếu</text>
+      <mp3>phrase_cong_chieu_guid.mp3</mp3>
+      <vocabulary>công chiếu</vocabulary>
+      <chinese>（動）公映</chinese>
+      <chinesePhrase>公映</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析31：năm ngoái -->
+    <phrase>
+      <text>năm ngoái</text>
+      <mp3>phrase_nam_ngoai_guid.mp3</mp3>
+      <vocabulary>năm</vocabulary>
+      <chinese>年</chinese>
+      <vocabulary>ngoái</vocabulary>
+      <chinese>（形）去年</chinese>
+      <chinesePhrase>去年</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析32：theo -->
+    <phrase>
+      <text>theo</text>
+      <mp3>phrase_theo_guid.mp3</mp3>
+      <vocabulary>theo</vocabulary>
+      <chinese>（介）根據</chinese>
+      <chinesePhrase>根據</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析33：Box Office Vietnam -->
+    <phrase>
+      <text>Box Office Vietnam</text>
+      <mp3>phrase_box_office_vietnam_guid.mp3</mp3>
+      <vocabulary>Box Office Vietnam</vocabulary>
+      <chinese>（名）越南票房</chinese>
+      <chinesePhrase>越南票房統計</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析34：Doanh thu này -->
+    <phrase>
+      <text>Doanh thu này</text>
+      <mp3>phrase_doanh_thu_nay_guid.mp3</mp3>
+      <vocabulary>Doanh thu</vocabulary>
+      <chinese>票房</chinese>
+      <vocabulary>này</vocabulary>
+      <chinese>這</chinese>
+      <chinesePhrase>此票房</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析35：gồm -->
+    <phrase>
+      <text>gồm</text>
+      <mp3>phrase_gom_guid.mp3</mp3>
+      <vocabulary>gồm</vocabulary>
+      <chinese>（動）包括</chinese>
+      <chinesePhrase>包括</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析36：vé đặt trước -->
+    <phrase>
+      <text>vé đặt trước</text>
+      <mp3>phrase_ve_dat_truoc_guid.mp3</mp3>
+      <vocabulary>vé</vocabulary>
+      <chinese>（名）票</chinese>
+      <vocabulary>đặt trước</vocabulary>
+      <chinese>預訂</chinese>
+      <chinesePhrase>預售票</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第四段：上映第三日表現 -->
+  <subject>
+    <text>在上映的第三天，《親愛的兔子》維持票房領先地位，收入超過216億越南盾，遙遙領先其他電影。憑藉4519個場次，該片目前佔據全市場總放映場次的47%以上。作品票房表現良好，平均每場收入約480萬越南盾。</text>
+    <translate>Trong ngày thứ ba phát hành, Thỏ ơi duy trì vị thế dẫn đầu phòng vé khi đạt hơn 21,6 tỷ đồng, bỏ xa các phim còn lại. Với 4.519 suất, phim hiện có hơn 47% tổng lượng suất chiếu toàn thị trường. Tác phẩm có hiệu suất phòng vé tốt, doanh thu trung bình khoảng 4,8 triệu đồng mỗi suất.</translate>
+    <mp3>subject_day_three_performance_guid.mp3</mp3>
+
+    <!-- 詞組分析37：Trong -->
+    <phrase>
+      <text>Trong</text>
+      <mp3>phrase_trong_guid.mp3</mp3>
+      <vocabulary>Trong</vocabulary>
+      <chinese>（介）在...之內</chinese>
+      <chinesePhrase>在</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析38：ngày thứ ba -->
+    <phrase>
+      <text>ngày thứ ba</text>
+      <mp3>phrase_ngay_thu_ba_guid.mp3</mp3>
+      <vocabulary>ngày</vocabulary>
+      <chinese>天</chinese>
+      <vocabulary>thứ ba</vocabulary>
+      <chinese>第三</chinese>
+      <chinesePhrase>第三天</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析39：phát hành -->
+    <phrase>
+      <text>phát hành</text>
+      <mp3>phrase_phat_hanh_guid.mp3</mp3>
+      <vocabulary>phát hành</vocabulary>
+      <chinese>（動）發行/上映</chinese>
+      <chinesePhrase>上映</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析40：duy trì -->
+    <phrase>
+      <text>duy trì</text>
+      <mp3>phrase_duy_tri_guid.mp3</mp3>
+      <vocabulary>duy trì</vocabulary>
+      <chinese>（動）維持</chinese>
+      <chinesePhrase>維持</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析41：vị thế -->
+    <phrase>
+      <text>vị thế</text>
+      <mp3>phrase_vi_the_guid.mp3</mp3>
+      <vocabulary>vị thế</vocabulary>
+      <chinese>（名）地位</chinese>
+      <chinesePhrase>地位</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析42：dẫn đầu -->
+    <phrase>
+      <text>dẫn đầu</text>
+      <mp3>phrase_dan_dau_guid.mp3</mp3>
+      <vocabulary>dẫn đầu</vocabulary>
+      <chinese>（動）領先</chinese>
+      <chinesePhrase>領先</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析43：phòng vé -->
+    <phrase>
+      <text>phòng vé</text>
+      <mp3>phrase_phong_ve_guid.mp3</mp3>
+      <vocabulary>phòng vé</vocabulary>
+      <chinese>（名）票房</chinese>
+      <chinesePhrase>票房</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析44：khi -->
+    <phrase>
+      <text>khi</text>
+      <mp3>phrase_khi_guid.mp3</mp3>
+      <vocabulary>khi</vocabulary>
+      <chinese>當</chinese>
+      <chinesePhrase>當</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析45：đạt -->
+    <phrase>
+      <text>đạt</text>
+      <mp3>phrase_dat_guid.mp3</mp3>
+      <vocabulary>đạt</vocabulary>
+      <chinese>（動）達到</chinese>
+      <chinesePhrase>達到</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析46：21,6 tỷ đồng -->
+    <phrase>
+      <text>21,6 tỷ đồng</text>
+      <mp3>phrase_21_6_ty_dong_guid.mp3</mp3>
+      <vocabulary>21,6 tỷ đồng</vocabulary>
+      <chinese>216億越南盾</chinese>
+      <chinesePhrase>216億越南盾</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析47：bỏ xa -->
+    <phrase>
+      <text>bỏ xa</text>
+      <mp3>phrase_bo_xa_guid.mp3</mp3>
+      <vocabulary>bỏ xa</vocabulary>
+      <chinese>（動）遠遠拋離</chinese>
+      <chinesePhrase>遙遙領先</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析48：các phim còn lại -->
+    <phrase>
+      <text>các phim còn lại</text>
+      <mp3>phrase_cac_phim_con_lai_guid.mp3</mp3>
+      <vocabulary>các</vocabulary>
+      <chinese>（量）各</chinese>
+      <vocabulary>phim</vocabulary>
+      <chinese>電影</chinese>
+      <vocabulary>còn lại</vocabulary>
+      <chinese>剩下的</chinese>
+      <chinesePhrase>其他電影</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析49：Với -->
+    <phrase>
+      <text>Với</text>
+      <mp3>phrase_voi2_guid.mp3</mp3>
+      <vocabulary>Với</vocabulary>
+      <chinese>（介）憑藉</chinese>
+      <chinesePhrase>憑藉</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析50：4.519 suất -->
+    <phrase>
+      <text>4.519 suất</text>
+      <mp3>phrase_4519_suat_guid.mp3</mp3>
+      <vocabulary>4.519</vocabulary>
+      <chinese>四千五百一十九</chinese>
+      <vocabulary>suất</vocabulary>
+      <chinese>（量）場次</chinese>
+      <chinesePhrase>4519個場次</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析51：hiện -->
+    <phrase>
+      <text>hiện</text>
+      <mp3>phrase_hien_guid.mp3</mp3>
+      <vocabulary>hiện</vocabulary>
+      <chinese>（副）目前</chinese>
+      <chinesePhrase>目前</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析52：có -->
+    <phrase>
+      <text>có</text>
+      <mp3>phrase_co_guid.mp3</mp3>
+      <vocabulary>có</vocabulary>
+      <chinese>（動）有</chinese>
+      <chinesePhrase>擁有</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析53：hơn 47% -->
+    <phrase>
+      <text>hơn 47%</text>
+      <mp3>phrase_hon_47_guid.mp3</mp3>
+      <vocabulary>hơn</vocabulary>
+      <chinese>超過</chinese>
+      <vocabulary>47%</vocabulary>
+      <chinese>百分之四十七</chinese>
+      <chinesePhrase>超過47%</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析54：tổng lượng -->
+    <phrase>
+      <text>tổng lượng</text>
+      <mp3>phrase_tong_luong_guid.mp3</mp3>
+      <vocabulary>tổng</vocabulary>
+      <chinese>（形）總</chinese>
+      <vocabulary>lượng</vocabulary>
+      <chinese>（名）量</chinese>
+      <chinesePhrase>總量</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析55：suất chiếu -->
+    <phrase>
+      <text>suất chiếu</text>
+      <mp3>phrase_suat_chieu_guid.mp3</mp3>
+      <vocabulary>suất chiếu</vocabulary>
+      <chinese>放映場次</chinese>
+      <chinesePhrase>放映場次</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析56：toàn thị trường -->
+    <phrase>
+      <text>toàn thị trường</text>
+      <mp3>phrase_toan_thi_truong_guid.mp3</mp3>
+      <vocabulary>toàn</vocabulary>
+      <chinese>（形）全</chinese>
+      <vocabulary>thị trường</vocabulary>
+      <chinese>（名）市場</chinese>
+      <chinesePhrase>全市場</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析57：hiệu suất -->
+    <phrase>
+      <text>hiệu suất</text>
+      <mp3>phrase_hieu_suat_guid.mp3</mp3>
+      <vocabulary>hiệu suất</vocabulary>
+      <chinese>（名）效率/表現</chinese>
+      <chinesePhrase>表現</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析58：tốt -->
+    <phrase>
+      <text>tốt</text>
+      <mp3>phrase_tot_guid.mp3</mp3>
+      <vocabulary>tốt</vocabulary>
+      <chinese>（形）好</chinese>
+      <chinesePhrase>良好</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析59：doanh thu trung bình -->
+    <phrase>
+      <text>doanh thu trung bình</text>
+      <mp3>phrase_doanh_thu_trung_binh_guid.mp3</mp3>
+      <vocabulary>doanh thu trung bình</vocabulary>
+      <chinese>平均票房</chinese>
+      <chinesePhrase>平均票房</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析60：khoảng -->
+    <phrase>
+      <text>khoảng</text>
+      <mp3>phrase_khoang2_guid.mp3</mp3>
+      <vocabulary>khoảng</vocabulary>
+      <chinese>大約</chinese>
+      <chinesePhrase>約</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析61：4,8 triệu đồng -->
+    <phrase>
+      <text>4,8 triệu đồng</text>
+      <mp3>phrase_48_trieu_dong_guid.mp3</mp3>
+      <vocabulary>4,8 triệu đồng</vocabulary>
+      <chinese>480萬越南盾</chinese>
+      <chinesePhrase>480萬越南盾</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析62：mỗi suất -->
+    <phrase>
+      <text>mỗi suất</text>
+      <mp3>phrase_moi_suat_guid.mp3</mp3>
+      <vocabulary>mỗi</vocabulary>
+      <chinese>（代）每</chinese>
+      <vocabulary>suất</vocabulary>
+      <chinese>場次</chinese>
+      <chinesePhrase>每場</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第五段：市場分析 -->
+  <subject>
+    <text>「多懂一點電影」頻道代表認為，春節檔電影競爭中的強烈分化來自於媒體覆蓋率、品牌吸引力和觀眾關注度的差異。其中，《親愛的兔子》的宣傳活動同步展開，包括電影介紹活動、預告片，在社交網路上獲得高觀看量和大量互動。在上映前，該片記錄了約13萬張預售票，為上映首日的票房增長創造了動力。</text>
+    <translate>Đại diện kênh Hiểu phim một chút cho rằng sự phân hóa mạnh trong cuộc đua phim Tết đến từ sự khác biệt về độ phủ truyền thông, sức hút thương hiệu và mức độ quan tâm của khán giả. Trong đó, chiến dịch quảng bá Thỏ ơi triển khai đồng bộ với các hoạt động giới thiệu phim, trailer thu hút lượng xem cao và lượng tương tác lớn trên mạng xã hội. Trước thời điểm ra rạp, phim ghi nhận khoảng 130.000 vé đặt trước, tạo đà tăng trưởng doanh thu ngay trong ngày đầu.</translate>
+    <mp3>subject_market_analysis_guid.mp3</mp3>
+
+    <!-- 詞組分析63：Đại diện -->
+    <phrase>
+      <text>Đại diện</text>
+      <mp3>phrase_dai_dien_guid.mp3</mp3>
+      <vocabulary>Đại diện</vocabulary>
+      <chinese>（名）代表</chinese>
+      <chinesePhrase>代表</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析64：kênh -->
+    <phrase>
+      <text>kênh</text>
+      <mp3>phrase_kenh_guid.mp3</mp3>
+      <vocabulary>kênh</vocabulary>
+      <chinese>（名）頻道</chinese>
+      <chinesePhrase>頻道</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析65：Hiểu phim một chút -->
+    <phrase>
+      <text>Hiểu phim một chút</text>
+      <mp3>phrase_hieu_phim_mot_chut_guid.mp3</mp3>
+      <vocabulary>Hiểu</vocabulary>
+      <chinese>（動）懂</chinese>
+      <vocabulary>phim</vocabulary>
+      <chinese>電影</chinese>
+      <vocabulary>một chút</vocabulary>
+      <chinese>一點</chinese>
+      <chinesePhrase>多懂一點電影</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析66：cho rằng -->
+    <phrase>
+      <text>cho rằng</text>
+      <mp3>phrase_cho_rang_guid.mp3</mp3>
+      <vocabulary>cho rằng</vocabulary>
+      <chinese>（動）認為</chinese>
+      <chinesePhrase>認為</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析67：sự phân hóa -->
+    <phrase>
+      <text>sự phân hóa</text>
+      <mp3>phrase_su_phan_hoa_guid.mp3</mp3>
+      <vocabulary>sự</vocabulary>
+      <chinese>（前綴）...的現象</chinese>
+      <vocabulary>phân hóa</vocabulary>
+      <chinese>（動）分化</chinese>
+      <chinesePhrase>分化現象</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析68：mạnh -->
+    <phrase>
+      <text>mạnh</text>
+      <mp3>phrase_manh2_guid.mp3</mp3>
+      <vocabulary>mạnh</vocabulary>
+      <chinese>強烈/明顯</chinese>
+      <chinesePhrase>強烈</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析69：trong -->
+    <phrase>
+      <text>trong</text>
+      <mp3>phrase_trong2_guid.mp3</mp3>
+      <vocabulary>trong</vocabulary>
+      <chinese>在...中</chinese>
+      <chinesePhrase>在</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析70：cuộc đua -->
+    <phrase>
+      <text>cuộc đua</text>
+      <mp3>phrase_cuoc_dua_guid.mp3</mp3>
+      <vocabulary>cuộc đua</vocabulary>
+      <chinese>（名）競賽</chinese>
+      <chinesePhrase>競爭</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析71：đến từ -->
+    <phrase>
+      <text>đến từ</text>
+      <mp3>phrase_den_tu_guid.mp3</mp3>
+      <vocabulary>đến từ</vocabulary>
+      <chinese>（動）來自</chinese>
+      <chinesePhrase>來自</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析72：sự khác biệt -->
+    <phrase>
+      <text>sự khác biệt</text>
+      <mp3>phrase_su_khac_biet_guid.mp3</mp3>
+      <vocabulary>sự khác biệt</vocabulary>
+      <chinese>（名）差異</chinese>
+      <chinesePhrase>差異</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析73：về -->
+    <phrase>
+      <text>về</text>
+      <mp3>phrase_ve_guid.mp3</mp3>
+      <vocabulary>về</vocabulary>
+      <chinese>（介）關於</chinese>
+      <chinesePhrase>關於</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析74：độ phủ truyền thông -->
+    <phrase>
+      <text>độ phủ truyền thông</text>
+      <mp3>phrase_do_phu_truyen_thong_guid.mp3</mp3>
+      <vocabulary>độ</vocabulary>
+      <chinese>（名）度</chinese>
+      <vocabulary>phủ</vocabulary>
+      <chinese>（動）覆蓋</chinese>
+      <vocabulary>truyền thông</vocabulary>
+      <chinese>（名）傳媒</chinese>
+      <chinesePhrase>媒體覆蓋率</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析75：sức hút thương hiệu -->
+    <phrase>
+      <text>sức hút thương hiệu</text>
+      <mp3>phrase_suc_hut_thuong_hieu_guid.mp3</mp3>
+      <vocabulary>sức hút</vocabulary>
+      <chinese>（名）吸引力</chinese>
+      <vocabulary>thương hiệu</vocabulary>
+      <chinese>（名）品牌</chinese>
+      <chinesePhrase>品牌吸引力</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析76：mức độ quan tâm -->
+    <phrase>
+      <text>mức độ quan tâm</text>
+      <mp3>phrase_muc_do_quan_tam_guid.mp3</mp3>
+      <vocabulary>mức độ</vocabulary>
+      <chinese>（名）程度</chinese>
+      <vocabulary>quan tâm</vocabulary>
+      <chinese>（動）關心/關注</chinese>
+      <chinesePhrase>關注度</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析77：của khán giả -->
+    <phrase>
+      <text>của khán giả</text>
+      <mp3>phrase_cua_khan_gia_guid.mp3</mp3>
+      <vocabulary>của</vocabulary>
+      <chinese>的</chinese>
+      <vocabulary>khán giả</vocabulary>
+      <chinese>（名）觀眾</chinese>
+      <chinesePhrase>觀眾的</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析78：Trong đó -->
+    <phrase>
+      <text>Trong đó</text>
+      <mp3>phrase_trong_do_guid.mp3</mp3>
+      <vocabulary>Trong đó</vocabulary>
+      <chinese>其中</chinese>
+      <chinesePhrase>其中</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析79：chiến dịch quảng bá -->
+    <phrase>
+      <text>chiến dịch quảng bá</text>
+      <mp3>phrase_chien_dich_quang_ba_guid.mp3</mp3>
+      <vocabulary>chiến dịch</vocabulary>
+      <chinese>（名）戰役/活動</chinese>
+      <vocabulary>quảng bá</vocabulary>
+      <chinese>（動）宣傳</chinese>
+      <chinesePhrase>宣傳活動</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析80：triển khai -->
+    <phrase>
+      <text>triển khai</text>
+      <mp3>phrase_trien_khai_guid.mp3</mp3>
+      <vocabulary>triển khai</vocabulary>
+      <chinese>（動）展開/同步進行</chinese>
+      <chinesePhrase>展開</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析81：đồng bộ -->
+    <phrase>
+      <text>đồng bộ</text>
+      <mp3>phrase_dong_bo_guid.mp3</mp3>
+      <vocabulary>đồng bộ</vocabulary>
+      <chinese>（形）同步/一致</chinese>
+      <chinesePhrase>同步</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析82：với -->
+    <phrase>
+      <text>với</text>
+      <mp3>phrase_voi3_guid.mp3</mp3>
+      <vocabulary>với</vocabulary>
+      <chinese>與</chinese>
+      <chinesePhrase>與</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析83：các hoạt động giới thiệu phim -->
+    <phrase>
+      <text>các hoạt động giới thiệu phim</text>
+      <mp3>phrase_cac_hoat_dong_gioi_thieu_phim_guid.mp3</mp3>
+      <vocabulary>các</vocabulary>
+      <chinese>各</chinese>
+      <vocabulary>hoạt động</vocabulary>
+      <chinese>（名）活動</chinese>
+      <vocabulary>giới thiệu phim</vocabulary>
+      <chinese>電影介紹</chinese>
+      <chinesePhrase>電影介紹活動</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析84：trailer -->
+    <phrase>
+      <text>trailer</text>
+      <mp3>phrase_trailer_guid.mp3</mp3>
+      <vocabulary>trailer</vocabulary>
+      <chinese>（名）預告片</chinese>
+      <chinesePhrase>預告片</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析85：thu hút -->
+    <phrase>
+      <text>thu hút</text>
+      <mp3>phrase_thu_hut_guid.mp3</mp3>
+      <vocabulary>thu hút</vocabulary>
+      <chinese>（動）吸引</chinese>
+      <chinesePhrase>吸引</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析86：lượng xem -->
+    <phrase>
+      <text>lượng xem</text>
+      <mp3>phrase_luong_xem_guid.mp3</mp3>
+      <vocabulary>lượng xem</vocabulary>
+      <chinese>觀看量</chinese>
+      <chinesePhrase>觀看量</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析87：cao -->
+    <phrase>
+      <text>cao</text>
+      <mp3>phrase_cao_guid.mp3</mp3>
+      <vocabulary>cao</vocabulary>
+      <chinese>（形）高</chinese>
+      <chinesePhrase>高</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析88：lượng tương tác -->
+    <phrase>
+      <text>lượng tương tác</text>
+      <mp3>phrase_luong_tuong_tac_guid.mp3</mp3>
+      <vocabulary>lượng tương tác</vocabulary>
+      <chinese>互動量</chinese>
+      <chinesePhrase>互動量</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析89：lớn -->
+    <phrase>
+      <text>lớn</text>
+      <mp3>phrase_lon_guid.mp3</mp3>
+      <vocabulary>lớn</vocabulary>
+      <chinese>（形）大</chinese>
+      <chinesePhrase>大</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析90：trên mạng xã hội -->
+    <phrase>
+      <text>trên mạng xã hội</text>
+      <mp3>phrase_tren_mang_xa_hoi_guid.mp3</mp3>
+      <vocabulary>trên</vocabulary>
+      <chinese>在...上</chinese>
+      <vocabulary>mạng xã hội</vocabulary>
+      <chinese>社交網路</chinese>
+      <chinesePhrase>在社交網路上</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析91：Trước -->
+    <phrase>
+      <text>Trước</text>
+      <mp3>phrase_truoc_guid.mp3</mp3>
+      <vocabulary>Trước</vocabulary>
+      <chinese>（介）在...之前</chinese>
+      <chinesePhrase>在...之前</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析92：thời điểm -->
+    <phrase>
+      <text>thời điểm</text>
+      <mp3>phrase_thoi_diem_guid.mp3</mp3>
+      <vocabulary>thời điểm</vocabulary>
+      <chinese>（名）時間點</chinese>
+      <chinesePhrase>時候</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析93：ra rạp -->
+    <phrase>
+      <text>ra rạp</text>
+      <mp3>phrase_ra_rap_guid.mp3</mp3>
+      <vocabulary>ra</vocabulary>
+      <chinese>（動）出/上映</chinese>
+      <vocabulary>rạp</vocabulary>
+      <chinese>（名）影院</chinese>
+      <chinesePhrase>上映</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析94：ghi nhận -->
+    <phrase>
+      <text>ghi nhận</text>
+      <mp3>phrase_ghi_nhan_guid.mp3</mp3>
+      <vocabulary>ghi nhận</vocabulary>
+      <chinese>（動）記錄</chinese>
+      <chinesePhrase>記錄</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析95：khoảng 130.000 vé đặt trước -->
+    <phrase>
+      <text>khoảng 130.000 vé đặt trước</text>
+      <mp3>phrase_khoang_130000_ve_dat_truoc_guid.mp3</mp3>
+      <vocabulary>khoảng</vocabulary>
+      <chinese>大約</chinese>
+      <vocabulary>130.000</vocabulary>
+      <chinese>十三萬</chinese>
+      <vocabulary>vé đặt trước</vocabulary>
+      <chinese>預售票</chinese>
+      <chinesePhrase>約13萬張預售票</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析96：tạo đà -->
+    <phrase>
+      <text>tạo đà</text>
+      <mp3>phrase_tao_da_guid.mp3</mp3>
+      <vocabulary>tạo</vocabulary>
+      <chinese>（動）創造</chinese>
+      <vocabulary>đà</vocabulary>
+      <chinese>（名）動力/勢頭</chinese>
+      <chinesePhrase>創造動力</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析97：tăng trưởng -->
+    <phrase>
+      <text>tăng trưởng</text>
+      <mp3>phrase_tang_truong_guid.mp3</mp3>
+      <vocabulary>tăng trưởng</vocabulary>
+      <chinese>（動）增長</chinese>
+      <chinesePhrase>增長</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析98：ngay -->
+    <phrase>
+      <text>ngay</text>
+      <mp3>phrase_ngay_guid.mp3</mp3>
+      <vocabulary>ngay</vocabulary>
+      <chinese>（副）立即/就在</chinese>
+      <chinesePhrase>就在</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析99：trong ngày đầu -->
+    <phrase>
+      <text>trong ngày đầu</text>
+      <mp3>phrase_trong_ngay_dau_guid.mp3</mp3>
+      <vocabulary>trong</vocabulary>
+      <chinese>在</chinese>
+      <vocabulary>ngày đầu</vocabulary>
+      <chinese>首日</chinese>
+      <chinesePhrase>在首日</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第六段：演員與內容分析 -->
+  <subject>
+    <text>儘管大部分演員首次接觸電影，重要因素在於陳友的吸引力，有助於擴大觀眾群體並維持影廳上座率。在內容方面，今年的春節檔電影類型多樣，呈現方式各異。《親愛的兔子》選擇心理正劇的挖掘方向，角色具有多層次內心世界，與《我家三房一廳》或《河粉味》等家庭題材故事有所不同。</text>
+    <translate>Dù phần lớn diễn viên lần đầu tiếp xúc điện ảnh, yếu tố quan trọng nằm ở sức hút của Trấn Thành, góp phần mở rộng tệp khán giả và duy trì tỷ lệ lấp đầy phòng chiếu. Về mặt nội dung, mùa phim Tết năm nay ghi nhận sự đa dạng về thể loại và cách tiếp cận. Thỏ ơi lựa chọn hướng khai thác tâm lý, chính kịch với các nhân vật mang nhiều lớp nội tâm, khác biệt so với các câu chuyện về đề tài gia đình như Nhà ba tôi một phòng hay Mùi phở.</translate>
+    <mp3>subject_cast_content_analysis_guid.mp3</mp3>
+
+    <!-- 詞組分析100：Dù -->
+    <phrase>
+      <text>Dù</text>
+      <mp3>phrase_du_guid.mp3</mp3>
+      <vocabulary>Dù</vocabulary>
+      <chinese>（連）儘管</chinese>
+      <chinesePhrase>儘管</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析101：phần lớn -->
+    <phrase>
+      <text>phần lớn</text>
+      <mp3>phrase_phan_lon_guid.mp3</mp3>
+      <vocabulary>phần lớn</vocabulary>
+      <chinese>大部分</chinese>
+      <chinesePhrase>大部分</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析102：diễn viên -->
+    <phrase>
+      <text>diễn viên</text>
+      <mp3>phrase_dien_vien_guid.mp3</mp3>
+      <vocabulary>diễn viên</vocabulary>
+      <chinese>（名）演員</chinese>
+      <chinesePhrase>演員</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析103：lần đầu -->
+    <phrase>
+      <text>lần đầu</text>
+      <mp3>phrase_lan_dau_guid.mp3</mp3>
+      <vocabulary>lần đầu</vocabulary>
+      <chinese>首次</chinese>
+      <chinesePhrase>首次</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析104：tiếp xúc -->
+    <phrase>
+      <text>tiếp xúc</text>
+      <mp3>phrase_tiep_xuc_guid.mp3</mp3>
+      <vocabulary>tiếp xúc</vocabulary>
+      <chinese>（動）接觸</chinese>
+      <chinesePhrase>接觸</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析105：điện ảnh -->
+    <phrase>
+      <text>điện ảnh</text>
+      <mp3>phrase_dien_anh_guid.mp3</mp3>
+      <vocabulary>điện ảnh</vocabulary>
+      <chinese>（名）電影</chinese>
+      <chinesePhrase>電影</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析106：yếu tố -->
+    <phrase>
+      <text>yếu tố</text>
+      <mp3>phrase_yeu_to_guid.mp3</mp3>
+      <vocabulary>yếu tố</vocabulary>
+      <chinese>（名）因素</chinese>
+      <chinesePhrase>因素</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析107：quan trọng -->
+    <phrase>
+      <text>quan trọng</text>
+      <mp3>phrase_quan_trong_guid.mp3</mp3>
+      <vocabulary>quan trọng</vocabulary>
+      <chinese>（形）重要</chinese>
+      <chinesePhrase>重要</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析108：nằm ở -->
+    <phrase>
+      <text>nằm ở</text>
+      <mp3>phrase_nam_o_guid.mp3</mp3>
+      <vocabulary>nằm ở</vocabulary>
+      <chinese>（動）在於</chinese>
+      <chinesePhrase>在於</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析109：sức hút -->
+    <phrase>
+      <text>sức hút</text>
+      <mp3>phrase_suc_hut_guid.mp3</mp3>
+      <vocabulary>sức hút</vocabulary>
+      <chinese>吸引力</chinese>
+      <chinesePhrase>吸引力</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析110：góp phần -->
+    <phrase>
+      <text>góp phần</text>
+      <mp3>phrase_gop_phan_guid.mp3</mp3>
+      <vocabulary>góp phần</vocabulary>
+      <chinese>（動）貢獻/有助於</chinese>
+      <chinesePhrase>有助於</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析111：mở rộng -->
+    <phrase>
+      <text>mở rộng</text>
+      <mp3>phrase_mo_rong_guid.mp3</mp3>
+      <vocabulary>mở rộng</vocabulary>
+      <chinese>（動）擴大</chinese>
+      <chinesePhrase>擴大</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析112：tệp khán giả -->
+    <phrase>
+      <text>tệp khán giả</text>
+      <mp3>phrase_tep_khan_gia_guid.mp3</mp3>
+      <vocabulary>tệp</vocabulary>
+      <chinese>（名）檔案/群體</chinese>
+      <vocabulary>khán giả</vocabulary>
+      <chinese>觀眾</chinese>
+      <chinesePhrase>觀眾群體</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析113：tỷ lệ lấp đầy -->
+    <phrase>
+      <text>tỷ lệ lấp đầy</text>
+      <mp3>phrase_ty_le_lap_day_guid.mp3</mp3>
+      <vocabulary>tỷ lệ</vocabulary>
+      <chinese>（名）比例</chinese>
+      <vocabulary>lấp đầy</vocabulary>
+      <chinese>（動）填滿</chinese>
+      <chinesePhrase>上座率</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析114：phòng chiếu -->
+    <phrase>
+      <text>phòng chiếu</text>
+      <mp3>phrase_phong_chieu_guid.mp3</mp3>
+      <vocabulary>phòng chiếu</vocabulary>
+      <chinese>放映廳</chinese>
+      <chinesePhrase>影廳</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析115：Về mặt nội dung -->
+    <phrase>
+      <text>Về mặt nội dung</text>
+      <mp3>phrase_ve_mat_noi_dung_guid.mp3</mp3>
+      <vocabulary>Về mặt</vocabulary>
+      <chinese>（介）在...方面</chinese>
+      <vocabulary>nội dung</vocabulary>
+      <chinese>內容</chinese>
+      <chinesePhrase>在內容方面</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析116：mùa phim Tết -->
+    <phrase>
+      <text>mùa phim Tết</text>
+      <mp3>phrase_mua_phim_tet_guid.mp3</mp3>
+      <vocabulary>mùa</vocabulary>
+      <chinese>（名）季節</chinese>
+      <vocabulary>phim Tết</vocabulary>
+      <chinese>春節檔電影</chinese>
+      <chinesePhrase>春節檔電影季</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析117：năm nay -->
+    <phrase>
+      <text>năm nay</text>
+      <mp3>phrase_nam_nay_guid.mp3</mp3>
+      <vocabulary>năm nay</vocabulary>
+      <chinese>今年</chinese>
+      <chinesePhrase>今年</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析118：sự đa dạng -->
+    <phrase>
+      <text>sự đa dạng</text>
+      <mp3>phrase_su_da_dang_guid.mp3</mp3>
+      <vocabulary>sự đa dạng</vocabulary>
+      <chinese>（名）多樣性</chinese>
+      <chinesePhrase>多樣性</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析119：về thể loại -->
+    <phrase>
+      <text>về thể loại</text>
+      <mp3>phrase_ve_the_loai_guid.mp3</mp3>
+      <vocabulary>về</vocabulary>
+      <chinese>關於</chinese>
+      <vocabulary>thể loại</vocabulary>
+      <chinese>（名）類型</chinese>
+      <chinesePhrase>類型方面</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析120：cách tiếp cận -->
+    <phrase>
+      <text>cách tiếp cận</text>
+      <mp3>phrase_cach_tiep_can_guid.mp3</mp3>
+      <vocabulary>cách</vocabulary>
+      <chinese>（名）方式</chinese>
+      <vocabulary>tiếp cận</vocabulary>
+      <chinese>（動）接近/處理</chinese>
+      <chinesePhrase>呈現方式/處理方式</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析121：lựa chọn -->
+    <phrase>
+      <text>lựa chọn</text>
+      <mp3>phrase_lua_chon_guid.mp3</mp3>
+      <vocabulary>lựa chọn</vocabulary>
+      <chinese>（動）選擇</chinese>
+      <chinesePhrase>選擇</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析122：hướng khai thác -->
+    <phrase>
+      <text>hướng khai thác</text>
+      <mp3>phrase_huong_khai_thac_guid.mp3</mp3>
+      <vocabulary>hướng</vocabulary>
+      <chinese>（名）方向</chinese>
+      <vocabulary>khai thác</vocabulary>
+      <chinese>（動）挖掘/開發</chinese>
+      <chinesePhrase>挖掘方向</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析123：tâm lý -->
+    <phrase>
+      <text>tâm lý</text>
+      <mp3>phrase_tam_ly_guid.mp3</mp3>
+      <vocabulary>tâm lý</vocabulary>
+      <chinese>（名）心理</chinese>
+      <chinesePhrase>心理</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析124：chính kịch -->
+    <phrase>
+      <text>chính kịch</text>
+      <mp3>phrase_chinh_kich_guid.mp3</mp3>
+      <vocabulary>chính kịch</vocabulary>
+      <chinese>（名）正劇</chinese>
+      <chinesePhrase>正劇</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析125：với -->
+    <phrase>
+      <text>với</text>
+      <mp3>phrase_voi4_guid.mp3</mp3>
+      <vocabulary>với</vocabulary>
+      <chinese>帶有</chinese>
+      <chinesePhrase>帶有</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析126：các nhân vật -->
+    <phrase>
+      <text>các nhân vật</text>
+      <mp3>phrase_cac_nhan_vat_guid.mp3</mp3>
+      <vocabulary>các</vocabulary>
+      <chinese>各</chinese>
+      <vocabulary>nhân vật</vocabulary>
+      <chinese>（名）人物/角色</chinese>
+      <chinesePhrase>角色們</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析127：mang nhiều lớp nội tâm -->
+    <phrase>
+      <text>mang nhiều lớp nội tâm</text>
+      <mp3>phrase_mang_nhieu_lop_noi_tam_guid.mp3</mp3>
+      <vocabulary>mang</vocabulary>
+      <chinese>（動）帶有</chinese>
+      <vocabulary>nhiều lớp</vocabulary>
+      <chinese>多層</chinese>
+      <vocabulary>nội tâm</vocabulary>
+      <chinese>（名）內心</chinese>
+      <chinesePhrase>帶有多層次內心世界</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析128：khác biệt -->
+    <phrase>
+      <text>khác biệt</text>
+      <mp3>phrase_khac_biet_guid.mp3</mp3>
+      <vocabulary>khác biệt</vocabulary>
+      <chinese>（形）不同</chinese>
+      <chinesePhrase>不同</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析129：so với -->
+    <phrase>
+      <text>so với</text>
+      <mp3>phrase_so_voi2_guid.mp3</mp3>
+      <vocabulary>so với</vocabulary>
+      <chinese>與...相比</chinese>
+      <chinesePhrase>與...相比</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析130：các câu chuyện -->
+    <phrase>
+      <text>các câu chuyện</text>
+      <mp3>phrase_cac_cau_chuyen_guid.mp3</mp3>
+      <vocabulary>các câu chuyện</vocabulary>
+      <chinese>各故事</chinese>
+      <chinesePhrase>故事們</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析131：về đề tài gia đình -->
+    <phrase>
+      <text>về đề tài gia đình</text>
+      <mp3>phrase_ve_de_tai_gia_dinh_guid.mp3</mp3>
+      <vocabulary>về</vocabulary>
+      <chinese>關於</chinese>
+      <vocabulary>đề tài</vocabulary>
+      <chinese>（名）題材</chinese>
+      <vocabulary>gia đình</vocabulary>
+      <chinese>（名）家庭</chinese>
+      <chinesePhrase>家庭題材</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析132：Nhà ba tôi một phòng -->
+    <phrase>
+      <text>Nhà ba tôi một phòng</text>
+      <mp3>phrase_nha_ba_toi_mot_phong_guid.mp3</mp3>
+      <vocabulary>Nhà</vocabulary>
+      <chinese>（名）家</chinese>
+      <vocabulary>ba tôi</vocabulary>
+      <chinese>我父親</chinese>
+      <vocabulary>một phòng</vocabulary>
+      <chinese>一間房</chinese>
+      <chinesePhrase>我家三房一廳</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析133：hay -->
+    <phrase>
+      <text>hay</text>
+      <mp3>phrase_hay_guid.mp3</mp3>
+      <vocabulary>hay</vocabulary>
+      <chinese>（連）或</chinese>
+      <chinesePhrase>或</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析134：Mùi phở -->
+    <phrase>
+      <text>Mùi phở</text>
+      <mp3>phrase_mui_pho_guid.mp3</mp3>
+      <vocabulary>Mùi</vocabulary>
+      <chinese>（名）味道</chinese>
+      <vocabulary>phở</vocabulary>
+      <chinese>（名）河粉</chinese>
+      <chinesePhrase>河粉味</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第七段：劇情介紹 -->
+  <subject>
+    <text>《親愛的兔子》講述海靈（LyLy飾）的故事，她是一名專門挖掘私人故事的脫口秀主持人。當戴上兔子面具的女孩日夏（饒舌歌手Pháo飾）上節目透露正在愛上一個有婦之夫時，變故發生。由此，海靈懷疑被提到的男人可能是她的丈夫——成功商人世峰（永淡飾）。</text>
+    <translate>Thỏ ơi kể về Hải Linh (LyLy), một MC talkshow chuyên khai thác những câu chuyện đời tư. Biến cố xảy ra khi Nhật Hạ (rapper Pháo) - cô gái xuất hiện với chiếc mặt nạ thỏ - lên sóng tiết lộ đang yêu một người đàn ông đã có gia đình. Từ đây, Hải Linh nghi ngờ người được nhắc đến có thể là chồng cô, Thế Phong (Vĩnh Đam), một doanh nhân thành đạt.</translate>
+    <mp3>subject_plot_intro_guid.mp3</mp3>
+
+    <!-- 詞組分析135：kể về -->
+    <phrase>
+      <text>kể về</text>
+      <mp3>phrase_ke_ve_guid.mp3</mp3>
+      <vocabulary>kể về</vocabulary>
+      <chinese>（動）講述關於</chinese>
+      <chinesePhrase>講述</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析136：Hải Linh -->
+    <phrase>
+      <text>Hải Linh</text>
+      <mp3>phrase_hai_linh_guid.mp3</mp3>
+      <vocabulary>Hải Linh</vocabulary>
+      <chinese>（名）海靈</chinese>
+      <chinesePhrase>海靈</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析137：(LyLy) -->
+    <phrase>
+      <text>(LyLy)</text>
+      <mp3>phrase_lyly_guid.mp3</mp3>
+      <vocabulary>LyLy</vocabulary>
+      <chinese>（名）LyLy</chinese>
+      <chinesePhrase>LyLy飾</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析138：một MC talkshow -->
+    <phrase>
+      <text>một MC talkshow</text>
+      <mp3>phrase_mot_mc_talkshow_guid.mp3</mp3>
+      <vocabulary>một</vocabulary>
+      <chinese>一個</chinese>
+      <vocabulary>MC</vocabulary>
+      <chinese>（名）主持人</chinese>
+      <vocabulary>talkshow</vocabulary>
+      <chinese>（名）脫口秀</chinese>
+      <chinesePhrase>一名脫口秀主持人</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析139：chuyên -->
+    <phrase>
+      <text>chuyên</text>
+      <mp3>phrase_chuyen_guid.mp3</mp3>
+      <vocabulary>chuyên</vocabulary>
+      <chinese>（形）專門</chinese>
+      <chinesePhrase>專門</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析140：khai thác -->
+    <phrase>
+      <text>khai thác</text>
+      <mp3>phrase_khai_thac_guid.mp3</mp3>
+      <vocabulary>khai thác</vocabulary>
+      <chinese>挖掘</chinese>
+      <chinesePhrase>挖掘</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析141：những câu chuyện đời tư -->
+    <phrase>
+      <text>những câu chuyện đời tư</text>
+      <mp3>phrase_nhung_cau_chuyen_doi_tu_guid.mp3</mp3>
+      <vocabulary>những</vocabulary>
+      <chinese>（量）那些</chinese>
+      <vocabulary>câu chuyện đời tư</vocabulary>
+      <chinese>私人故事</chinese>
+      <chinesePhrase>那些私人故事</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析142：Biến cố -->
+    <phrase>
+      <text>Biến cố</text>
+      <mp3>phrase_bien_co_guid.mp3</mp3>
+      <vocabulary>Biến cố</vocabulary>
+      <chinese>（名）變故/事件</chinese>
+      <chinesePhrase>變故</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析143：xảy ra -->
+    <phrase>
+      <text>xảy ra</text>
+      <mp3>phrase_xay_ra_guid.mp3</mp3>
+      <vocabulary>xảy ra</vocabulary>
+      <chinese>（動）發生</chinese>
+      <chinesePhrase>發生</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析144：khi -->
+    <phrase>
+      <text>khi</text>
+      <mp3>phrase_khi2_guid.mp3</mp3>
+      <vocabulary>khi</vocabulary>
+      <chinese>當</chinese>
+      <chinesePhrase>當</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析145：Nhật Hạ -->
+    <phrase>
+      <text>Nhật Hạ</text>
+      <mp3>phrase_nhat_ha_guid.mp3</mp3>
+      <vocabulary>Nhật Hạ</vocabulary>
+      <chinese>（名）日夏</chinese>
+      <chinesePhrase>日夏</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析146：(rapper Pháo) -->
+    <phrase>
+      <text>(rapper Pháo)</text>
+      <mp3>phrase_rapper_phao_guid.mp3</mp3>
+      <vocabulary>rapper</vocabulary>
+      <chinese>（名）饒舌歌手</chinese>
+      <vocabulary>Pháo</vocabulary>
+      <chinese>（名）Pháo</chinese>
+      <chinesePhrase>饒舌歌手Pháo飾</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析147：cô gái -->
+    <phrase>
+      <text>cô gái</text>
+      <mp3>phrase_co_gai_guid.mp3</mp3>
+      <vocabulary>cô gái</vocabulary>
+      <chinese>（名）女孩</chinese>
+      <chinesePhrase>女孩</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析148：xuất hiện -->
+    <phrase>
+      <text>xuất hiện</text>
+      <mp3>phrase_xuat_hien_guid.mp3</mp3>
+      <vocabulary>xuất hiện</vocabulary>
+      <chinese>（動）出現</chinese>
+      <chinesePhrase>出現</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析149：với -->
+    <phrase>
+      <text>với</text>
+      <mp3>phrase_voi5_guid.mp3</mp3>
+      <vocabulary>với</vocabulary>
+      <chinese>帶著/以</chinese>
+      <chinesePhrase>戴著</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析150：chiếc mặt nạ thỏ -->
+    <phrase>
+      <text>chiếc mặt nạ thỏ</text>
+      <mp3>phrase_chiec_mat_na_tho_guid.mp3</mp3>
+      <vocabulary>chiếc</vocabulary>
+      <chinese>（量）個</chinese>
+      <vocabulary>mặt nạ</vocabulary>
+      <chinese>（名）面具</chinese>
+      <vocabulary>thỏ</vocabulary>
+      <chinese>兔子</chinese>
+      <chinesePhrase>兔子面具</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析151：lên sóng -->
+    <phrase>
+      <text>lên sóng</text>
+      <mp3>phrase_len_song_guid.mp3</mp3>
+      <vocabulary>lên sóng</vocabulary>
+      <chinese>（動）上節目/播出</chinese>
+      <chinesePhrase>上節目</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析152：tiết lộ -->
+    <phrase>
+      <text>tiết lộ</text>
+      <mp3>phrase_tiet_lo_guid.mp3</mp3>
+      <vocabulary>tiết lộ</vocabulary>
+      <chinese>（動）透露</chinese>
+      <chinesePhrase>透露</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析153：đang yêu -->
+    <phrase>
+      <text>đang yêu</text>
+      <mp3>phrase_dang_yeu_guid.mp3</mp3>
+      <vocabulary>đang yêu</vocabulary>
+      <chinese>正在戀愛/愛上</chinese>
+      <chinesePhrase>正在愛上</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析154：một người đàn ông -->
+    <phrase>
+      <text>một người đàn ông</text>
+      <mp3>phrase_mot_nguoi_dan_ong_guid.mp3</mp3>
+      <vocabulary>một</vocabulary>
+      <chinese>一個</chinese>
+      <vocabulary>người đàn ông</vocabulary>
+      <chinese>男人</chinese>
+      <chinesePhrase>一個男人</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析155：đã có gia đình -->
+    <phrase>
+      <text>đã có gia đình</text>
+      <mp3>phrase_da_co_gia_dinh_guid.mp3</mp3>
+      <vocabulary>đã có</vocabulary>
+      <chinese>已經有</chinese>
+      <vocabulary>gia đình</vocabulary>
+      <chinese>家庭</chinese>
+      <chinesePhrase>有家庭/已婚</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析156：Từ đây -->
+    <phrase>
+      <text>Từ đây</text>
+      <mp3>phrase_tu_day_guid.mp3</mp3>
+      <vocabulary>Từ đây</vocabulary>
+      <chinese>從此/由此</chinese>
+      <chinesePhrase>由此</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析157：nghi ngờ -->
+    <phrase>
+      <text>nghi ngờ</text>
+      <mp3>phrase_nghi_ngo_guid.mp3</mp3>
+      <vocabulary>nghi ngờ</vocabulary>
+      <chinese>（動）懷疑</chinese>
+      <chinesePhrase>懷疑</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析158：người được nhắc đến -->
+    <phrase>
+      <text>người được nhắc đến</text>
+      <mp3>phrase_nguoi_duoc_nhac_den_guid.mp3</mp3>
+      <vocabulary>người</vocabulary>
+      <chinese>人</chinese>
+      <vocabulary>được nhắc đến</vocabulary>
+      <chinese>被提及的</chinese>
+      <chinesePhrase>被提到的男人</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析159：có thể là -->
+    <phrase>
+      <text>có thể là</text>
+      <mp3>phrase_co_the_la_guid.mp3</mp3>
+      <vocabulary>có thể là</vocabulary>
+      <chinese>可能是</chinese>
+      <chinesePhrase>可能是</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析160：chồng cô -->
+    <phrase>
+      <text>chồng cô</text>
+      <mp3>phrase_chong_co_guid.mp3</mp3>
+      <vocabulary>chồng</vocabulary>
+      <chinese>丈夫</chinese>
+      <vocabulary>cô</vocabulary>
+      <chinese>她</chinese>
+      <chinesePhrase>她的丈夫</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析161：Thế Phong -->
+    <phrase>
+      <text>Thế Phong</text>
+      <mp3>phrase_the_phong_guid.mp3</mp3>
+      <vocabulary>Thế Phong</vocabulary>
+      <chinese>（名）世峰</chinese>
+      <chinesePhrase>世峰</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析162：(Vĩnh Đam) -->
+    <phrase>
+      <text>(Vĩnh Đam)</text>
+      <mp3>phrase_vinh_dam_guid.mp3</mp3>
+      <vocabulary>Vĩnh Đam</vocabulary>
+      <chinese>（名）永淡</chinese>
+      <chinesePhrase>永淡飾</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析163：một doanh nhân -->
+    <phrase>
+      <text>một doanh nhân</text>
+      <mp3>phrase_mot_doanh_nhan_guid.mp3</mp3>
+      <vocabulary>một</vocabulary>
+      <chinese>一位</chinese>
+      <vocabulary>doanh nhân</vocabulary>
+      <chinese>（名）商人</chinese>
+      <chinesePhrase>一位商人</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析164：thành đạt -->
+    <phrase>
+      <text>thành đạt</text>
+      <mp3>phrase_thanh_dat_guid.mp3</mp3>
+      <vocabulary>thành đạt</vocabulary>
+      <chinese>（形）成功</chinese>
+      <chinesePhrase>成功的</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第八段：更多劇情和角色 -->
+  <subject>
+    <text>電影還跟隨海蘭（歌手雲梅香飾）——海靈的姐姐，她與玉山（國英飾）的關係因懷疑有第三者介入而出現裂痕。陳友飾演金一角，是日夏的前男友，試圖與她重修舊好。</text>
+    <translate>Bộ phim còn theo chân Hải Lan (ca sĩ Văn Mai Hương), chị gái Hải Linh, khi mối quan hệ giữa cô và Ngọc Sơn (Quốc Anh) rạn nứt vì nghi ngờ có sự xuất hiện của người thứ ba. Trấn Thành góp mặt với vai Kim, bạn trai cũ tìm cách nối lại tình cảm với Nhật Hạ.</translate>
+    <mp3>subject_more_plot_guid.mp3</mp3>
+
+    <!-- 詞組分析165：Bộ phim -->
+    <phrase>
+      <text>Bộ phim</text>
+      <mp3>phrase_bo_phim_guid.mp3</mp3>
+      <vocabulary>Bộ phim</vocabulary>
+      <chinese>這部電影</chinese>
+      <chinesePhrase>電影</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析166：còn -->
+    <phrase>
+      <text>còn</text>
+      <mp3>phrase_con_guid.mp3</mp3>
+      <vocabulary>còn</vocabulary>
+      <chinese>（副）還</chinese>
+      <chinesePhrase>還</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析167：theo chân -->
+    <phrase>
+      <text>theo chân</text>
+      <mp3>phrase_theo_chan_guid.mp3</mp3>
+      <vocabulary>theo chân</vocabulary>
+      <chinese>（動）跟隨</chinese>
+      <chinesePhrase>跟隨</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析168：Hải Lan -->
+    <phrase>
+      <text>Hải Lan</text>
+      <mp3>phrase_hai_lan_guid.mp3</mp3>
+      <vocabulary>Hải Lan</vocabulary>
+      <chinese>（名）海蘭</chinese>
+      <chinesePhrase>海蘭</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析169：(ca sĩ Văn Mai Hương) -->
+    <phrase>
+      <text>(ca sĩ Văn Mai Hương)</text>
+      <mp3>phrase_ca_si_van_mai_huong_guid.mp3</mp3>
+      <vocabulary>ca sĩ</vocabulary>
+      <chinese>（名）歌手</chinese>
+      <vocabulary>Văn Mai Hương</vocabulary>
+      <chinese>（名）雲梅香</chinese>
+      <chinesePhrase>歌手雲梅香飾</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析170：chị gái -->
+    <phrase>
+      <text>chị gái</text>
+      <mp3>phrase_chi_gai_guid.mp3</mp3>
+      <vocabulary>chị gái</vocabulary>
+      <chinese>（名）姐姐</chinese>
+      <chinesePhrase>姐姐</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析171：Hải Linh -->
+    <phrase>
+      <text>Hải Linh</text>
+      <mp3>phrase_hai_linh2_guid.mp3</mp3>
+      <vocabulary>Hải Linh</vocabulary>
+      <chinese>海靈</chinese>
+      <chinesePhrase>海靈</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析172：khi -->
+    <phrase>
+      <text>khi</text>
+      <mp3>phrase_khi3_guid.mp3</mp3>
+      <vocabulary>khi</vocabulary>
+      <chinese>當</chinese>
+      <chinesePhrase>當</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析173：mối quan hệ -->
+    <phrase>
+      <text>mối quan hệ</text>
+      <mp3>phrase_moi_quan_he_guid.mp3</mp3>
+      <vocabulary>mối quan hệ</vocabulary>
+      <chinese>（名）關係</chinese>
+      <chinesePhrase>關係</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析174：giữa cô và Ngọc Sơn -->
+    <phrase>
+      <text>giữa cô và Ngọc Sơn</text>
+      <mp3>phrase_giua_co_va_ngoc_son_guid.mp3</mp3>
+      <vocabulary>giữa</vocabulary>
+      <chinese>（介）在...之間</chinese>
+      <vocabulary>cô</vocabulary>
+      <chinese>她</chinese>
+      <vocabulary>và</vocabulary>
+      <chinese>和</chinese>
+      <vocabulary>Ngọc Sơn</vocabulary>
+      <chinese>（名）玉山</chinese>
+      <chinesePhrase>她與玉山之間</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析175：(Quốc Anh) -->
+    <phrase>
+      <text>(Quốc Anh)</text>
+      <mp3>phrase_quoc_anh_guid.mp3</mp3>
+      <vocabulary>Quốc Anh</vocabulary>
+      <chinese>（名）國英</chinese>
+      <chinesePhrase>國英飾</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析176：rạn nứt -->
+    <phrase>
+      <text>rạn nứt</text>
+      <mp3>phrase_ran_nut_guid.mp3</mp3>
+      <vocabulary>rạn nứt</vocabulary>
+      <chinese>（動）破裂/出現裂痕</chinese>
+      <chinesePhrase>出現裂痕</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析177：vì -->
+    <phrase>
+      <text>vì</text>
+      <mp3>phrase_vi_guid.mp3</mp3>
+      <vocabulary>vì</vocabulary>
+      <chinese>（介）因為</chinese>
+      <chinesePhrase>因為</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析178：nghi ngờ -->
+    <phrase>
+      <text>nghi ngờ</text>
+      <mp3>phrase_nghi_ngo2_guid.mp3</mp3>
+      <vocabulary>nghi ngờ</vocabulary>
+      <chinese>懷疑</chinese>
+      <chinesePhrase>懷疑</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析179：có sự xuất hiện -->
+    <phrase>
+      <text>có sự xuất hiện</text>
+      <mp3>phrase_co_su_xuat_hien_guid.mp3</mp3>
+      <vocabulary>có</vocabulary>
+      <chinese>有</chinese>
+      <vocabulary>sự xuất hiện</vocabulary>
+      <chinese>出現</chinese>
+      <chinesePhrase>有...出現</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析180：của người thứ ba -->
+    <phrase>
+      <text>của người thứ ba</text>
+      <mp3>phrase_cua_nguoi_thu_ba_guid.mp3</mp3>
+      <vocabulary>của</vocabulary>
+      <chinese>的</chinese>
+      <vocabulary>người thứ ba</vocabulary>
+      <chinese>第三者</chinese>
+      <chinesePhrase>第三者的</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析181：Trấn Thành -->
+    <phrase>
+      <text>Trấn Thành</text>
+      <mp3>phrase_tran_thanh2_guid.mp3</mp3>
+      <vocabulary>Trấn Thành</vocabulary>
+      <chinese>陳友</chinese>
+      <chinesePhrase>陳友</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析182：góp mặt -->
+    <phrase>
+      <text>góp mặt</text>
+      <mp3>phrase_gop_mat_guid.mp3</mp3>
+      <vocabulary>góp mặt</vocabulary>
+      <chinese>（動）參與/出演</chinese>
+      <chinesePhrase>出演</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析183：với vai -->
+    <phrase>
+      <text>với vai</text>
+      <mp3>phrase_voi_vai_guid.mp3</mp3>
+      <vocabulary>với</vocabulary>
+      <chinese>以</chinese>
+      <vocabulary>vai</vocabulary>
+      <chinese>（名）角色</chinese>
+      <chinesePhrase>飾演</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析184：Kim -->
+    <phrase>
+      <text>Kim</text>
+      <mp3>phrase_kim_guid.mp3</mp3>
+      <vocabulary>Kim</vocabulary>
+      <chinese>（名）金</chinese>
+      <chinesePhrase>金</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析185：bạn trai cũ -->
+    <phrase>
+      <text>bạn trai cũ</text>
+      <mp3>phrase_ban_trai_cu_guid.mp3</mp3>
+      <vocabulary>bạn trai cũ</vocabulary>
+      <chinese>前男友</chinese>
+      <chinesePhrase>前男友</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析186：tìm cách -->
+    <phrase>
+      <text>tìm cách</text>
+      <mp3>phrase_tim_cach_guid.mp3</mp3>
+      <vocabulary>tìm cách</vocabulary>
+      <chinese>（動）設法/試圖</chinese>
+      <chinesePhrase>試圖</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析187：nối lại tình cảm -->
+    <phrase>
+      <text>nối lại tình cảm</text>
+      <mp3>phrase_noi_lai_tinh_cam_guid.mp3</mp3>
+      <vocabulary>nối lại</vocabulary>
+      <chinese>（動）重新連接</chinese>
+      <vocabulary>tình cảm</vocabulary>
+      <chinese>（名）感情</chinese>
+      <chinesePhrase>重修舊好</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析188：với Nhật Hạ -->
+    <phrase>
+      <text>với Nhật Hạ</text>
+      <mp3>phrase_voi_nhat_ha_guid.mp3</mp3>
+      <vocabulary>với</vocabulary>
+      <chinese>與</chinese>
+      <vocabulary>Nhật Hạ</vocabulary>
+      <chinese>日夏</chinese>
+      <chinesePhrase>與日夏</chinesePhrase>
+    </phrase>
+  </subject>
+</xml>

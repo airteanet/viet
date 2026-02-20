@@ -1,0 +1,1320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <!-- 標題：住院醫生的除夕「鋼鐵熔爐」 -->
+  <subject>
+    <text>住院醫生的除夕「鋼鐵熔爐」</text>
+    <translate>'Lò luyện thép' đêm 30 của bác sĩ nội trú</translate>
+    <mp3>subject_title_lo_luyen_thep_guid.mp3</mp3>
+
+    <!-- 詞組分析1：鋼鐵熔爐 -->
+    <phrase>
+      <text>Lò luyện thép</text>
+      <mp3>phrase_lo_luyen_thep_guid.mp3</mp3>
+      <vocabulary>Lò luyện</vocabulary>
+      <chinese>（名）熔爐/鍛鍊場所</chinese>
+      <vocabulary>thép</vocabulary>
+      <chinese>（名）鋼鐵</chinese>
+      <chinesePhrase>鋼鐵熔爐</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析2：除夕夜 -->
+    <phrase>
+      <text>đêm 30</text>
+      <mp3>phrase_dem_30_guid.mp3</mp3>
+      <vocabulary>đêm</vocabulary>
+      <chinese>（名）夜晚</chinese>
+      <vocabulary>30</vocabulary>
+      <chinese>30/除夕</chinese>
+      <chinesePhrase>除夕夜</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析3：住院醫生 -->
+    <phrase>
+      <text>bác sĩ nội trú</text>
+      <mp3>phrase_bac_si_noi_tru_guid.mp3</mp3>
+      <vocabulary>bác sĩ</vocabulary>
+      <chinese>（名）醫生</chinese>
+      <vocabulary>nội trú</vocabulary>
+      <chinese>（名）住院/駐院</chinese>
+      <chinesePhrase>住院醫生</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第二段：緊急救治場景 -->
+  <subject>
+    <text>河內——當時鐘逐漸逼近零點——預示著除夕時刻的到來，在越德友誼醫院重症監護1室，空氣中仍瀰漫著濃重的酒精味和緊張氛圍。</text>
+    <translate>Hà NộiKhi đồng hồ nhích dần về con số 0 - báo hiệu thời khắc giao thừa, trong phòng Hồi sức 1, Bệnh viện Hữu nghị Việt Đức, không khí vẫn đặc quánh mùi cồn và sự căng thẳng.</translate>
+    <mp3>subject_khong_khi_bv_guid.mp3</mp3>
+
+    <!-- 詞組分析4：河內 -->
+    <phrase>
+      <text>Hà Nội</text>
+      <mp3>phrase_ha_noi_guid.mp3</mp3>
+      <vocabulary>Hà Nội</vocabulary>
+      <chinese>（名）河內</chinese>
+      <chinesePhrase>河內</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析5：當時鐘逐漸逼近零點 -->
+    <phrase>
+      <text>Khi đồng hồ nhích dần về con số 0</text>
+      <mp3>phrase_khi_dong_ho_nhich_dan_con_so_0_guid.mp3</mp3>
+      <vocabulary>Khi</vocabulary>
+      <chinese>（連）當...時</chinese>
+      <vocabulary>đồng hồ nhích dần</vocabulary>
+      <chinese>時鐘逐漸移動</chinese>
+      <vocabulary>về con số 0</vocabulary>
+      <chinese>向零點</chinese>
+      <chinesePhrase>當時鐘逐漸逼近零點</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析6：預示著除夕時刻的到來 -->
+    <phrase>
+      <text>báo hiệu thời khắc giao thừa</text>
+      <mp3>phrase_bao_hieu_thoi_khac_giao_thua_guid.mp3</mp3>
+      <vocabulary>báo hiệu</vocabulary>
+      <chinese>（動）預示</chinese>
+      <vocabulary>thời khắc giao thừa</vocabulary>
+      <chinese>除夕時刻</chinese>
+      <chinesePhrase>預示著除夕時刻的到來</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析7：在越德友誼醫院重症監護1室 -->
+    <phrase>
+      <text>trong phòng Hồi sức 1, Bệnh viện Hữu nghị Việt Đức</text>
+      <mp3>phrase_phong_hoi_suc_1_viet_duc_guid.mp3</mp3>
+      <vocabulary>trong</vocabulary>
+      <chinese>在...內</chinese>
+      <vocabulary>phòng Hồi sức 1</vocabulary>
+      <chinese>重症監護1室</chinese>
+      <vocabulary>Bệnh viện Hữu nghị Việt Đức</vocabulary>
+      <chinese>越德友誼醫院</chinese>
+      <chinesePhrase>在越德友誼醫院重症監護1室</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析8：空氣中仍瀰漫著濃重的酒精味和緊張氛圍 -->
+    <phrase>
+      <text>không khí vẫn đặc quánh mùi cồn và sự căng thẳng</text>
+      <mp3>phrase_khong_khi_dac_quanh_mui_con_cang_thang_guid.mp3</mp3>
+      <vocabulary>không khí</vocabulary>
+      <chinese>空氣</chinese>
+      <vocabulary>vẫn đặc quánh</vocabulary>
+      <chinese>仍濃重/仍瀰漫</chinese>
+      <vocabulary>mùi cồn</vocabulary>
+      <chinese>酒精味</chinese>
+      <vocabulary>và sự căng thẳng</vocabulary>
+      <chinese>和緊張氛圍</chinese>
+      <chinesePhrase>空氣中仍瀰漫著濃重的酒精味和緊張氛圍</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第三段：搶救28歲男患者 -->
+  <subject>
+    <text>燈光下，醫生裴春長和他的值班團隊正全力進行心臟按壓、捏球囊，與死神賽跑，為一名28歲男性患者爭取生命。患者在除夕前因交通事故導致嚴重多發傷、失血性休克入院，並出現心跳驟停。</text>
+    <translate>Dưới ánh đèn, bác sĩ Bùi Xuân Trường cùng kíp trực đang dồn toàn lực ép tim, bóp bóng, chạy đua với tử thần để giành lại sự sống cho nam thanh niên 28 tuổi. Bệnh nhân nhập viện trong tình trạng sốc mất máu, đa chấn thương nghiêm trọng do tai nạn giao thông và ngừng tuần hoàn ngay trước thềm năm mới.</translate>
+    <mp3>subject_cap_cuu_bn_28t_guid.mp3</mp3>
+
+    <!-- 詞組分析9：燈光下 -->
+    <phrase>
+      <text>Dưới ánh đèn</text>
+      <mp3>phrase_duoi_anh_den_guid.mp3</mp3>
+      <vocabulary>Dưới</vocabulary>
+      <chinese>在...下</chinese>
+      <vocabulary>ánh đèn</vocabulary>
+      <chinese>燈光</chinese>
+      <chinesePhrase>燈光下</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析10：醫生裴春長 -->
+    <phrase>
+      <text>bác sĩ Bùi Xuân Trường</text>
+      <mp3>phrase_bac_si_bui_xuan_truong_guid.mp3</mp3>
+      <vocabulary>bác sĩ</vocabulary>
+      <chinese>醫生</chinese>
+      <vocabulary>Bùi Xuân Trường</vocabulary>
+      <chinese>（名）裴春長</chinese>
+      <chinesePhrase>醫生裴春長</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析11：和他的值班團隊 -->
+    <phrase>
+      <text>cùng kíp trực</text>
+      <mp3>phrase_cung_kip_truc_guid.mp3</mp3>
+      <vocabulary>cùng</vocabulary>
+      <chinese>和/與</chinese>
+      <vocabulary>kíp trực</vocabulary>
+      <chinese>（名）值班團隊</chinese>
+      <chinesePhrase>和他的值班團隊</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析12：正全力進行心臟按壓、捏球囊 -->
+    <phrase>
+      <text>đang dồn toàn lực ép tim, bóp bóng</text>
+      <mp3>phrase_dang_don_toan_luc_ep_tim_bop_bong_guid.mp3</mp3>
+      <vocabulary>đang dồn toàn lực</vocabulary>
+      <chinese>正全力</chinese>
+      <vocabulary>ép tim</vocabulary>
+      <chinese>心臟按壓</chinese>
+      <vocabulary>bóp bóng</vocabulary>
+      <chinese>捏球囊</chinese>
+      <chinesePhrase>正全力進行心臟按壓、捏球囊</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析13：與死神賽跑 -->
+    <phrase>
+      <text>chạy đua với tử thần</text>
+      <mp3>phrase_chay_dua_voi_tu_than_guid.mp3</mp3>
+      <vocabulary>chạy đua</vocabulary>
+      <chinese>（動）賽跑</chinese>
+      <vocabulary>với tử thần</vocabulary>
+      <chinese>與死神</chinese>
+      <chinesePhrase>與死神賽跑</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析14：為一名28歲男性患者爭取生命 -->
+    <phrase>
+      <text>để giành lại sự sống cho nam thanh niên 28 tuổi</text>
+      <mp3>phrase_de_gianh_lai_su_song_cho_nam_thanh_nien_28t_guid.mp3</mp3>
+      <vocabulary>để giành lại sự sống</vocabulary>
+      <chinese>為了爭取生命</chinese>
+      <vocabulary>cho nam thanh niên 28 tuổi</vocabulary>
+      <chinese>為28歲男性患者</chinese>
+      <chinesePhrase>為一名28歲男性患者爭取生命</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析15：患者入院 -->
+    <phrase>
+      <text>Bệnh nhân nhập viện</text>
+      <mp3>phrase_benh_nhan_nhap_vien_guid.mp3</mp3>
+      <vocabulary>Bệnh nhân</vocabulary>
+      <chinese>患者</chinese>
+      <vocabulary>nhập viện</vocabulary>
+      <chinese>入院</chinese>
+      <chinesePhrase>患者入院</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析16：在失血性休克狀態 -->
+    <phrase>
+      <text>trong tình trạng sốc mất máu</text>
+      <mp3>phrase_trong_tinh_trang_soc_mat_mau_guid.mp3</mp3>
+      <vocabulary>trong tình trạng</vocabulary>
+      <chinese>在...狀態</chinese>
+      <vocabulary>sốc mất máu</vocabulary>
+      <chinese>失血性休克</chinese>
+      <chinesePhrase>在失血性休克狀態</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析17：嚴重多發傷 -->
+    <phrase>
+      <text>đa chấn thương nghiêm trọng</text>
+      <mp3>phrase_da_chan_thuong_nghiem_trong_guid.mp3</mp3>
+      <vocabulary>đa chấn thương</vocabulary>
+      <chinese>多發傷</chinese>
+      <vocabulary>nghiêm trọng</vocabulary>
+      <chinese>嚴重</chinese>
+      <chinesePhrase>嚴重多發傷</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析18：因交通事故 -->
+    <phrase>
+      <text>do tai nạn giao thông</text>
+      <mp3>phrase_do_tai_nan_giao_thong_guid.mp3</mp3>
+      <vocabulary>do</vocabulary>
+      <chinese>（介）由於/因</chinese>
+      <vocabulary>tai nạn giao thông</vocabulary>
+      <chinese>交通事故</chinese>
+      <chinesePhrase>因交通事故</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析19：並在除夕前心跳驟停 -->
+    <phrase>
+      <text>và ngừng tuần hoàn ngay trước thềm năm mới</text>
+      <mp3>phrase_va_ngung_tuan_hoan_ngay_truoc_them_nam_moi_guid.mp3</mp3>
+      <vocabulary>và</vocabulary>
+      <chinese>並</chinese>
+      <vocabulary>ngừng tuần hoàn</vocabulary>
+      <chinese>心跳驟停</chinese>
+      <vocabulary>ngay trước thềm năm mới</vocabulary>
+      <chinese>就在新年前夕</chinese>
+      <chinesePhrase>並在除夕前心跳驟停</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第四段：回憶與救治過程 -->
+  <subject>
+    <text>情況極其危急，但所有人都相信能救活患者」，裴醫生（目前在E醫院工作）回憶起四年前還是住院醫一年級時的除夕值班。醫護人員輪流持續進行心臟按壓，眼睛緊盯著螢幕上的生命跡象。三十分鐘後，脈搏恢復，患者接受輸血並被轉入手術室。</text>
+    <translate>Tình huống vô cùng nguy cấp, song tất cả đều tin sẽ cứu được người bệnh", bác sĩ Trường (hiện công tác tại Bệnh viện E) nhớ lại đêm trực cách đây 4 năm, khi còn là bác sĩ nội trú năm nhất. Y bác sĩ thay phiên ép tim liên tục, mắt không rời các chỉ số sinh tồn trên màn hình. Ba mươi phút sau, mạch đập trở lại, bệnh nhân được truyền máu và chuyển vào phòng mổ.</translate>
+    <mp3>subject_hoi_tuong_quy_trinh_guid.mp3</mp3>
+
+    <!-- 詞組分析20：情況極其危急 -->
+    <phrase>
+      <text>Tình huống vô cùng nguy cấp</text>
+      <mp3>phrase_tinh_huong_vo_cung_nguy_cap_guid.mp3</mp3>
+      <vocabulary>Tình huống</vocabulary>
+      <chinese>情況</chinese>
+      <vocabulary>vô cùng nguy cấp</vocabulary>
+      <chinese>極其危急</chinese>
+      <chinesePhrase>情況極其危急</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析21：但所有人都相信能救活患者 -->
+    <phrase>
+      <text>song tất cả đều tin sẽ cứu được người bệnh</text>
+      <mp3>phrase_song_tat_ca_deu_tin_se_cuu_duoc_nguoi_benh_guid.mp3</mp3>
+      <vocabulary>song</vocabulary>
+      <chinese>（連）但是</chinese>
+      <vocabulary>tất cả đều tin</vocabulary>
+      <chinese>所有人都相信</chinese>
+      <vocabulary>sẽ cứu được người bệnh</vocabulary>
+      <chinese>能救活患者</chinese>
+      <chinesePhrase>但所有人都相信能救活患者</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析22：裴醫生（目前在E醫院工作）回憶起 -->
+    <phrase>
+      <text>bác sĩ Trường (hiện công tác tại Bệnh viện E) nhớ lại</text>
+      <mp3>phrase_bac_si_truong_hien_bv_e_nho_lai_guid.mp3</mp3>
+      <vocabulary>bác sĩ Trường</vocabulary>
+      <chinese>裴醫生</chinese>
+      <vocabulary>(hiện công tác tại Bệnh viện E)</vocabulary>
+      <chinese>（目前在E醫院工作）</chinese>
+      <vocabulary>nhớ lại</vocabulary>
+      <chinese>回憶起</chinese>
+      <chinesePhrase>裴醫生（目前在E醫院工作）回憶起</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析23：四年前還是住院醫一年級時的除夕值班 -->
+    <phrase>
+      <text>đêm trực cách đây 4 năm, khi còn là bác sĩ nội trú năm nhất</text>
+      <mp3>phrase_dem_truc_cach_day_4_nam_con_noi_tru_nam_nhat_guid.mp3</mp3>
+      <vocabulary>đêm trực cách đây 4 năm</vocabulary>
+      <chinese>四年前的值班夜</chinese>
+      <vocabulary>khi còn là bác sĩ nội trú năm nhất</vocabulary>
+      <chinese>當時還是住院醫一年級</chinese>
+      <chinesePhrase>四年前還是住院醫一年級時的除夕值班</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析24：醫護人員輪流持續進行心臟按壓 -->
+    <phrase>
+      <text>Y bác sĩ thay phiên ép tim liên tục</text>
+      <mp3>phrase_y_bac_si_thay_phien_ep_tim_lien_tuc_guid.mp3</mp3>
+      <vocabulary>Y bác sĩ</vocabulary>
+      <chinese>醫護人員</chinese>
+      <vocabulary>thay phiên ép tim liên tục</vocabulary>
+      <chinese>輪流持續進行心臟按壓</chinese>
+      <chinesePhrase>醫護人員輪流持續進行心臟按壓</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析25：眼睛緊盯著螢幕上的生命跡象 -->
+    <phrase>
+      <text>mắt không rời các chỉ số sinh tồn trên màn hình</text>
+      <mp3>phrase_mat_khong_roi_chi_so_sinh_ton_man_hinh_guid.mp3</mp3>
+      <vocabulary>mắt không rời</vocabulary>
+      <chinese>眼睛不離開</chinese>
+      <vocabulary>các chỉ số sinh tồn trên màn hình</vocabulary>
+      <chinese>螢幕上的生命跡象</chinese>
+      <chinesePhrase>眼睛緊盯著螢幕上的生命跡象</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析26：三十分鐘後 -->
+    <phrase>
+      <text>Ba mươi phút sau</text>
+      <mp3>phrase_ba_muoi_phut_sau_guid.mp3</mp3>
+      <vocabulary>Ba mươi phút sau</vocabulary>
+      <chinese>三十分鐘後</chinese>
+      <chinesePhrase>三十分鐘後</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析27：脈搏恢復 -->
+    <phrase>
+      <text>mạch đập trở lại</text>
+      <mp3>phrase_mach_dap_tro_lai_guid.mp3</mp3>
+      <vocabulary>mạch đập trở lại</vocabulary>
+      <chinese>脈搏恢復</chinese>
+      <chinesePhrase>脈搏恢復</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析28：患者接受輸血並被轉入手術室 -->
+    <phrase>
+      <text>bệnh nhân được truyền máu và chuyển vào phòng mổ</text>
+      <mp3>phrase_benh_nhan_duoc_truyen_mau_chuyen_phong_mo_guid.mp3</mp3>
+      <vocabulary>bệnh nhân được truyền máu</vocabulary>
+      <chinese>患者接受輸血</chinese>
+      <vocabulary>và chuyển vào phòng mổ</vocabulary>
+      <chinese>並被轉入手術室</chinese>
+      <chinesePhrase>患者接受輸血並被轉入手術室</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第五段：短暫休息與新患者 -->
+  <subject>
+    <text>此時，大家才抬起頭，意識到除夕時刻已經過去。他們臨時拼起幾張塑膠椅，打開糖果盒，舉起水杯碰杯慶祝新年。還沒來得及休息，紅色警報又響起。一名因爆竹受傷的患者剛入院，所有人趕緊站起來。</text>
+    <translate>Lúc này, mọi người mới ngẩng đầu và nhận ra thời khắc giao thừa đã qua. Họ kê tạm vài chiếc ghế nhựa, mở hộp bánh kẹo, cầm cốc nước lọc cụng ly chúc mừng năm mới. Chưa kịp nghỉ ngơi, chuông báo động đỏ lại vang lên. Một bệnh nhân chấn thương do pháo nổ vừa nhập viện, tất cả vội đứng dậy.</translate>
+    <mp3>subject_nghi_ngoi_va_cap_cuu_moi_guid.mp3</mp3>
+
+    <!-- 詞組分析29：此時 -->
+    <phrase>
+      <text>Lúc này</text>
+      <mp3>phrase_luc_nay_guid.mp3</mp3>
+      <vocabulary>Lúc này</vocabulary>
+      <chinese>此時</chinese>
+      <chinesePhrase>此時</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析30：大家才抬起頭 -->
+    <phrase>
+      <text>mọi người mới ngẩng đầu</text>
+      <mp3>phrase_moi_nguoi_moi_ngang_dau_guid.mp3</mp3>
+      <vocabulary>mọi người mới</vocabulary>
+      <chinese>大家才</chinese>
+      <vocabulary>ngẩng đầu</vocabulary>
+      <chinese>抬起頭</chinese>
+      <chinesePhrase>大家才抬起頭</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析31：意識到除夕時刻已經過去 -->
+    <phrase>
+      <text>và nhận ra thời khắc giao thừa đã qua</text>
+      <mp3>phrase_va_nhan_ra_thoi_khac_giao_thua_da_qua_guid.mp3</mp3>
+      <vocabulary>và nhận ra</vocabulary>
+      <chinese>並意識到</chinese>
+      <vocabulary>thời khắc giao thừa đã qua</vocabulary>
+      <chinese>除夕時刻已經過去</chinese>
+      <chinesePhrase>意識到除夕時刻已經過去</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析32：他們臨時拼起幾張塑膠椅 -->
+    <phrase>
+      <text>Họ kê tạm vài chiếc ghế nhựa</text>
+      <mp3>phrase_ho_ke_tam_vai_chiec_ghe_nhua_guid.mp3</mp3>
+      <vocabulary>Họ kê tạm</vocabulary>
+      <chinese>他們臨時拼起</chinese>
+      <vocabulary>vài chiếc ghế nhựa</vocabulary>
+      <chinese>幾張塑膠椅</chinese>
+      <chinesePhrase>他們臨時拼起幾張塑膠椅</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析33：打開糖果盒 -->
+    <phrase>
+      <text>mở hộp bánh kẹo</text>
+      <mp3>phrase_mo_hop_banh_keo_guid.mp3</mp3>
+      <vocabulary>mở</vocabulary>
+      <chinese>打開</chinese>
+      <vocabulary>hộp bánh kẹo</vocabulary>
+      <chinese>糖果盒</chinese>
+      <chinesePhrase>打開糖果盒</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析34：舉起水杯碰杯慶祝新年 -->
+    <phrase>
+      <text>cầm cốc nước lọc cụng ly chúc mừng năm mới</text>
+      <mp3>phrase_cam_coc_nuoc_loc_cung_ly_chuc_mung_nam_moi_guid.mp3</mp3>
+      <vocabulary>cầm cốc nước lọc</vocabulary>
+      <chinese>拿起水杯</chinese>
+      <vocabulary>cụng ly</vocabulary>
+      <chinese>碰杯</chinese>
+      <vocabulary>chúc mừng năm mới</vocabulary>
+      <chinese>慶祝新年</chinese>
+      <chinesePhrase>舉起水杯碰杯慶祝新年</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析35：還沒來得及休息 -->
+    <phrase>
+      <text>Chưa kịp nghỉ ngơi</text>
+      <mp3>phrase_chua_kip_nghi_ngoi_guid.mp3</mp3>
+      <vocabulary>Chưa kịp</vocabulary>
+      <chinese>還沒來得及</chinese>
+      <vocabulary>nghỉ ngơi</vocabulary>
+      <chinese>休息</chinese>
+      <chinesePhrase>還沒來得及休息</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析36：紅色警報又響起 -->
+    <phrase>
+      <text>chuông báo động đỏ lại vang lên</text>
+      <mp3>phrase_chuong_bao_dong_do_lai_vang_len_guid.mp3</mp3>
+      <vocabulary>chuông báo động đỏ</vocabulary>
+      <chinese>紅色警報</chinese>
+      <vocabulary>lại vang lên</vocabulary>
+      <chinese>又響起</chinese>
+      <chinesePhrase>紅色警報又響起</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析37：一名因爆竹受傷的患者剛入院 -->
+    <phrase>
+      <text>Một bệnh nhân chấn thương do pháo nổ vừa nhập viện</text>
+      <mp3>phrase_mot_benh_nhan_chan_thuong_phao_no_vua_nhap_vien_guid.mp3</mp3>
+      <vocabulary>Một bệnh nhân chấn thương do pháo nổ</vocabulary>
+      <chinese>一名因爆竹受傷的患者</chinese>
+      <vocabulary>vừa nhập viện</vocabulary>
+      <chinese>剛入院</chinese>
+      <chinesePhrase>一名因爆竹受傷的患者剛入院</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析38：所有人趕緊站起來 -->
+    <phrase>
+      <text>tất cả vội đứng dậy</text>
+      <mp3>phrase_tat_ca_voi_dung_day_guid.mp3</mp3>
+      <vocabulary>tất cả</vocabulary>
+      <chinese>所有人</chinese>
+      <vocabulary>vội đứng dậy</vocabulary>
+      <chinese>趕緊站起來</chinese>
+      <chinesePhrase>所有人趕緊站起來</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第六段：重症監護室春節氛圍 -->
+  <subject>
+    <text>重症監護1室主要治療重症患者，所以這裡的春節氛圍總是與眾不同。當外面的世界倒數計時迎接除夕時刻，醫院內的生命爭奪戰才真正進入高峰。救護車的鳴笛聲、走廊冰冷的白色燈光和匆忙的腳步，與除夕夜寧靜的街道形成鮮明對比。</text>
+    <translate>Phòng Hồi sức 1 chủ yếu điều trị bệnh nhân nặng, nên không khí Tết ở đây luôn khác biệt. Khi thế giới bên ngoài đếm ngược đến khoảnh khắc giao thừa, cuộc chiến giành giật sự sống trong bệnh viện mới thực sự vào cao điểm. Tiếng còi xe cứu thương, ánh đèn hành lang trắng lạnh và sự hối hả tạo nên bầu không khí đối lập hoàn toàn với phố xá yên bình đêm cuối năm.</translate>
+    <mp3>subject_khong_khi_dac_biet_guid.mp3</mp3>
+
+    <!-- 詞組分析39：重症監護1室主要治療重症患者 -->
+    <phrase>
+      <text>Phòng Hồi sức 1 chủ yếu điều trị bệnh nhân nặng</text>
+      <mp3>phrase_phong_hoi_suc_1_chu_yeu_dieu_tri_benh_nhan_nang_guid.mp3</mp3>
+      <vocabulary>Phòng Hồi sức 1</vocabulary>
+      <chinese>重症監護1室</chinese>
+      <vocabulary>chủ yếu điều trị bệnh nhân nặng</vocabulary>
+      <chinese>主要治療重症患者</chinese>
+      <chinesePhrase>重症監護1室主要治療重症患者</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析40：所以這裡的春節氛圍總是與眾不同 -->
+    <phrase>
+      <text>nên không khí Tết ở đây luôn khác biệt</text>
+      <mp3>phrase_nen_khong_khi_tet_o_day_luon_khac_biet_guid.mp3</mp3>
+      <vocabulary>nên</vocabulary>
+      <chinese>所以</chinese>
+      <vocabulary>không khí Tết ở đây luôn khác biệt</vocabulary>
+      <chinese>這裡的春節氛圍總是與眾不同</chinese>
+      <chinesePhrase>所以這裡的春節氛圍總是與眾不同</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析41：當外面的世界倒數計時迎接除夕時刻 -->
+    <phrase>
+      <text>Khi thế giới bên ngoài đếm ngược đến khoảnh khắc giao thừa</text>
+      <mp3>phrase_khi_the_gioi_ben_ngoai_dem_nguoc_khoanh_khac_giao_thua_guid.mp3</mp3>
+      <vocabulary>Khi thế giới bên ngoài</vocabulary>
+      <chinese>當外面的世界</chinese>
+      <vocabulary>đếm ngược đến khoảnh khắc giao thừa</vocabulary>
+      <chinese>倒數計時迎接除夕時刻</chinese>
+      <chinesePhrase>當外面的世界倒數計時迎接除夕時刻</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析42：醫院內的生命爭奪戰才真正進入高峰 -->
+    <phrase>
+      <text>cuộc chiến giành giật sự sống trong bệnh viện mới thực sự vào cao điểm</text>
+      <mp3>phrase_cuoc_chien_giang_giat_su_song_trong_bv_vao_cao_diem_guid.mp3</mp3>
+      <vocabulary>cuộc chiến giành giật sự sống trong bệnh viện</vocabulary>
+      <chinese>醫院內的生命爭奪戰</chinese>
+      <vocabulary>mới thực sự vào cao điểm</vocabulary>
+      <chinese>才真正進入高峰</chinese>
+      <chinesePhrase>醫院內的生命爭奪戰才真正進入高峰</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析43：救護車的鳴笛聲 -->
+    <phrase>
+      <text>Tiếng còi xe cứu thương</text>
+      <mp3>phrase_tieng_coi_xe_cuu_thuong_guid.mp3</mp3>
+      <vocabulary>Tiếng còi xe cứu thương</vocabulary>
+      <chinese>救護車的鳴笛聲</chinese>
+      <chinesePhrase>救護車的鳴笛聲</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析44：走廊冰冷的白色燈光和匆忙的腳步 -->
+    <phrase>
+      <text>ánh đèn hành lang trắng lạnh và sự hối hả</text>
+      <mp3>phrase_anh_den_hanh_lang_trang_lanh_su_hoi_ha_guid.mp3</mp3>
+      <vocabulary>ánh đèn hành lang trắng lạnh</vocabulary>
+      <chinese>走廊冰冷的白色燈光</chinese>
+      <vocabulary>và sự hối hả</vocabulary>
+      <chinese>和匆忙的腳步</chinese>
+      <chinesePhrase>走廊冰冷的白色燈光和匆忙的腳步</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析45：與除夕夜寧靜的街道形成鮮明對比 -->
+    <phrase>
+      <text>tạo nên bầu không khí đối lập hoàn toàn với phố xá yên bình đêm cuối năm</text>
+      <mp3>phrase_tao_nen_bau_khong_khi_doi_lap_voi_pho_xa_yen_binh_guid.mp3</mp3>
+      <vocabulary>tạo nên bầu không khí đối lập hoàn toàn</vocabulary>
+      <chinese>形成完全對比的氛圍</chinese>
+      <vocabulary>với phố xá yên bình đêm cuối năm</vocabulary>
+      <chinese>與除夕夜寧靜的街道</chinese>
+      <chinesePhrase>與除夕夜寧靜的街道形成鮮明對比</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第七段：裴醫生分享 -->
+  <subject>
+    <text>「第一次除夕值班，辛苦和緊張難以避免，但沒有什麼比能救人更幸福的了」，裴醫生2月16日分享道。</text>
+    <translate>"Lần đầu trực đêm giao thừa, vất vả căng thẳng khó tránh, nhưng còn gì hạnh phúc bằng được cứu người", bác sĩ Trường chia sẻ hôm 16/2.</translate>
+    <mp3>subject_bac_si_truong_chia_se_guid.mp3</mp3>
+
+    <!-- 詞組分析46：第一次除夕值班 -->
+    <phrase>
+      <text>Lần đầu trực đêm giao thừa</text>
+      <mp3>phrase_lan_dau_truc_dem_giao_thua_guid.mp3</mp3>
+      <vocabulary>Lần đầu</vocabulary>
+      <chinese>第一次</chinese>
+      <vocabulary>trực đêm giao thừa</vocabulary>
+      <chinese>除夕值班</chinese>
+      <chinesePhrase>第一次除夕值班</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析47：辛苦和緊張難以避免 -->
+    <phrase>
+      <text>vất vả căng thẳng khó tránh</text>
+      <mp3>phrase_vat_va_cang_thang_kho_tranh_guid.mp3</mp3>
+      <vocabulary>vất vả căng thẳng</vocabulary>
+      <chinese>辛苦和緊張</chinese>
+      <vocabulary>khó tránh</vocabulary>
+      <chinese>難以避免</chinese>
+      <chinesePhrase>辛苦和緊張難以避免</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析48：但沒有什麼比能救人更幸福的了 -->
+    <phrase>
+      <text>nhưng còn gì hạnh phúc bằng được cứu người</text>
+      <mp3>phrase_nhung_con_gi_hanh_phuc_bang_duoc_cuu_nguoi_guid.mp3</mp3>
+      <vocabulary>nhưng</vocabulary>
+      <chinese>但是</chinese>
+      <vocabulary>còn gì hạnh phúc bằng được cứu người</vocabulary>
+      <chinese>沒有什麼比能救人更幸福的了</chinese>
+      <chinesePhrase>但沒有什麼比能救人更幸福的了</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析49：裴醫生2月16日分享道 -->
+    <phrase>
+      <text>bác sĩ Trường chia sẻ hôm 16/2</text>
+      <mp3>phrase_bac_si_truong_chia_se_16_2_guid.mp3</mp3>
+      <vocabulary>bác sĩ Trường chia sẻ</vocabulary>
+      <chinese>裴醫生分享</chinese>
+      <vocabulary>hôm 16/2</vocabulary>
+      <chinese>2月16日</chinese>
+      <chinesePhrase>裴醫生2月16日分享道</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第八段：住院醫生角色介紹 -->
+  <subject>
+    <text>裴醫生的故事只是醫療生態系統中住院醫生生活的廣闊畫卷中的一個小縮影——他們被譽為醫療生態系統中的「先鋒戰士」。根據世界和越南的醫學培訓模式，住院醫生階段是最艱苦的時期，年輕醫生必須24/7值班，面對高強度壓力來鍛鍊本領。</text>
+    <translate>Câu chuyện của bác sĩ Trường chỉ là lát cắt nhỏ trong bức tranh rộng lớn về cuộc sống của các bác sĩ nội trú – những người được ví như "lính tiền phong" trong hệ sinh thái y tế. Theo mô hình đào tạo y khoa thế giới và Việt Nam, nội trú là giai đoạn khắc nghiệt nhất, nơi các bác sĩ trẻ phải trực chiến 24/7, đối mặt với áp lực cường độ cao để trui rèn bản lĩnh.</translate>
+    <mp3>subject_vai_tro_noi_tru_guid.mp3</mp3>
+
+    <!-- 詞組分析50：裴醫生的故事 -->
+    <phrase>
+      <text>Câu chuyện của bác sĩ Trường</text>
+      <mp3>phrase_cau_chuyen_bac_si_truong_guid.mp3</mp3>
+      <vocabulary>Câu chuyện</vocabulary>
+      <chinese>故事</chinese>
+      <vocabulary>của bác sĩ Trường</vocabulary>
+      <chinese>裴醫生的</chinese>
+      <chinesePhrase>裴醫生的故事</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析51：只是醫療生態系統中廣闊畫卷的一個小縮影 -->
+    <phrase>
+      <text>chỉ là lát cắt nhỏ trong bức tranh rộng lớn về cuộc sống của các bác sĩ nội trú</text>
+      <mp3>phrase_chi_la_lat_cat_nho_buc_tranh_rong_lon_cuoc_song_noi_tru_guid.mp3</mp3>
+      <vocabulary>chỉ là lát cắt nhỏ</vocabulary>
+      <chinese>只是一個小縮影</chinese>
+      <vocabulary>trong bức tranh rộng lớn về cuộc sống của các bác sĩ nội trú</vocabulary>
+      <chinese>在住院醫生生活的廣闊畫卷中</chinese>
+      <chinesePhrase>只是住院醫生生活的廣闊畫卷中的一個小縮影</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析52：他們被譽為醫療生態系統中的「先鋒戰士」 -->
+    <phrase>
+      <text>những người được ví như "lính tiền phong" trong hệ sinh thái y tế</text>
+      <mp3>phrase_duoc_vi_nhu_linh_tien_phong_he_sinh_thai_y_te_guid.mp3</mp3>
+      <vocabulary>những người</vocabulary>
+      <chinese>他們</chinese>
+      <vocabulary>được ví như "lính tiền phong"</vocabulary>
+      <chinese>被譽為「先鋒戰士」</chinese>
+      <vocabulary>trong hệ sinh thái y tế</vocabulary>
+      <chinese>在醫療生態系統中</chinese>
+      <chinesePhrase>他們被譽為醫療生態系統中的「先鋒戰士」</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析53：根據世界和越南的醫學培訓模式 -->
+    <phrase>
+      <text>Theo mô hình đào tạo y khoa thế giới và Việt Nam</text>
+      <mp3>phrase_theo_mo_hinh_dao_tao_y_khoa_the_gioi_viet_nam_guid.mp3</mp3>
+      <vocabulary>Theo</vocabulary>
+      <chinese>根據</chinese>
+      <vocabulary>mô hình đào tạo y khoa thế giới và Việt Nam</vocabulary>
+      <chinese>世界和越南的醫學培訓模式</chinese>
+      <chinesePhrase>根據世界和越南的醫學培訓模式</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析54：住院醫生階段是最艱苦的時期 -->
+    <phrase>
+      <text>nội trú là giai đoạn khắc nghiệt nhất</text>
+      <mp3>phrase_noi_tru_la_giai_doan_khac_nghiet_nhat_guid.mp3</mp3>
+      <vocabulary>nội trú</vocabulary>
+      <chinese>住院醫生</chinese>
+      <vocabulary>là giai đoạn khắc nghiệt nhất</vocabulary>
+      <chinese>是最艱苦的時期</chinese>
+      <chinesePhrase>住院醫生階段是最艱苦的時期</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析55：年輕醫生必須24/7值班 -->
+    <phrase>
+      <text>nơi các bác sĩ trẻ phải trực chiến 24/7</text>
+      <mp3>phrase_noi_cac_bac_si_tre_phai_truc_chien_24_7_guid.mp3</mp3>
+      <vocabulary>nơi</vocabulary>
+      <chinese>在此</chinese>
+      <vocabulary>các bác sĩ trẻ phải trực chiến 24/7</vocabulary>
+      <chinese>年輕醫生必須24/7值班</chinese>
+      <chinesePhrase>年輕醫生必須24/7值班</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析56：面對高強度壓力來鍛鍊本領 -->
+    <phrase>
+      <text>đối mặt với áp lực cường độ cao để trui rèn bản lĩnh</text>
+      <mp3>phrase_doi_mat_ap_luc_cuong_do_cao_trui_ren_ban_linh_guid.mp3</mp3>
+      <vocabulary>đối mặt với áp lực cường độ cao</vocabulary>
+      <chinese>面對高強度壓力</chinese>
+      <vocabulary>để trui rèn bản lĩnh</vocabulary>
+      <chinese>來鍛鍊本領</chinese>
+      <chinesePhrase>面對高強度壓力來鍛鍊本領</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第九段：阮庭連醫生觀點 -->
+  <subject>
+    <text>E醫院腎臟泌尿外科和男科主任阮庭連博士認為，如果主治醫生是指揮的「將軍」，那麼住院醫生就是快速反應部隊，必須自行做出初步的生死決策。一個除夕值班夜，面對無數緊急情況，其實際價值相當於6個月的常規學習，迫使他們比同齡朋友成長快一倍。</text>
+    <translate>TS.BS Nguyễn Đình Liên, Trưởng Khoa Phẫu thuật Thận tiết niệu và Nam học, Bệnh viện E, nhận định rằng nếu bác sĩ chính là những "vị tướng" chỉ huy, thì bác sĩ nội trú là lực lượng phản ứng nhanh, phải tự đưa ra các quyết định ban đầu mang tính sống còn. Một ca trực đêm Tết với vô số tình huống khẩn cấp có giá trị thực tiễn bằng cả 6 tháng học tập thông thường, ép họ phải trưởng thành nhanh gấp đôi so với bạn bè đồng trang lứa.</translate>
+    <mp3>subject_ts_nguyen_dinh_lien_guid.mp3</mp3>
+
+    <!-- 詞組分析57：E醫院腎臟泌尿外科和男科主任阮庭連博士認為 -->
+    <phrase>
+      <text>TS.BS Nguyễn Đình Liên, Trưởng Khoa Phẫu thuật Thận tiết niệu và Nam học, Bệnh viện E, nhận định rằng</text>
+      <mp3>phrase_ts_nguyen_dinh_lien_truong_khoa_bv_e_nhan_dinh_guid.mp3</mp3>
+      <vocabulary>TS.BS Nguyễn Đình Liên</vocabulary>
+      <chinese>阮庭連博士</chinese>
+      <vocabulary>Trưởng Khoa Phẫu thuật Thận tiết niệu và Nam học, Bệnh viện E</vocabulary>
+      <chinese>E醫院腎臟泌尿外科和男科主任</chinese>
+      <vocabulary>nhận định rằng</vocabulary>
+      <chinese>認為</chinese>
+      <chinesePhrase>E醫院腎臟泌尿外科和男科主任阮庭連博士認為</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析58：如果主治醫生是指揮的「將軍」 -->
+    <phrase>
+      <text>nếu bác sĩ chính là những "vị tướng" chỉ huy</text>
+      <mp3>phrase_neu_bac_si_chinh_la_nhung_vi_tuong_chi_huy_guid.mp3</mp3>
+      <vocabulary>nếu</vocabulary>
+      <chinese>如果</chinese>
+      <vocabulary>bác sĩ chính</vocabulary>
+      <chinese>主治醫生</chinese>
+      <vocabulary>là những "vị tướng" chỉ huy</vocabulary>
+      <chinese>是指揮的「將軍」</chinese>
+      <chinesePhrase>如果主治醫生是指揮的「將軍」</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析59：那麼住院醫生就是快速反應部隊 -->
+    <phrase>
+      <text>thì bác sĩ nội trú là lực lượng phản ứng nhanh</text>
+      <mp3>phrase_thi_bac_si_noi_tru_la_luc_luong_phan_ung_nhanh_guid.mp3</mp3>
+      <vocabulary>thì</vocabulary>
+      <chinese>那麼</chinese>
+      <vocabulary>bác sĩ nội trú</vocabulary>
+      <chinese>住院醫生</chinese>
+      <vocabulary>là lực lượng phản ứng nhanh</vocabulary>
+      <chinese>是快速反應部隊</chinese>
+      <chinesePhrase>那麼住院醫生就是快速反應部隊</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析60：必須自行做出初步的生死決策 -->
+    <phrase>
+      <text>phải tự đưa ra các quyết định ban đầu mang tính sống còn</text>
+      <mp3>phrase_phai_tu_dua_ra_cac_quyet_dinh_ban_dau_tinh_song_con_guid.mp3</mp3>
+      <vocabulary>phải tự đưa ra</vocabulary>
+      <chinese>必須自行做出</chinese>
+      <vocabulary>các quyết định ban đầu mang tính sống còn</vocabulary>
+      <chinese>初步的生死決策</chinese>
+      <chinesePhrase>必須自行做出初步的生死決策</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析61：一個除夕值班夜，面對無數緊急情況 -->
+    <phrase>
+      <text>Một ca trực đêm Tết với vô số tình huống khẩn cấp</text>
+      <mp3>phrase_mot_ca_truc_dem_tet_vo_so_tinh_huong_khan_cap_guid.mp3</mp3>
+      <vocabulary>Một ca trực đêm Tết</vocabulary>
+      <chinese>一個除夕值班夜</chinese>
+      <vocabulary>với vô số tình huống khẩn cấp</vocabulary>
+      <chinese>面對無數緊急情況</chinese>
+      <chinesePhrase>一個除夕值班夜，面對無數緊急情況</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析62：其實際價值相當於6個月的常規學習 -->
+    <phrase>
+      <text>có giá trị thực tiễn bằng cả 6 tháng học tập thông thường</text>
+      <mp3>phrase_co_gia_tri_thuc_tien_bang_6_thang_hoc_tap_thuong_guid.mp3</mp3>
+      <vocabulary>có giá trị thực tiễn bằng</vocabulary>
+      <chinese>實際價值相當於</chinese>
+      <vocabulary>cả 6 tháng học tập thông thường</vocabulary>
+      <chinese>6個月的常規學習</chinese>
+      <chinesePhrase>其實際價值相當於6個月的常規學習</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析63：迫使他們比同齡朋友成長快一倍 -->
+    <phrase>
+      <text>ép họ phải trưởng thành nhanh gấp đôi so với bạn bè đồng trang lứa</text>
+      <mp3>phrase_ep_ho_phai_truong_thanh_nhanh_gap_doi_ban_be_dong_trang_lua_guid.mp3</mp3>
+      <vocabulary>ép họ phải trưởng thành nhanh</vocabulary>
+      <chinese>迫使他們快速成長</chinese>
+      <vocabulary>gấp đôi so với bạn bè đồng trang lứa</vocabulary>
+      <chinese>比同齡朋友快一倍</chinese>
+      <chinesePhrase>迫使他們比同齡朋友成長快一倍</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第十段：情感成長 -->
+  <subject>
+    <text>這種成長不僅來自專業，也來自強烈的情感衝擊。對中央婦產醫院的醫生黃清貴來說，第一次除夕值班是從年輕男孩轉變為生命守護者的旅程。</text>
+    <translate>Sự trưởng thành ấy không chỉ đến từ chuyên môn mà còn từ những va đập cảm xúc mạnh mẽ. Với bác sĩ Huỳnh Thanh Quảng tại Bệnh viện Phụ sản Trung ương, đêm trực giao thừa đầu tiên là hành trình chuyển mình từ một chàng trai trẻ thành người canh giữ sự sống.</translate>
+    <mp3>subject_bac_si_quang_guid.mp3</mp3>
+
+    <!-- 詞組分析64：這種成長不僅來自專業 -->
+    <phrase>
+      <text>Sự trưởng thành ấy không chỉ đến từ chuyên môn</text>
+      <mp3>phrase_su_truong_thanh_ay_khong_chi_den_tu_chuyen_mon_guid.mp3</mp3>
+      <vocabulary>Sự trưởng thành ấy</vocabulary>
+      <chinese>這種成長</chinese>
+      <vocabulary>không chỉ đến từ chuyên môn</vocabulary>
+      <chinese>不僅來自專業</chinese>
+      <chinesePhrase>這種成長不僅來自專業</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析65：也來自強烈的情感衝擊 -->
+    <phrase>
+      <text>mà còn từ những va đập cảm xúc mạnh mẽ</text>
+      <mp3>phrase_ma_con_tu_nhung_va_dap_cam_xuc_manh_me_guid.mp3</mp3>
+      <vocabulary>mà còn từ</vocabulary>
+      <chinese>也來自</chinese>
+      <vocabulary>những va đập cảm xúc mạnh mẽ</vocabulary>
+      <chinese>強烈的情感衝擊</chinese>
+      <chinesePhrase>也來自強烈的情感衝擊</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析66：對中央婦產醫院的醫生黃清貴來說 -->
+    <phrase>
+      <text>Với bác sĩ Huỳnh Thanh Quảng tại Bệnh viện Phụ sản Trung ương</text>
+      <mp3>phrase_voi_bac_si_huynh_thanh_quang_bv_phu_san_trung_uong_guid.mp3</mp3>
+      <vocabulary>Với</vocabulary>
+      <chinese>對...來說</chinese>
+      <vocabulary>bác sĩ Huỳnh Thanh Quảng tại Bệnh viện Phụ sản Trung ương</vocabulary>
+      <chinese>中央婦產醫院的醫生黃清貴</chinese>
+      <chinesePhrase>對中央婦產醫院的醫生黃清貴來說</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析67：第一次除夕值班是從年輕男孩轉變為生命守護者的旅程 -->
+    <phrase>
+      <text>đêm trực giao thừa đầu tiên là hành trình chuyển mình từ một chàng trai trẻ thành người canh giữ sự sống</text>
+      <mp3>phrase_dem_truc_dau_tien_hanh_trinh_chuyen_minh_tu_trai_tre_nguoi_canh_giu_su_song_guid.mp3</mp3>
+      <vocabulary>đêm trực giao thừa đầu tiên</vocabulary>
+      <chinese>第一次除夕值班</chinese>
+      <vocabulary>là hành trình chuyển mình từ một chàng trai trẻ thành người canh giữ sự sống</vocabulary>
+      <chinese>是從年輕男孩轉變為生命守護者的旅程</chinese>
+      <chinesePhrase>第一次除夕值班是從年輕男孩轉變為生命守護者的旅程</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第十一段：貴醫生的經歷 -->
+  <subject>
+    <text>在手機螢幕不斷亮起祝福訊息和家人群組的年夜飯照片時，貴必須面對一個「殘酷」的現實：一名34歲的孕婦入院時胎兒已心跳停止。在一年中最神聖時刻的失落之痛讓年輕醫生哽咽。但緊接著，他必須拋開個人情感，投入搶救另一名患有HELLP症候群的產婦——這是一種危及產科併發症，威脅母嬰雙方的肝腎功能和生命。直到嬰兒的啼哭聲響起，整個手術團隊才鬆了一口氣。</text>
+    <translate>Giữa lúc màn hình điện thoại liên tục sáng lên tin nhắn chúc mừng và hình ảnh mâm cơm tất niên từ nhóm chat gia đình, Quảng phải đối diện với thực tế "tàn khốc" khi một sản phụ 34 tuổi nhập viện khi thai nhi đã ngừng tim. Nỗi đau mất mát ngay trong thời khắc thiêng liêng nhất của năm khiến bác sĩ trẻ nghẹn lời. Nhưng ngay lập tức, anh phải gạt bỏ cảm xúc cá nhân để lao vào cứu chữa một ca sản phụ khác bị hội chứng HELLP – tai biến sản khoa nguy kịch đe dọa suy gan thận và tính mạng cả mẹ lẫn con. Chỉ đến khi tiếng khóc chào đời của đứa trẻ vang lên, cả kíp mổ mới thở phào nhẹ nhõm.</translate>
+    <mp3>subject_bac_si_quang_trainghiem_guid.mp3</mp3>
+
+    <!-- 詞組分析68：在手機螢幕不斷亮起祝福訊息和家人群組的年夜飯照片時 -->
+    <phrase>
+      <text>Giữa lúc màn hình điện thoại liên tục sáng lên tin nhắn chúc mừng và hình ảnh mâm cơm tất niên từ nhóm chat gia đình</text>
+      <mp3>phrase_giua_luc_man_hinh_dien_thoai_sang_len_tin_nhan_anh_mam_com_tat_nien_guid.mp3</mp3>
+      <vocabulary>Giữa lúc</vocabulary>
+      <chinese>在...之際</chinese>
+      <vocabulary>màn hình điện thoại liên tục sáng lên tin nhắn chúc mừng và hình ảnh mâm cơm tất niên từ nhóm chat gia đình</vocabulary>
+      <chinese>手機螢幕不斷亮起祝福訊息和家人群組的年夜飯照片</chinese>
+      <chinesePhrase>在手機螢幕不斷亮起祝福訊息和家人群組的年夜飯照片時</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析69：貴必須面對一個「殘酷」的現實 -->
+    <phrase>
+      <text>Quảng phải đối diện với thực tế "tàn khốc"</text>
+      <mp3>phrase_quang_phai_doi_dien_thuc_te_tan_khoc_guid.mp3</mp3>
+      <vocabulary>Quảng phải đối diện với</vocabulary>
+      <chinese>貴必須面對</chinese>
+      <vocabulary>thực tế "tàn khốc"</vocabulary>
+      <chinese>「殘酷」的現實</chinese>
+      <chinesePhrase>貴必須面對一個「殘酷」的現實</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析70：一名34歲的孕婦入院時胎兒已心跳停止 -->
+    <phrase>
+      <text>khi một sản phụ 34 tuổi nhập viện khi thai nhi đã ngừng tim</text>
+      <mp3>phrase_khi_mot_san_phu_34t_nhap_vien_thai_nhi_ngung_tim_guid.mp3</mp3>
+      <vocabulary>khi</vocabulary>
+      <chinese>當</chinese>
+      <vocabulary>một sản phụ 34 tuổi nhập viện</vocabulary>
+      <chinese>一名34歲的孕婦入院</chinese>
+      <vocabulary>khi thai nhi đã ngừng tim</vocabulary>
+      <chinese>胎兒已心跳停止</chinese>
+      <chinesePhrase>一名34歲的孕婦入院時胎兒已心跳停止</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析71：在一年中最神聖時刻的失落之痛讓年輕醫生哽咽 -->
+    <phrase>
+      <text>Nỗi đau mất mát ngay trong thời khắc thiêng liêng nhất của năm khiến bác sĩ trẻ nghẹn lời</text>
+      <mp3>phrase_noi_dau_mat_mat_thoi_khac_thieng_lieng_nhat_nam_khien_bac_si_tre_nghen_loi_guid.mp3</mp3>
+      <vocabulary>Nỗi đau mất mát</vocabulary>
+      <chinese>失落之痛</chinese>
+      <vocabulary>ngay trong thời khắc thiêng liêng nhất của năm</vocabulary>
+      <chinese>就在一年中最神聖的時刻</chinese>
+      <vocabulary>khiến bác sĩ trẻ nghẹn lời</vocabulary>
+      <chinese>讓年輕醫生哽咽</chinese>
+      <chinesePhrase>在一年中最神聖時刻的失落之痛讓年輕醫生哽咽</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析72：但緊接著，他必須拋開個人情感 -->
+    <phrase>
+      <text>Nhưng ngay lập tức, anh phải gạt bỏ cảm xúc cá nhân</text>
+      <mp3>phrase_nhung_ngay_lap_tuc_anh_phai_gat_bo_cam_xuc_ca_nhan_guid.mp3</mp3>
+      <vocabulary>Nhưng ngay lập tức</vocabulary>
+      <chinese>但緊接著</chinese>
+      <vocabulary>anh phải gạt bỏ cảm xúc cá nhân</vocabulary>
+      <chinese>他必須拋開個人情感</chinese>
+      <chinesePhrase>但緊接著，他必須拋開個人情感</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析73：投入搶救另一名患有HELLP症候群的產婦 -->
+    <phrase>
+      <text>để lao vào cứu chữa một ca sản phụ khác bị hội chứng HELLP</text>
+      <mp3>phrase_de_lao_vao_cuu_chua_mot_ca_san_phu_khac_bi_hoi_chung_hellp_guid.mp3</mp3>
+      <vocabulary>để lao vào cứu chữa</vocabulary>
+      <chinese>投入搶救</chinese>
+      <vocabulary>một ca sản phụ khác bị hội chứng HELLP</vocabulary>
+      <chinese>另一名患有HELLP症候群的產婦</chinese>
+      <chinesePhrase>投入搶救另一名患有HELLP症候群的產婦</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析74：危及產科併發症，威脅母嬰雙方的肝腎功能和生命 -->
+    <phrase>
+      <text>– tai biến sản khoa nguy kịch đe dọa suy gan thận và tính mạng cả mẹ lẫn con</text>
+      <mp3>phrase_tai_bien_san_khoa_nguy_kich_de_doa_suy_gan_than_tinh_mang_me_con_guid.mp3</mp3>
+      <vocabulary>tai biến sản khoa nguy kịch</vocabulary>
+      <chinese>危及產科併發症</chinese>
+      <vocabulary>đe dọa suy gan thận và tính mạng cả mẹ lẫn con</vocabulary>
+      <chinese>威脅母嬰雙方的肝腎功能和生命</chinese>
+      <chinesePhrase>危及產科併發症，威脅母嬰雙方的肝腎功能和生命</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析75：直到嬰兒的啼哭聲響起 -->
+    <phrase>
+      <text>Chỉ đến khi tiếng khóc chào đời của đứa trẻ vang lên</text>
+      <mp3>phrase_chi_den_khi_tieng_khoc_chao_doi_cua_dua_tre_vang_len_guid.mp3</mp3>
+      <vocabulary>Chỉ đến khi</vocabulary>
+      <chinese>直到</chinese>
+      <vocabulary>tiếng khóc chào đời của đứa trẻ vang lên</vocabulary>
+      <chinese>嬰兒的啼哭聲響起</chinese>
+      <chinesePhrase>直到嬰兒的啼哭聲響起</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析76：整個手術團隊才鬆了一口氣 -->
+    <phrase>
+      <text>cả kíp mổ mới thở phào nhẹ nhõm</text>
+      <mp3>phrase_ca_kip_mo_moi_tho_phao_nhe_nhom_guid.mp3</mp3>
+      <vocabulary>cả kíp mổ</vocabulary>
+      <chinese>整個手術團隊</chinese>
+      <vocabulary>mới thở phào nhẹ nhõm</vocabulary>
+      <chinese>才鬆了一口氣</chinese>
+      <chinesePhrase>整個手術團隊才鬆了一口氣</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第十二段：醫學心理學研究 -->
+  <subject>
+    <text>醫學心理學研究表明，在節假日期間工作，與常規社交儀式隔絕，常使醫護人員陷入深深的孤獨狀態，迫使他們在工作中尋找內在意義以求平衡。河內婦產醫院二年級住院醫生阮進孝對此深有感觸。當母親打來視訊電話，透過小小的螢幕看到家鄉的桃花、金橘和東肉凍時，孝只好急忙藉口「有急診」掛斷，隱藏起內心的失落。25歲的年紀，孝意識到最遠的距離不是地理上的，而是責任造成的隔閡。</text>
+    <translate>Nghiên cứu về tâm lý học y khoa chỉ ra việc phải làm việc trong các kỳ nghỉ lễ, tách biệt khỏi các nghi thức xã hội thông thường, thường đẩy nhân viên y tế vào trạng thái cô đơn sâu sắc, buộc họ phải tìm kiếm ý nghĩa nội tại trong công việc để cân bằng. Bác sĩ nội trú năm 2 Nguyễn Tiến Hiếu, Bệnh viện Phụ sản Hà Nội, thấm thía điều này hơn ai hết. Khi mẹ gọi điện video, nhìn thấy cành đào, cây quất và món thịt đông quê nhà qua màn hình nhỏ xíu, Hiếu phải vội vã lấy cớ "có ca cấp cứu" để tắt máy, giấu đi sự chạnh lòng. Ở tuổi 25, Hiếu nhận ra khoảng cách xa nhất không phải là địa lý, mà là sự chia cắt của trách nhiệm.</translate>
+    <mp3>subject_bac_si_hieu_tam_su_guid.mp3</mp3>
+
+    <!-- 詞組分析77：醫學心理學研究表明 -->
+    <phrase>
+      <text>Nghiên cứu về tâm lý học y khoa chỉ ra</text>
+      <mp3>phrase_nghien_cuu_tam_ly_hoc_y_khoa_chi_ra_guid.mp3</mp3>
+      <vocabulary>Nghiên cứu về tâm lý học y khoa</vocabulary>
+      <chinese>醫學心理學研究</chinese>
+      <vocabulary>chỉ ra</vocabulary>
+      <chinese>指出/表明</chinese>
+      <chinesePhrase>醫學心理學研究表明</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析78：在節假日期間工作，與常規社交儀式隔絕 -->
+    <phrase>
+      <text>việc phải làm việc trong các kỳ nghỉ lễ, tách biệt khỏi các nghi thức xã hội thông thường</text>
+      <mp3>phrase_viec_lam_viec_ky_nghi_le_tach_biet_khoi_nghi_thuc_xa_hoi_guid.mp3</mp3>
+      <vocabulary>việc phải làm việc trong các kỳ nghỉ lễ</vocabulary>
+      <chinese>在節假日期間工作</chinese>
+      <vocabulary>tách biệt khỏi các nghi thức xã hội thông thường</vocabulary>
+      <chinese>與常規社交儀式隔絕</chinese>
+      <chinesePhrase>在節假日期間工作，與常規社交儀式隔絕</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析79：常使醫護人員陷入深深的孤獨狀態 -->
+    <phrase>
+      <text>thường đẩy nhân viên y tế vào trạng thái cô đơn sâu sắc</text>
+      <mp3>phrase_thuong_day_nhan_vien_y_te_trang_thai_co_don_sau_sac_guid.mp3</mp3>
+      <vocabulary>thường đẩy nhân viên y tế vào trạng thái cô đơn sâu sắc</vocabulary>
+      <chinese>常使醫護人員陷入深深的孤獨狀態</chinese>
+      <chinesePhrase>常使醫護人員陷入深深的孤獨狀態</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析80：迫使他們在工作中尋找內在意義以求平衡 -->
+    <phrase>
+      <text>buộc họ phải tìm kiếm ý nghĩa nội tại trong công việc để cân bằng</text>
+      <mp3>phrase_buoc_ho_tim_kiem_y_nghia_noi_tai_cong_viec_can_bang_guid.mp3</mp3>
+      <vocabulary>buộc họ phải tìm kiếm ý nghĩa nội tại trong công việc</vocabulary>
+      <chinese>迫使他們在工作中尋找內在意義</chinese>
+      <vocabulary>để cân bằng</vocabulary>
+      <chinese>以求平衡</chinese>
+      <chinesePhrase>迫使他們在工作中尋找內在意義以求平衡</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析81：河內婦產醫院二年級住院醫生阮進孝對此深有感觸 -->
+    <phrase>
+      <text>Bác sĩ nội trú năm 2 Nguyễn Tiến Hiếu, Bệnh viện Phụ sản Hà Nội, thấm thía điều này hơn ai hết</text>
+      <mp3>phrase_bac_si_noi_tru_nam2_nguyen_tien_hieu_bv_phu_san_ha_noi_tham_thia_guid.mp3</mp3>
+      <vocabulary>Bác sĩ nội trú năm 2 Nguyễn Tiến Hiếu, Bệnh viện Phụ sản Hà Nội</vocabulary>
+      <chinese>河內婦產醫院二年級住院醫生阮進孝</chinese>
+      <vocabulary>thấm thía điều này hơn ai hết</vocabulary>
+      <chinese>對此深有感觸</chinese>
+      <chinesePhrase>河內婦產醫院二年級住院醫生阮進孝對此深有感觸</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析82：當母親打來視訊電話 -->
+    <phrase>
+      <text>Khi mẹ gọi điện video</text>
+      <mp3>phrase_khi_me_goi_dien_video_guid.mp3</mp3>
+      <vocabulary>Khi mẹ gọi điện video</vocabulary>
+      <chinese>當母親打來視訊電話</chinese>
+      <chinesePhrase>當母親打來視訊電話</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析83：透過小小的螢幕看到家鄉的桃花、金橘和東肉凍 -->
+    <phrase>
+      <text>nhìn thấy cành đào, cây quất và món thịt đông quê nhà qua màn hình nhỏ xíu</text>
+      <mp3>phrase_nhin_thay_canh_dao_cay_quat_thit_dong_que_nha_qua_man_hinh_nho_xiu_guid.mp3</mp3>
+      <vocabulary>nhìn thấy</vocabulary>
+      <chinese>看到</chinese>
+      <vocabulary>cành đào, cây quất và món thịt đông quê nhà</vocabulary>
+      <chinese>家鄉的桃花、金橘和東肉凍</chinese>
+      <vocabulary>qua màn hình nhỏ xíu</vocabulary>
+      <chinese>透過小小的螢幕</chinese>
+      <chinesePhrase>透過小小的螢幕看到家鄉的桃花、金橘和東肉凍</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析84：孝只好急忙藉口「有急診」掛斷 -->
+    <phrase>
+      <text>Hiếu phải vội vã lấy cớ "có ca cấp cứu" để tắt máy</text>
+      <mp3>phrase_hieu_phai_voi_va_lay_co_co_ca_cap_cuu_tat_may_guid.mp3</mp3>
+      <vocabulary>Hiếu phải vội vã lấy cớ</vocabulary>
+      <chinese>孝只好急忙藉口</chinese>
+      <vocabulary>"có ca cấp cứu" để tắt máy</vocabulary>
+      <chinese>「有急診」掛斷</chinese>
+      <chinesePhrase>孝只好急忙藉口「有急診」掛斷</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析85：隱藏起內心的失落 -->
+    <phrase>
+      <text>giấu đi sự chạnh lòng</text>
+      <mp3>phrase_giau_di_su_chanh_long_guid.mp3</mp3>
+      <vocabulary>giấu đi</vocabulary>
+      <chinese>隱藏起</chinese>
+      <vocabulary>sự chạnh lòng</vocabulary>
+      <chinese>內心的失落/心酸</chinese>
+      <chinesePhrase>隱藏起內心的失落</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析86：25歲的年紀，孝意識到最遠的距離不是地理上的 -->
+    <phrase>
+      <text>Ở tuổi 25, Hiếu nhận ra khoảng cách xa nhất không phải là địa lý</text>
+      <mp3>phrase_o_tuoi_25_hieu_nhan_ra_khoang_cach_xa_nhat_khong_phai_dia_ly_guid.mp3</mp3>
+      <vocabulary>Ở tuổi 25</vocabulary>
+      <chinese>25歲的年紀</chinese>
+      <vocabulary>Hiếu nhận ra</vocabulary>
+      <chinese>孝意識到</chinese>
+      <vocabulary>khoảng cách xa nhất không phải là địa lý</vocabulary>
+      <chinese>最遠的距離不是地理上的</chinese>
+      <chinesePhrase>25歲的年紀，孝意識到最遠的距離不是地理上的</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析87：而是責任造成的隔閡 -->
+    <phrase>
+      <text>mà là sự chia cắt của trách nhiệm</text>
+      <mp3>phrase_ma_la_su_chia_cat_cua_trach_nhiem_guid.mp3</mp3>
+      <vocabulary>mà là</vocabulary>
+      <chinese>而是</chinese>
+      <vocabulary>sự chia cắt của trách nhiệm</vocabulary>
+      <chinese>責任造成的隔閡</chinese>
+      <chinesePhrase>而是責任造成的隔閡</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第十三段：孤獨中的價值 -->
+  <subject>
+    <text>然而，正是在這種孤獨和壓力中，醫護工作的價值愈發清晰，孝分享道。正月初一零點15分，當親手迎接一名男嬰誕生並收到產婦的感謝時，這個年輕人明白，雖然不能與家人過年，但他正在幫助其他家庭擁有一個完整的春節。</text>
+    <translate>Tuy nhiên, chính trong sự cô đơn và áp lực ấy, giá trị của nghề y lại hiện lên rõ nét, Hiếu tâm sự. Đúng 0h15 sáng mùng 1, khi đón tay bé trai chào đời và nhận lời cảm ơn từ sản phụ, người đàn ông hiểu rằng dù không được đón Tết cùng gia đình, anh đang giúp những gia đình khác có một cái Tết trọn vẹn.</translate>
+    <mp3>subject_gia_tri_nghe_y_guid.mp3</mp3>
+
+    <!-- 詞組分析88：然而，正是在這種孤獨和壓力中 -->
+    <phrase>
+      <text>Tuy nhiên, chính trong sự cô đơn và áp lực ấy</text>
+      <mp3>phrase_tuy_nhien_chinh_trong_su_co_don_ap_luc_ay_guid.mp3</mp3>
+      <vocabulary>Tuy nhiên</vocabulary>
+      <chinese>然而</chinese>
+      <vocabulary>chính trong sự cô đơn và áp lực ấy</vocabulary>
+      <chinese>正是在這種孤獨和壓力中</chinese>
+      <chinesePhrase>然而，正是在這種孤獨和壓力中</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析89：醫護工作的價值愈發清晰 -->
+    <phrase>
+      <text>giá trị của nghề y lại hiện lên rõ nét</text>
+      <mp3>phrase_gia_tri_nghe_y_lai_hien_len_ro_net_guid.mp3</mp3>
+      <vocabulary>giá trị của nghề y</vocabulary>
+      <chinese>醫護工作的價值</chinese>
+      <vocabulary>lại hiện lên rõ nét</vocabulary>
+      <chinese>愈發清晰</chinese>
+      <chinesePhrase>醫護工作的價值愈發清晰</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析90：孝分享道 -->
+    <phrase>
+      <text>Hiếu tâm sự</text>
+      <mp3>phrase_hieu_tam_su_guid.mp3</mp3>
+      <vocabulary>Hiếu tâm sự</vocabulary>
+      <chinese>孝分享道/傾訴道</chinese>
+      <chinesePhrase>孝分享道</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析91：正月初一零點15分 -->
+    <phrase>
+      <text>Đúng 0h15 sáng mùng 1</text>
+      <mp3>phrase_dung_0h15_sang_mung_1_guid.mp3</mp3>
+      <vocabulary>Đúng 0h15 sáng mùng 1</vocabulary>
+      <chinese>正月初一零點15分</chinese>
+      <chinesePhrase>正月初一零點15分</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析92：當親手迎接一名男嬰誕生 -->
+    <phrase>
+      <text>khi đón tay bé trai chào đời</text>
+      <mp3>phrase_khi_don_tay_be_trai_chao_doi_guid.mp3</mp3>
+      <vocabulary>khi đón tay</vocabulary>
+      <chinese>當親手迎接</chinese>
+      <vocabulary>bé trai chào đời</vocabulary>
+      <chinese>一名男嬰誕生</chinese>
+      <chinesePhrase>當親手迎接一名男嬰誕生</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析93：並收到產婦的感謝 -->
+    <phrase>
+      <text>và nhận lời cảm ơn từ sản phụ</text>
+      <mp3>phrase_va_nhan_loi_cam_on_tu_san_phu_guid.mp3</mp3>
+      <vocabulary>và nhận lời cảm ơn từ sản phụ</vocabulary>
+      <chinese>並收到產婦的感謝</chinese>
+      <chinesePhrase>並收到產婦的感謝</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析94：這個年輕人明白 -->
+    <phrase>
+      <text>người đàn ông hiểu rằng</text>
+      <mp3>phrase_nguoi_dan_ong_hieu_rang_guid.mp3</mp3>
+      <vocabulary>người đàn ông hiểu rằng</vocabulary>
+      <chinese>這個年輕人明白</chinese>
+      <chinesePhrase>這個年輕人明白</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析95：雖然不能與家人過年 -->
+    <phrase>
+      <text>dù không được đón Tết cùng gia đình</text>
+      <mp3>phrase_du_khong_duoc_don_tet_cung_gia_dinh_guid.mp3</mp3>
+      <vocabulary>dù không được đón Tết cùng gia đình</vocabulary>
+      <chinese>雖然不能與家人過年</chinese>
+      <chinesePhrase>雖然不能與家人過年</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析96：但他正在幫助其他家庭擁有一個完整的春節 -->
+    <phrase>
+      <text>anh đang giúp những gia đình khác có một cái Tết trọn vẹn</text>
+      <mp3>phrase_anh_dang_giup_nhung_gia_dinh_khac_co_mot_cai_tet_tron_ven_guid.mp3</mp3>
+      <vocabulary>anh đang giúp những gia đình khác</vocabulary>
+      <chinese>他正在幫助其他家庭</chinese>
+      <vocabulary>có một cái Tết trọn vẹn</vocabulary>
+      <chinese>擁有一個完整的春節</chinese>
+      <chinesePhrase>但他正在幫助其他家庭擁有一個完整的春節</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第十四段：孝的感悟 -->
+  <subject>
+    <text>「對家的思念成了成長的代價，而孤獨因為自己的雙手帶來生命而變得有意義」，醫生分享道。</text>
+    <translate>"Nỗi nhớ nhà trở thành cái giá của sự trưởng thành, và sự cô đơn bỗng trở nên có ý nghĩa khi bàn tay mình mang lại sự sống", bác sĩ chia sẻ.</translate>
+    <mp3>subject_hieu_cam_nhan_guid.mp3</mp3>
+
+    <!-- 詞組分析97：對家的思念成了成長的代價 -->
+    <phrase>
+      <text>Nỗi nhớ nhà trở thành cái giá của sự trưởng thành</text>
+      <mp3>phrase_noi_nho_nha_tro_thanh_cai_gia_su_truong_thanh_guid.mp3</mp3>
+      <vocabulary>Nỗi nhớ nhà</vocabulary>
+      <chinese>對家的思念</chinese>
+      <vocabulary>trở thành cái giá của sự trưởng thành</vocabulary>
+      <chinese>成了成長的代價</chinese>
+      <chinesePhrase>對家的思念成了成長的代價</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析98：而孤獨因為自己的雙手帶來生命而變得有意義 -->
+    <phrase>
+      <text>và sự cô đơn bỗng trở nên có ý nghĩa khi bàn tay mình mang lại sự sống</text>
+      <mp3>phrase_va_su_co_don_bong_tro_nen_co_y_nghia_khi_ban_tay_minh_mang_lai_su_song_guid.mp3</mp3>
+      <vocabulary>và sự cô đơn bỗng trở nên có ý nghĩa</vocabulary>
+      <chinese>而孤獨變得有意義</chinese>
+      <vocabulary>khi bàn tay mình mang lại sự sống</vocabulary>
+      <chinese>當自己的雙手帶來生命時</chinese>
+      <chinesePhrase>而孤獨因為自己的雙手帶來生命而變得有意義</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析99：醫生分享道 -->
+    <phrase>
+      <text>bác sĩ chia sẻ</text>
+      <mp3>phrase_bac_si_chia_se_guid.mp3</mp3>
+      <vocabulary>bác sĩ chia sẻ</vocabulary>
+      <chinese>醫生分享道</chinese>
+      <chinesePhrase>醫生分享道</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第十五段：值班結束 -->
+  <subject>
+    <text>正月初一早上7點，值班結束時，白大褂已經皺巴巴，眼睛因睡眠不足而發黑，但像貴和孝這樣的年輕醫生的腳步比以往任何時候都更加堅定。除夕值班夜就像一個「蛻變儀式」，將害羞的醫學生變成了有本領的醫生。他們走出醫院大門時帶著清晰的認知：春節不在於粽子或煙火，而在於重新跳動的心臟、母子平安的手術，以及急診室門後被守護的平安。</text>
+    <translate>7h sáng mùng 1, khi ca trực kết thúc, những chiếc áo blouse đã nhàu nhĩ và đôi mắt thâm quầng vì thiếu ngủ, nhưng bước chân của những bác sĩ trẻ như Quảng và Hiếu lại kiên định hơn bao giờ hết. Đêm trực Tết như một "nghi thức lột xác", biến những sinh viên y khoa rụt rè thành những người thầy thuốc bản lĩnh. Họ bước ra khỏi cổng bệnh viện với nhận thức rõ ràng, khi cái Tết không nằm ở bánh chưng hay pháo hoa, mà nằm ở những nhịp tim đập lại, những ca mổ mẹ tròn con vuông và sự bình yên được giữ lại sau cánh cửa phòng cấp cứu.</translate>
+    <mp3>subject_ket_thuc_ca_truc_guid.mp3</mp3>
+
+    <!-- 詞組分析100：正月初一早上7點 -->
+    <phrase>
+      <text>7h sáng mùng 1</text>
+      <mp3>phrase_7h_sang_mung_1_guid.mp3</mp3>
+      <vocabulary>7h sáng mùng 1</vocabulary>
+      <chinese>正月初一早上7點</chinese>
+      <chinesePhrase>正月初一早上7點</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析101：值班結束時 -->
+    <phrase>
+      <text>khi ca trực kết thúc</text>
+      <mp3>phrase_khi_ca_truc_ket_thuc_guid.mp3</mp3>
+      <vocabulary>khi ca trực kết thúc</vocabulary>
+      <chinese>值班結束時</chinese>
+      <chinesePhrase>值班結束時</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析102：白大褂已經皺巴巴 -->
+    <phrase>
+      <text>những chiếc áo blouse đã nhàu nhĩ</text>
+      <mp3>phrase_nhung_chiec_ao_blouse_nhau_nhi_guid.mp3</mp3>
+      <vocabulary>những chiếc áo blouse đã nhàu nhĩ</vocabulary>
+      <chinese>白大褂已經皺巴巴</chinese>
+      <chinesePhrase>白大褂已經皺巴巴</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析103：眼睛因睡眠不足而發黑 -->
+    <phrase>
+      <text>và đôi mắt thâm quầng vì thiếu ngủ</text>
+      <mp3>phrase_va_doi_mat_tham_quang_vi_thieu_ngu_guid.mp3</mp3>
+      <vocabulary>và đôi mắt thâm quầng vì thiếu ngủ</vocabulary>
+      <chinese>眼睛因睡眠不足而發黑</chinese>
+      <chinesePhrase>眼睛因睡眠不足而發黑</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析104：但像貴和孝這樣的年輕醫生的腳步比以往任何時候都更加堅定 -->
+    <phrase>
+      <text>nhưng bước chân của những bác sĩ trẻ như Quảng và Hiếu lại kiên định hơn bao giờ hết</text>
+      <mp3>phrase_nhung_buoc_chan_bac_si_tre_nhu_quang_hieu_kien_dinh_hon_bao_gio_guid.mp3</mp3>
+      <vocabulary>nhưng bước chân của những bác sĩ trẻ như Quảng và Hiếu</vocabulary>
+      <chinese>但像貴和孝這樣的年輕醫生的腳步</chinese>
+      <vocabulary>lại kiên định hơn bao giờ hết</vocabulary>
+      <chinese>比以往任何時候都更加堅定</chinese>
+      <chinesePhrase>但像貴和孝這樣的年輕醫生的腳步比以往任何時候都更加堅定</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析105：除夕值班夜就像一個「蛻變儀式」 -->
+    <phrase>
+      <text>Đêm trực Tết như một "nghi thức lột xác"</text>
+      <mp3>phrase_dem_truc_tet_nhu_mot_nghi_thuc_lot_xac_guid.mp3</mp3>
+      <vocabulary>Đêm trực Tết</vocabulary>
+      <chinese>除夕值班夜</chinese>
+      <vocabulary>như một "nghi thức lột xác"</vocabulary>
+      <chinese>就像一個「蛻變儀式」</chinese>
+      <chinesePhrase>除夕值班夜就像一個「蛻變儀式」</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析106：將害羞的醫學生變成了有本領的醫生 -->
+    <phrase>
+      <text>biến những sinh viên y khoa rụt rè thành những người thầy thuốc bản lĩnh</text>
+      <mp3>phrase_bien_nhung_sinh_vien_y_khoa_rut_re_thanh_nguoi_thay_thuoc_ban_linh_guid.mp3</mp3>
+      <vocabulary>biến những sinh viên y khoa rụt rè</vocabulary>
+      <chinese>將害羞的醫學生</chinese>
+      <vocabulary>thành những người thầy thuốc bản lĩnh</vocabulary>
+      <chinese>變成了有本領的醫生</chinese>
+      <chinesePhrase>將害羞的醫學生變成了有本領的醫生</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析107：他們走出醫院大門時帶著清晰的認知 -->
+    <phrase>
+      <text>Họ bước ra khỏi cổng bệnh viện với nhận thức rõ ràng</text>
+      <mp3>phrase_ho_buoc_ra_khoi_cong_bv_nhan_thuc_ro_rang_guid.mp3</mp3>
+      <vocabulary>Họ bước ra khỏi cổng bệnh viện</vocabulary>
+      <chinese>他們走出醫院大門</chinese>
+      <vocabulary>với nhận thức rõ ràng</vocabulary>
+      <chinese>帶著清晰的認知</chinese>
+      <chinesePhrase>他們走出醫院大門時帶著清晰的認知</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析108：春節不在於粽子或煙火 -->
+    <phrase>
+      <text>khi cái Tết không nằm ở bánh chưng hay pháo hoa</text>
+      <mp3>phrase_khi_cai_tet_khong_nam_o_banh_chung_hay_phao_hoa_guid.mp3</mp3>
+      <vocabulary>khi cái Tết không nằm ở bánh chưng hay pháo hoa</vocabulary>
+      <chinese>春節不在於粽子或煙火</chinese>
+      <chinesePhrase>春節不在於粽子或煙火</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析109：而在於重新跳動的心臟 -->
+    <phrase>
+      <text>mà nằm ở những nhịp tim đập lại</text>
+      <mp3>phrase_ma_nam_o_nhung_nhip_tim_dap_lai_guid.mp3</mp3>
+      <vocabulary>mà nằm ở những nhịp tim đập lại</vocabulary>
+      <chinese>而在於重新跳動的心臟</chinese>
+      <chinesePhrase>而在於重新跳動的心臟</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析110：母子平安的手術 -->
+    <phrase>
+      <text>những ca mổ mẹ tròn con vuông</text>
+      <mp3>phrase_nhung_ca_mo_me_tron_con_vuong_guid.mp3</mp3>
+      <vocabulary>những ca mổ mẹ tròn con vuông</vocabulary>
+      <chinese>母子平安的手術</chinese>
+      <chinesePhrase>母子平安的手術</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析111：和急診室門後被守護的平安 -->
+    <phrase>
+      <text>và sự bình yên được giữ lại sau cánh cửa phòng cấp cứu</text>
+      <mp3>phrase_va_su_binh_yen_duoc_giu_lai_sau_canh_cua_phong_cap_cuu_guid.mp3</mp3>
+      <vocabulary>và sự bình yên được giữ lại sau cánh cửa phòng cấp cứu</vocabulary>
+      <chinese>和急診室門後被守護的平安</chinese>
+      <chinesePhrase>和急診室門後被守護的平安</chinesePhrase>
+    </phrase>
+  </subject>
+</xml>

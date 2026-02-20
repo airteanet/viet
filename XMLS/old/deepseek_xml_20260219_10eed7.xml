@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <!-- 標題：兵工廠兩球領先卻被狼隊逼平 -->
+  <subject>
+    <text>兵工廠兩球領先，卻在英超第31輪早場比賽中被主隊狼隊2-2逼平，恐讓曼城將分差縮小至兩分。</text>
+    <translate>Arsenal dẫn hai bàn, nhưng vẫn bị chủ nhà Wolves cầm hòa 2-2 ở trận đấu sớm vòng 31 Ngoại hạng Anh và nguy cơ để Man City rút ngắn cách biệt xuống hai điểm.</translate>
+    <mp3>subject_title_arsenal_wolves_guid.mp3</mp3>
+
+    <!-- 詞組分析1：Arsenal -->
+    <phrase>
+      <text>Arsenal</text>
+      <mp3>phrase_arsenal_guid.mp3</mp3>
+      <vocabulary>Arsenal</vocabulary>
+      <chinese>（名）兵工廠隊</chinese>
+      <chinesePhrase>兵工廠</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析2：dẫn -->
+    <phrase>
+      <text>dẫn</text>
+      <mp3>phrase_dan_guid.mp3</mp3>
+      <vocabulary>dẫn</vocabulary>
+      <chinese>（動）領先</chinese>
+      <chinesePhrase>領先</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析3：hai bàn -->
+    <phrase>
+      <text>hai bàn</text>
+      <mp3>phrase_hai_ban_guid.mp3</mp3>
+      <vocabulary>hai</vocabulary>
+      <chinese>（數）兩</chinese>
+      <vocabulary>bàn</vocabulary>
+      <chinese>（名）球/進球</chinese>
+      <chinesePhrase>兩球</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析4：nhưng -->
+    <phrase>
+      <text>nhưng</text>
+      <mp3>phrase_nhung_guid.mp3</mp3>
+      <vocabulary>nhưng</vocabulary>
+      <chinese>（連）但是</chinese>
+      <chinesePhrase>但是</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析5：vẫn -->
+    <phrase>
+      <text>vẫn</text>
+      <mp3>phrase_van_guid.mp3</mp3>
+      <vocabulary>vẫn</vocabulary>
+      <chinese>（副）仍然/還是</chinese>
+      <chinesePhrase>仍然</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析6：bị -->
+    <phrase>
+      <text>bị</text>
+      <mp3>phrase_bi_guid.mp3</mp3>
+      <vocabulary>bị</vocabulary>
+      <chinese>（助）被</chinese>
+      <chinesePhrase>被</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析7：chủ nhà -->
+    <phrase>
+      <text>chủ nhà</text>
+      <mp3>phrase_chu_nha_guid.mp3</mp3>
+      <vocabulary>chủ</vocabulary>
+      <chinese>（名）主人/東道主</chinese>
+      <vocabulary>nhà</vocabulary>
+      <chinese>（名）家</chinese>
+      <chinesePhrase>主隊</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析8：Wolves -->
+    <phrase>
+      <text>Wolves</text>
+      <mp3>phrase_wolves_guid.mp3</mp3>
+      <vocabulary>Wolves</vocabulary>
+      <chinese>（名）狼隊</chinese>
+      <chinesePhrase>狼隊</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析9：cầm hòa -->
+    <phrase>
+      <text>cầm hòa</text>
+      <mp3>phrase_cam_hoa_guid.mp3</mp3>
+      <vocabulary>cầm</vocabulary>
+      <chinese>（動）拿/保持</chinese>
+      <vocabulary>hòa</vocabulary>
+      <chinese>（動）平局</chinese>
+      <chinesePhrase>逼平</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析10：2-2 -->
+    <phrase>
+      <text>2-2</text>
+      <mp3>phrase_2_2_guid.mp3</mp3>
+      <vocabulary>2-2</vocabulary>
+      <chinese>（數）二比二</chinese>
+      <chinesePhrase>二比二</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析11：ở -->
+    <phrase>
+      <text>ở</text>
+      <mp3>phrase_o_guid.mp3</mp3>
+      <vocabulary>ở</vocabulary>
+      <chinese>（介）在</chinese>
+      <chinesePhrase>在</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析12：trận đấu -->
+    <phrase>
+      <text>trận đấu</text>
+      <mp3>phrase_tran_dau_guid.mp3</mp3>
+      <vocabulary>trận</vocabulary>
+      <chinese>（量）場</chinese>
+      <vocabulary>đấu</vocabulary>
+      <chinese>（動）比賽</chinese>
+      <chinesePhrase>比賽</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析13：sớm -->
+    <phrase>
+      <text>sớm</text>
+      <mp3>phrase_som_guid.mp3</mp3>
+      <vocabulary>sớm</vocabulary>
+      <chinese>（形）早</chinese>
+      <chinesePhrase>早場</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析14：vòng -->
+    <phrase>
+      <text>vòng</text>
+      <mp3>phrase_vong_guid.mp3</mp3>
+      <vocabulary>vòng</vocabulary>
+      <chinese>（名）輪</chinese>
+      <chinesePhrase>第...輪</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析15：31 -->
+    <phrase>
+      <text>31</text>
+      <mp3>phrase_31_guid.mp3</mp3>
+      <vocabulary>31</vocabulary>
+      <chinese>（數）三十一</chinese>
+      <chinesePhrase>三十一</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析16：Ngoại hạng Anh -->
+    <phrase>
+      <text>Ngoại hạng Anh</text>
+      <mp3>phrase_ngoai_hang_anh_guid.mp3</mp3>
+      <vocabulary>Ngoại hạng</vocabulary>
+      <chinese>（名）超級聯賽</chinese>
+      <vocabulary>Anh</vocabulary>
+      <chinese>（名）英國/英格蘭</chinese>
+      <chinesePhrase>英超聯賽</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析17：và -->
+    <phrase>
+      <text>và</text>
+      <mp3>phrase_va_guid.mp3</mp3>
+      <vocabulary>và</vocabulary>
+      <chinese>（連）和/並且</chinese>
+      <chinesePhrase>並且</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析18：nguy cơ -->
+    <phrase>
+      <text>nguy cơ</text>
+      <mp3>phrase_nguy_co_guid.mp3</mp3>
+      <vocabulary>nguy</vocabulary>
+      <chinese>（形）危險</chinese>
+      <vocabulary>cơ</vocabulary>
+      <chinese>（名）機會/危機</chinese>
+      <chinesePhrase>危機/恐</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析19：để -->
+    <phrase>
+      <text>để</text>
+      <mp3>phrase_de_guid.mp3</mp3>
+      <vocabulary>để</vocabulary>
+      <chinese>（介）讓/為了</chinese>
+      <chinesePhrase>讓</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析20：Man City -->
+    <phrase>
+      <text>Man City</text>
+      <mp3>phrase_man_city_guid.mp3</mp3>
+      <vocabulary>Man City</vocabulary>
+      <chinese>（名）曼城隊</chinese>
+      <chinesePhrase>曼城</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析21：rút ngắn -->
+    <phrase>
+      <text>rút ngắn</text>
+      <mp3>phrase_rut_ngan_guid.mp3</mp3>
+      <vocabulary>rút</vocabulary>
+      <chinese>（動）抽/縮</chinese>
+      <vocabulary>ngắn</vocabulary>
+      <chinese>（形）短</chinese>
+      <chinesePhrase>縮短</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析22：cách biệt -->
+    <phrase>
+      <text>cách biệt</text>
+      <mp3>phrase_cach_biet_guid.mp3</mp3>
+      <vocabulary>cách</vocabulary>
+      <chinese>（名）距離/方式</chinese>
+      <vocabulary>biệt</vocabulary>
+      <chinese>（形）別/不同</chinese>
+      <chinesePhrase>差距/分差</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析23：xuống -->
+    <phrase>
+      <text>xuống</text>
+      <mp3>phrase_xuong_guid.mp3</mp3>
+      <vocabulary>xuống</vocabulary>
+      <chinese>（動）下/下降</chinese>
+      <chinesePhrase>降至</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析24：hai điểm -->
+    <phrase>
+      <text>hai điểm</text>
+      <mp3>phrase_hai_diem_guid.mp3</mp3>
+      <vocabulary>hai</vocabulary>
+      <chinese>（數）兩</chinese>
+      <vocabulary>điểm</vocabulary>
+      <chinese>（名）點/分數</chinese>
+      <chinesePhrase>兩分</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第二段：比賽關鍵時刻與烏龍球 -->
+  <subject>
+    <text>當2-1領先時，兵工廠突然陣型後撤，將比賽主動權交給狼隊，並為此付出慘痛代價。傷停補時第四分鐘，從左側傳中，門將大衛·拉亞出擊，試圖將球抱住但卻與隊友加布里埃爾·馬加良斯猛烈相撞。球彈出正好落在湯姆·愛多齊腳下，他順勢一腳墊射。他的射門碰到後衛里卡多·卡拉菲奧里身上，擊中立柱後又彈到這位義大利後衛身上滾入網窩。這記進球被算作卡拉菲奧里的烏龍球，讓兵工廠遺憾地被2-2逼平。</text>
+    <translate>Khi đang dẫn 2-1, Arsenal bất ngờ lùi sâu đội hình, nhường thế trận cho Wolves và phải trả giá đắt. Phút bù giờ thứ tư, từ quả tạt bên cánh trái, thủ thành David Raya lao ra, cố gắng bắt dính bóng nhưng lại va chạm mạnh với đồng đội Gabriel Magalhaes. Bóng bật ra đúng tầm để Tom Edozie lao vào dứt điểm một chạm. Cú sút của anh chạm người hậu vệ Riccardo Calafiori, đập vào cột dọc rồi dội vào chính hậu vệ Italy và lăn vào lưới. Đây được tính là bàn phản lưới nhà của Calafiori, khiến Arsenal bị cầm hòa 2-2 đầy tiếc nuối.</translate>
+    <mp3>subject_key_moment_own_goal_guid.mp3</mp3>
+
+    <!-- 詞組分析25：Khi -->
+    <phrase>
+      <text>Khi</text>
+      <mp3>phrase_khi_guid.mp3</mp3>
+      <vocabulary>Khi</vocabulary>
+      <chinese>（連）當...時</chinese>
+      <chinesePhrase>當</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析26：đang dẫn -->
+    <phrase>
+      <text>đang dẫn</text>
+      <mp3>phrase_dang_dan_guid.mp3</mp3>
+      <vocabulary>đang</vocabulary>
+      <chinese>（副）正在</chinese>
+      <vocabulary>dẫn</vocabulary>
+      <chinese>（動）領先</chinese>
+      <chinesePhrase>正領先時</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析27：2-1 -->
+    <phrase>
+      <text>2-1</text>
+      <mp3>phrase_2_1_guid.mp3</mp3>
+      <vocabulary>2-1</vocabulary>
+      <chinese>（數）二比一</chinese>
+      <chinesePhrase>二比一</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析28：bất ngờ -->
+    <phrase>
+      <text>bất ngờ</text>
+      <mp3>phrase_bat_ngo_guid.mp3</mp3>
+      <vocabulary>bất</vocabulary>
+      <chinese>（前綴）不/無</chinese>
+      <vocabulary>ngờ</vocabulary>
+      <chinese>（動）料到</chinese>
+      <chinesePhrase>突然/意外</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析29：lùi sâu -->
+    <phrase>
+      <text>lùi sâu</text>
+      <mp3>phrase_lui_sau_guid.mp3</mp3>
+      <vocabulary>lùi</vocabulary>
+      <chinese>（動）退後</chinese>
+      <vocabulary>sâu</vocabulary>
+      <chinese>（形）深</chinese>
+      <chinesePhrase>後撤很深</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析30：đội hình -->
+    <phrase>
+      <text>đội hình</text>
+      <mp3>phrase_doi_hinh_guid.mp3</mp3>
+      <vocabulary>đội</vocabulary>
+      <chinese>（名）隊</chinese>
+      <vocabulary>hình</vocabulary>
+      <chinese>（名）形/陣型</chinese>
+      <chinesePhrase>陣型</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析31：nhường -->
+    <phrase>
+      <text>nhường</text>
+      <mp3>phrase_nhuong_guid.mp3</mp3>
+      <vocabulary>nhường</vocabulary>
+      <chinese>（動）讓</chinese>
+      <chinesePhrase>讓出</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析32：thế trận -->
+    <phrase>
+      <text>thế trận</text>
+      <mp3>phrase_the_tran_guid.mp3</mp3>
+      <vocabulary>thế</vocabulary>
+      <chinese>（名）態勢/局勢</chinese>
+      <vocabulary>trận</vocabulary>
+      <chinese>（名）戰鬥/比賽</chinese>
+      <chinesePhrase>比賽主動權/局勢</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析33：cho -->
+    <phrase>
+      <text>cho</text>
+      <mp3>phrase_cho_guid.mp3</mp3>
+      <vocabulary>cho</vocabulary>
+      <chinese>（介）給/讓</chinese>
+      <chinesePhrase>給</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析34：phải trả giá đắt -->
+    <phrase>
+      <text>phải trả giá đắt</text>
+      <mp3>phrase_phai_tra_gia_dat_guid.mp3</mp3>
+      <vocabulary>phải</vocabulary>
+      <chinese>（助動）必須/要</chinese>
+      <vocabulary>trả</vocabulary>
+      <chinese>（動）付/償還</chinese>
+      <vocabulary>giá</vocabulary>
+      <chinese>（名）價格</chinese>
+      <vocabulary>đắt</vocabulary>
+      <chinese>（形）貴/昂貴</chinese>
+      <chinesePhrase>付出慘痛代價</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析35：Phút bù giờ thứ tư -->
+    <phrase>
+      <text>Phút bù giờ thứ tư</text>
+      <mp3>phrase_phut_bu_gio_thu_tu_guid.mp3</mp3>
+      <vocabulary>Phút</vocabulary>
+      <chinese>（名）分鐘</chinese>
+      <vocabulary>bù giờ</vocabulary>
+      <chinese>補時</chinese>
+      <vocabulary>thứ tư</vocabulary>
+      <chinese>第四</chinese>
+      <chinesePhrase>傷停補時第四分鐘</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析36：từ -->
+    <phrase>
+      <text>từ</text>
+      <mp3>phrase_tu_guid.mp3</mp3>
+      <vocabulary>từ</vocabulary>
+      <chinese>（介）從</chinese>
+      <chinesePhrase>從</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析37：quả tạt -->
+    <phrase>
+      <text>quả tạt</text>
+      <mp3>phrase_qua_tat_guid.mp3</mp3>
+      <vocabulary>quả</vocabulary>
+      <chinese>（量）個（用於球類動作）</chinese>
+      <vocabulary>tạt</vocabulary>
+      <chinese>（動）傳中</chinese>
+      <chinesePhrase>傳中球</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析38：bên cánh trái -->
+    <phrase>
+      <text>bên cánh trái</text>
+      <mp3>phrase_ben_canh_trai_guid.mp3</mp3>
+      <vocabulary>bên</vocabulary>
+      <chinese>（名）邊/側</chinese>
+      <vocabulary>cánh</vocabulary>
+      <chinese>（名）翼/側翼</chinese>
+      <vocabulary>trái</vocabulary>
+      <chinese>（形）左</chinese>
+      <chinesePhrase>左側</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析39：thủ thành -->
+    <phrase>
+      <text>thủ thành</text>
+      <mp3>phrase_thu_thanh_guid.mp3</mp3>
+      <vocabulary>thủ</vocabulary>
+      <chinese>（動）守</chinese>
+      <vocabulary>thành</vocabulary>
+      <chinese>（名）城/球門</chinese>
+      <chinesePhrase>守門員</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析40：David Raya -->
+    <phrase>
+      <text>David Raya</text>
+      <mp3>phrase_david_raya_guid.mp3</mp3>
+      <vocabulary>David Raya</vocabulary>
+      <chinese>（名）大衛·拉亞</chinese>
+      <chinesePhrase>大衛·拉亞</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析41：lao ra -->
+    <phrase>
+      <text>lao ra</text>
+      <mp3>phrase_lao_ra_guid.mp3</mp3>
+      <vocabulary>lao</vocabulary>
+      <chinese>（動）衝</chinese>
+      <vocabulary>ra</vocabulary>
+      <chinese>（動）出/出去</chinese>
+      <chinesePhrase>衝出</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析42：cố gắng -->
+    <phrase>
+      <text>cố gắng</text>
+      <mp3>phrase_co_gang_guid.mp3</mp3>
+      <vocabulary>cố</vocabulary>
+      <chinese>（形）固/努力</chinese>
+      <vocabulary>gắng</vocabulary>
+      <chinese>（動）努力</chinese>
+      <chinesePhrase>試圖/努力</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析43：bắt dính -->
+    <phrase>
+      <text>bắt dính</text>
+      <mp3>phrase_bat_dinh_guid.mp3</mp3>
+      <vocabulary>bắt</vocabulary>
+      <chinese>（動）抓/接</chinese>
+      <vocabulary>dính</vocabulary>
+      <chinese>（動）黏/抓住</chinese>
+      <chinesePhrase>抱住/接住</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析44：bóng -->
+    <phrase>
+      <text>bóng</text>
+      <mp3>phrase_bong_guid.mp3</mp3>
+      <vocabulary>bóng</vocabulary>
+      <chinese>（名）球</chinese>
+      <chinesePhrase>球</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析45：nhưng -->
+    <phrase>
+      <text>nhưng</text>
+      <mp3>phrase_nhung2_guid.mp3</mp3>
+      <vocabulary>nhưng</vocabulary>
+      <chinese>（連）但是</chinese>
+      <chinesePhrase>但是</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析46：lại -->
+    <phrase>
+      <text>lại</text>
+      <mp3>phrase_lai_guid.mp3</mp3>
+      <vocabulary>lại</vocabulary>
+      <chinese>（副）又/卻</chinese>
+      <chinesePhrase>卻</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析47：va chạm -->
+    <phrase>
+      <text>va chạm</text>
+      <mp3>phrase_va_cham_guid.mp3</mp3>
+      <vocabulary>va</vocabulary>
+      <chinese>（動）碰/撞</chinese>
+      <vocabulary>chạm</vocabulary>
+      <chinese>（動）觸/碰</chinese>
+      <chinesePhrase>碰撞</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析48：mạnh -->
+    <phrase>
+      <text>mạnh</text>
+      <mp3>phrase_manh_guid.mp3</mp3>
+      <vocabulary>mạnh</vocabulary>
+      <chinese>（形）強/猛烈</chinese>
+      <chinesePhrase>猛烈地</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析49：với -->
+    <phrase>
+      <text>với</text>
+      <mp3>phrase_voi_guid.mp3</mp3>
+      <vocabulary>với</vocabulary>
+      <chinese>（介）與/和</chinese>
+      <chinesePhrase>與</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析50：đồng đội -->
+    <phrase>
+      <text>đồng đội</text>
+      <mp3>phrase_dong_doi_guid.mp3</mp3>
+      <vocabulary>đồng</vocabulary>
+      <chinese>（形）同/共同</chinese>
+      <vocabulary>đội</vocabulary>
+      <chinese>（名）隊</chinese>
+      <chinesePhrase>隊友</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析51：Gabriel Magalhaes -->
+    <phrase>
+      <text>Gabriel Magalhaes</text>
+      <mp3>phrase_gabriel_magalhaes_guid.mp3</mp3>
+      <vocabulary>Gabriel Magalhaes</vocabulary>
+      <chinese>（名）加布里埃爾·馬加良斯</chinese>
+      <chinesePhrase>加布里埃爾·馬加良斯</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析52：Bóng bật ra -->
+    <phrase>
+      <text>Bóng bật ra</text>
+      <mp3>phrase_bong_bat_ra_guid.mp3</mp3>
+      <vocabulary>Bóng</vocabulary>
+      <chinese>球</chinese>
+      <vocabulary>bật</vocabulary>
+      <chinese>（動）彈</chinese>
+      <vocabulary>ra</vocabulary>
+      <chinese>（動）出</chinese>
+      <chinesePhrase>球彈出</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析53：đúng tầm -->
+    <phrase>
+      <text>đúng tầm</text>
+      <mp3>phrase_dung_tam_guid.mp3</mp3>
+      <vocabulary>đúng</vocabulary>
+      <chinese>（形）正確/剛好</chinese>
+      <vocabulary>tầm</vocabulary>
+      <chinese>（名）範圍/高度</chinese>
+      <chinesePhrase>正好落在/剛好在範圍內</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析54：để -->
+    <phrase>
+      <text>để</text>
+      <mp3>phrase_de2_guid.mp3</mp3>
+      <vocabulary>để</vocabulary>
+      <chinese>（介）讓/為了</chinese>
+      <chinesePhrase>讓</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析55：Tom Edozie -->
+    <phrase>
+      <text>Tom Edozie</text>
+      <mp3>phrase_tom_edozie_guid.mp3</mp3>
+      <vocabulary>Tom Edozie</vocabulary>
+      <chinese>（名）湯姆·愛多齊</chinese>
+      <chinesePhrase>湯姆·愛多齊</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析56：lao vào -->
+    <phrase>
+      <text>lao vào</text>
+      <mp3>phrase_lao_vao_guid.mp3</mp3>
+      <vocabulary>lao</vocabulary>
+      <chinese>衝</chinese>
+      <vocabulary>vào</vocabulary>
+      <chinese>（動）進/入</chinese>
+      <chinesePhrase>衝進去</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析57：dứt điểm -->
+    <phrase>
+      <text>dứt điểm</text>
+      <mp3>phrase_dut_diem_guid.mp3</mp3>
+      <vocabulary>dứt</vocabulary>
+      <chinese>（動）斷/終</chinese>
+      <vocabulary>điểm</vocabulary>
+      <chinese>（名）點/分</chinese>
+      <chinesePhrase>射門/完成</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析58：một chạm -->
+    <phrase>
+      <text>một chạm</text>
+      <mp3>phrase_mot_cham_guid.mp3</mp3>
+      <vocabulary>một</vocabulary>
+      <chinese>（數）一</chinese>
+      <vocabulary>chạm</vocabulary>
+      <chinese>（動）觸/碰</chinese>
+      <chinesePhrase>一觸/一腳墊射</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析59：Cú sút -->
+    <phrase>
+      <text>Cú sút</text>
+      <mp3>phrase_cu_sut_guid.mp3</mp3>
+      <vocabulary>Cú</vocabulary>
+      <chinese>（量）次/下</chinese>
+      <vocabulary>sút</vocabulary>
+      <chinese>（動）射門</chinese>
+      <chinesePhrase>射門</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析60：của anh -->
+    <phrase>
+      <text>của anh</text>
+      <mp3>phrase_cua_anh_guid.mp3</mp3>
+      <vocabulary>của</vocabulary>
+      <chinese>（介）的</chinese>
+      <vocabulary>anh</vocabulary>
+      <chinese>（代）他</chinese>
+      <chinesePhrase>他的</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析61：chạm -->
+    <phrase>
+      <text>chạm</text>
+      <mp3>phrase_cham_guid.mp3</mp3>
+      <vocabulary>chạm</vocabulary>
+      <chinese>（動）觸/碰</chinese>
+      <chinesePhrase>碰到</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析62：người -->
+    <phrase>
+      <text>người</text>
+      <mp3>phrase_nguoi_guid.mp3</mp3>
+      <vocabulary>người</vocabulary>
+      <chinese>（名）人/身體</chinese>
+      <chinesePhrase>身上</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析63：hậu vệ -->
+    <phrase>
+      <text>hậu vệ</text>
+      <mp3>phrase_hau_ve_guid.mp3</mp3>
+      <vocabulary>hậu</vocabulary>
+      <chinese>（形）後</chinese>
+      <vocabulary>vệ</vocabulary>
+      <chinese>（動）衛/保衛</chinese>
+      <chinesePhrase>後衛</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析64：Riccardo Calafiori -->
+    <phrase>
+      <text>Riccardo Calafiori</text>
+      <mp3>phrase_riccardo_calafiori_guid.mp3</mp3>
+      <vocabulary>Riccardo Calafiori</vocabulary>
+      <chinese>（名）里卡多·卡拉菲奧里</chinese>
+      <chinesePhrase>里卡多·卡拉菲奧里</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析65：đập -->
+    <phrase>
+      <text>đập</text>
+      <mp3>phrase_dap_guid.mp3</mp3>
+      <vocabulary>đập</vocabulary>
+      <chinese>（動）擊/撞</chinese>
+      <chinesePhrase>擊中</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析66：vào -->
+    <phrase>
+      <text>vào</text>
+      <mp3>phrase_vao_guid.mp3</mp3>
+      <vocabulary>vào</vocabulary>
+      <chinese>（介）進/到</chinese>
+      <chinesePhrase>到</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析67：cột dọc -->
+    <phrase>
+      <text>cột dọc</text>
+      <mp3>phrase_cot_doc_guid.mp3</mp3>
+      <vocabulary>cột</vocabulary>
+      <chinese>（名）柱</chinese>
+      <vocabulary>dọc</vocabulary>
+      <chinese>（形）縱/直</chinese>
+      <chinesePhrase>門柱/立柱</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析68：rồi -->
+    <phrase>
+      <text>rồi</text>
+      <mp3>phrase_roi_guid.mp3</mp3>
+      <vocabulary>rồi</vocabulary>
+      <chinese>（副）然後/了</chinese>
+      <chinesePhrase>然後</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析69：dội -->
+    <phrase>
+      <text>dội</text>
+      <mp3>phrase_doi_guid.mp3</mp3>
+      <vocabulary>dội</vocabulary>
+      <chinese>（動）彈/撞回</chinese>
+      <chinesePhrase>彈到</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析70：vào chính -->
+    <phrase>
+      <text>vào chính</text>
+      <mp3>phrase_vao_chinh_guid.mp3</mp3>
+      <vocabulary>vào</vocabulary>
+      <chinese>到</chinese>
+      <vocabulary>chính</vocabulary>
+      <chinese>（形）正/本身</chinese>
+      <chinesePhrase>正好到/恰恰到</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析71：hậu vệ Italy -->
+    <phrase>
+      <text>hậu vệ Italy</text>
+      <mp3>phrase_hau_ve_italy_guid.mp3</mp3>
+      <vocabulary>hậu vệ</vocabulary>
+      <chinese>後衛</chinese>
+      <vocabulary>Italy</vocabulary>
+      <chinese>（名）義大利</chinese>
+      <chinesePhrase>義大利後衛</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析72：và -->
+    <phrase>
+      <text>và</text>
+      <mp3>phrase_va2_guid.mp3</mp3>
+      <vocabulary>và</vocabulary>
+      <chinese>（連）和</chinese>
+      <chinesePhrase>然後</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析73：lăn -->
+    <phrase>
+      <text>lăn</text>
+      <mp3>phrase_lan_guid.mp3</mp3>
+      <vocabulary>lăn</vocabulary>
+      <chinese>（動）滾</chinese>
+      <chinesePhrase>滾</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析74：vào lưới -->
+    <phrase>
+      <text>vào lưới</text>
+      <mp3>phrase_vao_luoi_guid.mp3</mp3>
+      <vocabulary>vào</vocabulary>
+      <chinese>進</chinese>
+      <vocabulary>lưới</vocabulary>
+      <chinese>（名）網/球網</chinese>
+      <chinesePhrase>入網</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析75：Đây -->
+    <phrase>
+      <text>Đây</text>
+      <mp3>phrase_day_guid.mp3</mp3>
+      <vocabulary>Đây</vocabulary>
+      <chinese>（代）這</chinese>
+      <chinesePhrase>這</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析76：được tính là -->
+    <phrase>
+      <text>được tính là</text>
+      <mp3>phrase_duoc_tinh_la_guid.mp3</mp3>
+      <vocabulary>được</vocabulary>
+      <chinese>（助）被</chinese>
+      <vocabulary>tính</vocabulary>
+      <chinese>（動）算</chinese>
+      <vocabulary>là</vocabulary>
+      <chinese>（動）是</chinese>
+      <chinesePhrase>被算作</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析77：bàn phản lưới nhà -->
+    <phrase>
+      <text>bàn phản lưới nhà</text>
+      <mp3>phrase_ban_phan_luoi_nha_guid.mp3</mp3>
+      <vocabulary>bàn</vocabulary>
+      <chinese>（名）球/進球</chinese>
+      <vocabulary>phản</vocabulary>
+      <chinese>（動）反</chinese>
+      <vocabulary>lưới</vocabulary>
+      <chinese>網</chinese>
+      <vocabulary>nhà</vocabulary>
+      <chinese>家</chinese>
+      <chinesePhrase>烏龍球</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析78：của Calafiori -->
+    <phrase>
+      <text>của Calafiori</text>
+      <mp3>phrase_cua_calafiori_guid.mp3</mp3>
+      <vocabulary>của</vocabulary>
+      <chinese>的</chinese>
+      <vocabulary>Calafiori</vocabulary>
+      <chinese>卡拉菲奧里</chinese>
+      <chinesePhrase>卡拉菲奧里的</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析79：khiến -->
+    <phrase>
+      <text>khiến</text>
+      <mp3>phrase_khien_guid.mp3</mp3>
+      <vocabulary>khiến</vocabulary>
+      <chinese>（動）使/讓</chinese>
+      <chinesePhrase>讓</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析80：Arsenal -->
+    <phrase>
+      <text>Arsenal</text>
+      <mp3>phrase_arsenal2_guid.mp3</mp3>
+      <vocabulary>Arsenal</vocabulary>
+      <chinese>兵工廠</chinese>
+      <chinesePhrase>兵工廠</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析81：bị cầm hòa -->
+    <phrase>
+      <text>bị cầm hòa</text>
+      <mp3>phrase_bi_cam_hoa_guid.mp3</mp3>
+      <vocabulary>bị</vocabulary>
+      <chinese>被</chinese>
+      <vocabulary>cầm hòa</vocabulary>
+      <chinese>逼平</chinese>
+      <chinesePhrase>被逼平</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析82：đầy -->
+    <phrase>
+      <text>đầy</text>
+      <mp3>phrase_day_guid2.mp3</mp3>
+      <vocabulary>đầy</vocabulary>
+      <chinese>（形）充滿</chinese>
+      <chinesePhrase>充滿</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析83：tiếc nuối -->
+    <phrase>
+      <text>tiếc nuối</text>
+      <mp3>phrase_tiec_nuoi_guid.mp3</mp3>
+      <vocabulary>tiếc</vocabulary>
+      <chinese>（動）惋惜</chinese>
+      <vocabulary>nuối</vocabulary>
+      <chinese>（動）留戀</chinese>
+      <chinesePhrase>遺憾/惋惜</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第三段：賽後衝突 -->
+  <subject>
+    <text>這個結果讓兵工廠似乎情緒失控。終場哨響後，前鋒加布里埃爾·熱蘇斯與耶爾松·莫斯克拉發生推擠衝突，將對方推倒，隨後雙方球員互相推搡爭執。但安保人員立即介入避免事態升級。</text>
+    <translate>Kết quả này khiến Arsenal dường như bị ức chế. Ngay sau tiếng còi mãn cuộc, tiền đạo Gabriel Jesus xô xát và đẩy ngã Yerson Mosquera, rồi cầu thủ hai đội lao vào nhau tranh cãi. Nhưng đội ngũ an ninh lập tức can thiệp để tránh sự việc thêm căng thẳng.</translate>
+    <mp3>subject_post_match_conflict_guid.mp3</mp3>
+
+    <!-- 詞組分析84：Kết quả này -->
+    <phrase>
+      <text>Kết quả này</text>
+      <mp3>phrase_ket_qua_nay_guid.mp3</mp3>
+      <vocabulary>Kết quả</vocabulary>
+      <chinese>（名）結果</chinese>
+      <vocabulary>này</vocabulary>
+      <chinese>（代）這</chinese>
+      <chinesePhrase>這個結果</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析85：dường như -->
+    <phrase>
+      <text>dường như</text>
+      <mp3>phrase_duong_nhu_guid.mp3</mp3>
+      <vocabulary>dường như</vocabulary>
+      <chinese>（副）似乎</chinese>
+      <chinesePhrase>似乎</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析86：bị ức chế -->
+    <phrase>
+      <text>bị ức chế</text>
+      <mp3>phrase_bi_uc_che_guid.mp3</mp3>
+      <vocabulary>bị</vocabulary>
+      <chinese>被</chinese>
+      <vocabulary>ức chế</vocabulary>
+      <chinese>（動）壓抑/抑制</chinese>
+      <chinesePhrase>情緒失控/壓抑</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析87：Ngay sau -->
+    <phrase>
+      <text>Ngay sau</text>
+      <mp3>phrase_ngay_sau_guid.mp3</mp3>
+      <vocabulary>Ngay</vocabulary>
+      <chinese>（副）立即/剛</chinese>
+      <vocabulary>sau</vocabulary>
+      <chinese>（介）之後</chinese>
+      <chinesePhrase>緊接在...之後</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析88：tiếng còi -->
+    <phrase>
+      <text>tiếng còi</text>
+      <mp3>phrase_tieng_coi_guid.mp3</mp3>
+      <vocabulary>tiếng</vocabulary>
+      <chinese>（名）聲音</chinese>
+      <vocabulary>còi</vocabulary>
+      <chinese>（名）哨子/汽笛</chinese>
+      <chinesePhrase>哨聲</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析89：mãn cuộc -->
+    <phrase>
+      <text>mãn cuộc</text>
+      <mp3>phrase_man_cuoc_guid.mp3</mp3>
+      <vocabulary>mãn</vocabulary>
+      <chinese>（動）滿/結束</chinese>
+      <vocabulary>cuộc</vocabulary>
+      <chinese>（量）場/次</chinese>
+      <chinesePhrase>終場/比賽結束</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析90：tiền đạo -->
+    <phrase>
+      <text>tiền đạo</text>
+      <mp3>phrase_tien_dao_guid.mp3</mp3>
+      <vocabulary>tiền</vocabulary>
+      <chinese>（前）前</chinese>
+      <vocabulary>đạo</vocabulary>
+      <chinese>（名）道/路</chinese>
+      <chinesePhrase>前鋒</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析91：Gabriel Jesus -->
+    <phrase>
+      <text>Gabriel Jesus</text>
+      <mp3>phrase_gabriel_jesus_guid.mp3</mp3>
+      <vocabulary>Gabriel Jesus</vocabulary>
+      <chinese>（名）加布里埃爾·熱蘇斯</chinese>
+      <chinesePhrase>加布里埃爾·熱蘇斯</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析92：xô xát -->
+    <phrase>
+      <text>xô xát</text>
+      <mp3>phrase_xo_xat_guid.mp3</mp3>
+      <vocabulary>xô</vocabulary>
+      <chinese>（動）推</chinese>
+      <vocabulary>xát</vocabulary>
+      <chinese>（動）擦/摩擦</chinese>
+      <chinesePhrase>推擠/衝突</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析93：và -->
+    <phrase>
+      <text>và</text>
+      <mp3>phrase_va3_guid.mp3</mp3>
+      <vocabulary>và</vocabulary>
+      <chinese>和</chinese>
+      <chinesePhrase>並</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析94：đẩy ngã -->
+    <phrase>
+      <text>đẩy ngã</text>
+      <mp3>phrase_day_nga_guid.mp3</mp3>
+      <vocabulary>đẩy</vocabulary>
+      <chinese>（動）推</chinese>
+      <vocabulary>ngã</vocabulary>
+      <chinese>（動）倒/跌倒</chinese>
+      <chinesePhrase>推倒</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析95：Yerson Mosquera -->
+    <phrase>
+      <text>Yerson Mosquera</text>
+      <mp3>phrase_yerson_mosquera_guid.mp3</mp3>
+      <vocabulary>Yerson Mosquera</vocabulary>
+      <chinese>（名）耶爾松·莫斯克拉</chinese>
+      <chinesePhrase>耶爾松·莫斯克拉</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析96：rồi -->
+    <phrase>
+      <text>rồi</text>
+      <mp3>phrase_roi2_guid.mp3</mp3>
+      <vocabulary>rồi</vocabulary>
+      <chinese>然後</chinese>
+      <chinesePhrase>然後</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析97：cầu thủ -->
+    <phrase>
+      <text>cầu thủ</text>
+      <mp3>phrase_cau_thu_guid.mp3</mp3>
+      <vocabulary>cầu</vocabulary>
+      <chinese>（名）球</chinese>
+      <vocabulary>thủ</vocabulary>
+      <chinese>（名）手/者</chinese>
+      <chinesePhrase>球員</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析98：hai đội -->
+    <phrase>
+      <text>hai đội</text>
+      <mp3>phrase_hai_doi_guid.mp3</mp3>
+      <vocabulary>hai</vocabulary>
+      <chinese>兩</chinese>
+      <vocabulary>đội</vocabulary>
+      <chinese>隊</chinese>
+      <chinesePhrase>雙方/兩隊</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析99：lao vào nhau -->
+    <phrase>
+      <text>lao vào nhau</text>
+      <mp3>phrase_lao_vao_nhau_guid.mp3</mp3>
+      <vocabulary>lao</vocabulary>
+      <chinese>衝</chinese>
+      <vocabulary>vào</vocabulary>
+      <chinese>進</chinese>
+      <vocabulary>nhau</vocabulary>
+      <chinese>（代）彼此</chinese>
+      <chinesePhrase>互相衝向對方/扭打</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析100：tranh cãi -->
+    <phrase>
+      <text>tranh cãi</text>
+      <mp3>phrase_tranh_cai_guid.mp3</mp3>
+      <vocabulary>tranh</vocabulary>
+      <chinese>（動）爭</chinese>
+      <vocabulary>cãi</vocabulary>
+      <chinese>（動）辯</chinese>
+      <chinesePhrase>爭吵/爭論</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析101：Nhưng -->
+    <phrase>
+      <text>Nhưng</text>
+      <mp3>phrase_nhung3_guid.mp3</mp3>
+      <vocabulary>Nhưng</vocabulary>
+      <chinese>但是</chinese>
+      <chinesePhrase>但是</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析102：đội ngũ an ninh -->
+    <phrase>
+      <text>đội ngũ an ninh</text>
+      <mp3>phrase_doi_ngu_an_ninh_guid.mp3</mp3>
+      <vocabulary>đội ngũ</vocabulary>
+      <chinese>（名）隊伍/團隊</chinese>
+      <vocabulary>an ninh</vocabulary>
+      <chinese>（名）安全</chinese>
+      <chinesePhrase>安保人員</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析103：lập tức -->
+    <phrase>
+      <text>lập tức</text>
+      <mp3>phrase_lap_tuc_guid.mp3</mp3>
+      <vocabulary>lập tức</vocabulary>
+      <chinese>（副）立刻</chinese>
+      <chinesePhrase>立刻</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析104：can thiệp -->
+    <phrase>
+      <text>can thiệp</text>
+      <mp3>phrase_can_thiep_guid.mp3</mp3>
+      <vocabulary>can</vocabulary>
+      <chinese>（動）干</chinese>
+      <vocabulary>thiệp</vocabulary>
+      <chinese>（動）涉</chinese>
+      <chinesePhrase>介入/干預</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析105：để -->
+    <phrase>
+      <text>để</text>
+      <mp3>phrase_de3_guid.mp3</mp3>
+      <vocabulary>để</vocabulary>
+      <chinese>為了</chinese>
+      <chinesePhrase>以避免</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析106：tránh -->
+    <phrase>
+      <text>tránh</text>
+      <mp3>phrase_tranh_guid.mp3</mp3>
+      <vocabulary>tránh</vocabulary>
+      <chinese>（動）避免</chinese>
+      <chinesePhrase>避免</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析107：sự việc -->
+    <phrase>
+      <text>sự việc</text>
+      <mp3>phrase_su_viec_guid.mp3</mp3>
+      <vocabulary>sự</vocabulary>
+      <chinese>（前綴）事</chinese>
+      <vocabulary>việc</vocabulary>
+      <chinese>（名）事情</chinese>
+      <chinesePhrase>事件/事態</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析108：thêm -->
+    <phrase>
+      <text>thêm</text>
+      <mp3>phrase_them_guid.mp3</mp3>
+      <vocabulary>thêm</vocabulary>
+      <chinese>（動）加/更加</chinese>
+      <chinesePhrase>更加</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析109：căng thẳng -->
+    <phrase>
+      <text>căng thẳng</text>
+      <mp3>phrase_cang_thang_guid.mp3</mp3>
+      <vocabulary>căng</vocabulary>
+      <chinese>（形）繃緊</chinese>
+      <vocabulary>thẳng</vocabulary>
+      <chinese>（形）直</chinese>
+      <chinesePhrase>緊張</chinesePhrase>
+    </phrase>
+  </subject>
+</xml>

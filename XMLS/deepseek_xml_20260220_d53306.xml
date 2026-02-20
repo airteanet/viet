@@ -1,0 +1,1732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <!-- 標題：2月18日在線113新聞簡報：大年初一交通事故致65人死傷 | ANTV -->
+  <subject>
+    <text>2月18日在線113新聞簡報：大年初一交通事故致65人死傷 | ANTV</text>
+    <translate>Bản tin 113 online ngày 18/2: Mùng 1 Tết, 65 người thương vong vì tai nạn giao thông | ANTV</translate>
+    <mp3>subject_title_anth_guid.mp3</mp3>
+
+    <!-- 詞組分析1：Bản tin -->
+    <phrase>
+      <text>Bản tin</text>
+      <mp3>phrase_ban_tin_guid.mp3</mp3>
+      <vocabulary>Bản</vocabulary>
+      <chinese>（量）份/則</chinese>
+      <vocabulary>tin</vocabulary>
+      <chinese>（名）新聞</chinese>
+      <chinesePhrase>新聞簡報</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析2：113 online -->
+    <phrase>
+      <text>113 online</text>
+      <mp3>phrase_113_online_guid.mp3</mp3>
+      <vocabulary>113</vocabulary>
+      <chinese>（名）警察熱線/公安</chinese>
+      <vocabulary>online</vocabulary>
+      <chinese>（形）在線</chinese>
+      <chinesePhrase>在線113</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析3：ngày 18/2 -->
+    <phrase>
+      <text>ngày 18/2</text>
+      <mp3>phrase_ngay_18_2_guid.mp3</mp3>
+      <vocabulary>ngày</vocabulary>
+      <chinese>（名）日/號</chinese>
+      <vocabulary>18/2</vocabulary>
+      <chinese>2月18日</chinese>
+      <chinesePhrase>2月18日</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析4：Mùng 1 Tết -->
+    <phrase>
+      <text>Mùng 1 Tết</text>
+      <mp3>phrase_mung_1_tet_guid.mp3</mp3>
+      <vocabulary>Mùng 1</vocabulary>
+      <chinese>初一</chinese>
+      <vocabulary>Tết</vocabulary>
+      <chinese>（名）春節</chinese>
+      <chinesePhrase>大年初一</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析5：65 người -->
+    <phrase>
+      <text>65 người</text>
+      <mp3>phrase_65_nguoi_guid.mp3</mp3>
+      <vocabulary>65</vocabulary>
+      <chinese>六十五</chinese>
+      <vocabulary>người</vocabulary>
+      <chinese>（名）人</chinese>
+      <chinesePhrase>65人</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析6：thương vong -->
+    <phrase>
+      <text>thương vong</text>
+      <mp3>phrase_thuong_vong_guid.mp3</mp3>
+      <vocabulary>thương</vocabulary>
+      <chinese>（動）傷</chinese>
+      <vocabulary>vong</vocabulary>
+      <chinese>（動）亡</chinese>
+      <chinesePhrase>死傷</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析7：vì -->
+    <phrase>
+      <text>vì</text>
+      <mp3>phrase_vi_guid.mp3</mp3>
+      <vocabulary>vì</vocabulary>
+      <chinese>（介）因為</chinese>
+      <chinesePhrase>因</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析8：tai nạn giao thông -->
+    <phrase>
+      <text>tai nạn giao thông</text>
+      <mp3>phrase_tai_nan_giao_thong_guid.mp3</mp3>
+      <vocabulary>tai nạn</vocabulary>
+      <chinese>（名）事故</chinese>
+      <vocabulary>giao thông</vocabulary>
+      <chinese>（名）交通</chinese>
+      <chinesePhrase>交通事故</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析9：ANTV -->
+    <phrase>
+      <text>ANTV</text>
+      <mp3>phrase_antv_guid.mp3</mp3>
+      <vocabulary>ANTV</vocabulary>
+      <chinese>（名）越南人民公安電視台</chinese>
+      <chinesePhrase>ANTV</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第一節：交通事故統計 -->
+  <subject>
+    <text>交通警察局表示，在丙午年春節大年初一，即陽曆2月17日，全國發生46起交通事故，造成24人死亡，41人受傷。與乙巳年春節大年初一相比，減少21起，相當於下降46.65%，死亡人數減少8人，相當於下降33.33%，受傷人數減少10人，相當於下降24.39%。所有事故均發生在道路，鐵路和水路未發生事故。</text>
+    <translate>Cục cảnh sát giao thông cho biết trong ngày mùng 1 Tết Nguyên đán Bính Ngọ, tức ngày 17 tháng dương lịch, toàn quốc xảy ra 46 vụ tai nạn giao thông làm chết 24 người, bị thương 41 người. So với mùng 1 Tết Ất Tỵ giảm 21 vụ, tương đương giảm 46,65%, giảm 8 người chết tương đương giảm 33,33%, giảm 10 người bị thương tương đương giảm 24,39%. Các vụ tai nạn đều xảy ra trên đường bộ, tuyến đường sắt và đường thủy không xảy ra tai nạn.</translate>
+    <mp3>subject_traffic_accident_stats_guid.mp3</mp3>
+
+    <!-- 詞組分析10：Cục cảnh sát giao thông -->
+    <phrase>
+      <text>Cục cảnh sát giao thông</text>
+      <mp3>phrase_cuc_canh_sat_giao_thong_guid.mp3</mp3>
+      <vocabulary>Cục</vocabulary>
+      <chinese>（名）局</chinese>
+      <vocabulary>cảnh sát giao thông</vocabulary>
+      <chinese>交通警察</chinese>
+      <chinesePhrase>交通警察局</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析11：cho biết -->
+    <phrase>
+      <text>cho biết</text>
+      <mp3>phrase_cho_biet_guid.mp3</mp3>
+      <vocabulary>cho biết</vocabulary>
+      <chinese>（動）表示/告知</chinese>
+      <chinesePhrase>表示</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析12：trong -->
+    <phrase>
+      <text>trong</text>
+      <mp3>phrase_trong_guid.mp3</mp3>
+      <vocabulary>trong</vocabulary>
+      <chinese>（介）在...之內</chinese>
+      <chinesePhrase>在</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析13：ngày mùng 1 Tết Nguyên đán Bính Ngọ -->
+    <phrase>
+      <text>ngày mùng 1 Tết Nguyên đán Bính Ngọ</text>
+      <mp3>phrase_ngay_mung_1_tet_nguyen_dan_binh_ngo_guid.mp3</mp3>
+      <vocabulary>ngày mùng 1</vocabulary>
+      <chinese>初一</chinese>
+      <vocabulary>Tết Nguyên đán</vocabulary>
+      <chinese>春節</chinese>
+      <vocabulary>Bính Ngọ</vocabulary>
+      <chinese>丙午年</chinese>
+      <chinesePhrase>丙午年春節大年初一</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析14：tức -->
+    <phrase>
+      <text>tức</text>
+      <mp3>phrase_tuc_guid.mp3</mp3>
+      <vocabulary>tức</vocabulary>
+      <chinese>（連）即/也就是</chinese>
+      <chinesePhrase>即</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析15：ngày 17 tháng dương lịch -->
+    <phrase>
+      <text>ngày 17 tháng dương lịch</text>
+      <mp3>phrase_ngay_17_thang_duong_lich_guid.mp3</mp3>
+      <vocabulary>ngày 17</vocabulary>
+      <chinese>17日</chinese>
+      <vocabulary>tháng</vocabulary>
+      <chinese>（名）月</chinese>
+      <vocabulary>dương lịch</vocabulary>
+      <chinese>陽曆</chinese>
+      <chinesePhrase>陽曆2月17日</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析16：toàn quốc -->
+    <phrase>
+      <text>toàn quốc</text>
+      <mp3>phrase_toan_quoc_guid.mp3</mp3>
+      <vocabulary>toàn</vocabulary>
+      <chinese>（形）全</chinese>
+      <vocabulary>quốc</vocabulary>
+      <chinese>（名）國</chinese>
+      <chinesePhrase>全國</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析17：xảy ra -->
+    <phrase>
+      <text>xảy ra</text>
+      <mp3>phrase_xay_ra_guid.mp3</mp3>
+      <vocabulary>xảy ra</vocabulary>
+      <chinese>（動）發生</chinese>
+      <chinesePhrase>發生</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析18：46 vụ -->
+    <phrase>
+      <text>46 vụ</text>
+      <mp3>phrase_46_vu_guid.mp3</mp3>
+      <vocabulary>46</vocabulary>
+      <chinese>四十六</chinese>
+      <vocabulary>vụ</vocabulary>
+      <chinese>（量）起/宗</chinese>
+      <chinesePhrase>46起</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析19：tai nạn giao thông -->
+    <phrase>
+      <text>tai nạn giao thông</text>
+      <mp3>phrase_tai_nan_giao_thong_guid.mp3</mp3>
+      <vocabulary>tai nạn giao thông</vocabulary>
+      <chinese>交通事故</chinese>
+      <chinesePhrase>交通事故</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析20：làm chết -->
+    <phrase>
+      <text>làm chết</text>
+      <mp3>phrase_lam_chet_guid.mp3</mp3>
+      <vocabulary>làm</vocabulary>
+      <chinese>（動）使/導致</chinese>
+      <vocabulary>chết</vocabulary>
+      <chinese>（動）死</chinese>
+      <chinesePhrase>造成死亡</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析21：24 người -->
+    <phrase>
+      <text>24 người</text>
+      <mp3>phrase_24_nguoi_guid.mp3</mp3>
+      <vocabulary>24</vocabulary>
+      <chinese>二十四</chinese>
+      <vocabulary>người</vocabulary>
+      <chinese>人</chinese>
+      <chinesePhrase>24人</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析22：bị thương -->
+    <phrase>
+      <text>bị thương</text>
+      <mp3>phrase_bi_thuong_guid.mp3</mp3>
+      <vocabulary>bị</vocabulary>
+      <chinese>（助）被/受</chinese>
+      <vocabulary>thương</vocabulary>
+      <chinese>（動）傷</chinese>
+      <chinesePhrase>受傷</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析23：41 người -->
+    <phrase>
+      <text>41 người</text>
+      <mp3>phrase_41_nguoi_guid.mp3</mp3>
+      <vocabulary>41</vocabulary>
+      <chinese>四十一</chinese>
+      <vocabulary>người</vocabulary>
+      <chinese>人</chinese>
+      <chinesePhrase>41人</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析24：So với -->
+    <phrase>
+      <text>So với</text>
+      <mp3>phrase_so_voi_guid.mp3</mp3>
+      <vocabulary>So với</vocabulary>
+      <chinese>（介）與...相比</chinese>
+      <chinesePhrase>與...相比</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析25：mùng 1 Tết Ất Tỵ -->
+    <phrase>
+      <text>mùng 1 Tết Ất Tỵ</text>
+      <mp3>phrase_mung_1_tet_at_ty_guid.mp3</mp3>
+      <vocabulary>mùng 1 Tết</vocabulary>
+      <chinese>大年初一</chinese>
+      <vocabulary>Ất Tỵ</vocabulary>
+      <chinese>乙巳年</chinese>
+      <chinesePhrase>乙巳年春節大年初一</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析26：giảm -->
+    <phrase>
+      <text>giảm</text>
+      <mp3>phrase_giam_guid.mp3</mp3>
+      <vocabulary>giảm</vocabulary>
+      <chinese>（動）減少</chinese>
+      <chinesePhrase>減少</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析27：21 vụ -->
+    <phrase>
+      <text>21 vụ</text>
+      <mp3>phrase_21_vu_guid.mp3</mp3>
+      <vocabulary>21</vocabulary>
+      <chinese>二十一</chinese>
+      <vocabulary>vụ</vocabulary>
+      <chinese>起</chinese>
+      <chinesePhrase>21起</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析28：tương đương -->
+    <phrase>
+      <text>tương đương</text>
+      <mp3>phrase_tuong_duong_guid.mp3</mp3>
+      <vocabulary>tương đương</vocabulary>
+      <chinese>（形）相當</chinese>
+      <chinesePhrase>相當於</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析29：giảm 46,65% -->
+    <phrase>
+      <text>giảm 46,65%</text>
+      <mp3>phrase_giam_46_65_guid.mp3</mp3>
+      <vocabulary>giảm</vocabulary>
+      <chinese>減少</chinese>
+      <vocabulary>46,65%</vocabulary>
+      <chinese>百分之四十六點六五</chinese>
+      <chinesePhrase>下降46.65%</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析30：giảm 8 người chết -->
+    <phrase>
+      <text>giảm 8 người chết</text>
+      <mp3>phrase_giam_8_nguoi_chet_guid.mp3</mp3>
+      <vocabulary>giảm</vocabulary>
+      <chinese>減少</chinese>
+      <vocabulary>8</vocabulary>
+      <chinese>八</chinese>
+      <vocabulary>người chết</vocabulary>
+      <chinese>死亡人數</chinese>
+      <chinesePhrase>死亡人數減少8人</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析31：giảm 10 người bị thương -->
+    <phrase>
+      <text>giảm 10 người bị thương</text>
+      <mp3>phrase_giam_10_nguoi_bi_thuong_guid.mp3</mp3>
+      <vocabulary>giảm</vocabulary>
+      <chinese>減少</chinese>
+      <vocabulary>10</vocabulary>
+      <chinese>十</chinese>
+      <vocabulary>người bị thương</vocabulary>
+      <chinese>受傷人數</chinese>
+      <chinesePhrase>受傷人數減少10人</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析32：Các vụ tai nạn -->
+    <phrase>
+      <text>Các vụ tai nạn</text>
+      <mp3>phrase_cac_vu_tai_nan_guid.mp3</mp3>
+      <vocabulary>Các</vocabulary>
+      <chinese>（量）各</chinese>
+      <vocabulary>vụ tai nạn</vocabulary>
+      <chinese>事故</chinese>
+      <chinesePhrase>各起事故</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析33：đều -->
+    <phrase>
+      <text>đều</text>
+      <mp3>phrase_deu_guid.mp3</mp3>
+      <vocabulary>đều</vocabulary>
+      <chinese>（副）都</chinese>
+      <chinesePhrase>都</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析34：xảy ra trên đường bộ -->
+    <phrase>
+      <text>xảy ra trên đường bộ</text>
+      <mp3>phrase_xay_ra_tren_duong_bo_guid.mp3</mp3>
+      <vocabulary>xảy ra</vocabulary>
+      <chinese>發生</chinese>
+      <vocabulary>trên</vocabulary>
+      <chinese>在...上</chinese>
+      <vocabulary>đường bộ</vocabulary>
+      <chinese>（名）道路</chinese>
+      <chinesePhrase>發生在道路</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析35：tuyến đường sắt -->
+    <phrase>
+      <text>tuyến đường sắt</text>
+      <mp3>phrase_tuyen_duong_sat_guid.mp3</mp3>
+      <vocabulary>tuyến</vocabulary>
+      <chinese>（名）線</chinese>
+      <vocabulary>đường sắt</vocabulary>
+      <chinese>鐵路</chinese>
+      <chinesePhrase>鐵路線</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析36：và -->
+    <phrase>
+      <text>và</text>
+      <mp3>phrase_va_guid.mp3</mp3>
+      <vocabulary>và</vocabulary>
+      <chinese>（連）和</chinese>
+      <chinesePhrase>和</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析37：đường thủy -->
+    <phrase>
+      <text>đường thủy</text>
+      <mp3>phrase_duong_thuy_guid.mp3</mp3>
+      <vocabulary>đường thủy</vocabulary>
+      <chinese>（名）水路</chinese>
+      <chinesePhrase>水路</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析38：không xảy ra tai nạn -->
+    <phrase>
+      <text>không xảy ra tai nạn</text>
+      <mp3>phrase_khong_xay_ra_tai_nan_guid.mp3</mp3>
+      <vocabulary>không</vocabulary>
+      <chinese>（副）不/沒有</chinese>
+      <vocabulary>xảy ra tai nạn</vocabulary>
+      <chinese>發生事故</chinese>
+      <chinesePhrase>未發生事故</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第二節：交通違規處理 -->
+  <subject>
+    <text>開展交通安全秩序保障高峰期，各地公安已檢查、發現和處理6129起違規，暫扣31輛汽車、1751輛摩托車、85輛其他交通工具，吊銷各類駕駛證147本，扣減駕駛證分數1083起。在違規中，酒精濃度違規佔比最高，達1570起，相當於25.6%。其次是超速違規，達1417起，相當於23.1%。此外，交警還處罰了2起超載、16起超員、21起不按規定地點上下客、16起駕駛時使用手機等其他電子設備、2起毒品檢測呈陽性。</text>
+    <translate>Triển khai cao điểm bảo đảm trật tự an toàn giao thông, Công an các địa phương đã kiểm tra, phát hiện và xử lý 6.129 trường hợp vi phạm, tạm giữ 31 xe ô tô, 1751 xe mô tô, 85 phương tiện khác, tước 147 giấy phép lái xe các loại, trừ điểm giấy phép lái xe 1083 trường hợp. Trong số các lỗi vi phạm thì vi phạm nồng độ cồn chiếm tỉ lệ cao nhất với 1570 trường hợp, tương đương chiếm 25,6%. Tiếp đến là vi phạm về tốc độ với 1417 trường hợp, tương đương chiếm 23,1%. Ngoài ra, cảnh sát giao thông còn xử phạt hai trường hợp chở hàng quá tải trọng, 16 trường hợp chở quá số người quy định, 21 trường hợp đón trả khách không đúng nơi quy định, 16 trường hợp sử dụng điện thoại thiết bị điện tử khác khi điều khiển phương tiện, hai trường hợp dương tính với chất ma túy.</translate>
+    <mp3>subject_traffic_violations_guid.mp3</mp3>
+
+    <!-- 詞組分析39：Triển khai -->
+    <phrase>
+      <text>Triển khai</text>
+      <mp3>phrase_trien_khai_guid.mp3</mp3>
+      <vocabulary>Triển khai</vocabulary>
+      <chinese>（動）展開/開展</chinese>
+      <chinesePhrase>開展</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析40：cao điểm -->
+    <phrase>
+      <text>cao điểm</text>
+      <mp3>phrase_cao_diem_guid.mp3</mp3>
+      <vocabulary>cao</vocabulary>
+      <chinese>（形）高</chinese>
+      <vocabulary>điểm</vocabulary>
+      <chinese>（名）點</chinese>
+      <chinesePhrase>高峰期/高點</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析41：bảo đảm -->
+    <phrase>
+      <text>bảo đảm</text>
+      <mp3>phrase_bao_dam_guid.mp3</mp3>
+      <vocabulary>bảo đảm</vocabulary>
+      <chinese>（動）保障/確保</chinese>
+      <chinesePhrase>保障</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析42：trật tự an toàn giao thông -->
+    <phrase>
+      <text>trật tự an toàn giao thông</text>
+      <mp3>phrase_trat_tu_an_toan_giao_thong_guid.mp3</mp3>
+      <vocabulary>trật tự</vocabulary>
+      <chinese>（名）秩序</chinese>
+      <vocabulary>an toàn giao thông</vocabulary>
+      <chinese>交通安全</chinese>
+      <chinesePhrase>交通安全秩序</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析43：Công an các địa phương -->
+    <phrase>
+      <text>Công an các địa phương</text>
+      <mp3>phrase_cong_an_cac_dia_phuong_guid.mp3</mp3>
+      <vocabulary>Công an</vocabulary>
+      <chinese>公安</chinese>
+      <vocabulary>các địa phương</vocabulary>
+      <chinese>各地</chinese>
+      <chinesePhrase>各地公安</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析44：đã -->
+    <phrase>
+      <text>đã</text>
+      <mp3>phrase_da_guid.mp3</mp3>
+      <vocabulary>đã</vocabulary>
+      <chinese>（副）已經</chinese>
+      <chinesePhrase>已</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析45：kiểm tra -->
+    <phrase>
+      <text>kiểm tra</text>
+      <mp3>phrase_kiem_tra_guid.mp3</mp3>
+      <vocabulary>kiểm tra</vocabulary>
+      <chinese>（動）檢查</chinese>
+      <chinesePhrase>檢查</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析46：phát hiện -->
+    <phrase>
+      <text>phát hiện</text>
+      <mp3>phrase_phat_hien_guid.mp3</mp3>
+      <vocabulary>phát hiện</vocabulary>
+      <chinese>（動）發現</chinese>
+      <chinesePhrase>發現</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析47：xử lý -->
+    <phrase>
+      <text>xử lý</text>
+      <mp3>phrase_xu_ly_guid.mp3</mp3>
+      <vocabulary>xử lý</vocabulary>
+      <chinese>（動）處理</chinese>
+      <chinesePhrase>處理</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析48：6.129 trường hợp vi phạm -->
+    <phrase>
+      <text>6.129 trường hợp vi phạm</text>
+      <mp3>phrase_6129_truong_hop_vi_pham_guid.mp3</mp3>
+      <vocabulary>6.129</vocabulary>
+      <chinese>六千一百二十九</chinese>
+      <vocabulary>trường hợp vi phạm</vocabulary>
+      <chinese>違規情況</chinese>
+      <chinesePhrase>6129起違規</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析49：tạm giữ -->
+    <phrase>
+      <text>tạm giữ</text>
+      <mp3>phrase_tam_giu_guid.mp3</mp3>
+      <vocabulary>tạm giữ</vocabulary>
+      <chinese>（動）暫扣</chinese>
+      <chinesePhrase>暫扣</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析50：31 xe ô tô -->
+    <phrase>
+      <text>31 xe ô tô</text>
+      <mp3>phrase_31_xe_o_to_guid.mp3</mp3>
+      <vocabulary>31</vocabulary>
+      <chinese>三十一</chinese>
+      <vocabulary>xe ô tô</vocabulary>
+      <chinese>汽車</chinese>
+      <chinesePhrase>31輛汽車</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析51：1751 xe mô tô -->
+    <phrase>
+      <text>1751 xe mô tô</text>
+      <mp3>phrase_1751_xe_mo_to_guid.mp3</mp3>
+      <vocabulary>1751</vocabulary>
+      <chinese>一千七百五十一</chinese>
+      <vocabulary>xe mô tô</vocabulary>
+      <chinese>摩托車</chinese>
+      <chinesePhrase>1751輛摩托車</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析52：85 phương tiện khác -->
+    <phrase>
+      <text>85 phương tiện khác</text>
+      <mp3>phrase_85_phuong_tien_khac_guid.mp3</mp3>
+      <vocabulary>85</vocabulary>
+      <chinese>八十五</chinese>
+      <vocabulary>phương tiện khác</vocabulary>
+      <chinese>其他交通工具</chinese>
+      <chinesePhrase>85輛其他交通工具</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析53：tước -->
+    <phrase>
+      <text>tước</text>
+      <mp3>phrase_tuoc_guid.mp3</mp3>
+      <vocabulary>tước</vocabulary>
+      <chinese>（動）剝奪/吊銷</chinese>
+      <chinesePhrase>吊銷</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析54：147 giấy phép lái xe các loại -->
+    <phrase>
+      <text>147 giấy phép lái xe các loại</text>
+      <mp3>phrase_147_giay_phep_lai_xe_cac_loai_guid.mp3</mp3>
+      <vocabulary>147</vocabulary>
+      <chinese>一百四十七</chinese>
+      <vocabulary>giấy phép lái xe</vocabulary>
+      <chinese>駕駛證</chinese>
+      <vocabulary>các loại</vocabulary>
+      <chinese>各類</chinese>
+      <chinesePhrase>147本各類駕駛證</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析55：trừ điểm giấy phép lái xe -->
+    <phrase>
+      <text>trừ điểm giấy phép lái xe</text>
+      <mp3>phrase_tru_diem_giay_phep_lai_xe_guid.mp3</mp3>
+      <vocabulary>trừ điểm</vocabulary>
+      <chinese>扣分</chinese>
+      <vocabulary>giấy phép lái xe</vocabulary>
+      <chinese>駕駛證</chinese>
+      <chinesePhrase>扣駕駛證分數</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析56：1083 trường hợp -->
+    <phrase>
+      <text>1083 trường hợp</text>
+      <mp3>phrase_1083_truong_hop_guid.mp3</mp3>
+      <vocabulary>1083</vocabulary>
+      <chinese>一千零八十三</chinese>
+      <vocabulary>trường hợp</vocabulary>
+      <chinese>情況/起</chinese>
+      <chinesePhrase>1083起</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析57：Trong số -->
+    <phrase>
+      <text>Trong số</text>
+      <mp3>phrase_trong_so_guid.mp3</mp3>
+      <vocabulary>Trong số</vocabulary>
+      <chinese>在...中/其中</chinese>
+      <chinesePhrase>在...中</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析58：các lỗi vi phạm -->
+    <phrase>
+      <text>các lỗi vi phạm</text>
+      <mp3>phrase_cac_loi_vi_pham_guid.mp3</mp3>
+      <vocabulary>các</vocabulary>
+      <chinese>各</chinese>
+      <vocabulary>lỗi vi phạm</vocabulary>
+      <chinese>違規</chinese>
+      <chinesePhrase>各類違規</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析59：thì -->
+    <phrase>
+      <text>thì</text>
+      <mp3>phrase_thi_guid.mp3</mp3>
+      <vocabulary>thì</vocabulary>
+      <chinese>（連）則/那麼</chinese>
+      <chinesePhrase>則</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析60：vi phạm nồng độ cồn -->
+    <phrase>
+      <text>vi phạm nồng độ cồn</text>
+      <mp3>phrase_vi_pham_nong_do_con_guid.mp3</mp3>
+      <vocabulary>vi phạm</vocabulary>
+      <chinese>違反</chinese>
+      <vocabulary>nồng độ cồn</vocabulary>
+      <chinese>酒精濃度</chinese>
+      <chinesePhrase>酒精濃度違規</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析61：chiếm tỉ lệ cao nhất -->
+    <phrase>
+      <text>chiếm tỉ lệ cao nhất</text>
+      <mp3>phrase_chiem_ti_le_cao_nhat_guid.mp3</mp3>
+      <vocabulary>chiếm</vocabulary>
+      <chinese>（動）佔</chinese>
+      <vocabulary>tỉ lệ</vocabulary>
+      <chinese>比例</chinese>
+      <vocabulary>cao nhất</vocabulary>
+      <chinese>最高</chinese>
+      <chinesePhrase>佔比最高</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析62：với -->
+    <phrase>
+      <text>với</text>
+      <mp3>phrase_voi_guid.mp3</mp3>
+      <vocabulary>với</vocabulary>
+      <chinese>（介）以/有</chinese>
+      <chinesePhrase>有</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析63：1570 trường hợp -->
+    <phrase>
+      <text>1570 trường hợp</text>
+      <mp3>phrase_1570_truong_hop_guid.mp3</mp3>
+      <vocabulary>1570</vocabulary>
+      <chinese>一千五百七十</chinese>
+      <vocabulary>trường hợp</vocabulary>
+      <chinese>起</chinese>
+      <chinesePhrase>1570起</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析64：tương đương chiếm 25,6% -->
+    <phrase>
+      <text>tương đương chiếm 25,6%</text>
+      <mp3>phrase_tuong_duong_chiem_25_6_guid.mp3</mp3>
+      <vocabulary>tương đương</vocabulary>
+      <chinese>相當於</chinese>
+      <vocabulary>chiếm</vocabulary>
+      <chinese>佔</chinese>
+      <vocabulary>25,6%</vocabulary>
+      <chinese>百分之二十五點六</chinese>
+      <chinesePhrase>相當於佔25.6%</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析65：Tiếp đến là -->
+    <phrase>
+      <text>Tiếp đến là</text>
+      <mp3>phrase_tiep_den_la_guid.mp3</mp3>
+      <vocabulary>Tiếp đến là</vocabulary>
+      <chinese>接下來是/其次是</chinese>
+      <chinesePhrase>其次是</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析66：vi phạm về tốc độ -->
+    <phrase>
+      <text>vi phạm về tốc độ</text>
+      <mp3>phrase_vi_pham_ve_toc_do_guid.mp3</mp3>
+      <vocabulary>vi phạm</vocabulary>
+      <chinese>違規</chinese>
+      <vocabulary>về</vocabulary>
+      <chinese>關於</chinese>
+      <vocabulary>tốc độ</vocabulary>
+      <chinese>速度</chinese>
+      <chinesePhrase>超速違規</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析67：1417 trường hợp -->
+    <phrase>
+      <text>1417 trường hợp</text>
+      <mp3>phrase_1417_truong_hop_guid.mp3</mp3>
+      <vocabulary>1417</vocabulary>
+      <chinese>一千四百一十七</chinese>
+      <vocabulary>trường hợp</vocabulary>
+      <chinese>起</chinese>
+      <chinesePhrase>1417起</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析68：Ngoài ra -->
+    <phrase>
+      <text>Ngoài ra</text>
+      <mp3>phrase_ngoai_ra_guid.mp3</mp3>
+      <vocabulary>Ngoài ra</vocabulary>
+      <chinese>此外</chinese>
+      <chinesePhrase>此外</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析69：cảnh sát giao thông -->
+    <phrase>
+      <text>cảnh sát giao thông</text>
+      <mp3>phrase_canh_sat_giao_thong_guid.mp3</mp3>
+      <vocabulary>cảnh sát giao thông</vocabulary>
+      <chinese>交警</chinese>
+      <chinesePhrase>交警</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析70：còn -->
+    <phrase>
+      <text>còn</text>
+      <mp3>phrase_con_guid.mp3</mp3>
+      <vocabulary>còn</vocabulary>
+      <chinese>（副）還</chinese>
+      <chinesePhrase>還</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析71：xử phạt -->
+    <phrase>
+      <text>xử phạt</text>
+      <mp3>phrase_xu_phat_guid.mp3</mp3>
+      <vocabulary>xử phạt</vocabulary>
+      <chinese>（動）處罰</chinese>
+      <chinesePhrase>處罰</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析72：hai trường hợp -->
+    <phrase>
+      <text>hai trường hợp</text>
+      <mp3>phrase_hai_truong_hop_guid.mp3</mp3>
+      <vocabulary>hai</vocabulary>
+      <chinese>兩</chinese>
+      <vocabulary>trường hợp</vocabulary>
+      <chinese>起</chinese>
+      <chinesePhrase>兩起</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析73：chở hàng quá tải trọng -->
+    <phrase>
+      <text>chở hàng quá tải trọng</text>
+      <mp3>phrase_cho_hang_qua_tai_trong_guid.mp3</mp3>
+      <vocabulary>chở hàng</vocabulary>
+      <chinese>載貨</chinese>
+      <vocabulary>quá tải trọng</vocabulary>
+      <chinese>超載</chinese>
+      <chinesePhrase>超載</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析74：16 trường hợp -->
+    <phrase>
+      <text>16 trường hợp</text>
+      <mp3>phrase_16_truong_hop_guid.mp3</mp3>
+      <vocabulary>16</vocabulary>
+      <chinese>十六</chinese>
+      <vocabulary>trường hợp</vocabulary>
+      <chinese>起</chinese>
+      <chinesePhrase>16起</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析75：chở quá số người quy định -->
+    <phrase>
+      <text>chở quá số người quy định</text>
+      <mp3>phrase_cho_qua_so_nguoi_quy_dinh_guid.mp3</mp3>
+      <vocabulary>chở</vocabulary>
+      <chinese>載</chinese>
+      <vocabulary>quá số người quy định</vocabulary>
+      <chinese>超員</chinese>
+      <chinesePhrase>超員</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析76：21 trường hợp -->
+    <phrase>
+      <text>21 trường hợp</text>
+      <mp3>phrase_21_truong_hop_guid.mp3</mp3>
+      <vocabulary>21</vocabulary>
+      <chinese>二十一</chinese>
+      <vocabulary>trường hợp</vocabulary>
+      <chinese>起</chinese>
+      <chinesePhrase>21起</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析77：đón trả khách không đúng nơi quy định -->
+    <phrase>
+      <text>đón trả khách không đúng nơi quy định</text>
+      <mp3>phrase_don_tra_khach_khong_dung_noi_quy_dinh_guid.mp3</mp3>
+      <vocabulary>đón trả khách</vocabulary>
+      <chinese>上下客</chinese>
+      <vocabulary>không đúng nơi quy định</vocabulary>
+      <chinese>不按規定地點</chinese>
+      <chinesePhrase>不按規定地點上下客</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析78：16 trường hợp -->
+    <phrase>
+      <text>16 trường hợp</text>
+      <mp3>phrase_16_truong_hop_guid.mp3</mp3>
+      <vocabulary>16</vocabulary>
+      <chinese>十六</chinese>
+      <vocabulary>trường hợp</vocabulary>
+      <chinese>起</chinese>
+      <chinesePhrase>16起</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析79：sử dụng điện thoại thiết bị điện tử khác khi điều khiển phương tiện -->
+    <phrase>
+      <text>sử dụng điện thoại thiết bị điện tử khác khi điều khiển phương tiện</text>
+      <mp3>phrase_su_dung_dien_thoai_thiet_bi_dien_tu_khac_khi_dieu_khien_phuong_tien_guid.mp3</mp3>
+      <vocabulary>sử dụng</vocabulary>
+      <chinese>使用</chinese>
+      <vocabulary>điện thoại</vocabulary>
+      <chinese>電話</chinese>
+      <vocabulary>thiết bị điện tử khác</vocabulary>
+      <chinese>其他電子設備</chinese>
+      <vocabulary>khi điều khiển phương tiện</vocabulary>
+      <chinese>駕駛時</chinese>
+      <chinesePhrase>駕駛時使用手機等其他電子設備</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析80：hai trường hợp -->
+    <phrase>
+      <text>hai trường hợp</text>
+      <mp3>phrase_hai_truong_hop_guid.mp3</mp3>
+      <vocabulary>hai</vocabulary>
+      <chinese>兩</chinese>
+      <vocabulary>trường hợp</vocabulary>
+      <chinese>起</chinese>
+      <chinesePhrase>兩起</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析81：dương tính với chất ma túy -->
+    <phrase>
+      <text>dương tính với chất ma túy</text>
+      <mp3>phrase_duong_tinh_voi_chat_ma_tuy_guid.mp3</mp3>
+      <vocabulary>dương tính</vocabulary>
+      <chinese>陽性</chinese>
+      <vocabulary>với</vocabulary>
+      <chinese>對</chinese>
+      <vocabulary>chất ma túy</vocabulary>
+      <chinese>毒品</chinese>
+      <chinesePhrase>毒品檢測呈陽性</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第三節：林同省搶劫案 -->
+  <subject>
+    <text>敬愛的觀眾朋友們，感謝您正在關注初二在線113新聞簡報。各位觀眾，僅在案發後16小時，林同省公安刑事警察處已與廣立鄉公安協作追查抓獲兩名實施搶劫財產的對象，並追回全部贓物歸還被害人。約在除夕夜22時20分，廣立鄉公安接到關於在廣立鄉廣順村金量金店發生的搶劫財產案的報案。據店主報案，兩名青年駕駛黑色Airblade摩托車，戴口罩、頭盔進入店鋪假裝問買黃金。趁不注意，一名對象突然搶走一條項鍊和一隻手鐲，總價值約7400萬越南盾，然後與同夥迅速逃跑。接到報案後，林同省公安廳領導立即指示刑事警察處與各專業單位和基層公安緊急連夜展開追查措施。職能力量對各路段的安全攝像頭進行篩查，核實交通工具，鎖定可疑對象。到大年初一15時，公安機關已確定並抓獲兩名作案對象：黎英輝和陳杜清風，同為2008年生，居於廣立鄉。案件贓物及作案工具已被全部收繳。在春節期間迅速調查破案，體現了公安力量在打擊犯罪高峰期的高度責任感和果斷精神，為維護社會治安秩序、保障人民安度春節作出貢獻。</text>
+    <translate>Kính chào quý vị đang theo dõi bản tin 113 online ngày mùng 2 Tết. Thưa quý vị, chỉ sau 16 giờ kể từ khi xảy ra vụ án, Phòng Cảnh sát hình sự Công an tỉnh Lâm Đồng đã phối hợp với Công an xã Quảng Lập truy xét bắt giữ hai đối tượng thực hiện hành vi cướp giật tài sản, thu hồi toàn bộ tăng vật trả lại cho bị hại. Vào khoảng 22:20 đêm giao thừa, công an xã Quảng Lập tiếp nhận tin báo về vụ cấp giật tài sản xảy ra tại tiệm vàng Kim Lượng, thôn Quảng Thuận, xã Quảng Lập. Theo trình báo của chủ tiệm, hai thanh niên điều khiển xe mô tô Airblade màu đen, đeo khẩu trang, đường mũ bảo hiểm vào cửa hàng giả vờ hỏi mua vàng. Lợi dụng lúc sơ hở, một đối tượng bất ngờ giật một sợi dây chuyền và một lắc tay với tổng trị giá khoảng 74 triệu đồng rồi cùng đồng bọn nhanh chóng tổ thoát. Ngay sau khi nhận tin báo, Ban Giám đốc Công an tỉnh Lâm Đồng đã chỉ đạo Phòng Cảnh sát hình sự phối hợp với các đơn vị nghiệp vụ và công an cơ sở khẩn trương triển khai các biện pháp truy xét nóng trong đêm. Lực lượng chức năng tiến hành già soát camera an ninh trên các tuyến đường, xác minh phương tiện, khoanh vùng đối tượng nghi vấn. Đến 15 gi ngày mùng 1 Tết, cơ quan công an đã xác định và bắt giữ hai đối tượng gây án là Lê Anh Huy và Trần Đỗ Thanh Phong cùng sinh năm 2008 trú tại xã Quảng Lập. Tăng vật của vụ án cùng với phương tiện sử dụng để gây án đã được thu giữ đầy đủ. Việc nhanh chóng điều tra, làm rõ vụ án ngay trong dịp Tết, thể hiện tinh thần trách nhiệm, sự quyết liệt của lực lượng công an trong cao điểm tấn công trấn áp tội phạm, góp phần dữ vững an ninh trật tự, bảo đảm bình yên cho nhân dân vui xuân đón Tết.</translate>
+    <mp3>subject_lam_dong_robbery_guid.mp3</mp3>
+
+    <!-- 詞組分析82：Kính chào -->
+    <phrase>
+      <text>Kính chào</text>
+      <mp3>phrase_kinh_chao_guid.mp3</mp3>
+      <vocabulary>Kính</vocabulary>
+      <chinese>（副）敬/恭敬地</chinese>
+      <vocabulary>chào</vocabulary>
+      <chinese>（動）打招呼</chinese>
+      <chinesePhrase>敬愛地問候/致敬</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析83：quý vị -->
+    <phrase>
+      <text>quý vị</text>
+      <mp3>phrase_quy_vi_guid.mp3</mp3>
+      <vocabulary>quý</vocabulary>
+      <chinese>（形）貴</chinese>
+      <vocabulary>vị</vocabulary>
+      <chinese>（量）位</chinese>
+      <chinesePhrase>各位/觀眾朋友們</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析84：đang theo dõi -->
+    <phrase>
+      <text>đang theo dõi</text>
+      <mp3>phrase_dang_theo_doi_guid.mp3</mp3>
+      <vocabulary>đang</vocabulary>
+      <chinese>正在</chinese>
+      <vocabulary>theo dõi</vocabulary>
+      <chinese>跟隨/關注</chinese>
+      <chinesePhrase>正在關注</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析85：bản tin 113 online ngày mùng 2 Tết -->
+    <phrase>
+      <text>bản tin 113 online ngày mùng 2 Tết</text>
+      <mp3>phrase_ban_tin_113_online_ngay_mung_2_tet_guid.mp3</mp3>
+      <vocabulary>bản tin</vocabulary>
+      <chinese>新聞簡報</chinese>
+      <vocabulary>113 online</vocabulary>
+      <chinese>在線113</chinese>
+      <vocabulary>ngày mùng 2 Tết</vocabulary>
+      <chinese>大年初二</chinese>
+      <chinesePhrase>初二在線113新聞簡報</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析86：Thưa quý vị -->
+    <phrase>
+      <text>Thưa quý vị</text>
+      <mp3>phrase_thua_quy_vi_guid.mp3</mp3>
+      <vocabulary>Thưa</vocabulary>
+      <chinese>（動）稟告/尊敬的</chinese>
+      <vocabulary>quý vị</vocabulary>
+      <chinese>各位</chinese>
+      <chinesePhrase>各位觀眾</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析87：chỉ sau -->
+    <phrase>
+      <text>chỉ sau</text>
+      <mp3>phrase_chi_sau_guid.mp3</mp3>
+      <vocabulary>chỉ</vocabulary>
+      <chinese>（副）只/僅</chinese>
+      <vocabulary>sau</vocabulary>
+      <chinese>之後</chinese>
+      <chinesePhrase>僅在...後</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析88：16 giờ -->
+    <phrase>
+      <text>16 giờ</text>
+      <mp3>phrase_16_gio_guid.mp3</mp3>
+      <vocabulary>16</vocabulary>
+      <chinese>十六</chinese>
+      <vocabulary>giờ</vocabulary>
+      <chinese>（名）小時</chinese>
+      <chinesePhrase>16小時</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析89：kể từ khi -->
+    <phrase>
+      <text>kể từ khi</text>
+      <mp3>phrase_ke_tu_khi_guid.mp3</mp3>
+      <vocabulary>kể từ khi</vocabulary>
+      <chinese>自從</chinese>
+      <chinesePhrase>自從</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析90：xảy ra vụ án -->
+    <phrase>
+      <text>xảy ra vụ án</text>
+      <mp3>phrase_xay_ra_vu_an_guid.mp3</mp3>
+      <vocabulary>xảy ra</vocabulary>
+      <chinese>發生</chinese>
+      <vocabulary>vụ án</vocabulary>
+      <chinese>案件</chinese>
+      <chinesePhrase>案發</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析91：Phòng Cảnh sát hình sự -->
+    <phrase>
+      <text>Phòng Cảnh sát hình sự</text>
+      <mp3>phrase_phong_canh_sat_hinh_su_guid.mp3</mp3>
+      <vocabulary>Phòng</vocabulary>
+      <chinese>（名）處/科</chinese>
+      <vocabulary>Cảnh sát hình sự</vocabulary>
+      <chinese>刑事警察</chinese>
+      <chinesePhrase>刑事警察處</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析92：Công an tỉnh Lâm Đồng -->
+    <phrase>
+      <text>Công an tỉnh Lâm Đồng</text>
+      <mp3>phrase_cong_an_tinh_lam_dong_guid.mp3</mp3>
+      <vocabulary>Công an tỉnh</vocabulary>
+      <chinese>省公安</chinese>
+      <vocabulary>Lâm Đồng</vocabulary>
+      <chinese>林同省</chinese>
+      <chinesePhrase>林同省公安</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析93：đã phối hợp với -->
+    <phrase>
+      <text>đã phối hợp với</text>
+      <mp3>phrase_da_phoi_hop_voi_guid.mp3</mp3>
+      <vocabulary>đã</vocabulary>
+      <chinese>已</chinese>
+      <vocabulary>phối hợp với</vocabulary>
+      <chinese>與...協作</chinese>
+      <chinesePhrase>已與...協作</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析94：Công an xã Quảng Lập -->
+    <phrase>
+      <text>Công an xã Quảng Lập</text>
+      <mp3>phrase_cong_an_xa_quang_lap_guid.mp3</mp3>
+      <vocabulary>Công an xã</vocabulary>
+      <chinese>鄉公安</chinese>
+      <vocabulary>Quảng Lập</vocabulary>
+      <chinese>廣立鄉</chinese>
+      <chinesePhrase>廣立鄉公安</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析95：truy xét -->
+    <phrase>
+      <text>truy xét</text>
+      <mp3>phrase_truy_xet_guid.mp3</mp3>
+      <vocabulary>truy xét</vocabulary>
+      <chinese>（動）追查</chinese>
+      <chinesePhrase>追查</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析96：bắt giữ -->
+    <phrase>
+      <text>bắt giữ</text>
+      <mp3>phrase_bat_giu_guid.mp3</mp3>
+      <vocabulary>bắt giữ</vocabulary>
+      <chinese>（動）抓獲</chinese>
+      <chinesePhrase>抓獲</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析97：hai đối tượng -->
+    <phrase>
+      <text>hai đối tượng</text>
+      <mp3>phrase_hai_doi_tuong_guid.mp3</mp3>
+      <vocabulary>hai</vocabulary>
+      <chinese>兩</chinese>
+      <vocabulary>đối tượng</vocabulary>
+      <chinese>對象</chinese>
+      <chinesePhrase>兩名對象</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析98：thực hiện hành vi cướp giật tài sản -->
+    <phrase>
+      <text>thực hiện hành vi cướp giật tài sản</text>
+      <mp3>phrase_thuc_hien_hanh_vi_cuop_giat_tai_san_guid.mp3</mp3>
+      <vocabulary>thực hiện</vocabulary>
+      <chinese>實施</chinese>
+      <vocabulary>hành vi</vocabulary>
+      <chinese>行為</chinese>
+      <vocabulary>cướp giật tài sản</vocabulary>
+      <chinese>搶劫財產</chinese>
+      <chinesePhrase>實施搶劫財產行為</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析99：thu hồi -->
+    <phrase>
+      <text>thu hồi</text>
+      <mp3>phrase_thu_hoi_guid.mp3</mp3>
+      <vocabulary>thu hồi</vocabulary>
+      <chinese>（動）收回/追回</chinese>
+      <chinesePhrase>追回</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析100：toàn bộ tăng vật -->
+    <phrase>
+      <text>toàn bộ tăng vật</text>
+      <mp3>phrase_toan_bo_tang_vat_guid.mp3</mp3>
+      <vocabulary>toàn bộ</vocabulary>
+      <chinese>全部</chinese>
+      <vocabulary>tăng vật</vocabulary>
+      <chinese>（名）贓物</chinese>
+      <chinesePhrase>全部贓物</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析101：trả lại cho bị hại -->
+    <phrase>
+      <text>trả lại cho bị hại</text>
+      <mp3>phrase_tra_lai_cho_bi_hai_guid.mp3</mp3>
+      <vocabulary>trả lại</vocabulary>
+      <chinese>歸還</chinese>
+      <vocabulary>cho</vocabulary>
+      <chinese>給</chinese>
+      <vocabulary>bị hại</vocabulary>
+      <chinese>被害人</chinese>
+      <chinesePhrase>歸還給被害人</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析102：Vào khoảng -->
+    <phrase>
+      <text>Vào khoảng</text>
+      <mp3>phrase_vao_khoang_guid.mp3</mp3>
+      <vocabulary>Vào</vocabulary>
+      <chinese>（介）在</chinese>
+      <vocabulary>khoảng</vocabulary>
+      <chinese>大約</chinese>
+      <chinesePhrase>約在</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析103：22:20 đêm giao thừa -->
+    <phrase>
+      <text>22:20 đêm giao thừa</text>
+      <mp3>phrase_22_20_dem_giao_thua_guid.mp3</mp3>
+      <vocabulary>22:20</vocabulary>
+      <chinese>22時20分</chinese>
+      <vocabulary>đêm giao thừa</vocabulary>
+      <chinese>除夕夜</chinese>
+      <chinesePhrase>除夕夜22時20分</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析104：công an xã Quảng Lập tiếp nhận tin báo -->
+    <phrase>
+      <text>công an xã Quảng Lập tiếp nhận tin báo</text>
+      <mp3>phrase_cong_an_xa_quang_lap_tiep_nhan_tin_bao_guid.mp3</mp3>
+      <vocabulary>công an xã Quảng Lập</vocabulary>
+      <chinese>廣立鄉公安</chinese>
+      <vocabulary>tiếp nhận tin báo</vocabulary>
+      <chinese>接獲報案</chinese>
+      <chinesePhrase>廣立鄉公安接獲報案</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析105：về vụ cấp giật tài sản -->
+    <phrase>
+      <text>về vụ cấp giật tài sản</text>
+      <mp3>phrase_ve_vu_cuop_giat_tai_san_guid.mp3</mp3>
+      <vocabulary>về</vocabulary>
+      <chinese>關於</chinese>
+      <vocabulary>vụ cướp giật tài sản</vocabulary>
+      <chinese>搶劫財產案</chinese>
+      <chinesePhrase>關於搶劫財產案</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析106：xảy ra tại tiệm vàng Kim Lượng -->
+    <phrase>
+      <text>xảy ra tại tiệm vàng Kim Lượng</text>
+      <mp3>phrase_xay_ra_tai_tiem_vang_kim_luong_guid.mp3</mp3>
+      <vocabulary>xảy ra</vocabulary>
+      <chinese>發生</chinese>
+      <vocabulary>tại</vocabulary>
+      <chinese>在</chinese>
+      <vocabulary>tiệm vàng Kim Lượng</vocabulary>
+      <chinese>金量金店</chinese>
+      <chinesePhrase>發生在金量金店</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析107：thôn Quảng Thuận -->
+    <phrase>
+      <text>thôn Quảng Thuận</text>
+      <mp3>phrase_thon_quang_thuan_guid.mp3</mp3>
+      <vocabulary>thôn</vocabulary>
+      <chinese>（名）村</chinese>
+      <vocabulary>Quảng Thuận</vocabulary>
+      <chinese>廣順村</chinese>
+      <chinesePhrase>廣順村</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析108：xã Quảng Lập -->
+    <phrase>
+      <text>xã Quảng Lập</text>
+      <mp3>phrase_xa_quang_lap_guid.mp3</mp3>
+      <vocabulary>xã</vocabulary>
+      <chinese>鄉</chinese>
+      <vocabulary>Quảng Lập</vocabulary>
+      <chinese>廣立鄉</chinese>
+      <chinesePhrase>廣立鄉</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析109：Theo trình báo của chủ tiệm -->
+    <phrase>
+      <text>Theo trình báo của chủ tiệm</text>
+      <mp3>phrase_theo_trinh_bao_cua_chu_tiem_guid.mp3</mp3>
+      <vocabulary>Theo</vocabulary>
+      <chinese>根據</chinese>
+      <vocabulary>trình báo</vocabulary>
+      <chinese>陳述/報案</chinese>
+      <vocabulary>của chủ tiệm</vocabulary>
+      <chinese>店主</chinese>
+      <chinesePhrase>據店主報案</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析110：hai thanh niên -->
+    <phrase>
+      <text>hai thanh niên</text>
+      <mp3>phrase_hai_thanh_nien_guid.mp3</mp3>
+      <vocabulary>hai</vocabulary>
+      <chinese>兩</chinese>
+      <vocabulary>thanh niên</vocabulary>
+      <chinese>青年</chinese>
+      <chinesePhrase>兩名青年</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析111：điều khiển xe mô tô Airblade màu đen -->
+    <phrase>
+      <text>điều khiển xe mô tô Airblade màu đen</text>
+      <mp3>phrase_dieu_khien_xe_mo_to_airblade_mau_den_guid.mp3</mp3>
+      <vocabulary>điều khiển</vocabulary>
+      <chinese>駕駛</chinese>
+      <vocabulary>xe mô tô</vocabulary>
+      <chinese>摩托車</chinese>
+      <vocabulary>Airblade</vocabulary>
+      <chinese>Airblade</chinese>
+      <vocabulary>màu đen</vocabulary>
+      <chinese>黑色</chinese>
+      <chinesePhrase>駕駛黑色Airblade摩托車</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析112：đeo khẩu trang -->
+    <phrase>
+      <text>đeo khẩu trang</text>
+      <mp3>phrase_deo_khau_trang_guid.mp3</mp3>
+      <vocabulary>đeo</vocabulary>
+      <chinese>（動）戴</chinese>
+      <vocabulary>khẩu trang</vocabulary>
+      <chinese>口罩</chinese>
+      <chinesePhrase>戴口罩</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析113：đội mũ bảo hiểm -->
+    <phrase>
+      <text>đội mũ bảo hiểm</text>
+      <mp3>phrase_doi_mu_bao_hiem_guid.mp3</mp3>
+      <vocabulary>đội</vocabulary>
+      <chinese>（動）戴</chinese>
+      <vocabulary>mũ bảo hiểm</vocabulary>
+      <chinese>頭盔</chinese>
+      <chinesePhrase>戴頭盔</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析114：vào cửa hàng -->
+    <phrase>
+      <text>vào cửa hàng</text>
+      <mp3>phrase_vao_cua_hang_guid.mp3</mp3>
+      <vocabulary>vào</vocabulary>
+      <chinese>進入</chinese>
+      <vocabulary>cửa hàng</vocabulary>
+      <chinese>商店</chinese>
+      <chinesePhrase>進入商店</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析115：giả vờ hỏi mua vàng -->
+    <phrase>
+      <text>giả vờ hỏi mua vàng</text>
+      <mp3>phrase_gia_vo_hoi_mua_vang_guid.mp3</mp3>
+      <vocabulary>giả vờ</vocabulary>
+      <chinese>假裝</chinese>
+      <vocabulary>hỏi mua vàng</vocabulary>
+      <chinese>問買黃金</chinese>
+      <chinesePhrase>假裝問買黃金</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析116：Lợi dụng lúc sơ hở -->
+    <phrase>
+      <text>Lợi dụng lúc sơ hở</text>
+      <mp3>phrase_loi_dung_luc_so_ho_guid.mp3</mp3>
+      <vocabulary>Lợi dụng</vocabulary>
+      <chinese>利用</chinese>
+      <vocabulary>lúc sơ hở</vocabulary>
+      <chinese>疏忽時</chinese>
+      <chinesePhrase>趁不注意</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析117：một đối tượng -->
+    <phrase>
+      <text>một đối tượng</text>
+      <mp3>phrase_mot_doi_tuong_guid.mp3</mp3>
+      <vocabulary>một</vocabulary>
+      <chinese>一個</chinese>
+      <vocabulary>đối tượng</vocabulary>
+      <chinese>對象</chinese>
+      <chinesePhrase>一名對象</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析118：bất ngờ giật -->
+    <phrase>
+      <text>bất ngờ giật</text>
+      <mp3>phrase_bat_ngo_giay_guid.mp3</mp3>
+      <vocabulary>bất ngờ</vocabulary>
+      <chinese>突然</chinese>
+      <vocabulary>giật</vocabulary>
+      <chinese>搶奪</chinese>
+      <chinesePhrase>突然搶奪</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析119：một sợi dây chuyền -->
+    <phrase>
+      <text>một sợi dây chuyền</text>
+      <mp3>phrase_mot_soi_day_chuyen_guid.mp3</mp3>
+      <vocabulary>một sợi</vocabulary>
+      <chinese>一條</chinese>
+      <vocabulary>dây chuyền</vocabulary>
+      <chinese>項鍊</chinese>
+      <chinesePhrase>一條項鍊</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析120：và một lắc tay -->
+    <phrase>
+      <text>và một lắc tay</text>
+      <mp3>phrase_va_mot_lac_tay_guid.mp3</mp3>
+      <vocabulary>và</vocabulary>
+      <chinese>和</chinese>
+      <vocabulary>một lắc tay</vocabulary>
+      <chinese>一隻手鐲</chinese>
+      <chinesePhrase>和一隻手鐲</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析121：với tổng trị giá khoảng 74 triệu đồng -->
+    <phrase>
+      <text>với tổng trị giá khoảng 74 triệu đồng</text>
+      <mp3>phrase_voi_tong_tri_gia_khoang_74_trieu_dong_guid.mp3</mp3>
+      <vocabulary>với</vocabulary>
+      <chinese>（介）有</chinese>
+      <vocabulary>tổng trị giá</vocabulary>
+      <chinese>總價值</chinese>
+      <vocabulary>khoảng</vocabulary>
+      <chinese>大約</chinese>
+      <vocabulary>74 triệu đồng</vocabulary>
+      <chinese>7400萬越南盾</chinese>
+      <chinesePhrase>總價值約7400萬越南盾</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析122：rồi cùng đồng bọn -->
+    <phrase>
+      <text>rồi cùng đồng bọn</text>
+      <mp3>phrase_roi_cung_dong_bon_guid.mp3</mp3>
+      <vocabulary>rồi</vocabulary>
+      <chinese>然後</chinese>
+      <vocabulary>cùng đồng bọn</vocabulary>
+      <chinese>與同夥</chinese>
+      <chinesePhrase>然後與同夥</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析123：nhanh chóng tổ thoát -->
+    <phrase>
+      <text>nhanh chóng tẩu thoát</text>
+      <mp3>phrase_nhanh_chong_tau_thoat_guid.mp3</mp3>
+      <vocabulary>nhanh chóng</vocabulary>
+      <chinese>迅速</chinese>
+      <vocabulary>tẩu thoát</vocabulary>
+      <chinese>逃跑</chinese>
+      <chinesePhrase>迅速逃跑</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析124：Ngay sau khi nhận tin báo -->
+    <phrase>
+      <text>Ngay sau khi nhận tin báo</text>
+      <mp3>phrase_ngay_sau_khi_nhan_tin_bao_guid.mp3</mp3>
+      <vocabulary>Ngay sau khi</vocabulary>
+      <chinese>剛接到...後立即</chinese>
+      <vocabulary>nhận tin báo</vocabulary>
+      <chinese>接到報案</chinese>
+      <chinesePhrase>接到報案後立即</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析125：Ban Giám đốc Công an tỉnh Lâm Đồng -->
+    <phrase>
+      <text>Ban Giám đốc Công an tỉnh Lâm Đồng</text>
+      <mp3>phrase_ban_giam_doc_cong_an_tinh_lam_dong_guid.mp3</mp3>
+      <vocabulary>Ban Giám đốc</vocabulary>
+      <chinese>廳領導</chinese>
+      <vocabulary>Công an tỉnh Lâm Đồng</vocabulary>
+      <chinese>林同省公安</chinese>
+      <chinesePhrase>林同省公安廳領導</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析126：đã chỉ đạo -->
+    <phrase>
+      <text>đã chỉ đạo</text>
+      <mp3>phrase_da_chi_dao_guid.mp3</mp3>
+      <vocabulary>đã</vocabulary>
+      <chinese>已</chinese>
+      <vocabulary>chỉ đạo</vocabulary>
+      <chinese>指示</chinese>
+      <chinesePhrase>已指示</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析127：Phòng Cảnh sát hình sự -->
+    <phrase>
+      <text>Phòng Cảnh sát hình sự</text>
+      <mp3>phrase_phong_canh_sat_hinh_su_guid.mp3</mp3>
+      <vocabulary>Phòng Cảnh sát hình sự</vocabulary>
+      <chinese>刑事警察處</chinese>
+      <chinesePhrase>刑事警察處</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析128：phối hợp với -->
+    <phrase>
+      <text>phối hợp với</text>
+      <mp3>phrase_phoi_hop_voi_guid.mp3</mp3>
+      <vocabulary>phối hợp với</vocabulary>
+      <chinese>協作</chinese>
+      <chinesePhrase>協作</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析129：các đơn vị nghiệp vụ -->
+    <phrase>
+      <text>các đơn vị nghiệp vụ</text>
+      <mp3>phrase_cac_don_vi_nghiep_vu_guid.mp3</mp3>
+      <vocabulary>các</vocabulary>
+      <chinese>各</chinese>
+      <vocabulary>đơn vị nghiệp vụ</vocabulary>
+      <chinese>專業單位</chinese>
+      <chinesePhrase>各專業單位</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析130：và công an cơ sở -->
+    <phrase>
+      <text>và công an cơ sở</text>
+      <mp3>phrase_va_cong_an_co_so_guid.mp3</mp3>
+      <vocabulary>và</vocabulary>
+      <chinese>和</chinese>
+      <vocabulary>công an cơ sở</vocabulary>
+      <chinese>基層公安</chinese>
+      <chinesePhrase>和基層公安</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析131：khẩn trương -->
+    <phrase>
+      <text>khẩn trương</text>
+      <mp3>phrase_khan_truong_guid.mp3</mp3>
+      <vocabulary>khẩn trương</vocabulary>
+      <chinese>（形）緊急/迅速地</chinese>
+      <chinesePhrase>緊急</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析132：triển khai các biện pháp truy xét nóng trong đêm -->
+    <phrase>
+      <text>triển khai các biện pháp truy xét nóng trong đêm</text>
+      <mp3>phrase_trien_khai_cac_bien_phap_truy_xet_nong_trong_dem_guid.mp3</mp3>
+      <vocabulary>triển khai</vocabulary>
+      <chinese>展開</chinese>
+      <vocabulary>các biện pháp</vocabulary>
+      <chinese>各項措施</chinese>
+      <vocabulary>truy xét nóng</vocabulary>
+      <chinese>連夜追查</chinese>
+      <vocabulary>trong đêm</vocabulary>
+      <chinese>在夜間</chinese>
+      <chinesePhrase>連夜展開各項追查措施</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析133：Lực lượng chức năng -->
+    <phrase>
+      <text>Lực lượng chức năng</text>
+      <mp3>phrase_luc_luong_chuc_nang_guid.mp3</mp3>
+      <vocabulary>Lực lượng chức năng</vocabulary>
+      <chinese>職能力量</chinese>
+      <chinesePhrase>職能力量</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析134：tiến hành -->
+    <phrase>
+      <text>tiến hành</text>
+      <mp3>phrase_tien_hanh_guid.mp3</mp3>
+      <vocabulary>tiến hành</vocabulary>
+      <chinese>（動）進行</chinese>
+      <chinesePhrase>進行</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析135：rà soát camera an ninh -->
+    <phrase>
+      <text>rà soát camera an ninh</text>
+      <mp3>phrase_ra_soat_camera_an_ninh_guid.mp3</mp3>
+      <vocabulary>rà soát</vocabulary>
+      <chinese>篩查/核實</chinese>
+      <vocabulary>camera an ninh</vocabulary>
+      <chinese>安防攝像頭</chinese>
+      <chinesePhrase>篩查安防攝像頭</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析136：trên các tuyến đường -->
+    <phrase>
+      <text>trên các tuyến đường</text>
+      <mp3>phrase_tren_cac_tuyen_duong_guid.mp3</mp3>
+      <vocabulary>trên</vocabulary>
+      <chinese>在...上</chinese>
+      <vocabulary>các tuyến đường</vocabulary>
+      <chinese>各條路段</chinese>
+      <chinesePhrase>在各條路段上</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析137：xác minh phương tiện -->
+    <phrase>
+      <text>xác minh phương tiện</text>
+      <mp3>phrase_xac_minh_phuong_tien_guid.mp3</mp3>
+      <vocabulary>xác minh</vocabulary>
+      <chinese>核實</chinese>
+      <vocabulary>phương tiện</vocabulary>
+      <chinese>交通工具</chinese>
+      <chinesePhrase>核實交通工具</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析138：khoanh vùng đối tượng nghi vấn -->
+    <phrase>
+      <text>khoanh vùng đối tượng nghi vấn</text>
+      <mp3>phrase_khoanh_vung_doi_tuong_nghi_van_guid.mp3</mp3>
+      <vocabulary>khoanh vùng</vocabulary>
+      <chinese>鎖定範圍</chinese>
+      <vocabulary>đối tượng nghi vấn</vocabulary>
+      <chinese>可疑對象</chinese>
+      <chinesePhrase>鎖定可疑對象</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析139：Đến 15 gi ngày mùng 1 Tết -->
+    <phrase>
+      <text>Đến 15 giờ ngày mùng 1 Tết</text>
+      <mp3>phrase_den_15_gio_ngay_mung_1_tet_guid.mp3</mp3>
+      <vocabulary>Đến</vocabulary>
+      <chinese>到</chinese>
+      <vocabulary>15 giờ</vocabulary>
+      <chinese>15時</chinese>
+      <vocabulary>ngày mùng 1 Tết</vocabulary>
+      <chinese>大年初一</chinese>
+      <chinesePhrase>到大年初一15時</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析140：cơ quan công an -->
+    <phrase>
+      <text>cơ quan công an</text>
+      <mp3>phrase_co_quan_cong_an_guid.mp3</mp3>
+      <vocabulary>cơ quan công an</vocabulary>
+      <chinese>公安機關</chinese>
+      <chinesePhrase>公安機關</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析141：đã xác định -->
+    <phrase>
+      <text>đã xác định</text>
+      <mp3>phrase_da_xac_dinh_guid.mp3</mp3>
+      <vocabulary>đã xác định</vocabulary>
+      <chinese>已確定</chinese>
+      <chinesePhrase>已確定</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析142：và bắt giữ hai đối tượng gây án -->
+    <phrase>
+      <text>và bắt giữ hai đối tượng gây án</text>
+      <mp3>phrase_va_bat_giu_hai_doi_tuong_gay_an_guid.mp3</mp3>
+      <vocabulary>và</vocabulary>
+      <chinese>並</chinese>
+      <vocabulary>bắt giữ</vocabulary>
+      <chinese>抓獲</chinese>
+      <vocabulary>hai đối tượng gây án</vocabulary>
+      <chinese>兩名作案對象</chinese>
+      <chinesePhrase>並抓獲兩名作案對象</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析143：là Lê Anh Huy -->
+    <phrase>
+      <text>là Lê Anh Huy</text>
+      <mp3>phrase_la_le_anh_huy_guid.mp3</mp3>
+      <vocabulary>là</vocabulary>
+      <chinese>是</chinese>
+      <vocabulary>Lê Anh Huy</vocabulary>
+      <chinese>黎英輝</chinese>
+      <chinesePhrase>是黎英輝</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析144：và Trần Đỗ Thanh Phong -->
+    <phrase>
+      <text>và Trần Đỗ Thanh Phong</text>
+      <mp3>phrase_va_tran_do_thanh_phong_guid.mp3</mp3>
+      <vocabulary>và</vocabulary>
+      <chinese>和</chinese>
+      <vocabulary>Trần Đỗ Thanh Phong</vocabulary>
+      <chinese>陳杜清風</chinese>
+      <chinesePhrase>和陳杜清風</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析145：cùng sinh năm 2008 -->
+    <phrase>
+      <text>cùng sinh năm 2008</text>
+      <mp3>phrase_cung_sinh_nam_2008_guid.mp3</mp3>
+      <vocabulary>cùng</vocabulary>
+      <chinese>同樣</chinese>
+      <vocabulary>sinh năm 2008</vocabulary>
+      <chinese>2008年生</chinese>
+      <chinesePhrase>同為2008年生</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析146：trú tại xã Quảng Lập -->
+    <phrase>
+      <text>trú tại xã Quảng Lập</text>
+      <mp3>phrase_tru_tai_xa_quang_lap_guid.mp3</mp3>
+      <vocabulary>trú tại</vocabulary>
+      <chinese>居住於</chinese>
+      <vocabulary>xã Quảng Lập</vocabulary>
+      <chinese>廣立鄉</chinese>
+      <chinesePhrase>居於廣立鄉</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析147：Tang vật của vụ án -->
+    <phrase>
+      <text>Tang vật của vụ án</text>
+      <mp3>phrase_tang_vat_cua_vu_an_guid.mp3</mp3>
+      <vocabulary>Tang vật</vocabulary>
+      <chinese>贓物</chinese>
+      <vocabulary>của vụ án</vocabulary>
+      <chinese>案件的</chinese>
+      <chinesePhrase>案件贓物</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析148：cùng với phương tiện sử dụng để gây án -->
+    <phrase>
+      <text>cùng với phương tiện sử dụng để gây án</text>
+      <mp3>phrase_cung_voi_phuong_tien_su_dung_de_gay_an_guid.mp3</mp3>
+      <vocabulary>cùng với</vocabulary>
+      <chinese>以及</chinese>
+      <vocabulary>phương tiện sử dụng để gây án</vocabulary>
+      <chinese>作案工具</chinese>
+      <chinesePhrase>以及作案工具</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析149：đã được thu giữ đầy đủ -->
+    <phrase>
+      <text>đã được thu giữ đầy đủ</text>
+      <mp3>phrase_da_duoc_thu_giu_day_du_guid.mp3</mp3>
+      <vocabulary>đã được</vocabulary>
+      <chinese>已被</chinese>
+      <vocabulary>thu giữ</vocabulary>
+      <chinese>收繳</chinese>
+      <vocabulary>đầy đủ</vocabulary>
+      <chinese>完全</chinese>
+      <chinesePhrase>已被全部收繳</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析150：Việc nhanh chóng điều tra, làm rõ vụ án ngay trong dịp Tết -->
+    <phrase>
+      <text>Việc nhanh chóng điều tra, làm rõ vụ án ngay trong dịp Tết</text>
+      <mp3>phrase_viec_nhanh_chong_dieu_tra_lam_ro_vu_an_ngay_trong_dip_tet_guid.mp3</mp3>
+      <vocabulary>Việc</vocabulary>
+      <chinese>（名）事情</chinese>
+      <vocabulary>nhanh chóng</vocabulary>
+      <chinese>迅速</chinese>
+      <vocabulary>điều tra</vocabulary>
+      <chinese>調查</chinese>
+      <vocabulary>làm rõ</vocabulary>
+      <chinese>查清</chinese>
+      <vocabulary>vụ án</vocabulary>
+      <chinese>案件</chinese>
+      <vocabulary>ngay trong dịp Tết</vocabulary>
+      <chinese>就在春節期間</chinese>
+      <chinesePhrase>在春節期間迅速調查破案</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析151：thể hiện tinh thần trách nhiệm -->
+    <phrase>
+      <text>thể hiện tinh thần trách nhiệm</text>
+      <mp3>phrase_the_hien_tinh_than_trach_nhiem_guid.mp3</mp3>
+      <vocabulary>thể hiện</vocabulary>
+      <chinese>體現</chinese>
+      <vocabulary>tinh thần trách nhiệm</vocabulary>
+      <chinese>責任感</chinese>
+      <chinesePhrase>體現了責任感</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析152：sự quyết liệt -->
+    <phrase>
+      <text>sự quyết liệt</text>
+      <mp3>phrase_su_quyet_liet_guid.mp3</mp3>
+      <vocabulary>sự quyết liệt</vocabulary>
+      <chinese>果斷/堅決</chinese>
+      <chinesePhrase>果斷精神</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析153：của lực lượng công an -->
+    <phrase>
+      <text>của lực lượng công an</text>
+      <mp3>phrase_cua_luc_luong_cong_an_guid.mp3</mp3>
+      <vocabulary>của</vocabulary>
+      <chinese>的</chinese>
+      <vocabulary>lực lượng công an</vocabulary>
+      <chinese>公安力量</chinese>
+      <chinesePhrase>公安力量的</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析154：trong cao điểm tấn công trấn áp tội phạm -->
+    <phrase>
+      <text>trong cao điểm tấn công trấn áp tội phạm</text>
+      <mp3>phrase_trong_cao_diem_tan_cong_tran_ap_toi_pham_guid.mp3</mp3>
+      <vocabulary>trong</vocabulary>
+      <chinese>在...中</chinese>
+      <vocabulary>cao điểm</vocabulary>
+      <chinese>高峰期</chinese>
+      <vocabulary>tấn công trấn áp tội phạm</vocabulary>
+      <chinese>打擊犯罪</chinese>
+      <chinesePhrase>在打擊犯罪高峰期</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析155：góp phần giữ vững an ninh trật tự -->
+    <phrase>
+      <text>góp phần giữ vững an ninh trật tự</text>
+      <mp3>phrase_gop_phan_giu_vung_an_ninh_trat_tu_guid.mp3</mp3>
+      <vocabulary>góp phần</vocabulary>
+      <chinese>為...做出貢獻</chinese>
+      <vocabulary>giữ vững</vocabulary>
+      <chinese>維護</chinese>
+      <vocabulary>an ninh trật tự</vocabulary>
+      <chinese>治安秩序</chinese>
+      <chinesePhrase>為維護治安秩序做出貢獻</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析156：bảo đảm bình yên cho nhân dân vui xuân đón Tết -->
+    <phrase>
+      <text>bảo đảm bình yên cho nhân dân vui xuân đón Tết</text>
+      <mp3>phrase_bao_dam_binh_yen_cho_nhan_dan_vui_xuan_don_tet_guid.mp3</mp3>
+      <vocabulary>bảo đảm</vocabulary>
+      <chinese>保障</chinese>
+      <vocabulary>bình yên</vocabulary>
+      <chinese>平安</chinese>
+      <vocabulary>cho nhân dân</vocabulary>
+      <chinese>為人民</chinese>
+      <vocabulary>vui xuân đón Tết</vocabulary>
+      <chinese>歡度春節</chinese>
+      <chinesePhrase>保障人民安度春節</chinesePhrase>
+    </phrase>
+  </subject>
+</xml>
