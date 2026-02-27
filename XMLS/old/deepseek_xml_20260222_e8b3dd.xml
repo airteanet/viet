@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <!-- 標題：不同意撫養丈夫的親生孩子 -->
+  <subject>
+    <text>不同意撫養丈夫的親生孩子</text>
+    <translate>Không đồng ý nuôi con riêng của chồng</translate>
+    <mp3>subject_title_khong_dong_y_nuoi_con_rieng_guid.mp3</mp3>
+
+    <!-- 詞組分析1：Không đồng ý -->
+    <phrase>
+      <text>Không đồng ý</text>
+      <mp3>phrase_khong_dong_y_guid.mp3</mp3>
+      <vocabulary>Không</vocabulary>
+      <chinese>（副）不</chinese>
+      <vocabulary>đồng ý</vocabulary>
+      <chinese>（動）同意</chinese>
+      <chinesePhrase>不同意</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析2：nuôi -->
+    <phrase>
+      <text>nuôi</text>
+      <mp3>phrase_nuoi_guid.mp3</mp3>
+      <vocabulary>nuôi</vocabulary>
+      <chinese>（動）撫養/養育</chinese>
+      <chinesePhrase>撫養</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析3：con riêng -->
+    <phrase>
+      <text>con riêng</text>
+      <mp3>phrase_con_rieng_guid.mp3</mp3>
+      <vocabulary>con riêng</vocabulary>
+      <chinese>（名）親生子女/前段婚姻的孩子</chinese>
+      <chinesePhrase>親生孩子</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析4：của chồng -->
+    <phrase>
+      <text>của chồng</text>
+      <mp3>phrase_cua_chong_guid.mp3</mp3>
+      <vocabulary>của</vocabulary>
+      <chinese>的</chinese>
+      <vocabulary>chồng</vocabulary>
+      <chinese>（名）丈夫</chinese>
+      <chinesePhrase>丈夫的</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第二段：強烈反對的原因 -->
+  <subject>
+    <text>我強烈反對和丈夫的親生孩子住在一起，因為我還在生氣他和他的家人曾經隱瞞他有親生孩子這件事。</text>
+    <translate>Tôi phản đối kịch liệt việc ở cùng con riêng của chồng, vì còn giận chuyện anh và gia đình từng giấu chuyện anh có con riêng.</translate>
+    <mp3>subject_strong_opposition_reason_guid.mp3</mp3>
+
+    <!-- 詞組分析5：Tôi phản đối kịch liệt -->
+    <phrase>
+      <text>Tôi phản đối kịch liệt</text>
+      <mp3>phrase_toi_phan_doi_kich_liet_guid.mp3</mp3>
+      <vocabulary>Tôi</vocabulary>
+      <chinese>我</chinese>
+      <vocabulary>phản đối kịch liệt</vocabulary>
+      <chinese>強烈反對</chinese>
+      <chinesePhrase>我強烈反對</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析6：việc ở cùng con riêng của chồng -->
+    <phrase>
+      <text>việc ở cùng con riêng của chồng</text>
+      <mp3>phrase_viec_o_cung_con_rieng_cua_chong_guid.mp3</mp3>
+      <vocabulary>việc</vocabulary>
+      <chinese>（名）事情/這件事</chinese>
+      <vocabulary>ở cùng</vocabulary>
+      <chinese>和...住在一起</chinese>
+      <vocabulary>con riêng của chồng</vocabulary>
+      <chinese>丈夫的親生孩子</chinese>
+      <chinesePhrase>和丈夫的親生孩子住在一起這件事</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析7：vì còn giận -->
+    <phrase>
+      <text>vì còn giận</text>
+      <mp3>phrase_vi_con_gian_guid.mp3</mp3>
+      <vocabulary>vì</vocabulary>
+      <chinese>（介）因為</chinese>
+      <vocabulary>còn giận</vocabulary>
+      <chinese>還在生氣</chinese>
+      <chinesePhrase>因為還在生氣</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析8：chuyện anh và gia đình từng giấu -->
+    <phrase>
+      <text>chuyện anh và gia đình từng giấu</text>
+      <mp3>phrase_chuyen_anh_va_gia_dinh_tung_giau_guid.mp3</mp3>
+      <vocabulary>chuyện</vocabulary>
+      <chinese>（名）事情</chinese>
+      <vocabulary>anh và gia đình từng giấu</vocabulary>
+      <chinese>他和他的家人曾經隱瞞</chinese>
+      <chinesePhrase>他和他的家人曾經隱瞞這件事</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析9：chuyện anh có con riêng -->
+    <phrase>
+      <text>chuyện anh có con riêng</text>
+      <mp3>phrase_chuyen_anh_co_con_rieng_guid.mp3</mp3>
+      <vocabulary>chuyện</vocabulary>
+      <chinese>事情</chinese>
+      <vocabulary>anh có con riêng</vocabulary>
+      <chinese>他有親生孩子</chinese>
+      <chinesePhrase>他有親生孩子這件事</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第三段：家庭背景介紹 -->
+  <subject>
+    <text>我31歲，在國營企業工作。丈夫35歲，在私人企業工作。我們結婚將近三年，女兒兩歲。交往時，他和他的家人隱瞞了他曾經結婚並有一個親生兒子的情況，當時孩子四歲。他生活在並在南部工作，兒子留給在北部落老家的祖父母撫養。</text>
+    <translate>Tôi 31 tuổi, làm việc tại công ty nhà nước. Chồng 35 tuổi, làm việc trong doanh nghiệp tư nhân. Vợ chồng tôi cưới được gần ba năm, con gái hai tuổi. Khi tìm hiểu nhau, anh và gia đình đã giấu việc anh từng kết hôn và có con trai riêng, thời điểm đó cháu được bốn tuổi. Anh sống và làm việc ở miền Nam, con trai gửi ông bà nội nuôi ở quê, quê anh ở ngoài Bắc.</translate>
+    <mp3>subject_family_background_guid.mp3</mp3>
+
+    <!-- 詞組分析10：Tôi 31 tuổi -->
+    <phrase>
+      <text>Tôi 31 tuổi</text>
+      <mp3>phrase_toi_31_tuoi_guid.mp3</mp3>
+      <vocabulary>Tôi</vocabulary>
+      <chinese>我</chinese>
+      <vocabulary>31 tuổi</vocabulary>
+      <chinese>31歲</chinese>
+      <chinesePhrase>我31歲</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析11：làm việc tại công ty nhà nước -->
+    <phrase>
+      <text>làm việc tại công ty nhà nước</text>
+      <mp3>phrase_lam_viec_tai_cong_ty_nha_nuoc_guid.mp3</mp3>
+      <vocabulary>làm việc tại</vocabulary>
+      <chinese>在...工作</chinese>
+      <vocabulary>công ty nhà nước</vocabulary>
+      <chinese>國營企業</chinese>
+      <chinesePhrase>在國營企業工作</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析12：Chồng 35 tuổi -->
+    <phrase>
+      <text>Chồng 35 tuổi</text>
+      <mp3>phrase_chong_35_tuoi_guid.mp3</mp3>
+      <vocabulary>Chồng</vocabulary>
+      <chinese>丈夫</chinese>
+      <vocabulary>35 tuổi</vocabulary>
+      <chinese>35歲</chinese>
+      <chinesePhrase>丈夫35歲</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析13：làm việc trong doanh nghiệp tư nhân -->
+    <phrase>
+      <text>làm việc trong doanh nghiệp tư nhân</text>
+      <mp3>phrase_lam_viec_trong_doanh_nghiep_tu_nhan_guid.mp3</mp3>
+      <vocabulary>làm việc trong</vocabulary>
+      <chinese>在...工作</chinese>
+      <vocabulary>doanh nghiệp tư nhân</vocabulary>
+      <chinese>私人企業</chinese>
+      <chinesePhrase>在私人企業工作</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析14：Vợ chồng tôi cưới được gần ba năm -->
+    <phrase>
+      <text>Vợ chồng tôi cưới được gần ba năm</text>
+      <mp3>phrase_vo_chong_toi_cuoi_duoc_gan_ba_nam_guid.mp3</mp3>
+      <vocabulary>Vợ chồng tôi</vocabulary>
+      <chinese>我們夫妻</chinese>
+      <vocabulary>cưới được gần ba năm</vocabulary>
+      <chinese>結婚將近三年</chinese>
+      <chinesePhrase>我們結婚將近三年</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析15：con gái hai tuổi -->
+    <phrase>
+      <text>con gái hai tuổi</text>
+      <mp3>phrase_con_gai_hai_tuoi_guid.mp3</mp3>
+      <vocabulary>con gái</vocabulary>
+      <chinese>女兒</chinese>
+      <vocabulary>hai tuổi</vocabulary>
+      <chinese>兩歲</chinese>
+      <chinesePhrase>女兒兩歲</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析16：Khi tìm hiểu nhau -->
+    <phrase>
+      <text>Khi tìm hiểu nhau</text>
+      <mp3>phrase_khi_tim_hieu_nhau_guid.mp3</mp3>
+      <vocabulary>Khi</vocabulary>
+      <chinese>當...時</chinese>
+      <vocabulary>tìm hiểu nhau</vocabulary>
+      <chinese>互相了解/交往</chinese>
+      <chinesePhrase>交往時</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析17：anh và gia đình đã giấu -->
+    <phrase>
+      <text>anh và gia đình đã giấu</text>
+      <mp3>phrase_anh_va_gia_dinh_da_giau_guid.mp3</mp3>
+      <vocabulary>anh và gia đình</vocabulary>
+      <chinese>他和他的家人</chinese>
+      <vocabulary>đã giấu</vocabulary>
+      <chinese>已經隱瞞了</chinese>
+      <chinesePhrase>他和他的家人隱瞞了</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析18：việc anh từng kết hôn và có con trai riêng -->
+    <phrase>
+      <text>việc anh từng kết hôn và có con trai riêng</text>
+      <mp3>phrase_viec_anh_tung_ket_hon_va_co_con_trai_rieng_guid.mp3</mp3>
+      <vocabulary>việc</vocabulary>
+      <chinese>事情</chinese>
+      <vocabulary>anh từng kết hôn</vocabulary>
+      <chinese>他曾經結婚</chinese>
+      <vocabulary>và có con trai riêng</vocabulary>
+      <chinese>並有一個親生兒子</chinese>
+      <chinesePhrase>他曾經結婚並有一個親生兒子這件事</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析19：thời điểm đó cháu được bốn tuổi -->
+    <phrase>
+      <text>thời điểm đó cháu được bốn tuổi</text>
+      <mp3>phrase_thoi_diem_do_chau_duoc_bon_tuoi_guid.mp3</mp3>
+      <vocabulary>thời điểm đó</vocabulary>
+      <chinese>那時候</chinese>
+      <vocabulary>cháu</vocabulary>
+      <chinese>孩子</chinese>
+      <vocabulary>được bốn tuổi</vocabulary>
+      <chinese>四歲</chinese>
+      <chinesePhrase>當時孩子四歲</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析20：Anh sống và làm việc ở miền Nam -->
+    <phrase>
+      <text>Anh sống và làm việc ở miền Nam</text>
+      <mp3>phrase_anh_song_va_lam_viec_o_mien_nam_guid.mp3</mp3>
+      <vocabulary>Anh</vocabulary>
+      <chinese>他</chinese>
+      <vocabulary>sống và làm việc ở miền Nam</vocabulary>
+      <chinese>在南部生活和工作</chinese>
+      <chinesePhrase>他在南部生活和工作</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析21：con trai gửi ông bà nội nuôi ở quê -->
+    <phrase>
+      <text>con trai gửi ông bà nội nuôi ở quê</text>
+      <mp3>phrase_con_trai_gui_ong_ba_noi_nuoi_o_que_guid.mp3</mp3>
+      <vocabulary>con trai</vocabulary>
+      <chinese>兒子</chinese>
+      <vocabulary>gửi ông bà nội nuôi ở quê</vocabulary>
+      <chinese>留給在鄉下的祖父母撫養</chinese>
+      <chinesePhrase>兒子留給在鄉下的祖父母撫養</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析22：quê anh ở ngoài Bắc -->
+    <phrase>
+      <text>quê anh ở ngoài Bắc</text>
+      <mp3>phrase_que_anh_o_ngoai_bac_guid.mp3</mp3>
+      <vocabulary>quê anh</vocabulary>
+      <chinese>他的家鄉</chinese>
+      <vocabulary>ở ngoài Bắc</vocabulary>
+      <chinese>在北部</chinese>
+      <chinesePhrase>他的家鄉在北部</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第四段：被隱瞞的真相 -->
+  <subject>
+    <text>有一次他媽媽帶著孩子到南部探望爸爸，我去家裡玩的時候，他和媽媽告訴我，孩子叫我一聲叔叔，是鄉下妹妹的孩子，他妹妹沒有條件照顧所以請媽媽幫忙照顧，因為很親近所以孩子叫他爸爸。我當時相信了他的話，沒有再多想。</text>
+    <translate>Có lần mẹ anh mang cháu vào Nam thăm bố, tôi có đến nhà chơi thì được anh và mẹ nói là cháu gọi bằng bác, là con của em gái ở quê, em anh không có điều kiện chăm sóc nên gửi mẹ anh chăm giúp, vì thân thiết nên bé gọi anh là bố. Tôi đã tin lời anh kể như vậy, không bận tâm suy nghĩ gì thêm.</translate>
+    <mp3>subject_hidden_truth_incident_guid.mp3</mp3>
+
+    <!-- 詞組分析23：Có lần mẹ anh mang cháu vào Nam thăm bố -->
+    <phrase>
+      <text>Có lần mẹ anh mang cháu vào Nam thăm bố</text>
+      <mp3>phrase_co_lan_me_anh_mang_chau_vao_nam_tham_bo_guid.mp3</mp3>
+      <vocabulary>Có lần</vocabulary>
+      <chinese>有一次</chinese>
+      <vocabulary>mẹ anh mang cháu vào Nam thăm bố</vocabulary>
+      <chinese>他媽媽帶著孩子到南部探望爸爸</chinese>
+      <chinesePhrase>有一次他媽媽帶著孩子到南部探望爸爸</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析24：tôi có đến nhà chơi -->
+    <phrase>
+      <text>tôi có đến nhà chơi</text>
+      <mp3>phrase_toi_co_den_nha_choi_guid.mp3</mp3>
+      <vocabulary>tôi có đến nhà chơi</vocabulary>
+      <chinese>我去他家玩</chinese>
+      <chinesePhrase>我去他家玩</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析25：thì được anh và mẹ nói là cháu gọi bằng bác -->
+    <phrase>
+      <text>thì được anh và mẹ nói là cháu gọi bằng bác</text>
+      <mp3>phrase_thi_duoc_anh_va_me_noi_la_chau_goi_bang_bac_guid.mp3</mp3>
+      <vocabulary>thì được anh và mẹ nói là</vocabulary>
+      <chinese>就聽到他和媽媽說</chinese>
+      <vocabulary>cháu gọi bằng bác</vocabulary>
+      <chinese>孩子叫我一聲叔叔</chinese>
+      <chinesePhrase>就聽到他和媽媽說孩子叫我一聲叔叔</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析26：là con của em gái ở quê -->
+    <phrase>
+      <text>là con của em gái ở quê</text>
+      <mp3>phrase_la_con_cua_em_gai_o_que_guid.mp3</mp3>
+      <vocabulary>là</vocabulary>
+      <chinese>是</chinese>
+      <vocabulary>con của em gái ở quê</vocabulary>
+      <chinese>鄉下妹妹的孩子</chinese>
+      <chinesePhrase>是鄉下妹妹的孩子</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析27：em anh không có điều kiện chăm sóc nên gửi mẹ anh chăm giúp -->
+    <phrase>
+      <text>em anh không có điều kiện chăm sóc nên gửi mẹ anh chăm giúp</text>
+      <mp3>phrase_em_anh_khong_co_dieu_kien_cham_soc_nen_gui_me_anh_cham_giup_guid.mp3</mp3>
+      <vocabulary>em anh không có điều kiện chăm sóc</vocabulary>
+      <chinese>他妹妹沒有條件照顧</chinese>
+      <vocabulary>nên gửi mẹ anh chăm giúp</vocabulary>
+      <chinese>所以請他媽媽幫忙照顧</chinese>
+      <chinesePhrase>他妹妹沒有條件照顧所以請他媽媽幫忙照顧</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析28：vì thân thiết nên bé gọi anh là bố -->
+    <phrase>
+      <text>vì thân thiết nên bé gọi anh là bố</text>
+      <mp3>phrase_vi_than_thiet_nen_be_goi_anh_la_bo_guid.mp3</mp3>
+      <vocabulary>vì thân thiết</vocabulary>
+      <chinese>因為很親近</chinese>
+      <vocabulary>nên bé gọi anh là bố</vocabulary>
+      <chinese>所以孩子叫他爸爸</chinese>
+      <chinesePhrase>因為很親近所以孩子叫他爸爸</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析29：Tôi đã tin lời anh kể như vậy -->
+    <phrase>
+      <text>Tôi đã tin lời anh kể như vậy</text>
+      <mp3>phrase_toi_da_tin_loi_anh_ke_nhu_vay_guid.mp3</mp3>
+      <vocabulary>Tôi đã tin</vocabulary>
+      <chinese>我當時相信了</chinese>
+      <vocabulary>lời anh kể như vậy</vocabulary>
+      <chinese>他這樣說的話</chinese>
+      <chinesePhrase>我當時相信了他的話</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析30：không bận tâm suy nghĩ gì thêm -->
+    <phrase>
+      <text>không bận tâm suy nghĩ gì thêm</text>
+      <mp3>phrase_khong_ban_tam_suy_nghi_gi_them_guid.mp3</mp3>
+      <vocabulary>không bận tâm</vocabulary>
+      <chinese>沒有在意</chinese>
+      <vocabulary>suy nghĩ gì thêm</vocabulary>
+      <chinese>再多想</chinese>
+      <chinesePhrase>沒有再多想</chinesePhrase>
+    </phrase>
+  </subject>
+</xml>

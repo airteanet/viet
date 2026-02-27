@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <!-- 標題：川普：伊朗有15天時間談判 -->
+  <subject>
+    <text>川普：伊朗有15天時間談判</text>
+    <translate>Ông Trump: Iran có 15 ngày để thương thảo</translate>
+    <mp3>subject_trump_iran_title_guid.mp3</mp3>
+
+    <!-- 詞組分析1：Ông Trump -->
+    <phrase>
+      <text>Ông Trump</text>
+      <mp3>phrase_ong_trump_guid.mp3</mp3>
+      <vocabulary>Ông</vocabulary>
+      <chinese>（名）先生</chinese>
+      <vocabulary>Trump</vocabulary>
+      <chinese>（名）川普</chinese>
+      <chinesePhrase>川普先生</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析2：Iran -->
+    <phrase>
+      <text>Iran</text>
+      <mp3>phrase_iran_guid.mp3</mp3>
+      <vocabulary>Iran</vocabulary>
+      <chinese>（名）伊朗</chinese>
+      <chinesePhrase>伊朗</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析3：có -->
+    <phrase>
+      <text>có</text>
+      <mp3>phrase_co_guid.mp3</mp3>
+      <vocabulary>có</vocabulary>
+      <chinese>（動）有</chinese>
+      <chinesePhrase>有</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析4：15 ngày -->
+    <phrase>
+      <text>15 ngày</text>
+      <mp3>phrase_15_ngay_guid.mp3</mp3>
+      <vocabulary>15</vocabulary>
+      <chinese>（數）十五</chinese>
+      <vocabulary>ngày</vocabulary>
+      <chinese>（名）天</chinese>
+      <chinesePhrase>15天</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析5：để -->
+    <phrase>
+      <text>để</text>
+      <mp3>phrase_de_guid.mp3</mp3>
+      <vocabulary>để</vocabulary>
+      <chinese>（介）為了</chinese>
+      <chinesePhrase>為了</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析6：thương thảo -->
+    <phrase>
+      <text>thương thảo</text>
+      <mp3>phrase_thuong_thao_guid.mp3</mp3>
+      <vocabulary>thương thảo</vocabulary>
+      <chinese>（動）談判/協商</chinese>
+      <chinesePhrase>談判</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第二段：川普對伊朗的警告 -->
+  <subject>
+    <text>美國總統警告伊朗需要在10-15天內達成核計劃協議，否則將面臨「糟糕的事情」。</text>
+    <translate>Tổng thống Mỹ cảnh báo Iran cần đạt thỏa thuận về chương trình hạt nhân trong 10-15 ngày, nếu không sẽ phải đối mặt với "những điều tồi tệ".</translate>
+    <mp3>subject_trump_warning_iran_guid.mp3</mp3>
+
+    <!-- 詞組分析7：Tổng thống Mỹ -->
+    <phrase>
+      <text>Tổng thống Mỹ</text>
+      <mp3>phrase_tong_thong_my_guid.mp3</mp3>
+      <vocabulary>Tổng thống</vocabulary>
+      <chinese>（名）總統</chinese>
+      <vocabulary>Mỹ</vocabulary>
+      <chinese>（名）美國</chinese>
+      <chinesePhrase>美國總統</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析8：cảnh báo -->
+    <phrase>
+      <text>cảnh báo</text>
+      <mp3>phrase_canh_bao_guid.mp3</mp3>
+      <vocabulary>cảnh báo</vocabulary>
+      <chinese>（動）警告</chinese>
+      <chinesePhrase>警告</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析9：Iran -->
+    <phrase>
+      <text>Iran</text>
+      <mp3>phrase_iran2_guid.mp3</mp3>
+      <vocabulary>Iran</vocabulary>
+      <chinese>伊朗</chinese>
+      <chinesePhrase>伊朗</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析10：cần -->
+    <phrase>
+      <text>cần</text>
+      <mp3>phrase_can_guid.mp3</mp3>
+      <vocabulary>cần</vocabulary>
+      <chinese>（動）需要</chinese>
+      <chinesePhrase>需要</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析11：đạt -->
+    <phrase>
+      <text>đạt</text>
+      <mp3>phrase_dat_guid.mp3</mp3>
+      <vocabulary>đạt</vocabulary>
+      <chinese>（動）達成</chinese>
+      <chinesePhrase>達成</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析12：thỏa thuận -->
+    <phrase>
+      <text>thỏa thuận</text>
+      <mp3>phrase_thoa_thuan_guid.mp3</mp3>
+      <vocabulary>thỏa thuận</vocabulary>
+      <chinese>（名）協議</chinese>
+      <chinesePhrase>協議</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析13：về -->
+    <phrase>
+      <text>về</text>
+      <mp3>phrase_ve_guid.mp3</mp3>
+      <vocabulary>về</vocabulary>
+      <chinese>（介）關於</chinese>
+      <chinesePhrase>關於</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析14：chương trình hạt nhân -->
+    <phrase>
+      <text>chương trình hạt nhân</text>
+      <mp3>phrase_chuong_trinh_hat_nhan_guid.mp3</mp3>
+      <vocabulary>chương trình</vocabulary>
+      <chinese>（名）計劃/項目</chinese>
+      <vocabulary>hạt nhân</vocabulary>
+      <chinese>（名）核</chinese>
+      <chinesePhrase>核計劃</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析15：trong -->
+    <phrase>
+      <text>trong</text>
+      <mp3>phrase_trong_guid.mp3</mp3>
+      <vocabulary>trong</vocabulary>
+      <chinese>（介）在...之內</chinese>
+      <chinesePhrase>在</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析16：10-15 ngày -->
+    <phrase>
+      <text>10-15 ngày</text>
+      <mp3>phrase_10_15_ngay_guid.mp3</mp3>
+      <vocabulary>10-15</vocabulary>
+      <chinese>十到十五</chinese>
+      <vocabulary>ngày</vocabulary>
+      <chinese>天</chinese>
+      <chinesePhrase>10-15天</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析17：nếu không -->
+    <phrase>
+      <text>nếu không</text>
+      <mp3>phrase_neu_khong_guid.mp3</mp3>
+      <vocabulary>nếu không</vocabulary>
+      <chinese>（連）否則/如果不</chinese>
+      <chinesePhrase>否則</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析18：sẽ -->
+    <phrase>
+      <text>sẽ</text>
+      <mp3>phrase_se_guid.mp3</mp3>
+      <vocabulary>sẽ</vocabulary>
+      <chinese>（副）將</chinese>
+      <chinesePhrase>將</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析19：phải đối mặt với -->
+    <phrase>
+      <text>phải đối mặt với</text>
+      <mp3>phrase_phai_doi_mat_voi_guid.mp3</mp3>
+      <vocabulary>phải đối mặt với</vocabulary>
+      <chinese>（動）面對</chinese>
+      <chinesePhrase>面對</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析20："những điều tồi tệ" -->
+    <phrase>
+      <text>"những điều tồi tệ"</text>
+      <mp3>phrase_nhung_dieu_toi_te_guid.mp3</mp3>
+      <vocabulary>những</vocabulary>
+      <chinese>（量）那些</chinese>
+      <vocabulary>điều tồi tệ</vocabulary>
+      <chinese>糟糕的事情</chinese>
+      <chinesePhrase>「糟糕的事情」</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第三段：川普2月19日談話 -->
+  <subject>
+    <text>美國總統川普2月19日表示，與伊朗的談判正在順利進行，但要求德黑蘭「必須達成一份有意義的協議」。</text>
+    <translate>Tổng thống Mỹ Donald Trump ngày 19/2 cho biết các cuộc đàm phán với Iran đang diễn ra suôn sẻ, nhưng yêu cầu Tehran "phải đạt một thỏa thuận có ý nghĩa".</translate>
+    <mp3>subject_trump_negotiation_update_guid.mp3</mp3>
+
+    <!-- 詞組分析21：Tổng thống Mỹ Donald Trump -->
+    <phrase>
+      <text>Tổng thống Mỹ Donald Trump</text>
+      <mp3>phrase_tong_thong_my_donald_trump_guid.mp3</mp3>
+      <vocabulary>Tổng thống Mỹ</vocabulary>
+      <chinese>美國總統</chinese>
+      <vocabulary>Donald Trump</vocabulary>
+      <chinese>（名）唐納·川普</chinese>
+      <chinesePhrase>美國總統唐納·川普</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析22：ngày 19/2 -->
+    <phrase>
+      <text>ngày 19/2</text>
+      <mp3>phrase_ngay_19_2_guid.mp3</mp3>
+      <vocabulary>ngày</vocabulary>
+      <chinese>日</chinese>
+      <vocabulary>19/2</vocabulary>
+      <chinese>2月19日</chinese>
+      <chinesePhrase>2月19日</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析23：cho biết -->
+    <phrase>
+      <text>cho biết</text>
+      <mp3>phrase_cho_biet_guid.mp3</mp3>
+      <vocabulary>cho biết</vocabulary>
+      <chinese>表示</chinese>
+      <chinesePhrase>表示</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析24：các cuộc đàm phán -->
+    <phrase>
+      <text>các cuộc đàm phán</text>
+      <mp3>phrase_cac_cuoc_dam_phan_guid.mp3</mp3>
+      <vocabulary>các</vocabulary>
+      <chinese>（量）各</chinese>
+      <vocabulary>cuộc đàm phán</vocabulary>
+      <chinese>（名）談判</chinese>
+      <chinesePhrase>各場談判</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析25：với -->
+    <phrase>
+      <text>với</text>
+      <mp3>phrase_voi_guid.mp3</mp3>
+      <vocabulary>với</vocabulary>
+      <chinese>（介）與</chinese>
+      <chinesePhrase>與</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析26：Iran -->
+    <phrase>
+      <text>Iran</text>
+      <mp3>phrase_iran3_guid.mp3</mp3>
+      <vocabulary>Iran</vocabulary>
+      <chinese>伊朗</chinese>
+      <chinesePhrase>伊朗</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析27：đang -->
+    <phrase>
+      <text>đang</text>
+      <mp3>phrase_dang_guid.mp3</mp3>
+      <vocabulary>đang</vocabulary>
+      <chinese>（副）正在</chinese>
+      <chinesePhrase>正在</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析28：diễn ra -->
+    <phrase>
+      <text>diễn ra</text>
+      <mp3>phrase_dien_ra_guid.mp3</mp3>
+      <vocabulary>diễn ra</vocabulary>
+      <chinese>（動）進行/發生</chinese>
+      <chinesePhrase>進行</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析29：suôn sẻ -->
+    <phrase>
+      <text>suôn sẻ</text>
+      <mp3>phrase_suon_se_guid.mp3</mp3>
+      <vocabulary>suôn sẻ</vocabulary>
+      <chinese>（形）順利</chinese>
+      <chinesePhrase>順利</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析30：nhưng -->
+    <phrase>
+      <text>nhưng</text>
+      <mp3>phrase_nhung_guid.mp3</mp3>
+      <vocabulary>nhưng</vocabulary>
+      <chinese>（連）但是</chinese>
+      <chinesePhrase>但是</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析31：yêu cầu -->
+    <phrase>
+      <text>yêu cầu</text>
+      <mp3>phrase_yeu_cau_guid.mp3</mp3>
+      <vocabulary>yêu cầu</vocabulary>
+      <chinese>（動）要求</chinese>
+      <chinesePhrase>要求</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析32：Tehran -->
+    <phrase>
+      <text>Tehran</text>
+      <mp3>phrase_tehran_guid.mp3</mp3>
+      <vocabulary>Tehran</vocabulary>
+      <chinese>（名）德黑蘭</chinese>
+      <chinesePhrase>德黑蘭</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析33："phải đạt một thỏa thuận có ý nghĩa" -->
+    <phrase>
+      <text>"phải đạt một thỏa thuận có ý nghĩa"</text>
+      <mp3>phrase_phai_dat_mot_thoa_thuan_co_y_nghia_guid.mp3</mp3>
+      <vocabulary>phải</vocabulary>
+      <chinese>必須</chinese>
+      <vocabulary>đạt</vocabulary>
+      <chinese>達成</chinese>
+      <vocabulary>một thỏa thuận</vocabulary>
+      <chinese>一份協議</chinese>
+      <vocabulary>có ý nghĩa</vocabulary>
+      <chinese>有意義的</chinese>
+      <chinesePhrase>「必須達成一份有意義的協議」</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第四段：川普的直接警告 -->
+  <subject>
+    <text>「否則糟糕的事情將會發生」，他說。美國總統提到美國在2025年6月空襲伊朗核設施，表示該國的核潛力已被「摧毀」。</text>
+    <translate>"Nếu không thì những điều tồi tệ sẽ xảy ra", ông nói. Tổng thống Mỹ nhắc tới việc Mỹ không kích các cơ sở hạt nhân Iran hồi tháng 6/2025, cho biết tiềm năng hạt nhân của quốc gia này đã bị "phá hủy".</translate>
+    <mp3>subject_trump_direct_warning_guid.mp3</mp3>
+
+    <!-- 詞組分析34："Nếu không thì những điều tồi tệ sẽ xảy ra" -->
+    <phrase>
+      <text>"Nếu không thì những điều tồi tệ sẽ xảy ra"</text>
+      <mp3>phrase_neu_khong_thi_nhung_dieu_toi_te_se_xay_ra_guid.mp3</mp3>
+      <vocabulary>Nếu không thì</vocabulary>
+      <chinese>否則</chinese>
+      <vocabulary>những điều tồi tệ</vocabulary>
+      <chinese>糟糕的事情</chinese>
+      <vocabulary>sẽ xảy ra</vocabulary>
+      <chinese>將會發生</chinese>
+      <chinesePhrase>「否則糟糕的事情將會發生」</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析35：ông nói -->
+    <phrase>
+      <text>ông nói</text>
+      <mp3>phrase_ong_noi_guid.mp3</mp3>
+      <vocabulary>ông</vocabulary>
+      <chinese>他</chinese>
+      <vocabulary>nói</vocabulary>
+      <chinese>說</chinese>
+      <chinesePhrase>他說</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析36：Tổng thống Mỹ -->
+    <phrase>
+      <text>Tổng thống Mỹ</text>
+      <mp3>phrase_tong_thong_my2_guid.mp3</mp3>
+      <vocabulary>Tổng thống Mỹ</vocabulary>
+      <chinese>美國總統</chinese>
+      <chinesePhrase>美國總統</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析37：nhắc tới -->
+    <phrase>
+      <text>nhắc tới</text>
+      <mp3>phrase_nhac_toi_guid.mp3</mp3>
+      <vocabulary>nhắc tới</vocabulary>
+      <chinese>（動）提到</chinese>
+      <chinesePhrase>提到</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析38：việc -->
+    <phrase>
+      <text>việc</text>
+      <mp3>phrase_viec_guid.mp3</mp3>
+      <vocabulary>việc</vocabulary>
+      <chinese>（名）事情/事件</chinese>
+      <chinesePhrase>事件</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析39：Mỹ không kích -->
+    <phrase>
+      <text>Mỹ không kích</text>
+      <mp3>phrase_my_khong_kich_guid.mp3</mp3>
+      <vocabulary>Mỹ</vocabulary>
+      <chinese>美國</chinese>
+      <vocabulary>không kích</vocabulary>
+      <chinese>（動）空襲</chinese>
+      <chinesePhrase>美國空襲</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析40：các cơ sở hạt nhân Iran -->
+    <phrase>
+      <text>các cơ sở hạt nhân Iran</text>
+      <mp3>phrase_cac_co_so_hat_nhan_iran_guid.mp3</mp3>
+      <vocabulary>các</vocabulary>
+      <chinese>各</chinese>
+      <vocabulary>cơ sở hạt nhân</vocabulary>
+      <chinese>核設施</chinese>
+      <vocabulary>Iran</vocabulary>
+      <chinese>伊朗</chinese>
+      <chinesePhrase>伊朗各核設施</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析41：hồi tháng 6/2025 -->
+    <phrase>
+      <text>hồi tháng 6/2025</text>
+      <mp3>phrase_hoi_thang_6_2025_guid.mp3</mp3>
+      <vocabulary>hồi</vocabulary>
+      <chinese>（介）在...時候</chinese>
+      <vocabulary>tháng 6/2025</vocabulary>
+      <chinese>2025年6月</chinese>
+      <chinesePhrase>在2025年6月</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析42：cho biết -->
+    <phrase>
+      <text>cho biết</text>
+      <mp3>phrase_cho_biet2_guid.mp3</mp3>
+      <vocabulary>cho biết</vocabulary>
+      <chinese>表示</chinese>
+      <chinesePhrase>表示</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析43：tiềm năng hạt nhân -->
+    <phrase>
+      <text>tiềm năng hạt nhân</text>
+      <mp3>phrase_tiem_nang_hat_nhan_guid.mp3</mp3>
+      <vocabulary>tiềm năng</vocabulary>
+      <chinese>（名）潛力</chinese>
+      <vocabulary>hạt nhân</vocabulary>
+      <chinese>核</chinese>
+      <chinesePhrase>核潛力</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析44：của quốc gia này -->
+    <phrase>
+      <text>của quốc gia này</text>
+      <mp3>phrase_cua_quoc_gia_nay_guid.mp3</mp3>
+      <vocabulary>của</vocabulary>
+      <chinese>的</chinese>
+      <vocabulary>quốc gia này</vocabulary>
+      <chinese>該國</chinese>
+      <chinesePhrase>該國的</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析45：đã bị -->
+    <phrase>
+      <text>đã bị</text>
+      <mp3>phrase_da_bi_guid.mp3</mp3>
+      <vocabulary>đã</vocabulary>
+      <chinese>已經</chinese>
+      <vocabulary>bị</vocabulary>
+      <chinese>被</chinese>
+      <chinesePhrase>已被</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析46："phá hủy" -->
+    <phrase>
+      <text>"phá hủy"</text>
+      <mp3>phrase_pha_huy_guid.mp3</mp3>
+      <vocabulary>phá hủy</vocabulary>
+      <chinese>（動）摧毀</chinese>
+      <chinesePhrase>「摧毀」</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第五段：川普保留進一步行動可能性 -->
+  <subject>
+    <text>然而，川普表示「可能需要再進一步，也可能不用」。「各位將在大約10天內知道」，他說道。</text>
+    <translate>Tuy nhiên, ông Trump để ngỏ rằng "có thể phải đi xa thêm một bước, hoặc có thể không". "Các vị sẽ biết trong khoảng 10 ngày tới", ông phát biểu.</translate>
+    <mp3>subject_trump_open_option_guid.mp3</mp3>
+
+    <!-- 詞組分析47：Tuy nhiên -->
+    <phrase>
+      <text>Tuy nhiên</text>
+      <mp3>phrase_tuy_nhien_guid.mp3</mp3>
+      <vocabulary>Tuy nhiên</vocabulary>
+      <chinese>（連）然而</chinese>
+      <chinesePhrase>然而</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析48：ông Trump -->
+    <phrase>
+      <text>ông Trump</text>
+      <mp3>phrase_ong_trump2_guid.mp3</mp3>
+      <vocabulary>ông Trump</vocabulary>
+      <chinese>川普先生</chinese>
+      <chinesePhrase>川普</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析49：để ngỏ -->
+    <phrase>
+      <text>để ngỏ</text>
+      <mp3>phrase_de_ngo_guid.mp3</mp3>
+      <vocabulary>để ngỏ</vocabulary>
+      <chinese>（動）保留/留出</chinese>
+      <chinesePhrase>保留</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析50：rằng -->
+    <phrase>
+      <text>rằng</text>
+      <mp3>phrase_rang_guid.mp3</mp3>
+      <vocabulary>rằng</vocabulary>
+      <chinese>（連）說/道</chinese>
+      <chinesePhrase>說</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析51："có thể phải đi xa thêm một bước, hoặc có thể không" -->
+    <phrase>
+      <text>"có thể phải đi xa thêm một bước, hoặc có thể không"</text>
+      <mp3>phrase_co_the_phai_di_xa_them_mot_buoc_hoac_co_the_khong_guid.mp3</mp3>
+      <vocabulary>có thể phải</vocabulary>
+      <chinese>可能需要</chinese>
+      <vocabulary>đi xa thêm một bước</vocabulary>
+      <chinese>再進一步</chinese>
+      <vocabulary>hoặc có thể không</vocabulary>
+      <chinese>或者可能不</chinese>
+      <chinesePhrase>「可能需要再進一步，也可能不用」</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析52："Các vị sẽ biết trong khoảng 10 ngày tới" -->
+    <phrase>
+      <text>"Các vị sẽ biết trong khoảng 10 ngày tới"</text>
+      <mp3>phrase_cac_vi_se_biet_trong_khoang_10_ngay_toi_guid.mp3</mp3>
+      <vocabulary>Các vị</vocabulary>
+      <chinese>各位</chinese>
+      <vocabulary>sẽ biết</vocabulary>
+      <chinese>將會知道</chinese>
+      <vocabulary>trong khoảng</vocabulary>
+      <chinese>在大約</chinese>
+      <vocabulary>10 ngày tới</vocabulary>
+      <chinese>未來10天</chinese>
+      <chinesePhrase>「各位將在大約10天內知道」</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析53：ông phát biểu -->
+    <phrase>
+      <text>ông phát biểu</text>
+      <mp3>phrase_ong_phat_bieu_guid.mp3</mp3>
+      <vocabulary>ông</vocabulary>
+      <chinese>他</chinese>
+      <vocabulary>phát biểu</vocabulary>
+      <chinese>發表談話/說道</chinese>
+      <chinesePhrase>他說道</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第六段：川普澄清時間框架 -->
+  <subject>
+    <text>當被問及要求澄清時，他在空軍一號上告訴記者：「我認為這就足夠的時間了，10-15天，幾乎是最大限度。」</text>
+    <translate>Khi được hỏi để làm rõ, ông nói với các phóng viên trên Không lực Một: "Tôi nghĩ như vậy là đủ thời gian, 10-15 ngày, gần như tối đa".</translate>
+    <mp3>subject_trump_clarify_timeline_guid.mp3</mp3>
+
+    <!-- 詞組分析54：Khi được hỏi -->
+    <phrase>
+      <text>Khi được hỏi</text>
+      <mp3>phrase_khi_duoc_hoi_guid.mp3</mp3>
+      <vocabulary>Khi</vocabulary>
+      <chinese>當</chinese>
+      <vocabulary>được hỏi</vocabulary>
+      <chinese>被問及</chinese>
+      <chinesePhrase>當被問及</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析55：để làm rõ -->
+    <phrase>
+      <text>để làm rõ</text>
+      <mp3>phrase_de_lam_ro_guid.mp3</mp3>
+      <vocabulary>để</vocabulary>
+      <chinese>為了</chinese>
+      <vocabulary>làm rõ</vocabulary>
+      <chinese>澄清/說明</chinese>
+      <chinesePhrase>為了澄清</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析56：ông nói với các phóng viên -->
+    <phrase>
+      <text>ông nói với các phóng viên</text>
+      <mp3>phrase_ong_noi_voi_cac_phong_vien_guid.mp3</mp3>
+      <vocabulary>ông nói với</vocabulary>
+      <chinese>他告訴</chinese>
+      <vocabulary>các phóng viên</vocabulary>
+      <chinese>記者們</chinese>
+      <chinesePhrase>他告訴記者們</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析57：trên Không lực Một -->
+    <phrase>
+      <text>trên Không lực Một</text>
+      <mp3>phrase_tren_khong_luc_mot_guid.mp3</mp3>
+      <vocabulary>trên</vocabulary>
+      <chinese>在...上</chinese>
+      <vocabulary>Không lực Một</vocabulary>
+      <chinese>空軍一號</chinese>
+      <chinesePhrase>在空軍一號上</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析58："Tôi nghĩ như vậy là đủ thời gian" -->
+    <phrase>
+      <text>"Tôi nghĩ như vậy là đủ thời gian"</text>
+      <mp3>phrase_toi_nghi_nhu_vay_la_du_thoi_gian_guid.mp3</mp3>
+      <vocabulary>Tôi nghĩ</vocabulary>
+      <chinese>我認為</chinese>
+      <vocabulary>như vậy là</vocabulary>
+      <chinese>這樣是</chinese>
+      <vocabulary>đủ thời gian</vocabulary>
+      <chinese>足夠的時間</chinese>
+      <chinesePhrase>「我認為這樣就足夠的時間了」</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析59：10-15 ngày -->
+    <phrase>
+      <text>10-15 ngày</text>
+      <mp3>phrase_10_15_ngay2_guid.mp3</mp3>
+      <vocabulary>10-15 ngày</vocabulary>
+      <chinese>10-15天</chinese>
+      <chinesePhrase>10-15天</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析60：gần như -->
+    <phrase>
+      <text>gần như</text>
+      <mp3>phrase_gan_nhu_guid.mp3</mp3>
+      <vocabulary>gần như</vocabulary>
+      <chinese>（副）幾乎</chinese>
+      <chinesePhrase>幾乎</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析61：tối đa -->
+    <phrase>
+      <text>tối đa</text>
+      <mp3>phrase_toi_da_guid.mp3</mp3>
+      <vocabulary>tối đa</vocabulary>
+      <chinese>（名）最大限度</chinese>
+      <chinesePhrase>最大限度</chinesePhrase>
+    </phrase>
+  </subject>
+</xml>

@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <!-- 標題：求職低薪卻面試「繁複」 -->
+  <subject>
+    <text>求職低薪卻面試「繁複」</text>
+    <translate>Xin việc lương thấp nhưng phỏng vấn 'cồng kềnh'</translate>
+    <mp3>subject_title_luong_thap_phong_van_conng_kenh_guid.mp3</mp3>
+
+    <!-- 詞組分析1：Xin việc -->
+    <phrase>
+      <text>Xin việc</text>
+      <mp3>phrase_xin_viec_guid.mp3</mp3>
+      <vocabulary>Xin</vocabulary>
+      <chinese>（動）求/申請</chinese>
+      <vocabulary>việc</vocabulary>
+      <chinese>（名）工作</chinese>
+      <chinesePhrase>求職</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析2：lương thấp -->
+    <phrase>
+      <text>lương thấp</text>
+      <mp3>phrase_luong_thap_guid.mp3</mp3>
+      <vocabulary>lương</vocabulary>
+      <chinese>（名）薪水</chinese>
+      <vocabulary>thấp</vocabulary>
+      <chinese>（形）低</chinese>
+      <chinesePhrase>低薪</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析3：nhưng -->
+    <phrase>
+      <text>nhưng</text>
+      <mp3>phrase_nhung_guid.mp3</mp3>
+      <vocabulary>nhưng</vocabulary>
+      <chinese>（連）但是</chinese>
+      <chinesePhrase>卻</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析4：phỏng vấn -->
+    <phrase>
+      <text>phỏng vấn</text>
+      <mp3>phrase_phong_van_guid.mp3</mp3>
+      <vocabulary>phỏng vấn</vocabulary>
+      <chinese>（名）面試</chinese>
+      <chinesePhrase>面試</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析5：'cồng kềnh' -->
+    <phrase>
+      <text>'cồng kềnh'</text>
+      <mp3>phrase_cong_kenh_guid.mp3</mp3>
+      <vocabulary>cồng kềnh</vocabulary>
+      <chinese>（形）繁複/龐雜</chinese>
+      <chinesePhrase>「繁複」</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第二段：失業率推高招聘門檻 -->
+  <subject>
+    <text>英國失業率攀升迫使許多企業緊縮招聘流程，應徵者即便只領最低薪資也得接受各種奇怪測驗。</text>
+    <translate>AnhTỷ lệ thất nghiệp tăng cao khiến nhiều doanh nghiệp Anh siết chặt quy trình tuyển dụng, buộc ứng viên làm các bài kiểm tra kỳ lạ dù chỉ nhận lương tối thiểu.</translate>
+    <mp3>subject_unemployment_drives_tough_hiring_guid.mp3</mp3>
+
+    <!-- 詞組分析6：Tỷ lệ thất nghiệp -->
+    <phrase>
+      <text>Tỷ lệ thất nghiệp</text>
+      <mp3>phrase_ty_le_that_nghiep_guid.mp3</mp3>
+      <vocabulary>Tỷ lệ</vocabulary>
+      <chinese>（名）比例</chinese>
+      <vocabulary>thất nghiệp</vocabulary>
+      <chinese>（名）失業</chinese>
+      <chinesePhrase>失業率</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析7：tăng cao -->
+    <phrase>
+      <text>tăng cao</text>
+      <mp3>phrase_tang_cao_guid.mp3</mp3>
+      <vocabulary>tăng</vocabulary>
+      <chinese>（動）增加</chinese>
+      <vocabulary>cao</vocabulary>
+      <chinese>（形）高</chinese>
+      <chinesePhrase>攀升/升高</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析8：khiến -->
+    <phrase>
+      <text>khiến</text>
+      <mp3>phrase_khien_guid.mp3</mp3>
+      <vocabulary>khiến</vocabulary>
+      <chinese>（動）使得/迫使</chinese>
+      <chinesePhrase>迫使</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析9：nhiều doanh nghiệp Anh -->
+    <phrase>
+      <text>nhiều doanh nghiệp Anh</text>
+      <mp3>phrase_nhieu_doanh_nghiep_anh_guid.mp3</mp3>
+      <vocabulary>nhiều</vocabulary>
+      <chinese>許多</chinese>
+      <vocabulary>doanh nghiệp Anh</vocabulary>
+      <chinese>英國企業</chinese>
+      <chinesePhrase>許多英國企業</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析10：siết chặt -->
+    <phrase>
+      <text>siết chặt</text>
+      <mp3>phrase_siet_chat_guid.mp3</mp3>
+      <vocabulary>siết chặt</vocabulary>
+      <chinese>（動）收緊</chinese>
+      <chinesePhrase>緊縮</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析11：quy trình tuyển dụng -->
+    <phrase>
+      <text>quy trình tuyển dụng</text>
+      <mp3>phrase_quy_trinh_tuyen_dung_guid.mp3</mp3>
+      <vocabulary>quy trình</vocabulary>
+      <chinese>（名）流程</chinese>
+      <vocabulary>tuyển dụng</vocabulary>
+      <chinese>（名）招聘</chinese>
+      <chinesePhrase>招聘流程</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析12：buộc -->
+    <phrase>
+      <text>buộc</text>
+      <mp3>phrase_buoc_guid.mp3</mp3>
+      <vocabulary>buộc</vocabulary>
+      <chinese>（動）強迫/迫使</chinese>
+      <chinesePhrase>迫使</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析13：ứng viên -->
+    <phrase>
+      <text>ứng viên</text>
+      <mp3>phrase_ung_vien_guid.mp3</mp3>
+      <vocabulary>ứng viên</vocabulary>
+      <chinese>（名）應徵者/候選人</chinese>
+      <chinesePhrase>應徵者</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析14：làm các bài kiểm tra kỳ lạ -->
+    <phrase>
+      <text>làm các bài kiểm tra kỳ lạ</text>
+      <mp3>phrase_lam_cac_bai_kiem_tra_ky_la_guid.mp3</mp3>
+      <vocabulary>làm</vocabulary>
+      <chinese>做</chinese>
+      <vocabulary>các bài kiểm tra</vocabulary>
+      <chinese>各項測驗</chinese>
+      <vocabulary>kỳ lạ</vocabulary>
+      <chinese>（形）奇怪的</chinese>
+      <chinesePhrase>接受各種奇怪測驗</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析15：dù chỉ nhận lương tối thiểu -->
+    <phrase>
+      <text>dù chỉ nhận lương tối thiểu</text>
+      <mp3>phrase_du_chi_nhan_luong_toi_thieu_guid.mp3</mp3>
+      <vocabulary>dù</vocabulary>
+      <chinese>（連）儘管</chinese>
+      <vocabulary>chỉ nhận</vocabulary>
+      <chinese>只領</chinese>
+      <vocabulary>lương tối thiểu</vocabulary>
+      <chinese>最低薪資</chinese>
+      <chinesePhrase>即便只領最低薪資</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第三段：Zahra的求職經歷 -->
+  <subject>
+    <text>上午10點半，在普雷斯頓一間購物中心內，20歲的Zahra和其他29名應徵者一起埋頭用乾義大利麵條和棉花糖搭建高塔。他們還要解字謎，並做廚房用品分類測驗。這一切都是為了競爭一份薪資接近最低標準的普通工作。在進入這個長達兩小時的面試環節前，Zahra已經填寫了一份線上求職申請表，用了10段文字來描述經歷。她應徵的是Wingstop炸雞連鎖店的服務生職位，時薪10英鎊，只比她這個年齡的最低工資高出80便士。評估會上，一名手持筆記本的女士不斷記錄，幾位值班經理也密切監視。一週後，Zahra收到一封簡短的拒絕電郵。</text>
+    <translate>10h30 sáng tại một trung tâm thương mại ở Preston, Zahra, 20 tuổi, cùng 29 ứng viên khác cặm cụi dựng tháp từ mì ống khô và kẹo dẻo. Họ còn phải giải ô chữ và làm bài kiểm tra sắp xếp đồ dùng nhà bếp. Tất cả chỉ để cạnh tranh một công việc phổ thông với lương sát mức tối thiểu. Trước khi đến được vòng phỏng vấn kéo dài hai giờ này, Zahra đã phải điền một đơn ứng tuyển trực tuyến dài 10 đoạn văn để trình bày kinh nghiệm. Cô ứng tuyển vị trí nhân viên phục vụ tại chuỗi gà rán Wingstop, với mức lương 10 bảng một giờ, chỉ cao hơn 80 xu so với mức lương tối thiểu theo độ tuổi của cô. Trong buổi đánh giá, một phụ nữ cầm sổ tay liên tục ghi chép, cùng các quản lý ca giám sát sát sao. Một tuần sau, Zahra nhận được email từ chối ngắn gọn.</translate>
+    <mp3>subject_zahra_experience_guid.mp3</mp3>
+
+    <!-- 詞組分析16：10h30 sáng tại một trung tâm thương mại ở Preston -->
+    <phrase>
+      <text>10h30 sáng tại một trung tâm thương mại ở Preston</text>
+      <mp3>phrase_10h30_sang_tai_mot_trung_tam_thuong_mai_preston_guid.mp3</mp3>
+      <vocabulary>10h30 sáng</vocabulary>
+      <chinese>上午10點半</chinese>
+      <vocabulary>tại</vocabulary>
+      <chinese>在</chinese>
+      <vocabulary>một trung tâm thương mại</vocabulary>
+      <chinese>一間購物中心</chinese>
+      <vocabulary>ở Preston</vocabulary>
+      <chinese>在普雷斯頓</chinese>
+      <chinesePhrase>上午10點半，在普雷斯頓一間購物中心</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析17：Zahra, 20 tuổi -->
+    <phrase>
+      <text>Zahra, 20 tuổi</text>
+      <mp3>phrase_zahra_20_tuoi_guid.mp3</mp3>
+      <vocabulary>Zahra</vocabulary>
+      <chinese>（名）Zahra</chinese>
+      <vocabulary>20 tuổi</vocabulary>
+      <chinese>20歲</chinese>
+      <chinesePhrase>20歲的Zahra</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析18：cùng 29 ứng viên khác -->
+    <phrase>
+      <text>cùng 29 ứng viên khác</text>
+      <mp3>phrase_cung_29_ung_vien_khac_guid.mp3</mp3>
+      <vocabulary>cùng</vocabulary>
+      <chinese>與...一起</chinese>
+      <vocabulary>29 ứng viên khác</vocabulary>
+      <chinese>29名其他應徵者</chinese>
+      <chinesePhrase>和其他29名應徵者一起</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析19：cặm cụi -->
+    <phrase>
+      <text>cặm cụi</text>
+      <mp3>phrase_cam_cui_guid.mp3</mp3>
+      <vocabulary>cặm cụi</vocabulary>
+      <chinese>（副）埋頭/專心致志</chinese>
+      <chinesePhrase>埋頭</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析20：dựng tháp từ mì ống khô và kẹo dẻo -->
+    <phrase>
+      <text>dựng tháp từ mì ống khô và kẹo dẻo</text>
+      <mp3>phrase_dung_thap_tu_mi_ong_kho_va_keo_deo_guid.mp3</mp3>
+      <vocabulary>dựng tháp</vocabulary>
+      <chinese>搭建高塔</chinese>
+      <vocabulary>từ</vocabulary>
+      <chinese>用/從</chinese>
+      <vocabulary>mì ống khô</vocabulary>
+      <chinese>乾義大利麵條</chinese>
+      <vocabulary>và</vocabulary>
+      <chinese>和</chinese>
+      <vocabulary>kẹo dẻo</vocabulary>
+      <chinese>棉花糖</chinese>
+      <chinesePhrase>用乾義大利麵條和棉花糖搭建高塔</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析21：Họ còn phải -->
+    <phrase>
+      <text>Họ còn phải</text>
+      <mp3>phrase_ho_con_phai_guid.mp3</mp3>
+      <vocabulary>Họ</vocabulary>
+      <chinese>他們</chinese>
+      <vocabulary>còn phải</vocabulary>
+      <chinese>還要</chinese>
+      <chinesePhrase>他們還要</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析22：giải ô chữ -->
+    <phrase>
+      <text>giải ô chữ</text>
+      <mp3>phrase_giai_o_chu_guid.mp3</mp3>
+      <vocabulary>giải</vocabulary>
+      <chinese>（動）解</chinese>
+      <vocabulary>ô chữ</vocabulary>
+      <chinese>（名）字謎</chinese>
+      <chinesePhrase>解字謎</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析23：và làm bài kiểm tra sắp xếp đồ dùng nhà bếp -->
+    <phrase>
+      <text>và làm bài kiểm tra sắp xếp đồ dùng nhà bếp</text>
+      <mp3>phrase_va_lam_bai_kiem_tra_sap_xep_do_dung_nha_bep_guid.mp3</mp3>
+      <vocabulary>và</vocabulary>
+      <chinese>並</chinese>
+      <vocabulary>làm bài kiểm tra</vocabulary>
+      <chinese>做測驗</chinese>
+      <vocabulary>sắp xếp đồ dùng nhà bếp</vocabulary>
+      <chinese>廚房用品分類</chinese>
+      <chinesePhrase>並做廚房用品分類測驗</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析24：Tất cả chỉ để cạnh tranh một công việc phổ thông với lương sát mức tối thiểu -->
+    <phrase>
+      <text>Tất cả chỉ để cạnh tranh một công việc phổ thông với lương sát mức tối thiểu</text>
+      <mp3>phrase_tat_ca_chi_de_canh_tranh_mot_cong_viec_pho_thong_luong_sat_muc_toi_thieu_guid.mp3</mp3>
+      <vocabulary>Tất cả</vocabulary>
+      <chinese>這一切</chinese>
+      <vocabulary>chỉ để</vocabulary>
+      <chinese>只是為了</chinese>
+      <vocabulary>cạnh tranh</vocabulary>
+      <chinese>競爭</chinese>
+      <vocabulary>một công việc phổ thông</vocabulary>
+      <chinese>一份普通工作</chinese>
+      <vocabulary>với lương sát mức tối thiểu</vocabulary>
+      <chinese>薪資接近最低標準</chinese>
+      <chinesePhrase>這一切都是為了競爭一份薪資接近最低標準的普通工作</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析25：Trước khi đến được vòng phỏng vấn kéo dài hai giờ này -->
+    <phrase>
+      <text>Trước khi đến được vòng phỏng vấn kéo dài hai giờ này</text>
+      <mp3>phrase_truoc_khi_den_duoc_vong_phong_van_keo_dai_hai_gio_nay_guid.mp3</mp3>
+      <vocabulary>Trước khi</vocabulary>
+      <chinese>在...之前</chinese>
+      <vocabulary>đến được</vocabulary>
+      <chinese>能到達</chinese>
+      <vocabulary>vòng phỏng vấn kéo dài hai giờ này</vocabulary>
+      <chinese>這個長達兩小時的面試環節</chinese>
+      <chinesePhrase>在進入這個長達兩小時的面試環節前</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析26：Zahra đã phải điền một đơn ứng tuyển trực tuyến dài 10 đoạn văn để trình bày kinh nghiệm -->
+    <phrase>
+      <text>Zahra đã phải điền một đơn ứng tuyển trực tuyến dài 10 đoạn văn để trình bày kinh nghiệm</text>
+      <mp3>phrase_zahra_da_phai_dien_mot_don_ung_tuyen_truc_tuyen_dai_10_doan_van_de_trinh_bay_kinh_nghiem_guid.mp3</mp3>
+      <vocabulary>Zahra đã phải</vocabulary>
+      <chinese>Zahra已經必須</chinese>
+      <vocabulary>điền</vocabulary>
+      <chinese>填寫</chinese>
+      <vocabulary>một đơn ứng tuyển trực tuyến</vocabulary>
+      <chinese>一份線上求職申請表</chinese>
+      <vocabulary>dài 10 đoạn văn</vocabulary>
+      <chinese>長達10段文字</chinese>
+      <vocabulary>để trình bày kinh nghiệm</vocabulary>
+      <chinese>以描述經歷</chinese>
+      <chinesePhrase>Zahra已經必須填寫一份長達10段文字的線上求職申請表來描述經歷</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析27：Cô ứng tuyển vị trí nhân viên phục vụ tại chuỗi gà rán Wingstop -->
+    <phrase>
+      <text>Cô ứng tuyển vị trí nhân viên phục vụ tại chuỗi gà rán Wingstop</text>
+      <mp3>phrase_co_ung_tuyen_vi_tri_nhan_vien_phuc_vu_tai_chuoi_ga_ran_wingstop_guid.mp3</mp3>
+      <vocabulary>Cô</vocabulary>
+      <chinese>她</chinese>
+      <vocabulary>ứng tuyển</vocabulary>
+      <chinese>應徵</chinese>
+      <vocabulary>vị trí nhân viên phục vụ</vocabulary>
+      <chinese>服務生職位</chinese>
+      <vocabulary>tại chuỗi gà rán Wingstop</vocabulary>
+      <chinese>在Wingstop炸雞連鎖店</chinese>
+      <chinesePhrase>她應徵Wingstop炸雞連鎖店的服務生職位</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析28：với mức lương 10 bảng một giờ -->
+    <phrase>
+      <text>với mức lương 10 bảng một giờ</text>
+      <mp3>phrase_voi_muc_luong_10_bang_mot_gio_guid.mp3</mp3>
+      <vocabulary>với mức lương</vocabulary>
+      <chinese>薪資為</chinese>
+      <vocabulary>10 bảng một giờ</vocabulary>
+      <chinese>每小時10英鎊</chinese>
+      <chinesePhrase>時薪10英鎊</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析29：chỉ cao hơn 80 xu so với mức lương tối thiểu theo độ tuổi của cô -->
+    <phrase>
+      <text>chỉ cao hơn 80 xu so với mức lương tối thiểu theo độ tuổi của cô</text>
+      <mp3>phrase_chi_cao_hon_80_xu_so_voi_muc_luong_toi_thieu_theo_do_tuoi_cua_co_guid.mp3</mp3>
+      <vocabulary>chỉ cao hơn</vocabulary>
+      <chinese>只高出</chinese>
+      <vocabulary>80 xu</vocabulary>
+      <chinese>80便士</chinese>
+      <vocabulary>so với</vocabulary>
+      <chinese>相比</chinese>
+      <vocabulary>mức lương tối thiểu theo độ tuổi của cô</vocabulary>
+      <chinese>她這個年齡的最低工資</chinese>
+      <chinesePhrase>只比她這個年齡的最低工資高出80便士</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析30：Trong buổi đánh giá -->
+    <phrase>
+      <text>Trong buổi đánh giá</text>
+      <mp3>phrase_trong_buoi_danh_gia_guid.mp3</mp3>
+      <vocabulary>Trong</vocabulary>
+      <chinese>在...中</chinese>
+      <vocabulary>buổi đánh giá</vocabulary>
+      <chinese>評估會</chinese>
+      <chinesePhrase>評估會上</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析31：một phụ nữ cầm sổ tay liên tục ghi chép -->
+    <phrase>
+      <text>một phụ nữ cầm sổ tay liên tục ghi chép</text>
+      <mp3>phrase_mot_phu_nu_cam_so_tay_lien_tuc_ghi_chep_guid.mp3</mp3>
+      <vocabulary>một phụ nữ</vocabulary>
+      <chinese>一名女性</chinese>
+      <vocabulary>cầm sổ tay</vocabulary>
+      <chinese>拿著筆記本</chinese>
+      <vocabulary>liên tục ghi chép</vocabulary>
+      <chinese>不斷記錄</chinese>
+      <chinesePhrase>一名手持筆記本的女性不斷記錄</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析32：cùng các quản lý ca giám sát sát sao -->
+    <phrase>
+      <text>cùng các quản lý ca giám sát sát sao</text>
+      <mp3>phrase_cung_cac_quan_ly_ca_giam_sat_sat_sao_guid.mp3</mp3>
+      <vocabulary>cùng</vocabulary>
+      <chinese>與...一起</chinese>
+      <vocabulary>các quản lý ca</vocabulary>
+      <chinese>幾位值班經理</chinese>
+      <vocabulary>giám sát sát sao</vocabulary>
+      <chinese>密切監視</chinese>
+      <chinesePhrase>幾位值班經理也密切監視</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析33：Một tuần sau -->
+    <phrase>
+      <text>Một tuần sau</text>
+      <mp3>phrase_mot_tuan_sau_guid.mp3</mp3>
+      <vocabulary>Một tuần sau</vocabulary>
+      <chinese>一週後</chinese>
+      <chinesePhrase>一週後</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析34：Zahra nhận được email từ chối ngắn gọn -->
+    <phrase>
+      <text>Zahra nhận được email từ chối ngắn gọn</text>
+      <mp3>phrase_zahra_nhan_duoc_email_tu_choi_ngan_gon_guid.mp3</mp3>
+      <vocabulary>Zahra nhận được</vocabulary>
+      <chinese>Zahra收到</chinese>
+      <vocabulary>email từ chối ngắn gọn</vocabulary>
+      <chinese>簡短的拒絕電郵</chinese>
+      <chinesePhrase>Zahra收到一封簡短的拒絕電郵</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第四段：Zahra的抱怨 -->
+  <subject>
+    <text>「在我坐著堆義大利麵條的時候，我問自己為什麼會在這裡，這個練習跟我打掃、端盤子的工作根本沒關係。這根本是浪費時間，整個經驗就像個笑話」，Zahra氣憤地說。</text>
+    <translate>"Trong lúc ngồi xếp mì ống, tôi tự hỏi tại sao mình lại ở đây khi bài tập này chẳng liên quan gì đến công việc dọn dẹp và bưng bê. Đó là một sự lãng phí thời gian và trải nghiệm này giống như một trò đùa", Zahra bức xúc.</translate>
+    <mp3>subject_zahra_complaint_guid.mp3</mp3>
+
+    <!-- 詞組分析35："Trong lúc ngồi xếp mì ống -->
+    <phrase>
+      <text>"Trong lúc ngồi xếp mì ống</text>
+      <mp3>phrase_trong_luc_ngoi_xep_mi_ong_guid.mp3</mp3>
+      <vocabulary>Trong lúc</vocabulary>
+      <chinese>在...的時候</chinese>
+      <vocabulary>ngồi xếp mì ống</vocabulary>
+      <chinese>坐著堆義大利麵條</chinese>
+      <chinesePhrase>「在我坐著堆義大利麵條的時候</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析36：tôi tự hỏi tại sao mình lại ở đây -->
+    <phrase>
+      <text>tôi tự hỏi tại sao mình lại ở đây</text>
+      <mp3>phrase_toi_tu_hoi_tai_sao_minh_lai_o_day_guid.mp3</mp3>
+      <vocabulary>tôi tự hỏi</vocabulary>
+      <chinese>我問自己</chinese>
+      <vocabulary>tại sao mình lại ở đây</vocabulary>
+      <chinese>為什麼我會在這裡</chinese>
+      <chinesePhrase>我問自己為什麼我會在這裡</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析37：khi bài tập này chẳng liên quan gì đến công việc dọn dẹp và bưng bê -->
+    <phrase>
+      <text>khi bài tập này chẳng liên quan gì đến công việc dọn dẹp và bưng bê</text>
+      <mp3>phrase_khi_bai_tap_nay_chang_lien_quan_gi_den_cong_viec_don_dep_va_bung_be_guid.mp3</mp3>
+      <vocabulary>khi</vocabulary>
+      <chinese>當</chinese>
+      <vocabulary>bài tập này</vocabulary>
+      <chinese>這個練習</chinese>
+      <vocabulary>chẳng liên quan gì đến</vocabulary>
+      <chinese>跟...根本沒關係</chinese>
+      <vocabulary>công việc dọn dẹp và bưng bê</vocabulary>
+      <chinese>打掃和端盤子的工作</chinese>
+      <chinesePhrase>這個練習跟我打掃、端盤子的工作根本沒關係</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析38：Đó là một sự lãng phí thời gian và trải nghiệm này giống như một trò đùa" -->
+    <phrase>
+      <text>Đó là một sự lãng phí thời gian và trải nghiệm này giống như một trò đùa"</text>
+      <mp3>phrase_do_la_mot_su_lang_phi_thoi_gian_va_trai_nghiem_nay_giong_nhu_mot_tro_dua_guid.mp3</mp3>
+      <vocabulary>Đó là</vocabulary>
+      <chinese>那是</chinese>
+      <vocabulary>một sự lãng phí thời gian</vocabulary>
+      <chinese>浪費時間</chinese>
+      <vocabulary>và</vocabulary>
+      <chinese>而</chinese>
+      <vocabulary>trải nghiệm này giống như một trò đùa</vocabulary>
+      <chinese>這次經驗就像一個笑話</chinese>
+      <chinesePhrase>那是浪費時間，這次經驗就像一個笑話」</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析39：Zahra bức xúc -->
+    <phrase>
+      <text>Zahra bức xúc</text>
+      <mp3>phrase_zahra_buc_xuc_guid.mp3</mp3>
+      <vocabulary>Zahra</vocabulary>
+      <chinese>Zahra</chinese>
+      <vocabulary>bức xúc</vocabulary>
+      <chinese>（形）氣憤/激動</chinese>
+      <chinesePhrase>Zahra氣憤地說</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第五段：普遍現象與失業率數據 -->
+  <subject>
+    <text>這並非個別現象。本週公佈的數據顯示，英國失業率已達5.2%，為近5年來最高。在18-24歲年齡層，這一數字高達14%，使得初階職場競爭變得異常激烈。</text>
+    <translate>Đây không phải là hiện tượng cá biệt. Số liệu công bố tuần này cho thấy tỷ lệ thất nghiệp tại Anh đã lên mức 5,2%, cao nhất gần 5 năm qua. Ở độ tuổi 18-24, con số này lên tới 14%, khiến thị trường việc làm cho người mới bắt đầu (entry-level) trở nên khốc liệt.</translate>
+    <mp3>subject_unemployment_stats_guid.mp3</mp3>
+
+    <!-- 詞組分析40：Đây không phải là hiện tượng cá biệt -->
+    <phrase>
+      <text>Đây không phải là hiện tượng cá biệt</text>
+      <mp3>phrase_day_khong_phai_la_hien_tuong_ca_biet_guid.mp3</mp3>
+      <vocabulary>Đây</vocabulary>
+      <chinese>這</chinese>
+      <vocabulary>không phải là</vocabulary>
+      <chinese>不是</chinese>
+      <vocabulary>hiện tượng cá biệt</vocabulary>
+      <chinese>個別現象</chinese>
+      <chinesePhrase>這並非個別現象</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析41：Số liệu công bố tuần này cho thấy -->
+    <phrase>
+      <text>Số liệu công bố tuần này cho thấy</text>
+      <mp3>phrase_so_lieu_cong_bo_tuan_nay_cho_thay_guid.mp3</mp3>
+      <vocabulary>Số liệu công bố tuần này</vocabulary>
+      <chinese>本週公佈的數據</chinese>
+      <vocabulary>cho thấy</vocabulary>
+      <chinese>顯示</chinese>
+      <chinesePhrase>本週公佈的數據顯示</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析42：tỷ lệ thất nghiệp tại Anh đã lên mức 5,2% -->
+    <phrase>
+      <text>tỷ lệ thất nghiệp tại Anh đã lên mức 5,2%</text>
+      <mp3>phrase_ty_le_that_nghiep_tai_anh_da_len_muc_5_2_guid.mp3</mp3>
+      <vocabulary>tỷ lệ thất nghiệp tại Anh</vocabulary>
+      <chinese>英國失業率</chinese>
+      <vocabulary>đã lên mức 5,2%</vocabulary>
+      <chinese>已達5.2%</chinese>
+      <chinesePhrase>英國失業率已達5.2%</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析43：cao nhất gần 5 năm qua -->
+    <phrase>
+      <text>cao nhất gần 5 năm qua</text>
+      <mp3>phrase_cao_nhat_gan_5_nam_qua_guid.mp3</mp3>
+      <vocabulary>cao nhất</vocabulary>
+      <chinese>最高</chinese>
+      <vocabulary>gần 5 năm qua</vocabulary>
+      <chinese>近5年來</chinese>
+      <chinesePhrase>為近5年來最高</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析44：Ở độ tuổi 18-24 -->
+    <phrase>
+      <text>Ở độ tuổi 18-24</text>
+      <mp3>phrase_o_do_tuoi_18_24_guid.mp3</mp3>
+      <vocabulary>Ở</vocabulary>
+      <chinese>在</chinese>
+      <vocabulary>độ tuổi 18-24</vocabulary>
+      <chinese>18-24歲年齡層</chinese>
+      <chinesePhrase>在18-24歲年齡層</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析45：con số này lên tới 14% -->
+    <phrase>
+      <text>con số này lên tới 14%</text>
+      <mp3>phrase_con_so_nay_len_toi_14_guid.mp3</mp3>
+      <vocabulary>con số này</vocabulary>
+      <chinese>這個數字</chinese>
+      <vocabulary>lên tới 14%</vocabulary>
+      <chinese>高達14%</chinese>
+      <chinesePhrase>這一數字高達14%</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析46：khiến thị trường việc làm cho người mới bắt đầu (entry-level) trở nên khốc liệt -->
+    <phrase>
+      <text>khiến thị trường việc làm cho người mới bắt đầu (entry-level) trở nên khốc liệt</text>
+      <mp3>phrase_khien_thi_truong_viec_lam_cho_nguoi_moi_bat_dau_entry_level_tro_nen_khoc_liet_guid.mp3</mp3>
+      <vocabulary>khiến</vocabulary>
+      <chinese>使得</chinese>
+      <vocabulary>thị trường việc làm cho người mới bắt đầu (entry-level)</vocabulary>
+      <chinese>初階職場</chinese>
+      <vocabulary>trở nên khốc liệt</vocabulary>
+      <chinese>變得激烈</chinese>
+      <chinesePhrase>使得初階職場競爭變得異常激烈</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第六段：Eve的求職經歷 -->
+  <subject>
+    <text>19歲的Eve住在倫敦，她曾親手投遞30份履歷到住家附近的商店，卻石沉大海。她又線上申請了40份工作，幸運獲得Inditex集團（旗下擁有Zara、PullBear等品牌）銷售助理職位的面試機會。然而，她必須參加一個長達90分鐘、有20人的團體面試。他們得站起來介紹旁邊的應徵者，分組用iPad為名人設計服裝並進行簡報。最後一輪，招聘方播放服裝圖片，要求大家舉手搶答品牌名稱。</text>
+    <translate>Eve, 19 tuổi, sống tại London từng rải hồ sơ trực tiếp đến 30 cửa hàng gần nhà nhưng bặt vô âm tín. Cô nộp thêm 40 hồ sơ trực tuyến và may mắn được gọi phỏng vấn cho vị trí trợ lý bán hàng tại Inditex, tập đoàn sở hữu các thương hiệu Zara, Pull Bear. Tuy nhiên, cô phải dự buổi phỏng vấn nhóm kéo dài 90 phút với 20 người. Họ phải đứng lên giới thiệu ứng viên bên cạnh, chia nhóm dùng iPad thiết kế trang phục cho người nổi tiếng rồi thuyết trình. Vòng cuối, nhà tuyển dụng chiếu hình ảnh quần áo và yêu cầu mọi người giơ tay giành quyền đoán thương hiệu.</translate>
+    <mp3>subject_eve_experience_guid.mp3</mp3>
+
+    <!-- 詞組分析47：Eve, 19 tuổi, sống tại London -->
+    <phrase>
+      <text>Eve, 19 tuổi, sống tại London</text>
+      <mp3>phrase_eve_19_tuoi_song_tai_london_guid.mp3</mp3>
+      <vocabulary>Eve</vocabulary>
+      <chinese>（名）Eve</chinese>
+      <vocabulary>19 tuổi</vocabulary>
+      <chinese>19歲</chinese>
+      <vocabulary>sống tại London</vocabulary>
+      <chinese>住在倫敦</chinese>
+      <chinesePhrase>19歲的Eve，住在倫敦</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析48：từng rải hồ sơ trực tiếp đến 30 cửa hàng gần nhà -->
+    <phrase>
+      <text>từng rải hồ sơ trực tiếp đến 30 cửa hàng gần nhà</text>
+      <mp3>phrase_tung_rai_ho_so_truc_tiep_den_30_cua_hang_gan_nha_guid.mp3</mp3>
+      <vocabulary>từng</vocabulary>
+      <chinese>曾經</chinese>
+      <vocabulary>rải hồ sơ trực tiếp</vocabulary>
+      <chinese>親自投遞履歷</chinese>
+      <vocabulary>đến 30 cửa hàng gần nhà</vocabulary>
+      <chinese>到住家附近的30間商店</chinese>
+      <chinesePhrase>曾親自投遞履歷到住家附近的30間商店</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析49：nhưng bặt vô âm tín -->
+    <phrase>
+      <text>nhưng bặt vô âm tín</text>
+      <mp3>phrase_nhung_bat_vo_am_tin_guid.mp3</mp3>
+      <vocabulary>nhưng</vocabulary>
+      <chinese>但是</chinese>
+      <vocabulary>bặt vô âm tín</vocabulary>
+      <chinese>（成）杳無音訊/石沉大海</chinese>
+      <chinesePhrase>卻石沉大海</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析50：Cô nộp thêm 40 hồ sơ trực tuyến -->
+    <phrase>
+      <text>Cô nộp thêm 40 hồ sơ trực tuyến</text>
+      <mp3>phrase_co_nop_them_40_ho_so_truc_tuyen_guid.mp3</mp3>
+      <vocabulary>Cô</vocabulary>
+      <chinese>她</chinese>
+      <vocabulary>nộp thêm</vocabulary>
+      <chinese>又提交了</chinese>
+      <vocabulary>40 hồ sơ trực tuyến</vocabulary>
+      <chinese>40份線上申請</chinese>
+      <chinesePhrase>她又線上申請了40份工作</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析51：và may mắn được gọi phỏng vấn cho vị trí trợ lý bán hàng tại Inditex -->
+    <phrase>
+      <text>và may mắn được gọi phỏng vấn cho vị trí trợ lý bán hàng tại Inditex</text>
+      <mp3>phrase_va_may_man_duoc_goi_phong_van_cho_vi_tri_tro_ly_ban_hang_tai_inditex_guid.mp3</mp3>
+      <vocabulary>và</vocabulary>
+      <chinese>並且</chinese>
+      <vocabulary>may mắn</vocabulary>
+      <chinese>幸運地</chinese>
+      <vocabulary>được gọi phỏng vấn</vocabulary>
+      <chinese>被邀請面試</chinese>
+      <vocabulary>cho vị trí trợ lý bán hàng tại Inditex</vocabulary>
+      <chinese>Inditex的銷售助理職位</chinese>
+      <chinesePhrase>並幸運獲得Inditex集團銷售助理職位的面試機會</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析52：tập đoàn sở hữu các thương hiệu Zara, Pull Bear -->
+    <phrase>
+      <text>tập đoàn sở hữu các thương hiệu Zara, Pull Bear</text>
+      <mp3>phrase_tap_doan_so_huu_cac_thuong_hieu_zara_pull_bear_guid.mp3</mp3>
+      <vocabulary>tập đoàn</vocabulary>
+      <chinese>集團</chinese>
+      <vocabulary>sở hữu</vocabulary>
+      <chinese>擁有</chinese>
+      <vocabulary>các thương hiệu Zara, Pull Bear</vocabulary>
+      <chinese>Zara、Pull Bear等品牌</chinese>
+      <chinesePhrase>該集團擁有Zara、Pull Bear等品牌</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析53：Tuy nhiên, cô phải dự buổi phỏng vấn nhóm kéo dài 90 phút với 20 người -->
+    <phrase>
+      <text>Tuy nhiên, cô phải dự buổi phỏng vấn nhóm kéo dài 90 phút với 20 người</text>
+      <mp3>phrase_tuy_nhien_co_phai_du_buoi_phong_van_nhom_keo_dai_90_phut_voi_20_nguoi_guid.mp3</mp3>
+      <vocabulary>Tuy nhiên</vocabulary>
+      <chinese>然而</chinese>
+      <vocabulary>cô phải dự</vocabulary>
+      <chinese>她必須參加</chinese>
+      <vocabulary>buổi phỏng vấn nhóm kéo dài 90 phút với 20 người</vocabulary>
+      <chinese>長達90分鐘、有20人的團體面試</chinese>
+      <chinesePhrase>然而，她必須參加一個長達90分鐘、有20人的團體面試</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析54：Họ phải đứng lên giới thiệu ứng viên bên cạnh -->
+    <phrase>
+      <text>Họ phải đứng lên giới thiệu ứng viên bên cạnh</text>
+      <mp3>phrase_ho_phai_dung_len_gioi_thieu_ung_vien_ben_canh_guid.mp3</mp3>
+      <vocabulary>Họ phải</vocabulary>
+      <chinese>他們必須</chinese>
+      <vocabulary>đứng lên giới thiệu ứng viên bên cạnh</vocabulary>
+      <chinese>站起來介紹旁邊的應徵者</chinese>
+      <chinesePhrase>他們必須站起來介紹旁邊的應徵者</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析55：chia nhóm dùng iPad thiết kế trang phục cho người nổi tiếng rồi thuyết trình -->
+    <phrase>
+      <text>chia nhóm dùng iPad thiết kế trang phục cho người nổi tiếng rồi thuyết trình</text>
+      <mp3>phrase_chia_nhom_dung_ipad_thiet_ke_trang_phuc_cho_nguoi_noi_tieng_roi_thuyet_trinh_guid.mp3</mp3>
+      <vocabulary>chia nhóm</vocabulary>
+      <chinese>分組</chinese>
+      <vocabulary>dùng iPad thiết kế trang phục cho người nổi tiếng</vocabulary>
+      <chinese>用iPad為名人設計服裝</chinese>
+      <vocabulary>rồi thuyết trình</vocabulary>
+      <chinese>然後簡報</chinese>
+      <chinesePhrase>分組用iPad為名人設計服裝然後進行簡報</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析56：Vòng cuối -->
+    <phrase>
+      <text>Vòng cuối</text>
+      <mp3>phrase_vong_cuoi_guid.mp3</mp3>
+      <vocabulary>Vòng cuối</vocabulary>
+      <chinese>最後一輪</chinese>
+      <chinesePhrase>最後一輪</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析57：nhà tuyển dụng chiếu hình ảnh quần áo và yêu cầu mọi người giơ tay giành quyền đoán thương hiệu -->
+    <phrase>
+      <text>nhà tuyển dụng chiếu hình ảnh quần áo và yêu cầu mọi người giơ tay giành quyền đoán thương hiệu</text>
+      <mp3>phrase_nha_tuyen_dung_chieu_hinh_anh_quan_ao_va_yeu_cau_moi_nguoi_gio_tay_gianh_quyen_doan_thuong_hieu_guid.mp3</mp3>
+      <vocabulary>nhà tuyển dụng</vocabulary>
+      <chinese>招聘方</chinese>
+      <vocabulary>chiếu hình ảnh quần áo</vocabulary>
+      <chinese>播放服裝圖片</chinese>
+      <vocabulary>và yêu cầu mọi người giơ tay giành quyền đoán thương hiệu</vocabulary>
+      <chinese>並要求大家舉手搶答品牌名稱</chinese>
+      <chinesePhrase>招聘方播放服裝圖片，要求大家舉手搶答品牌名稱</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第七段：Eve的抱怨 -->
+  <subject>
+    <text>「在一個擁擠的房間裡，大家不停地舉手喊叫，試圖壓過別人。我習慣在櫃檯輕聲細語地為客人服務，而不是像這樣爭奪注意力」，Eve疲憊地回憶道。</text>
+    <translate>"Trong một căn phòng đông đúc, mọi người liên tục giơ tay và hét lên để lấn át người khác. Tôi quen việc tư vấn nhẹ nhàng cho khách tại quầy, chứ không phải tranh giành sự chú ý thế này", Eve mệt mỏi kể lại.</translate>
+    <mp3>subject_eve_complaint_guid.mp3</mp3>
+
+    <!-- 詞組分析58："Trong một căn phòng đông đúc -->
+    <phrase>
+      <text>"Trong một căn phòng đông đúc</text>
+      <mp3>phrase_trong_mot_can_phong_dong_duc_guid.mp3</mp3>
+      <vocabulary>Trong</vocabulary>
+      <chinese>在...裡</chinese>
+      <vocabulary>một căn phòng đông đúc</vocabulary>
+      <chinese>一個擁擠的房間</chinese>
+      <chinesePhrase>「在一個擁擠的房間裡</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析59：mọi người liên tục giơ tay và hét lên để lấn át người khác -->
+    <phrase>
+      <text>mọi người liên tục giơ tay và hét lên để lấn át người khác</text>
+      <mp3>phrase_moi_nguoi_lien_tuc_gio_tay_va_het_len_de_lan_at_nguoi_khac_guid.mp3</mp3>
+      <vocabulary>mọi người</vocabulary>
+      <chinese>大家</chinese>
+      <vocabulary>liên tục giơ tay và hét lên</vocabulary>
+      <chinese>不停地舉手喊叫</chinese>
+      <vocabulary>để lấn át người khác</vocabulary>
+      <chinese>為了壓過別人</chinese>
+      <chinesePhrase>大家不停地舉手喊叫，試圖壓過別人</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析60：Tôi quen việc tư vấn nhẹ nhàng cho khách tại quầy -->
+    <phrase>
+      <text>Tôi quen việc tư vấn nhẹ nhàng cho khách tại quầy</text>
+      <mp3>phrase_toi_quen_viec_tu_van_nhe_nhang_cho_khach_tai_quay_guid.mp3</mp3>
+      <vocabulary>Tôi quen việc</vocabulary>
+      <chinese>我習慣</chinese>
+      <vocabulary>tư vấn nhẹ nhàng cho khách tại quầy</vocabulary>
+      <chinese>在櫃檯輕聲細語地為客人服務</chinese>
+      <chinesePhrase>我習慣在櫃檯輕聲細語地為客人服務</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析61：chứ không phải tranh giành sự chú ý thế này" -->
+    <phrase>
+      <text>chứ không phải tranh giành sự chú ý thế này"</text>
+      <mp3>phrase_chu_khong_phai_tranh_gianh_su_chu_y_the_nay_guid.mp3</mp3>
+      <vocabulary>chứ không phải</vocabulary>
+      <chinese>而不是</chinese>
+      <vocabulary>tranh giành sự chú ý thế này</vocabulary>
+      <chinese>像這樣爭奪注意力</chinese>
+      <chinesePhrase>而不是像這樣爭奪注意力」</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析62：Eve mệt mỏi kể lại -->
+    <phrase>
+      <text>Eve mệt mỏi kể lại</text>
+      <mp3>phrase_eve_met_moi_ke_lai_guid.mp3</mp3>
+      <vocabulary>Eve</vocabulary>
+      <chinese>Eve</chinese>
+      <vocabulary>mệt mỏi</vocabulary>
+      <chinese>（形）疲憊地</chinese>
+      <vocabulary>kể lại</vocabulary>
+      <chinese>回憶道</chinese>
+      <chinesePhrase>Eve疲憊地回憶道</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第八段：專家解釋 -->
+  <subject>
+    <text>求職平台Reed.co.uk的執行長Martin Warnes解釋這個趨勢時表示，企業正面臨更高的營運成本和招聘風險。當求職者數量激增使天平傾向雇主時，他們便將以往只用於管理層或高階實習生的集中評鑑中心，也應用到了基層勞工職位。蘭卡斯特大學Work Foundation研究部門主管Alice Martin女士指出，團體面試能幫企業節省時間和成本，一次性淘汰多人。與其花錢培訓新進員工，公司直接用這些模擬練習當作一種「無薪試用」。</text>
+    <translate>Lý giải xu hướng này, ông Martin Warnes, giám đốc điều hành nền tảng việc làm Reed.co.uk, cho biết các doanh nghiệp đang đối mặt với chi phí vận hành và rủi ro tuyển dụng cao hơn. Khi cán cân nghiêng về phía nhà tuyển dụng do số lượng hồ sơ tăng đột biến, họ áp dụng các vòng sàng lọc tập trung (assessment centre) vốn chỉ dành cho quản lý hay thực tập sinh cấp cao xuống các vị trí lao động phổ thông. Bà Alice Martin, trưởng bộ phận nghiên cứu tại Work Foundation, Đại học Lancaster, nhận định việc tổ chức phỏng vấn nhóm giúp doanh nghiệp tiết kiệm thời gian và chi phí khi loại được nhiều người cùng lúc. Thay vì tốn tiền đào tạo nhân viên sau khi nhận việc, các công ty dùng chính những bài tập mô phỏng này như một dạng "thử việc không lương".</translate>
+    <mp3>subject_expert_explanation_guid.mp3</mp3>
+
+    <!-- 詞組分析63：Lý giải xu hướng này -->
+    <phrase>
+      <text>Lý giải xu hướng này</text>
+      <mp3>phrase_ly_giai_xu_huong_nay_guid.mp3</mp3>
+      <vocabulary>Lý giải</vocabulary>
+      <chinese>（動）解釋</chinese>
+      <vocabulary>xu hướng này</vocabulary>
+      <chinese>這個趨勢</chinese>
+      <chinesePhrase>解釋這個趨勢</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析64：ông Martin Warnes, giám đốc điều hành nền tảng việc làm Reed.co.uk -->
+    <phrase>
+      <text>ông Martin Warnes, giám đốc điều hành nền tảng việc làm Reed.co.uk</text>
+      <mp3>phrase_ong_martin_warnes_giam_doc_dieu_hanh_nen_tang_viec_lam_reed_co_uk_guid.mp3</mp3>
+      <vocabulary>ông Martin Warnes</vocabulary>
+      <chinese>Martin Warnes先生</chinese>
+      <vocabulary>giám đốc điều hành</vocabulary>
+      <chinese>執行長</chinese>
+      <vocabulary>nền tảng việc làm Reed.co.uk</vocabulary>
+      <chinese>求職平台Reed.co.uk</chinese>
+      <chinesePhrase>求職平台Reed.co.uk的執行長Martin Warnes先生</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析65：cho biết -->
+    <phrase>
+      <text>cho biết</text>
+      <mp3>phrase_cho_biet_guid.mp3</mp3>
+      <vocabulary>cho biết</vocabulary>
+      <chinese>表示</chinese>
+      <chinesePhrase>表示</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析66：các doanh nghiệp đang đối mặt với chi phí vận hành và rủi ro tuyển dụng cao hơn -->
+    <phrase>
+      <text>các doanh nghiệp đang đối mặt với chi phí vận hành và rủi ro tuyển dụng cao hơn</text>
+      <mp3>phrase_cac_doanh_nghiep_dang_doi_mat_voi_chi_phi_van_hanh_va_rui_ro_tuyen_dung_cao_hon_guid.mp3</mp3>
+      <vocabulary>các doanh nghiệp</vocabulary>
+      <chinese>各企業</chinese>
+      <vocabulary>đang đối mặt với</vocabulary>
+      <chinese>正面臨</chinese>
+      <vocabulary>chi phí vận hành và rủi ro tuyển dụng cao hơn</vocabulary>
+      <chinese>更高的營運成本和招聘風險</chinese>
+      <chinesePhrase>企業正面臨更高的營運成本和招聘風險</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析67：Khi cán cân nghiêng về phía nhà tuyển dụng do số lượng hồ sơ tăng đột biến -->
+    <phrase>
+      <text>Khi cán cân nghiêng về phía nhà tuyển dụng do số lượng hồ sơ tăng đột biến</text>
+      <mp3>phrase_khi_can_can_nghieng_ve_phia_nha_tuyen_dung_do_so_luong_ho_so_tang_dot_bien_guid.mp3</mp3>
+      <vocabulary>Khi</vocabulary>
+      <chinese>當</chinese>
+      <vocabulary>cán cân nghiêng về phía nhà tuyển dụng</vocabulary>
+      <chinese>天平傾向雇主</chinese>
+      <vocabulary>do số lượng hồ sơ tăng đột biến</vocabulary>
+      <chinese>由於求職者數量激增</chinese>
+      <chinesePhrase>當求職者數量激增使天平傾向雇主時</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析68：họ áp dụng các vòng sàng lọc tập trung (assessment centre) vốn chỉ dành cho quản lý hay thực tập sinh cấp cao xuống các vị trí lao động phổ thông -->
+    <phrase>
+      <text>họ áp dụng các vòng sàng lọc tập trung (assessment centre) vốn chỉ dành cho quản lý hay thực tập sinh cấp cao xuống các vị trí lao động phổ thông</text>
+      <mp3>phrase_ho_ap_dung_cac_vong_sang_loc_tap_trung_assessment_centre_von_chi_danh_cho_quan_ly_hay_thuc_tap_sinh_cap_cao_xuong_cac_vi_tri_lao_dong_pho_thong_guid.mp3</mp3>
+      <vocabulary>họ áp dụng</vocabulary>
+      <chinese>他們將...應用於</chinese>
+      <vocabulary>các vòng sàng lọc tập trung (assessment centre)</vocabulary>
+      <chinese>集中評鑑中心</chinese>
+      <vocabulary>vốn chỉ dành cho quản lý hay thực tập sinh cấp cao</vocabulary>
+      <chinese>原本只用於管理層或高階實習生</chinese>
+      <vocabulary>xuống các vị trí lao động phổ thông</vocabulary>
+      <chinese>下放到基層勞工職位</chinese>
+      <chinesePhrase>他們將原本只用於管理層或高階實習生的集中評鑑中心也應用到了基層勞工職位</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析69：Bà Alice Martin, trưởng bộ phận nghiên cứu tại Work Foundation, Đại học Lancaster -->
+    <phrase>
+      <text>Bà Alice Martin, trưởng bộ phận nghiên cứu tại Work Foundation, Đại học Lancaster</text>
+      <mp3>phrase_ba_alice_martin_truong_bo_phan_nghien_cuu_tai_work_foundation_dai_hoc_lancaster_guid.mp3</mp3>
+      <vocabulary>Bà Alice Martin</vocabulary>
+      <chinese>Alice Martin女士</chinese>
+      <vocabulary>trưởng bộ phận nghiên cứu tại Work Foundation, Đại học Lancaster</vocabulary>
+      <chinese>蘭卡斯特大學Work Foundation研究部門主管</chinese>
+      <chinesePhrase>蘭卡斯特大學Work Foundation研究部門主管Alice Martin女士</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析70：nhận định -->
+    <phrase>
+      <text>nhận định</text>
+      <mp3>phrase_nhan_dinh_guid.mp3</mp3>
+      <vocabulary>nhận định</vocabulary>
+      <chinese>（動）認為/斷定</chinese>
+      <chinesePhrase>認為</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析71：việc tổ chức phỏng vấn nhóm giúp doanh nghiệp tiết kiệm thời gian và chi phí khi loại được nhiều người cùng lúc -->
+    <phrase>
+      <text>việc tổ chức phỏng vấn nhóm giúp doanh nghiệp tiết kiệm thời gian và chi phí khi loại được nhiều người cùng lúc</text>
+      <mp3>phrase_viec_to_chuc_phong_van_nhom_giup_doanh_nghiep_tiet_kiem_thoi_gian_va_chi_phi_khi_loai_duoc_nhieu_nguoi_cung_luc_guid.mp3</mp3>
+      <vocabulary>việc tổ chức phỏng vấn nhóm</vocabulary>
+      <chinese>團體面試</chinese>
+      <vocabulary>giúp doanh nghiệp tiết kiệm thời gian và chi phí</vocabulary>
+      <chinese>幫企業節省時間和成本</chinese>
+      <vocabulary>khi loại được nhiều người cùng lúc</vocabulary>
+      <chinese>當能一次性淘汰多人時</chinese>
+      <chinesePhrase>團體面試能在一次淘汰多人時幫企業節省時間和成本</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析72：Thay vì tốn tiền đào tạo nhân viên sau khi nhận việc -->
+    <phrase>
+      <text>Thay vì tốn tiền đào tạo nhân viên sau khi nhận việc</text>
+      <mp3>phrase_thay_vi_ton_tien_dao_tao_nhan_vien_sau_khi_nhan_viec_guid.mp3</mp3>
+      <vocabulary>Thay vì</vocabulary>
+      <chinese>與其</chinese>
+      <vocabulary>tốn tiền đào tạo nhân viên sau khi nhận việc</vocabulary>
+      <chinese>花錢培訓新進員工</chinese>
+      <chinesePhrase>與其花錢培訓新進員工</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析73：các công ty dùng chính những bài tập mô phỏng này như một dạng "thử việc không lương" -->
+    <phrase>
+      <text>các công ty dùng chính những bài tập mô phỏng này như một dạng "thử việc không lương"</text>
+      <mp3>phrase_cac_cong_ty_dung_chinh_nhung_bai_tap_mo_phong_nay_nhu_mot_dang_thu_viec_khong_luong_guid.mp3</mp3>
+      <vocabulary>các công ty</vocabulary>
+      <chinese>各公司</chinese>
+      <vocabulary>dùng chính những bài tập mô phỏng này như một dạng</vocabulary>
+      <chinese>就用這些模擬練習當作一種</chinese>
+      <vocabulary>"thử việc không lương"</vocabulary>
+      <chinese>「無薪試用」</chinese>
+      <chinesePhrase>公司就用這些模擬練習當作一種「無薪試用」</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第九段：企業回應 -->
+  <subject>
+    <text>面對批評聲浪，各家企業都發聲捍衛自己的招聘流程。Zara代表表示，團體面試活動旨在評估溝通和團隊合作能力——這是零售業的核心要素。同樣，Wingstop方面也強調，相較於傳統的一問一答面試，集中評鑑模式更能展現應徵者的個性、創造力和服務精神。</text>
+    <translate>Trước những lời phàn nàn, các doanh nghiệp đều lên tiếng bảo vệ quy trình của mình. Đại diện Zara cho biết các hoạt động phỏng vấn nhóm được thiết kế để đánh giá kỹ năng giao tiếp và làm việc nhóm - những yếu tố cốt lõi của ngành bán lẻ. Tương tự, phía Wingstop khẳng định mô hình đánh giá tập trung giúp bộc lộ cá tính, sự sáng tạo và tinh thần phục vụ của ứng viên tốt hơn là phỏng vấn hỏi - đáp truyền thống.</translate>
+    <mp3>subject_company_responses_guid.mp3</mp3>
+
+    <!-- 詞組分析74：Trước những lời phàn nàn -->
+    <phrase>
+      <text>Trước những lời phàn nàn</text>
+      <mp3>phrase_truoc_nhung_loi_phan_nan_guid.mp3</mp3>
+      <vocabulary>Trước</vocabulary>
+      <chinese>在...前面/面對</chinese>
+      <vocabulary>những lời phàn nàn</vocabulary>
+      <chinese>那些批評/抱怨</chinese>
+      <chinesePhrase>面對批評</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析75：các doanh nghiệp đều lên tiếng bảo vệ quy trình của mình -->
+    <phrase>
+      <text>các doanh nghiệp đều lên tiếng bảo vệ quy trình của mình</text>
+      <mp3>phrase_cac_doanh_nghiep_deu_len_tieng_bao_ve_quy_trinh_cua_minh_guid.mp3</mp3>
+      <vocabulary>các doanh nghiệp</vocabulary>
+      <chinese>各企業</chinese>
+      <vocabulary>đều lên tiếng bảo vệ quy trình của mình</vocabulary>
+      <chinese>都發聲捍衛自己的流程</chinese>
+      <chinesePhrase>各家企業都發聲捍衛自己的招聘流程</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析76：Đại diện Zara cho biết -->
+    <phrase>
+      <text>Đại diện Zara cho biết</text>
+      <mp3>phrase_dai_dien_zara_cho_biet_guid.mp3</mp3>
+      <vocabulary>Đại diện Zara</vocabulary>
+      <chinese>Zara代表</chinese>
+      <vocabulary>cho biết</vocabulary>
+      <chinese>表示</chinese>
+      <chinesePhrase>Zara代表表示</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析77：các hoạt động phỏng vấn nhóm được thiết kế để đánh giá kỹ năng giao tiếp và làm việc nhóm -->
+    <phrase>
+      <text>các hoạt động phỏng vấn nhóm được thiết kế để đánh giá kỹ năng giao tiếp và làm việc nhóm</text>
+      <mp3>phrase_cac_hoat_dong_phong_van_nhom_duoc_thiet_ke_de_danh_gia_ky_nang_giao_tiep_va_lam_viec_nhom_guid.mp3</mp3>
+      <vocabulary>các hoạt động phỏng vấn nhóm</vocabulary>
+      <chinese>團體面試活動</chinese>
+      <vocabulary>được thiết kế để đánh giá</vocabulary>
+      <chinese>被設計用來評估</chinese>
+      <vocabulary>kỹ năng giao tiếp và làm việc nhóm</vocabulary>
+      <chinese>溝通和團隊合作能力</chinese>
+      <chinesePhrase>團體面試活動旨在評估溝通和團隊合作能力</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析78：- những yếu tố cốt lõi của ngành bán lẻ -->
+    <phrase>
+      <text>- những yếu tố cốt lõi của ngành bán lẻ</text>
+      <mp3>phrase_nhung_yeu_to_cot_loi_cua_nganh_ban_le_guid.mp3</mp3>
+      <vocabulary>những yếu tố cốt lõi</vocabulary>
+      <chinese>核心要素</chinese>
+      <vocabulary>của ngành bán lẻ</vocabulary>
+      <chinese>零售業的</chinese>
+      <chinesePhrase>——這是零售業的核心要素</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析79：Tương tự -->
+    <phrase>
+      <text>Tương tự</text>
+      <mp3>phrase_tuong_tu_guid.mp3</mp3>
+      <vocabulary>Tương tự</vocabulary>
+      <chinese>（副）同樣地</chinese>
+      <chinesePhrase>同樣</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析80：phía Wingstop khẳng định -->
+    <phrase>
+      <text>phía Wingstop khẳng định</text>
+      <mp3>phrase_phia_wingstop_khang_dinh_guid.mp3</mp3>
+      <vocabulary>phía Wingstop</vocabulary>
+      <chinese>Wingstop方面</chinese>
+      <vocabulary>khẳng định</vocabulary>
+      <chinese>（動）肯定/強調</chinese>
+      <chinesePhrase>Wingstop方面強調</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析81：mô hình đánh giá tập trung giúp bộc lộ cá tính, sự sáng tạo và tinh thần phục vụ của ứng viên tốt hơn là phỏng vấn hỏi - đáp truyền thống -->
+    <phrase>
+      <text>mô hình đánh giá tập trung giúp bộc lộ cá tính, sự sáng tạo và tinh thần phục vụ của ứng viên tốt hơn là phỏng vấn hỏi - đáp truyền thống</text>
+      <mp3>phrase_mo_hinh_danh_gia_tap_trung_giup_boc_lo_ca_tinh_su_sang_tao_va_tinh_than_phuc_vu_cua_ung_vien_tot_hon_la_phong_van_hoi_dap_truyen_thong_guid.mp3</mp3>
+      <vocabulary>mô hình đánh giá tập trung</vocabulary>
+      <chinese>集中評鑑模式</chinese>
+      <vocabulary>giúp bộc lộ</vocabulary>
+      <chinese>幫助展現</chinese>
+      <vocabulary>cá tính, sự sáng tạo và tinh thần phục vụ của ứng viên</vocabulary>
+      <chinese>應徵者的個性、創造力和服務精神</chinese>
+      <vocabulary>tốt hơn là phỏng vấn hỏi - đáp truyền thống</vocabulary>
+      <chinese>比傳統問答面試更好</chinese>
+      <chinesePhrase>集中評鑑模式比傳統問答面試更能展現應徵者的個性、創造力和服務精神</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第十段：Zahra最終找到工作 -->
+  <subject>
+    <text>在眾說紛紜之際，去年9月，Zahra終於在一間小咖啡館找到服務生的工作。整個流程只有一通線上面試電話，和幾天的「有薪試用期」——實際工作只是整理倉庫裡的東西。</text>
+    <translate>Giữa những luồng tranh luận, tháng 9 vừa qua, Zahra cuối cùng cũng tìm được việc phục vụ tại một quán cà phê nhỏ. Quy trình chỉ gồm một cuộc gọi phỏng vấn trực tuyến và vài ngày "thử việc có trả lương" – công việc thực tế chỉ là sắp xếp lại đồ đạc trong kho.</translate>
+    <mp3>subject_zahra_final_job_guid.mp3</mp3>
+
+    <!-- 詞組分析82：Giữa những luồng tranh luận -->
+    <phrase>
+      <text>Giữa những luồng tranh luận</text>
+      <mp3>phrase_giua_nhung_luong_tranh_luan_guid.mp3</mp3>
+      <vocabulary>Giữa</vocabulary>
+      <chinese>在...之中</chinese>
+      <vocabulary>những luồng tranh luận</vocabulary>
+      <chinese>各種爭論</chinese>
+      <chinesePhrase>在眾說紛紜之際</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析83：tháng 9 vừa qua -->
+    <phrase>
+      <text>tháng 9 vừa qua</text>
+      <mp3>phrase_thang_9_vua_qua_guid.mp3</mp3>
+      <vocabulary>tháng 9 vừa qua</vocabulary>
+      <chinese>去年9月</chinese>
+      <chinesePhrase>去年9月</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析84：Zahra cuối cùng cũng tìm được việc phục vụ tại một quán cà phê nhỏ -->
+    <phrase>
+      <text>Zahra cuối cùng cũng tìm được việc phục vụ tại một quán cà phê nhỏ</text>
+      <mp3>phrase_zahra_cuoi_cung_cung_tim_duoc_viec_phuc_vu_tai_mot_quan_ca_phe_nho_guid.mp3</mp3>
+      <vocabulary>Zahra cuối cùng cũng</vocabulary>
+      <chinese>Zahra終於</chinese>
+      <vocabulary>tìm được việc phục vụ tại một quán cà phê nhỏ</vocabulary>
+      <chinese>在一間小咖啡館找到服務生的工作</chinese>
+      <chinesePhrase>Zahra終於在一間小咖啡館找到服務生的工作</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析85：Quy trình chỉ gồm một cuộc gọi phỏng vấn trực tuyến -->
+    <phrase>
+      <text>Quy trình chỉ gồm một cuộc gọi phỏng vấn trực tuyến</text>
+      <mp3>phrase_quy_trinh_chi_gom_mot_cuoc_goi_phong_van_truc_tuyen_guid.mp3</mp3>
+      <vocabulary>Quy trình</vocabulary>
+      <chinese>流程</chinese>
+      <vocabulary>chỉ gồm</vocabulary>
+      <chinese>只有</chinese>
+      <vocabulary>một cuộc gọi phỏng vấn trực tuyến</vocabulary>
+      <chinese>一通線上面試電話</chinese>
+      <chinesePhrase>整個流程只有一通線上面試電話</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析86：và vài ngày "thử việc có trả lương" -->
+    <phrase>
+      <text>và vài ngày "thử việc có trả lương"</text>
+      <mp3>phrase_va_vai_ngay_thu_viec_co_tra_luong_guid.mp3</mp3>
+      <vocabulary>và</vocabulary>
+      <chinese>和</chinese>
+      <vocabulary>vài ngày "thử việc có trả lương"</vocabulary>
+      <chinese>幾天的「有薪試用期」</chinese>
+      <chinesePhrase>和幾天的「有薪試用期」</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析87：– công việc thực tế chỉ là sắp xếp lại đồ đạc trong kho -->
+    <phrase>
+      <text>– công việc thực tế chỉ là sắp xếp lại đồ đạc trong kho</text>
+      <mp3>phrase_cong_viec_thuc_te_chi_la_sap_xep_lai_do_dac_trong_kho_guid.mp3</mp3>
+      <vocabulary>công việc thực tế</vocabulary>
+      <chinese>實際工作</chinese>
+      <vocabulary>chỉ là</vocabulary>
+      <chinese>只是</chinese>
+      <vocabulary>sắp xếp lại đồ đạc trong kho</vocabulary>
+      <chinese>重新整理倉庫裡的東西</chinese>
+      <chinesePhrase>——實際工作只是整理倉庫裡的東西</chinesePhrase>
+    </phrase>
+  </subject>
+</xml>

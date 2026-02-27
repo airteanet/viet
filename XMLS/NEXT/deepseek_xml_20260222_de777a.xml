@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <!-- 標題：在胡志明市建立國際金融中心的思考 -->
+  <subject>
+    <text>在胡志明市建立國際金融中心的思考</text>
+    <translate>Gần đây, khi đọc tin về định hướng xây dựng trung tâm tài chính quốc tế ở TP HCM, tôi nhớ lại những ngày làm trong một startup ở Mỹ.</translate>
+    <mp3>subject_title_financial_center_thoughts_guid.mp3</mp3>
+
+    <!-- 詞組分析1：Gần đây -->
+    <phrase>
+      <text>Gần đây</text>
+      <mp3>phrase_gan_day_guid.mp3</mp3>
+      <vocabulary>Gần đây</vocabulary>
+      <chinese>（副）最近</chinese>
+      <chinesePhrase>最近</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析2：khi đọc tin -->
+    <phrase>
+      <text>khi đọc tin</text>
+      <mp3>phrase_khi_doc_tin_guid.mp3</mp3>
+      <vocabulary>khi</vocabulary>
+      <chinese>當...的時候</chinese>
+      <vocabulary>đọc tin</vocabulary>
+      <chinese>讀新聞</chinese>
+      <chinesePhrase>當讀到新聞時</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析3：về định hướng xây dựng trung tâm tài chính quốc tế ở TP HCM -->
+    <phrase>
+      <text>về định hướng xây dựng trung tâm tài chính quốc tế ở TP HCM</text>
+      <mp3>phrase_ve_dinh_huong_xay_dung_trung_tam_tai_chinh_quoc_te_o_tphcm_guid.mp3</mp3>
+      <vocabulary>về</vocabulary>
+      <chinese>（介）關於</chinese>
+      <vocabulary>định hướng xây dựng</vocabulary>
+      <chinese>建設方向</chinese>
+      <vocabulary>trung tâm tài chính quốc tế</vocabulary>
+      <chinese>國際金融中心</chinese>
+      <vocabulary>ở TP HCM</vocabulary>
+      <chinese>在胡志明市</chinese>
+      <chinesePhrase>關於在胡志明市建立國際金融中心的方向</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析4：tôi nhớ lại -->
+    <phrase>
+      <text>tôi nhớ lại</text>
+      <mp3>phrase_toi_nho_lai_guid.mp3</mp3>
+      <vocabulary>tôi</vocabulary>
+      <chinese>我</chinese>
+      <vocabulary>nhớ lại</vocabulary>
+      <chinese>回憶起</chinese>
+      <chinesePhrase>我回憶起</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析5：những ngày làm trong một startup ở Mỹ -->
+    <phrase>
+      <text>những ngày làm trong một startup ở Mỹ</text>
+      <mp3>phrase_nhung_ngay_lam_trong_mot_startup_o_my_guid.mp3</mp3>
+      <vocabulary>những ngày làm</vocabulary>
+      <chinese>那些工作的日子</chinese>
+      <vocabulary>trong một startup</vocabulary>
+      <chinese>在一家新創公司裡</chinese>
+      <vocabulary>ở Mỹ</vocabulary>
+      <chinese>在美國</chinese>
+      <chinesePhrase>在美國一家新創公司工作的日子</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第二段：美國新創公司的運作速度 -->
+  <subject>
+    <text>在那裡，一切運作得非常快。早上的想法，下午就有了測試版。這個星期決定，下個星期就要展示。但很多時候，這種速度會被一些很平常的事情拖慢，像是開設帳戶、簽署服務合約、付款給供應商、跨境轉帳，還有為了在國外設立和運營一個據點而周旋於各種手續。銀行或法律事務耽誤幾週，就會拖累招聘計劃、延誤測試、錯過募資節奏。</text>
+    <translate>Ở đó, mọi thứ chạy rất nhanh. Ý tưởng buổi sáng, buổi chiều đã có bản thử. Tuần này quyết, tuần sau phải demo. Nhưng nhiều lần, tốc độ ấy bị níu lại bởi những việc rất bình thường như mở tài khoản, ký hợp đồng dịch vụ, thanh toán cho nhà cung cấp, chuyển tiền qua biên giới, rồi xoay đủ thủ tục để lập và vận hành một hiện diện ở nước ngoài. Chậm vài tuần ở chuyện ngân hàng hay pháp lý là chậm cả kế hoạch tuyển người, trễ thử nghiệm, trễ nhịp gọi vốn.</translate>
+    <mp3>subject_us_startup_speed_guid.mp3</mp3>
+
+    <!-- 詞組分析6：Ở đó -->
+    <phrase>
+      <text>Ở đó</text>
+      <mp3>phrase_o_do_guid.mp3</mp3>
+      <vocabulary>Ở đó</vocabulary>
+      <chinese>在那裡</chinese>
+      <chinesePhrase>在那裡</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析7：mọi thứ chạy rất nhanh -->
+    <phrase>
+      <text>mọi thứ chạy rất nhanh</text>
+      <mp3>phrase_moi_thu_chay_rat_nhanh_guid.mp3</mp3>
+      <vocabulary>mọi thứ</vocabulary>
+      <chinese>一切</chinese>
+      <vocabulary>chạy rất nhanh</vocabulary>
+      <chinese>運作得非常快</chinese>
+      <chinesePhrase>一切運作得非常快</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析8：Ý tưởng buổi sáng, buổi chiều đã có bản thử -->
+    <phrase>
+      <text>Ý tưởng buổi sáng, buổi chiều đã có bản thử</text>
+      <mp3>phrase_y_tuong_buoi_sang_buoi_chieu_da_co_ban_thu_guid.mp3</mp3>
+      <vocabulary>Ý tưởng buổi sáng</vocabulary>
+      <chinese>早上的想法</chinese>
+      <vocabulary>buổi chiều đã có bản thử</vocabulary>
+      <chinese>下午就有了測試版</chinese>
+      <chinesePhrase>早上的想法，下午就有了測試版</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析9：Tuần này quyết, tuần sau phải demo -->
+    <phrase>
+      <text>Tuần này quyết, tuần sau phải demo</text>
+      <mp3>phrase_tuan_nay_quyet_tuan_sau_phai_demo_guid.mp3</mp3>
+      <vocabulary>Tuần này quyết</vocabulary>
+      <chinese>這個星期決定</chinese>
+      <vocabulary>tuần sau phải demo</vocabulary>
+      <chinese>下個星期就要展示</chinese>
+      <chinesePhrase>這個星期決定，下個星期就要展示</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析10：Nhưng nhiều lần -->
+    <phrase>
+      <text>Nhưng nhiều lần</text>
+      <mp3>phrase_nhung_nhieu_lan_guid.mp3</mp3>
+      <vocabulary>Nhưng</vocabulary>
+      <chinese>但是</chinese>
+      <vocabulary>nhiều lần</vocabulary>
+      <chinese>很多時候</chinese>
+      <chinesePhrase>但很多時候</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析11：tốc độ ấy bị níu lại bởi những việc rất bình thường như -->
+    <phrase>
+      <text>tốc độ ấy bị níu lại bởi những việc rất bình thường như</text>
+      <mp3>phrase_toc_do_ay_bi_niu_lai_boi_nhung_viec_rat_binh_thuong_nhu_guid.mp3</mp3>
+      <vocabulary>tốc độ ấy</vocabulary>
+      <chinese>這種速度</chinese>
+      <vocabulary>bị níu lại bởi</vocabulary>
+      <chinese>會被...拖慢</chinese>
+      <vocabulary>những việc rất bình thường như</vocabulary>
+      <chinese>一些很平常的事情，像是</chinese>
+      <chinesePhrase>這種速度會被一些很平常的事情拖慢，像是</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析12：mở tài khoản -->
+    <phrase>
+      <text>mở tài khoản</text>
+      <mp3>phrase_mo_tai_khoan_guid.mp3</mp3>
+      <vocabulary>mở tài khoản</vocabulary>
+      <chinese>開設帳戶</chinese>
+      <chinesePhrase>開設帳戶</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析13：ký hợp đồng dịch vụ -->
+    <phrase>
+      <text>ký hợp đồng dịch vụ</text>
+      <mp3>phrase_ky_hop_dong_dich_vu_guid.mp3</mp3>
+      <vocabulary>ký hợp đồng dịch vụ</vocabulary>
+      <chinese>簽署服務合約</chinese>
+      <chinesePhrase>簽署服務合約</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析14：thanh toán cho nhà cung cấp -->
+    <phrase>
+      <text>thanh toán cho nhà cung cấp</text>
+      <mp3>phrase_thanh_toan_cho_nha_cung_cap_guid.mp3</mp3>
+      <vocabulary>thanh toán cho</vocabulary>
+      <chinese>付款給</chinese>
+      <vocabulary>nhà cung cấp</vocabulary>
+      <chinese>供應商</chinese>
+      <chinesePhrase>付款給供應商</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析15：chuyển tiền qua biên giới -->
+    <phrase>
+      <text>chuyển tiền qua biên giới</text>
+      <mp3>phrase_chuyen_tien_qua_bien_gioi_guid.mp3</mp3>
+      <vocabulary>chuyển tiền qua biên giới</vocabulary>
+      <chinese>跨境轉帳</chinese>
+      <chinesePhrase>跨境轉帳</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析16：rồi xoay đủ thủ tục để lập và vận hành một hiện diện ở nước ngoài -->
+    <phrase>
+      <text>rồi xoay đủ thủ tục để lập và vận hành một hiện diện ở nước ngoài</text>
+      <mp3>phrase_roi_xoay_du_thu_tuc_de_lap_va_van_hanh_mot_hien_dien_o_nuoc_ngoai_guid.mp3</mp3>
+      <vocabulary>rồi</vocabulary>
+      <chinese>還有</chinese>
+      <vocabulary>xoay đủ thủ tục</vocabulary>
+      <chinese>周旋於各種手續</chinese>
+      <vocabulary>để lập và vận hành một hiện diện ở nước ngoài</vocabulary>
+      <chinese>為了在國外設立和運營一個據點</chinese>
+      <chinesePhrase>還有為了在國外設立和運營一個據點而周旋於各種手續</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析17：Chậm vài tuần ở chuyện ngân hàng hay pháp lý là chậm cả kế hoạch tuyển người, trễ thử nghiệm, trễ nhịp gọi vốn -->
+    <phrase>
+      <text>Chậm vài tuần ở chuyện ngân hàng hay pháp lý là chậm cả kế hoạch tuyển người, trễ thử nghiệm, trễ nhịp gọi vốn</text>
+      <mp3>phrase_cham_vai_tuan_o_chuyen_ngan_hang_hay_phap_ly_la_cham_ca_ke_hoach_tuyen_nguoi_tre_thu_nghiem_tre_nhip_goi_von_guid.mp3</mp3>
+      <vocabulary>Chậm vài tuần ở chuyện ngân hàng hay pháp lý</vocabulary>
+      <chinese>銀行或法律事務耽誤幾週</chinese>
+      <vocabulary>là chậm cả kế hoạch tuyển người, trễ thử nghiệm, trễ nhịp gọi vốn</vocabulary>
+      <chinese>就會拖累整個招聘計劃、延誤測試、錯過募資節奏</chinese>
+      <chinesePhrase>銀行或法律事務耽誤幾週，就會拖累招聘計劃、延誤測試、錯過募資節奏</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第三段：從實用角度看金融中心 -->
+  <subject>
+    <text>我不深入討論金融中心的模式。我只是從一個曾經身處新創運作節奏中的人，以務實的角度來看。當手續清晰、資金流更順暢、法律風險不再模糊，進入一個新市場的決定就不會那麼可怕。而從資金流的故事，我想到另一個同樣重要的流動，那就是知識和科技能力的流動。</text>
+    <translate>Tôi không bàn sâu mô hình trung tâm tài chính. Tôi chỉ nhìn từ góc thực dụng của người từng ở trong guồng chạy startup. Khi thủ tục rõ ràng, dòng tiền thông suốt hơn, rủi ro pháp lý bớt mù mờ, quyết định vào một thị trường mới sẽ bớt đáng sợ. Và từ câu chuyện dòng tiền, tôi nghĩ đến một dòng chảy khác quan trọng không kém, là dòng chảy tri thức và năng lực công nghệ.</translate>
+    <mp3>subject_practical_view_financial_center_guid.mp3</mp3>
+
+    <!-- 詞組分析18：Tôi không bàn sâu mô hình trung tâm tài chính -->
+    <phrase>
+      <text>Tôi không bàn sâu mô hình trung tâm tài chính</text>
+      <mp3>phrase_toi_khong_ban_sau_mo_hinh_trung_tam_tai_chinh_guid.mp3</mp3>
+      <vocabulary>Tôi không bàn sâu</vocabulary>
+      <chinese>我不深入討論</chinese>
+      <vocabulary>mô hình trung tâm tài chính</vocabulary>
+      <chinese>金融中心的模式</chinese>
+      <chinesePhrase>我不深入討論金融中心的模式</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析19：Tôi chỉ nhìn từ góc thực dụng của người từng ở trong guồng chạy startup -->
+    <phrase>
+      <text>Tôi chỉ nhìn từ góc thực dụng của người từng ở trong guồng chạy startup</text>
+      <mp3>phrase_toi_chi_nhin_tu_goc_thuc_dung_cua_nguoi_tung_o_trong_guong_chay_startup_guid.mp3</mp3>
+      <vocabulary>Tôi chỉ nhìn từ góc thực dụng</vocabulary>
+      <chinese>我只是從務實的角度來看</chinese>
+      <vocabulary>của người từng ở trong guồng chạy startup</vocabulary>
+      <chinese>從一個曾經身處新創運作節奏中的人</chinese>
+      <chinesePhrase>我只是從一個曾經身處新創運作節奏中的人，以務實的角度來看</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析20：Khi thủ tục rõ ràng -->
+    <phrase>
+      <text>Khi thủ tục rõ ràng</text>
+      <mp3>phrase_khi_thu_tuc_ro_rang_guid.mp3</mp3>
+      <vocabulary>Khi thủ tục rõ ràng</vocabulary>
+      <chinese>當手續清晰時</chinese>
+      <chinesePhrase>當手續清晰</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析21：dòng tiền thông suốt hơn -->
+    <phrase>
+      <text>dòng tiền thông suốt hơn</text>
+      <mp3>phrase_dong_tien_thong_suot_hon_guid.mp3</mp3>
+      <vocabulary>dòng tiền thông suốt hơn</vocabulary>
+      <chinese>資金流更順暢</chinese>
+      <chinesePhrase>資金流更順暢</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析22：rủi ro pháp lý bớt mù mờ -->
+    <phrase>
+      <text>rủi ro pháp lý bớt mù mờ</text>
+      <mp3>phrase_rui_ro_phap_ly_bot_mu_mo_guid.mp3</mp3>
+      <vocabulary>rủi ro pháp lý bớt mù mờ</vocabulary>
+      <chinese>法律風險不再模糊</chinese>
+      <chinesePhrase>法律風險不再模糊</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析23：quyết định vào một thị trường mới sẽ bớt đáng sợ -->
+    <phrase>
+      <text>quyết định vào một thị trường mới sẽ bớt đáng sợ</text>
+      <mp3>phrase_quyet_dinh_vao_mot_thi_truong_moi_se_bot_dang_so_guid.mp3</mp3>
+      <vocabulary>quyết định vào một thị trường mới</vocabulary>
+      <chinese>進入一個新市場的決定</chinese>
+      <vocabulary>sẽ bớt đáng sợ</vocabulary>
+      <chinese>就不會那麼可怕</chinese>
+      <chinesePhrase>進入一個新市場的決定就不會那麼可怕</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析24：Và từ câu chuyện dòng tiền -->
+    <phrase>
+      <text>Và từ câu chuyện dòng tiền</text>
+      <mp3>phrase_va_tu_cau_chuyen_dong_tien_guid.mp3</mp3>
+      <vocabulary>Và từ câu chuyện dòng tiền</vocabulary>
+      <chinese>而從資金流的故事</chinese>
+      <chinesePhrase>而從資金流的故事</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析25：tôi nghĩ đến một dòng chảy khác quan trọng không kém -->
+    <phrase>
+      <text>tôi nghĩ đến một dòng chảy khác quan trọng không kém</text>
+      <mp3>phrase_toi_nghi_den_mot_dong_chay_khac_quan_trong_khong_kem_guid.mp3</mp3>
+      <vocabulary>tôi nghĩ đến</vocabulary>
+      <chinese>我想到</chinese>
+      <vocabulary>một dòng chảy khác quan trọng không kém</vocabulary>
+      <chinese>另一個同樣重要的流動</chinese>
+      <chinesePhrase>我想到另一個同樣重要的流動</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析26：là dòng chảy tri thức và năng lực công nghệ -->
+    <phrase>
+      <text>là dòng chảy tri thức và năng lực công nghệ</text>
+      <mp3>phrase_la_dong_chay_tri_thuc_va_nang_luc_cong_nghe_guid.mp3</mp3>
+      <vocabulary>là dòng chảy tri thức và năng lực công nghệ</vocabulary>
+      <chinese>那就是知識和科技能力的流動</chinese>
+      <chinesePhrase>那就是知識和科技能力的流動</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第四段：吸引深度科技新創公司的重要性 -->
+  <subject>
+    <text>如果越南想成為一個對國際企業容易進入和運營的地方，我們不應該只邀請那些已經成形的集團。我們應該爭取同時迎接從早期階段就開始的深度科技新創公司，當他們正在尋找設立第一個研發和設計中心的地方。</text>
+    <translate>Nếu Việt Nam muốn trở thành nơi dễ vào và dễ vận hành với doanh nghiệp quốc tế, ta không chỉ nên mời những tập đoàn đã thành hình. Ta nên tranh thủ đón cả các startup deeptech từ giai đoạn sớm, khi họ đang tìm nơi đặt nhóm R&D và trung tâm thiết kế đầu tiên.</translate>
+    <mp3>subject_attract_deeptech_early_stage_guid.mp3</mp3>
+
+    <!-- 詞組分析27：Nếu Việt Nam muốn trở thành nơi dễ vào và dễ vận hành với doanh nghiệp quốc tế -->
+    <phrase>
+      <text>Nếu Việt Nam muốn trở thành nơi dễ vào và dễ vận hành với doanh nghiệp quốc tế</text>
+      <mp3>phrase_neu_viet_nam_muon_tro_thanh_noi_de_vao_va_de_van_hanh_voi_doanh_nghiep_quoc_te_guid.mp3</mp3>
+      <vocabulary>Nếu Việt Nam muốn trở thành</vocabulary>
+      <chinese>如果越南想成為</chinese>
+      <vocabulary>nơi dễ vào và dễ vận hành với doanh nghiệp quốc tế</vocabulary>
+      <chinese>一個對國際企業容易進入和運營的地方</chinese>
+      <chinesePhrase>如果越南想成為一個對國際企業容易進入和運營的地方</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析28：ta không chỉ nên mời những tập đoàn đã thành hình -->
+    <phrase>
+      <text>ta không chỉ nên mời những tập đoàn đã thành hình</text>
+      <mp3>phrase_ta_khong_chi_nen_moi_nhung_tap_doan_da_thanh_hinh_guid.mp3</mp3>
+      <vocabulary>ta không chỉ nên mời</vocabulary>
+      <chinese>我們不應該只邀請</chinese>
+      <vocabulary>những tập đoàn đã thành hình</vocabulary>
+      <chinese>那些已經成形的集團</chinese>
+      <chinesePhrase>我們不應該只邀請那些已經成形的集團</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析29：Ta nên tranh thủ đón cả các startup deeptech từ giai đoạn sớm -->
+    <phrase>
+      <text>Ta nên tranh thủ đón cả các startup deeptech từ giai đoạn sớm</text>
+      <mp3>phrase_ta_nen_tranh_thu_don_ca_cac_startup_deeptech_tu_giai_doan_som_guid.mp3</mp3>
+      <vocabulary>Ta nên tranh thủ đón cả</vocabulary>
+      <chinese>我們應該爭取同時迎接</chinese>
+      <vocabulary>các startup deeptech từ giai đoạn sớm</vocabulary>
+      <chinese>從早期階段就開始的深度科技新創公司</chinese>
+      <chinesePhrase>我們應該爭取同時迎接從早期階段就開始的深度科技新創公司</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析30：khi họ đang tìm nơi đặt nhóm R&D và trung tâm thiết kế đầu tiên -->
+    <phrase>
+      <text>khi họ đang tìm nơi đặt nhóm R&D và trung tâm thiết kế đầu tiên</text>
+      <mp3>phrase_khi_ho_dang_tim_noi_dat_nhom_randd_va_trung_tam_thiet_ke_dau_tien_guid.mp3</mp3>
+      <vocabulary>khi họ đang tìm nơi đặt</vocabulary>
+      <chinese>當他們正在尋找設立...的地方</chinese>
+      <vocabulary>nhóm R&D và trung tâm thiết kế đầu tiên</vocabulary>
+      <chinese>第一個研發和設計中心</chinese>
+      <chinesePhrase>當他們正在尋找設立第一個研發和設計中心的地方</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第五段：深度科技的定義與特性 -->
+  <subject>
+    <text>深度科技是指基於核心技術的新創公司，研發和設計佔據最高價值部分。他們走的是長遠路線，因為需要反覆試驗和重做，但為了生存又需要極快的運作。對深度科技來說，慢可能就意味著死。</text>
+    <translate>Deeptech là công ty khởi nghiệp dựa trên công nghệ lõi, nơi R&D và thiết kế giữ phần giá trị cao nhất. Họ đi đường dài vì phải thử nghiệm và làm lại nhiều lần, nhưng để sống sót lại cần vận hành cực nhanh. Với deeptech, chậm có thể là chết.</translate>
+    <mp3>subject_deeptech_definition_characteristics_guid.mp3</mp3>
+
+    <!-- 詞組分析31：Deeptech là công ty khởi nghiệp dựa trên công nghệ lõi -->
+    <phrase>
+      <text>Deeptech là công ty khởi nghiệp dựa trên công nghệ lõi</text>
+      <mp3>phrase_deeptech_la_cong_ty_khoi_nghiep_dua_tren_cong_nghe_loi_guid.mp3</mp3>
+      <vocabulary>Deeptech</vocabulary>
+      <chinese>深度科技</chinese>
+      <vocabulary>là công ty khởi nghiệp dựa trên công nghệ lõi</vocabulary>
+      <chinese>是指基於核心技術的新創公司</chinese>
+      <chinesePhrase>深度科技是指基於核心技術的新創公司</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析32：nơi R&D và thiết kế giữ phần giá trị cao nhất -->
+    <phrase>
+      <text>nơi R&D và thiết kế giữ phần giá trị cao nhất</text>
+      <mp3>phrase_noi_randd_va_thiet_ke_giu_phan_gia_tri_cao_nhat_guid.mp3</mp3>
+      <vocabulary>nơi</vocabulary>
+      <chinese>在那裡</chinese>
+      <vocabulary>R&D và thiết kế giữ phần giá trị cao nhất</vocabulary>
+      <chinese>研發和設計佔據最高價值部分</chinese>
+      <chinesePhrase>在那裡，研發和設計佔據最高價值部分</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析33：Họ đi đường dài vì phải thử nghiệm và làm lại nhiều lần -->
+    <phrase>
+      <text>Họ đi đường dài vì phải thử nghiệm và làm lại nhiều lần</text>
+      <mp3>phrase_ho_di_duong_dai_vi_phai_thu_nghiem_va_lam_lai_nhieu_lan_guid.mp3</mp3>
+      <vocabulary>Họ đi đường dài</vocabulary>
+      <chinese>他們走的是長遠路線</chinese>
+      <vocabulary>vì phải thử nghiệm và làm lại nhiều lần</vocabulary>
+      <chinese>因為需要反覆試驗和重做</chinese>
+      <chinesePhrase>他們走的是長遠路線，因為需要反覆試驗和重做</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析34：nhưng để sống sót lại cần vận hành cực nhanh -->
+    <phrase>
+      <text>nhưng để sống sót lại cần vận hành cực nhanh</text>
+      <mp3>phrase_nhung_de_song_sot_lai_can_van_hanh_cuc_nhanh_guid.mp3</mp3>
+      <vocabulary>nhưng để sống sót lại cần vận hành cực nhanh</vocabulary>
+      <chinese>但為了生存又需要極快的運作</chinese>
+      <chinesePhrase>但為了生存又需要極快的運作</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析35：Với deeptech, chậm có thể là chết -->
+    <phrase>
+      <text>Với deeptech, chậm có thể là chết</text>
+      <mp3>phrase_voi_deeptech_cham_co_the_la_chet_guid.mp3</mp3>
+      <vocabulary>Với deeptech</vocabulary>
+      <chinese>對深度科技來說</chinese>
+      <vocabulary>chậm có thể là chết</vocabulary>
+      <chinese>慢可能就意味著死</chinese>
+      <chinesePhrase>對深度科技來說，慢可能就意味著死</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第六段：早期吸引深度科技的複利效應 -->
+  <subject>
+    <text>從早期就吸引深度科技具有「複利效應」。如果新創公司成功，早期參與的團隊將成為公司結構的一部分，參與系統架構、設計流程、測試標準，並創造智慧財產權。如果失敗，他們仍然留下了一批熟悉真正研發節奏、熟悉測試紀律和產品思維、以及多文化工作環境的越南工程師。這是傳統外國直接投資難以創造的價值，因為大企業通常只在核心研發已被鎖定在其他地方時才到來。</text>
+    <translate>Đón deeptech từ sớm có tính "lãi kép". Nếu startup thành công, nhóm nhân sự tham gia sớm sẽ trở thành một phần cấu trúc công ty, tham gia vào kiến trúc hệ thống, quy trình thiết kế, chuẩn thử nghiệm, và tạo ra tài sản trí tuệ. Nếu thất bại, họ vẫn để lại một lớp kỹ sư Việt Nam quen nhịp R&D thật, quen kỷ luật thử nghiệm và tư duy sản phẩm và môi trường làm việc đa văn hóa. Đây là giá trị mà FDI truyền thống khó tạo ra, vì doanh nghiệp lớn thường chỉ đến khi R&D lõi đã khóa ở nơi khác.</translate>
+    <mp3>subject_deeptech_compound_interest_guid.mp3</mp3>
+
+    <!-- 詞組分析36：Đón deeptech từ sớm có tính "lãi kép" -->
+    <phrase>
+      <text>Đón deeptech từ sớm có tính "lãi kép"</text>
+      <mp3>phrase_don_deeptech_tu_som_co_tinh_lai_kep_guid.mp3</mp3>
+      <vocabulary>Đón deeptech từ sớm</vocabulary>
+      <chinese>從早期就吸引深度科技</chinese>
+      <vocabulary>có tính "lãi kép"</vocabulary>
+      <chinese>具有「複利效應」</chinese>
+      <chinesePhrase>從早期就吸引深度科技具有「複利效應」</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析37：Nếu startup thành công -->
+    <phrase>
+      <text>Nếu startup thành công</text>
+      <mp3>phrase_neu_startup_thanh_cong_guid.mp3</mp3>
+      <vocabulary>Nếu startup thành công</vocabulary>
+      <chinese>如果新創公司成功</chinese>
+      <chinesePhrase>如果新創公司成功</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析38：nhóm nhân sự tham gia sớm sẽ trở thành một phần cấu trúc công ty -->
+    <phrase>
+      <text>nhóm nhân sự tham gia sớm sẽ trở thành một phần cấu trúc công ty</text>
+      <mp3>phrase_nhom_nhan_su_tham_gia_som_se_tro_thanh_mot_phan_cau_truc_cong_ty_guid.mp3</mp3>
+      <vocabulary>nhóm nhân sự tham gia sớm</vocabulary>
+      <chinese>早期參與的團隊</chinese>
+      <vocabulary>sẽ trở thành một phần cấu trúc công ty</vocabulary>
+      <chinese>將成為公司結構的一部分</chinese>
+      <chinesePhrase>早期參與的團隊將成為公司結構的一部分</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析39：tham gia vào kiến trúc hệ thống, quy trình thiết kế, chuẩn thử nghiệm, và tạo ra tài sản trí tuệ -->
+    <phrase>
+      <text>tham gia vào kiến trúc hệ thống, quy trình thiết kế, chuẩn thử nghiệm, và tạo ra tài sản trí tuệ</text>
+      <mp3>phrase_tham_gia_vao_kien_truc_he_thong_quy_trinh_thiet_ke_chuan_thu_nghiem_va_tao_ra_tai_san_tri_tue_guid.mp3</mp3>
+      <vocabulary>tham gia vào</vocabulary>
+      <chinese>參與</chinese>
+      <vocabulary>kiến trúc hệ thống, quy trình thiết kế, chuẩn thử nghiệm</vocabulary>
+      <chinese>系統架構、設計流程、測試標準</chinese>
+      <vocabulary>và tạo ra tài sản trí tuệ</vocabulary>
+      <chinese>並創造智慧財產權</chinese>
+      <chinesePhrase>參與系統架構、設計流程、測試標準，並創造智慧財產權</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析40：Nếu thất bại -->
+    <phrase>
+      <text>Nếu thất bại</text>
+      <mp3>phrase_neu_that_bai_guid.mp3</mp3>
+      <vocabulary>Nếu thất bại</vocabulary>
+      <chinese>如果失敗</chinese>
+      <chinesePhrase>如果失敗</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析41：họ vẫn để lại một lớp kỹ sư Việt Nam quen nhịp R&D thật, quen kỷ luật thử nghiệm và tư duy sản phẩm và môi trường làm việc đa văn hóa -->
+    <phrase>
+      <text>họ vẫn để lại một lớp kỹ sư Việt Nam quen nhịp R&D thật, quen kỷ luật thử nghiệm và tư duy sản phẩm và môi trường làm việc đa văn hóa</text>
+      <mp3>phrase_ho_van_de_lai_mot_lop_ky_su_viet_nam_quen_nhip_randd_that_quen_ky_luat_thu_nghiem_va_tu_duy_san_pham_va_moi_truong_lam_viec_da_van_hoa_guid.mp3</mp3>
+      <vocabulary>họ vẫn để lại</vocabulary>
+      <chinese>他們仍然留下了</chinese>
+      <vocabulary>một lớp kỹ sư Việt Nam</vocabulary>
+      <chinese>一批越南工程師</chinese>
+      <vocabulary>quen nhịp R&D thật, quen kỷ luật thử nghiệm và tư duy sản phẩm và môi trường làm việc đa văn hóa</vocabulary>
+      <chinese>熟悉真正研發節奏、熟悉測試紀律和產品思維、以及多文化工作環境</chinese>
+      <chinesePhrase>他們仍然留下了一批熟悉真正研發節奏、熟悉測試紀律和產品思維、以及多文化工作環境的越南工程師</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析42：Đây là giá trị mà FDI truyền thống khó tạo ra -->
+    <phrase>
+      <text>Đây là giá trị mà FDI truyền thống khó tạo ra</text>
+      <mp3>phrase_day_la_gia_tri_ma_fdi_truyen_thong_kho_tao_ra_guid.mp3</mp3>
+      <vocabulary>Đây là giá trị</vocabulary>
+      <chinese>這是價值</chinese>
+      <vocabulary>mà FDI truyền thống khó tạo ra</vocabulary>
+      <chinese>傳統外國直接投資難以創造的</chinese>
+      <chinesePhrase>這是傳統外國直接投資難以創造的價值</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析43：vì doanh nghiệp lớn thường chỉ đến khi R&D lõi đã khóa ở nơi khác -->
+    <phrase>
+      <text>vì doanh nghiệp lớn thường chỉ đến khi R&D lõi đã khóa ở nơi khác</text>
+      <mp3>phrase_vi_doanh_nghiep_lon_thuong_chi_den_khi_randd_loi_da_khoa_o_noi_khac_guid.mp3</mp3>
+      <vocabulary>vì doanh nghiệp lớn thường chỉ đến</vocabulary>
+      <chinese>因為大企業通常只在...時才到來</chinese>
+      <vocabulary>khi R&D lõi đã khóa ở nơi khác</vocabulary>
+      <chinese>當核心研發已被鎖定在其他地方</chinese>
+      <chinesePhrase>因為大企業通常只在核心研發已被鎖定在其他地方時才到來</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第七段：現有政策與深度科技需求的落差 -->
+  <subject>
+    <text>問題在於，深度科技不能使用吸引「大鷹」的同一套公式。許多傳統政策適合穩定的企業，長期稅收優惠、土地、大規模項目的手續。而對於早期階段的深度科技新創公司，瓶頸在於最初的18到24個月。他們最需要的是能夠進行測試的跑道，以及可預測的市場進入體驗。他們需要快速設立據點、快速招聘人員、穩定支付薪水、簽約和跨境付款不卡關。</text>
+    <translate>Vấn đề là deeptech không thể dùng chung công thức mời "đại bàng". Nhiều chính sách truyền thống phù hợp với doanh nghiệp ổn định, ưu đãi thuế dài, đất đai, thủ tục cho dự án quy mô. Còn với startup deeptech giai đoạn sớm, điểm nghẽn nằm ở 18 đến 24 tháng đầu. Thứ họ cần nhất là đường băng để chạy thử nghiệm và một trải nghiệm gia nhập thị trường có thể dự đoán. Họ cần mở hiện diện nhanh, tuyển người nhanh, trả lương đều, ký hợp đồng và thanh toán xuyên biên giới không bị kẹt.</translate>
+    <mp3>subject_policy_gap_deeptech_needs_guid.mp3</mp3>
+
+    <!-- 詞組分析44：Vấn đề là deeptech không thể dùng chung công thức mời "đại bàng" -->
+    <phrase>
+      <text>Vấn đề là deeptech không thể dùng chung công thức mời "đại bàng"</text>
+      <mp3>phrase_van_de_la_deeptech_khong_the_dung_chung_cong_thuc_moi_dai_bang_guid.mp3</mp3>
+      <vocabulary>Vấn đề là</vocabulary>
+      <chinese>問題在於</chinese>
+      <vocabulary>deeptech không thể dùng chung công thức mời "đại bàng"</vocabulary>
+      <chinese>深度科技不能使用吸引「大鷹」的同一套公式</chinese>
+      <chinesePhrase>問題在於，深度科技不能使用吸引「大鷹」的同一套公式</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析45：Nhiều chính sách truyền thống phù hợp với doanh nghiệp ổn định -->
+    <phrase>
+      <text>Nhiều chính sách truyền thống phù hợp với doanh nghiệp ổn định</text>
+      <mp3>phrase_nhieu_chinh_sach_truyen_thong_phu_hop_voi_doanh_nghiep_on_dinh_guid.mp3</mp3>
+      <vocabulary>Nhiều chính sách truyền thống</vocabulary>
+      <chinese>許多傳統政策</chinese>
+      <vocabulary>phù hợp với doanh nghiệp ổn định</vocabulary>
+      <chinese>適合穩定的企業</chinese>
+      <chinesePhrase>許多傳統政策適合穩定的企業</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析46：ưu đãi thuế dài, đất đai, thủ tục cho dự án quy mô -->
+    <phrase>
+      <text>ưu đãi thuế dài, đất đai, thủ tục cho dự án quy mô</text>
+      <mp3>phrase_uu_dai_thue_dai_dat_dai_thu_tuc_cho_du_an_quy_mo_guid.mp3</mp3>
+      <vocabulary>ưu đãi thuế dài, đất đai, thủ tục cho dự án quy mô</vocabulary>
+      <chinese>長期稅收優惠、土地、大規模項目的手續</chinese>
+      <chinesePhrase>長期稅收優惠、土地、大規模項目的手續</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析47：Còn với startup deeptech giai đoạn sớm -->
+    <phrase>
+      <text>Còn với startup deeptech giai đoạn sớm</text>
+      <mp3>phrase_con_voi_startup_deeptech_giai_doan_som_guid.mp3</mp3>
+      <vocabulary>Còn với startup deeptech giai đoạn sớm</vocabulary>
+      <chinese>而對於早期階段的深度科技新創公司</chinese>
+      <chinesePhrase>而對於早期階段的深度科技新創公司</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析48：điểm nghẽn nằm ở 18 đến 24 tháng đầu -->
+    <phrase>
+      <text>điểm nghẽn nằm ở 18 đến 24 tháng đầu</text>
+      <mp3>phrase_diem_nghen_nam_o_18_den_24_thang_dau_guid.mp3</mp3>
+      <vocabulary>điểm nghẽn nằm ở</vocabulary>
+      <chinese>瓶頸在於</chinese>
+      <vocabulary>18 đến 24 tháng đầu</vocabulary>
+      <chinese>最初的18到24個月</chinese>
+      <chinesePhrase>瓶頸在於最初的18到24個月</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析49：Thứ họ cần nhất là đường băng để chạy thử nghiệm và một trải nghiệm gia nhập thị trường có thể dự đoán -->
+    <phrase>
+      <text>Thứ họ cần nhất là đường băng để chạy thử nghiệm và một trải nghiệm gia nhập thị trường có thể dự đoán</text>
+      <mp3>phrase_thu_ho_can_nhat_la_duong_bang_de_chay_thu_nghiem_va_mot_trai_nghiem_gia_nhap_thi_truong_co_the_du_doan_guid.mp3</mp3>
+      <vocabulary>Thứ họ cần nhất là</vocabulary>
+      <chinese>他們最需要的是</chinese>
+      <vocabulary>đường băng để chạy thử nghiệm</vocabulary>
+      <chinese>能夠進行測試的跑道</chinese>
+      <vocabulary>và một trải nghiệm gia nhập thị trường có thể dự đoán</vocabulary>
+      <chinese>以及可預測的市場進入體驗</chinese>
+      <chinesePhrase>他們最需要的是能夠進行測試的跑道，以及可預測的市場進入體驗</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析50：Họ cần mở hiện diện nhanh, tuyển người nhanh, trả lương đều, ký hợp đồng và thanh toán xuyên biên giới không bị kẹt -->
+    <phrase>
+      <text>Họ cần mở hiện diện nhanh, tuyển người nhanh, trả lương đều, ký hợp đồng và thanh toán xuyên biên giới không bị kẹt</text>
+      <mp3>phrase_ho_can_mo_hien_dien_nhanh_tuyen_nguoi_nhanh_tra_luong_deu_ky_hop_dong_va_thanh_toan_xuyen_bien_gioi_khong_bi_ket_guid.mp3</mp3>
+      <vocabulary>Họ cần</vocabulary>
+      <chinese>他們需要</chinese>
+      <vocabulary>mở hiện diện nhanh, tuyển người nhanh, trả lương đều, ký hợp đồng và thanh toán xuyên biên giới không bị kẹt</vocabulary>
+      <chinese>快速設立據點、快速招聘人員、穩定支付薪水、簽約和跨境付款不卡關</chinese>
+      <chinesePhrase>他們需要快速設立據點、快速招聘人員、穩定支付薪水、簽約和跨境付款不卡關</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第八段：專門的加入方案構想 -->
+  <subject>
+    <text>因此，如果越南真的想從早期吸引深度科技，我認為需要一個專門的加入方案，精簡、務實且可檢驗；不是為了代辦手續，而是為了將模糊的旅程變成一個可預測的90天計劃。在這90天內，新創公司需要看到幾個最基本的產出：適合研發的據點模式；稅號和基本會計框架；用於支付薪水和付款的帳戶；勞動合約、工作場所，以及初期測試可使用的共享實驗室基礎設施。這些聽起來很小的事情，卻決定了他們是否敢把設計團隊放在越南。</text>
+    <translate>Vì vậy, nếu Việt Nam nghiêm túc muốn đón deeptech từ sớm, tôi nghĩ cần một gói gia nhập riêng, gọn, thực dụng và kiểm tra được; không phải để làm hộ thủ tục, mà để biến hành trình mù mờ thành một kế hoạch 90 ngày có thể dự đoán. Trong 90 ngày, startup cần nhìn thấy vài đầu ra tối thiểu: mô hình hiện diện phù hợp cho R&D; mã số thuế và khung kế toán cơ bản; tài khoản để trả lương và thanh toán; hợp đồng lao động, chỗ làm và khả năng tiếp cận hạ tầng lab dùng chung cho thử nghiệm ban đầu. Những điều nghe nhỏ này lại quyết định việc họ có dám đặt nhóm thiết kế ở Việt Nam hay không.</translate>
+    <mp3>subject_dedicated_entry_package_idea_guid.mp3</mp3>
+
+    <!-- 詞組分析51：Vì vậy, nếu Việt Nam nghiêm túc muốn đón deeptech từ sớm -->
+    <phrase>
+      <text>Vì vậy, nếu Việt Nam nghiêm túc muốn đón deeptech từ sớm</text>
+      <mp3>phrase_vi_vay_neu_viet_nam_nghiem_tuc_muon_don_deeptech_tu_som_guid.mp3</mp3>
+      <vocabulary>Vì vậy</vocabulary>
+      <chinese>因此</chinese>
+      <vocabulary>nếu Việt Nam nghiêm túc muốn đón deeptech từ sớm</vocabulary>
+      <chinese>如果越南真的想從早期吸引深度科技</chinese>
+      <chinesePhrase>因此，如果越南真的想從早期吸引深度科技</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析52：tôi nghĩ cần một gói gia nhập riêng, gọn, thực dụng và kiểm tra được -->
+    <phrase>
+      <text>tôi nghĩ cần một gói gia nhập riêng, gọn, thực dụng và kiểm tra được</text>
+      <mp3>phrase_toi_nghi_can_mot_goi_gia_nhap_rieng_gon_thuc_dung_va_kiem_tra_duoc_guid.mp3</mp3>
+      <vocabulary>tôi nghĩ cần</vocabulary>
+      <chinese>我認為需要</chinese>
+      <vocabulary>một gói gia nhập riêng, gọn, thực dụng và kiểm tra được</vocabulary>
+      <chinese>一個專門的加入方案，精簡、務實且可檢驗</chinese>
+      <chinesePhrase>我認為需要一個專門的加入方案，精簡、務實且可檢驗</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析53：không phải để làm hộ thủ tục, mà để biến hành trình mù mờ thành một kế hoạch 90 ngày có thể dự đoán -->
+    <phrase>
+      <text>không phải để làm hộ thủ tục, mà để biến hành trình mù mờ thành một kế hoạch 90 ngày có thể dự đoán</text>
+      <mp3>phrase_khong_phai_de_lam_ho_thu_tuc_ma_de_bien_hanh_trinh_mu_mo_thanh_mot_ke_hoach_90_ngay_co_the_du_doan_guid.mp3</mp3>
+      <vocabulary>không phải để làm hộ thủ tục</vocabulary>
+      <chinese>不是為了代辦手續</chinese>
+      <vocabulary>mà để biến hành trình mù mờ thành một kế hoạch 90 ngày có thể dự đoán</vocabulary>
+      <chinese>而是為了將模糊的旅程變成一個可預測的90天計劃</chinese>
+      <chinesePhrase>不是為了代辦手續，而是為了將模糊的旅程變成一個可預測的90天計劃</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析54：Trong 90 ngày, startup cần nhìn thấy vài đầu ra tối thiểu -->
+    <phrase>
+      <text>Trong 90 ngày, startup cần nhìn thấy vài đầu ra tối thiểu</text>
+      <mp3>phrase_trong_90_ngay_startup_can_nhin_thay_vai_dau_ra_toi_thieu_guid.mp3</mp3>
+      <vocabulary>Trong 90 ngày</vocabulary>
+      <chinese>在這90天內</chinese>
+      <vocabulary>startup cần nhìn thấy vài đầu ra tối thiểu</vocabulary>
+      <chinese>新創公司需要看到幾個最基本的產出</chinese>
+      <chinesePhrase>在這90天內，新創公司需要看到幾個最基本的產出</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析55：mô hình hiện diện phù hợp cho R&D -->
+    <phrase>
+      <text>mô hình hiện diện phù hợp cho R&D</text>
+      <mp3>phrase_mo_hinh_hien_dien_phu_hop_cho_randd_guid.mp3</mp3>
+      <vocabulary>mô hình hiện diện phù hợp cho R&D</vocabulary>
+      <chinese>適合研發的據點模式</chinese>
+      <chinesePhrase>適合研發的據點模式</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析56：mã số thuế và khung kế toán cơ bản -->
+    <phrase>
+      <text>mã số thuế và khung kế toán cơ bản</text>
+      <mp3>phrase_ma_so_thue_va_khung_ke_toan_co_ban_guid.mp3</mp3>
+      <vocabulary>mã số thuế và khung kế toán cơ bản</vocabulary>
+      <chinese>稅號和基本會計框架</chinese>
+      <chinesePhrase>稅號和基本會計框架</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析57：tài khoản để trả lương và thanh toán -->
+    <phrase>
+      <text>tài khoản để trả lương và thanh toán</text>
+      <mp3>phrase_tai_khoan_de_tra_luong_va_thanh_toan_guid.mp3</mp3>
+      <vocabulary>tài khoản để trả lương và thanh toán</vocabulary>
+      <chinese>用於支付薪水和付款的帳戶</chinese>
+      <chinesePhrase>用於支付薪水和付款的帳戶</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析58：hợp đồng lao động, chỗ làm và khả năng tiếp cận hạ tầng lab dùng chung cho thử nghiệm ban đầu -->
+    <phrase>
+      <text>hợp đồng lao động, chỗ làm và khả năng tiếp cận hạ tầng lab dùng chung cho thử nghiệm ban đầu</text>
+      <mp3>phrase_hop_dong_lao_dong_cho_lam_va_kha_nang_tiep_can_ha_tang_lab_dung_chung_cho_thu_nghiem_ban_dau_guid.mp3</mp3>
+      <vocabulary>hợp đồng lao động, chỗ làm</vocabulary>
+      <chinese>勞動合約、工作場所</chinese>
+      <vocabulary>và khả năng tiếp cận hạ tầng lab dùng chung cho thử nghiệm ban đầu</vocabulary>
+      <chinese>以及初期測試可使用的共享實驗室基礎設施</chinese>
+      <chinesePhrase>勞動合約、工作場所，以及初期測試可使用的共享實驗室基礎設施</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析59：Những điều nghe nhỏ này lại quyết định việc họ có dám đặt nhóm thiết kế ở Việt Nam hay không -->
+    <phrase>
+      <text>Những điều nghe nhỏ này lại quyết định việc họ có dám đặt nhóm thiết kế ở Việt Nam hay không</text>
+      <mp3>phrase_nhung_dieu_nghe_nho_nay_lai_quyet_dinh_viec_ho_co_dam_dat_nhom_thiet_ke_o_viet_nam_hay_khong_guid.mp3</mp3>
+      <vocabulary>Những điều nghe nhỏ này</vocabulary>
+      <chinese>這些聽起來很小的事情</chinese>
+      <vocabulary>lại quyết định việc họ có dám đặt nhóm thiết kế ở Việt Nam hay không</vocabulary>
+      <chinese>卻決定了他們是否敢把設計團隊放在越南</chinese>
+      <chinesePhrase>這些聽起來很小的事情，卻決定了他們是否敢把設計團隊放在越南</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第九段：四大支柱構想 - 快速窗口 -->
+  <subject>
+    <text>要做到這一點，第一個支柱是快速開放且有負責人。需要一個擁有足夠權限的單一窗口，來協調最基本的步驟，如註冊據點、稅號、銀行、租用工作場所，以及一些基本研發設備的進口手續。最重要的是按時間節點處理的承諾。新創公司不需要空泛的承諾。他們需要時間表來規劃招聘和測試。</text>
+    <translate>Để làm được, trụ cột đầu tiên là mở cửa nhanh và có người chịu trách nhiệm. Cần một đầu mối một cửa đủ quyền hạn để điều phối các bước tối thiểu như đăng ký hiện diện, mã số thuế, ngân hàng, thuê chỗ làm, và thủ tục nhập một số thiết bị R&D cơ bản. Quan trọng nhất là cam kết thời gian xử lý theo mốc. Startup không cần lời hứa chung chung. Họ cần lịch để lên kế hoạch tuyển dụng và thử nghiệm.</translate>
+    <mp3>subject_pillar_one_fast_entry_guid.mp3</mp3>
+
+    <!-- 詞組分析60：Để làm được -->
+    <phrase>
+      <text>Để làm được</text>
+      <mp3>phrase_de_lam_duoc_guid.mp3</mp3>
+      <vocabulary>Để làm được</vocabulary>
+      <chinese>要做到這一點</chinese>
+      <chinesePhrase>要做到這一點</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析61：trụ cột đầu tiên là mở cửa nhanh và có người chịu trách nhiệm -->
+    <phrase>
+      <text>trụ cột đầu tiên là mở cửa nhanh và có người chịu trách nhiệm</text>
+      <mp3>phrase_tru_cot_dau_tien_la_mo_cua_nhanh_va_co_nguoi_chiu_trach_nhiem_guid.mp3</mp3>
+      <vocabulary>trụ cột đầu tiên là</vocabulary>
+      <chinese>第一個支柱是</chinese>
+      <vocabulary>mở cửa nhanh và có người chịu trách nhiệm</vocabulary>
+      <chinese>快速開放且有負責人</chinese>
+      <chinesePhrase>第一個支柱是快速開放且有負責人</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析62：Cần một đầu mối một cửa đủ quyền hạn để điều phối các bước tối thiểu như đăng ký hiện diện, mã số thuế, ngân hàng, thuê chỗ làm, và thủ tục nhập một số thiết bị R&D cơ bản -->
+    <phrase>
+      <text>Cần một đầu mối một cửa đủ quyền hạn để điều phối các bước tối thiểu như đăng ký hiện diện, mã số thuế, ngân hàng, thuê chỗ làm, và thủ tục nhập một số thiết bị R&D cơ bản</text>
+      <mp3>phrase_can_mot_dau_moi_mot_cua_du_quyen_han_de_dieu_phoi_cac_buoc_toi_thieu_nhu_dang_ky_hien_dien_ma_so_thue_ngan_hang_thue_cho_lam_va_thu_tuc_nhap_mot_so_thiet_bi_randd_co_ban_guid.mp3</mp3>
+      <vocabulary>Cần một đầu mối một cửa đủ quyền hạn</vocabulary>
+      <chinese>需要一個擁有足夠權限的單一窗口</chinese>
+      <vocabulary>để điều phối các bước tối thiểu như đăng ký hiện diện, mã số thuế, ngân hàng, thuê chỗ làm, và thủ tục nhập một số thiết bị R&D cơ bản</vocabulary>
+      <chinese>來協調最基本的步驟，如註冊據點、稅號、銀行、租用工作場所，以及一些基本研發設備的進口手續</chinese>
+      <chinesePhrase>需要一個擁有足夠權限的單一窗口，來協調最基本的步驟，如註冊據點、稅號、銀行、租用工作場所，以及一些基本研發設備的進口手續</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析63：Quan trọng nhất là cam kết thời gian xử lý theo mốc -->
+    <phrase>
+      <text>Quan trọng nhất là cam kết thời gian xử lý theo mốc</text>
+      <mp3>phrase_quan_trong_nhat_la_cam_ket_thoi_gian_xu_ly_theo_moc_guid.mp3</mp3>
+      <vocabulary>Quan trọng nhất là</vocabulary>
+      <chinese>最重要的是</chinese>
+      <vocabulary>cam kết thời gian xử lý theo mốc</vocabulary>
+      <chinese>按時間節點處理的承諾</chinese>
+      <chinesePhrase>最重要的是按時間節點處理的承諾</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析64：Startup không cần lời hứa chung chung -->
+    <phrase>
+      <text>Startup không cần lời hứa chung chung</text>
+      <mp3>phrase_startup_khong_can_loi_hua_chung_chung_guid.mp3</mp3>
+      <vocabulary>Startup không cần lời hứa chung chung</vocabulary>
+      <chinese>新創公司不需要空泛的承諾</chinese>
+      <chinesePhrase>新創公司不需要空泛的承諾</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析65：Họ cần lịch để lên kế hoạch tuyển dụng và thử nghiệm -->
+    <phrase>
+      <text>Họ cần lịch để lên kế hoạch tuyển dụng và thử nghiệm</text>
+      <mp3>phrase_ho_can_lich_de_len_ke_hoach_tuyen_dung_va_thu_nghiem_guid.mp3</mp3>
+      <vocabulary>Họ cần lịch</vocabulary>
+      <chinese>他們需要時間表</chinese>
+      <vocabulary>để lên kế hoạch tuyển dụng và thử nghiệm</vocabulary>
+      <chinese>來規劃招聘和測試</chinese>
+      <chinesePhrase>他們需要時間表來規劃招聘和測試</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第十段：第二大支柱 - 本地人力共同資助 -->
+  <subject>
+    <text>第二個支柱是根據有條件和有上限的原則共同資助本地人力。與其給予廣泛而微薄的優惠，不如將支持與具體目標掛鉤。越能招聘和留住越南工程師，就越能在一定期限內獲得支持。按季度支付以便於事後核查。這樣，吸引新企業就變成了對人才的投資，而且只有創造高質量技術就業機會的公司才能受益。</text>
+    <translate>Trụ cột thứ hai là đồng tài trợ nhân lực bản địa theo nguyên tắc có điều kiện và có trần. Thay vì ưu đãi rộng mà mỏng, hãy gắn hỗ trợ vào mục tiêu cụ thể. Càng tuyển và giữ được kỹ sư Việt Nam, càng được hỗ trợ trong một thời hạn nhất định. Chi theo quý để dễ hậu kiểm. Như vậy, thu hút doanh nghiệp mới trở thành đầu tư vào con người, và chỉ công ty tạo việc làm kỹ thuật chất lượng cao mới được hưởng.</translate>
+    <mp3>subject_pillar_two_local_talent_cofunding_guid.mp3</mp3>
+
+    <!-- 詞組分析66：Trụ cột thứ hai là đồng tài trợ nhân lực bản địa theo nguyên tắc có điều kiện và có trần -->
+    <phrase>
+      <text>Trụ cột thứ hai là đồng tài trợ nhân lực bản địa theo nguyên tắc có điều kiện và có trần</text>
+      <mp3>phrase_tru_cot_thu_hai_la_dong_tai_tro_nhan_luc_ban_dia_theo_nguyen_tac_co_dieu_kien_va_co_tran_guid.mp3</mp3>
+      <vocabulary>Trụ cột thứ hai là</vocabulary>
+      <chinese>第二個支柱是</chinese>
+      <vocabulary>đồng tài trợ nhân lực bản địa theo nguyên tắc có điều kiện và có trần</vocabulary>
+      <chinese>根據有條件和有上限的原則共同資助本地人力</chinese>
+      <chinesePhrase>第二個支柱是根據有條件和有上限的原則共同資助本地人力</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析67：Thay vì ưu đãi rộng mà mỏng, hãy gắn hỗ trợ vào mục tiêu cụ thể -->
+    <phrase>
+      <text>Thay vì ưu đãi rộng mà mỏng, hãy gắn hỗ trợ vào mục tiêu cụ thể</text>
+      <mp3>phrase_thay_vi_uu_dai_rong_ma_mong_hay_gan_ho_tro_vao_muc_tieu_cu_the_guid.mp3</mp3>
+      <vocabulary>Thay vì ưu đãi rộng mà mỏng</vocabulary>
+      <chinese>與其給予廣泛而微薄的優惠</chinese>
+      <vocabulary>hãy gắn hỗ trợ vào mục tiêu cụ thể</vocabulary>
+      <chinese>不如將支持與具體目標掛鉤</chinese>
+      <chinesePhrase>與其給予廣泛而微薄的優惠，不如將支持與具體目標掛鉤</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析68：Càng tuyển và giữ được kỹ sư Việt Nam, càng được hỗ trợ trong một thời hạn nhất định -->
+    <phrase>
+      <text>Càng tuyển và giữ được kỹ sư Việt Nam, càng được hỗ trợ trong một thời hạn nhất định</text>
+      <mp3>phrase_cang_tuyen_va_giu_duoc_ky_su_viet_nam_cang_duoc_ho_tro_trong_mot_thoi_han_nhat_dinh_guid.mp3</mp3>
+      <vocabulary>Càng tuyển và giữ được kỹ sư Việt Nam</vocabulary>
+      <chinese>越能招聘和留住越南工程師</chinese>
+      <vocabulary>càng được hỗ trợ trong một thời hạn nhất định</vocabulary>
+      <chinese>就越能在一定期限內獲得支持</chinese>
+      <chinesePhrase>越能招聘和留住越南工程師，就越能在一定期限內獲得支持</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析69：Chi theo quý để dễ hậu kiểm -->
+    <phrase>
+      <text>Chi theo quý để dễ hậu kiểm</text>
+      <mp3>phrase_chi_theo_quy_de_de_hau_kiem_guid.mp3</mp3>
+      <vocabulary>Chi theo quý</vocabulary>
+      <chinese>按季度支付</chinese>
+      <vocabulary>để dễ hậu kiểm</vocabulary>
+      <chinese>以便於事後核查</chinese>
+      <chinesePhrase>按季度支付以便於事後核查</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析70：Như vậy, thu hút doanh nghiệp mới trở thành đầu tư vào con người -->
+    <phrase>
+      <text>Như vậy, thu hút doanh nghiệp mới trở thành đầu tư vào con người</text>
+      <mp3>phrase_nhu_vay_thu_hut_doanh_nghiep_moi_tro_thanh_dau_tu_vao_con_nguoi_guid.mp3</mp3>
+      <vocabulary>Như vậy</vocabulary>
+      <chinese>這樣</chinese>
+      <vocabulary>thu hút doanh nghiệp mới trở thành đầu tư vào con người</vocabulary>
+      <chinese>吸引新企業就變成了對人才的投資</chinese>
+      <chinesePhrase>這樣，吸引新企業就變成了對人才的投資</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析71：và chỉ công ty tạo việc làm kỹ thuật chất lượng cao mới được hưởng -->
+    <phrase>
+      <text>và chỉ công ty tạo việc làm kỹ thuật chất lượng cao mới được hưởng</text>
+      <mp3>phrase_va_chi_cong_ty_tao_viec_lam_ky_thuat_chat_luong_cao_moi_duoc_huong_guid.mp3</mp3>
+      <vocabulary>và chỉ công ty tạo việc làm kỹ thuật chất lượng cao mới được hưởng</vocabulary>
+      <chinese>而且只有創造高質量技術就業機會的公司才能受益</chinese>
+      <chinesePhrase>而且只有創造高質量技術就業機會的公司才能受益</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第十一段：第三大支柱 - 共享研發基礎設施 -->
+  <subject>
+    <text>第三個支柱是適度且共享的研發基礎設施。早期階段的深度科技通常還不需要工廠。他們需要最基本的實驗室、基本的測試設備，以及用於招聘和快速測試的技術社群。如果有附帶共享實驗室的工作聚落，參與標準透明，支持服務足夠好，吸引力將遠遠大於每個新創公司自己零散租賃、然後自己拼湊。</text>
+    <translate>Trụ cột thứ ba là hạ tầng R&D vừa đủ và dùng chung. Deeptech giai đoạn đầu thường chưa cần nhà máy. Họ cần phòng lab tối thiểu, thiết bị đo kiểm cơ bản, và cộng đồng kỹ thuật để tuyển người và thử nghiệm nhanh. Nếu có các cụm làm việc kèm lab dùng chung, tiêu chí tham gia minh bạch, dịch vụ hỗ trợ đủ tốt, sức hút sẽ mạnh hơn nhiều so với việc mỗi startup tự thuê lẻ tẻ rồi tự xoay từng mảnh.</translate>
+    <mp3>subject_pillar_three_shared_rd_infrastructure_guid.mp3</mp3>
+
+    <!-- 詞組分析72：Trụ cột thứ ba là hạ tầng R&D vừa đủ và dùng chung -->
+    <phrase>
+      <text>Trụ cột thứ ba là hạ tầng R&D vừa đủ và dùng chung</text>
+      <mp3>phrase_tru_cot_thu_ba_la_ha_tang_randd_vua_du_va_dung_chung_guid.mp3</mp3>
+      <vocabulary>Trụ cột thứ ba là</vocabulary>
+      <chinese>第三個支柱是</chinese>
+      <vocabulary>hạ tầng R&D vừa đủ và dùng chung</vocabulary>
+      <chinese>適度且共享的研發基礎設施</chinese>
+      <chinesePhrase>第三個支柱是適度且共享的研發基礎設施</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析73：Deeptech giai đoạn đầu thường chưa cần nhà máy -->
+    <phrase>
+      <text>Deeptech giai đoạn đầu thường chưa cần nhà máy</text>
+      <mp3>phrase_deeptech_giai_doan_dau_thuong_chua_can_nha_may_guid.mp3</mp3>
+      <vocabulary>Deeptech giai đoạn đầu</vocabulary>
+      <chinese>早期階段的深度科技</chinese>
+      <vocabulary>thường chưa cần nhà máy</vocabulary>
+      <chinese>通常還不需要工廠</chinese>
+      <chinesePhrase>早期階段的深度科技通常還不需要工廠</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析74：Họ cần phòng lab tối thiểu, thiết bị đo kiểm cơ bản, và cộng đồng kỹ thuật để tuyển người và thử nghiệm nhanh -->
+    <phrase>
+      <text>Họ cần phòng lab tối thiểu, thiết bị đo kiểm cơ bản, và cộng đồng kỹ thuật để tuyển người và thử nghiệm nhanh</text>
+      <mp3>phrase_ho_can_phong_lab_toi_thieu_thiet_bi_do_kiem_co_ban_va_cong_dong_ky_thuat_de_tuyen_nguoi_va_thu_nghiem_nhanh_guid.mp3</mp3>
+      <vocabulary>Họ cần</vocabulary>
+      <chinese>他們需要</chinese>
+      <vocabulary>phòng lab tối thiểu, thiết bị đo kiểm cơ bản, và cộng đồng kỹ thuật để tuyển người và thử nghiệm nhanh</vocabulary>
+      <chinese>最基本的實驗室、基本的測試設備，以及用於招聘和快速測試的技術社群</chinese>
+      <chinesePhrase>他們需要最基本的實驗室、基本的測試設備，以及用於招聘和快速測試的技術社群</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析75：Nếu có các cụm làm việc kèm lab dùng chung, tiêu chí tham gia minh bạch, dịch vụ hỗ trợ đủ tốt -->
+    <phrase>
+      <text>Nếu có các cụm làm việc kèm lab dùng chung, tiêu chí tham gia minh bạch, dịch vụ hỗ trợ đủ tốt</text>
+      <mp3>phrase_neu_co_cac_cum_lam_viec_kem_lab_dung_chung_tieu_chi_tham_gia_minh_bach_dich_vu_ho_tro_du_tot_guid.mp3</mp3>
+      <vocabulary>Nếu có các cụm làm việc kèm lab dùng chung</vocabulary>
+      <chinese>如果有附帶共享實驗室的工作聚落</chinese>
+      <vocabulary>tiêu chí tham gia minh bạch, dịch vụ hỗ trợ đủ tốt</vocabulary>
+      <chinese>參與標準透明，支持服務足夠好</chinese>
+      <chinesePhrase>如果有附帶共享實驗室的工作聚落，參與標準透明，支持服務足夠好</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析76：sức hút sẽ mạnh hơn nhiều so với việc mỗi startup tự thuê lẻ tẻ rồi tự xoay từng mảnh -->
+    <phrase>
+      <text>sức hút sẽ mạnh hơn nhiều so với việc mỗi startup tự thuê lẻ tẻ rồi tự xoay từng mảnh</text>
+      <mp3>phrase_suc_hut_se_manh_hon_nhieu_so_voi_viec_moi_startup_tu_thue_le_te_roi_tu_xoay_tung_manh_guid.mp3</mp3>
+      <vocabulary>sức hút sẽ mạnh hơn nhiều</vocabulary>
+      <chinese>吸引力將遠遠大於</chinese>
+      <vocabulary>so với việc mỗi startup tự thuê lẻ tẻ rồi tự xoay từng mảnh</vocabulary>
+      <chinese>每個新創公司自己零散租賃、然後自己拼湊</chinese>
+      <chinesePhrase>吸引力將遠遠大於每個新創公司自己零散租賃、然後自己拼湊</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第十二段：第四大支柱 - 靈活簽證與智慧財產權明確 -->
+  <subject>
+    <text>第四個支柱是靈活的出入境和居留簽證機制，採試點方式，專注於創始人和核心技術團隊在設立階段的需求。最後，決定信任的關鍵是釐清智慧財產權，並標準化一些合約範本。對深度科技來說，智慧財產權和研發成果所有權的風險是創始人最慎重考慮的事情。一開始越明確，合作就越乾淨、越持久。</text>
+    <translate>Trụ cột thứ tư là cơ chế visa đi lại và lưu trú linh hoạt theo hướng thí điểm, tập trung cho nhà sáng lập và nhóm kỹ thuật nòng cốt trong giai đoạn thiết lập. Và cuối cùng, điều quyết định niềm tin là làm rõ sở hữu trí tuệ và chuẩn hóa một số hợp đồng mẫu. Với deeptech, rủi ro về IP và quyền sở hữu kết quả R&D là thứ nhà sáng lập cân nhắc kỹ nhất. Càng rõ từ đầu, hợp tác càng sạch và bền.</translate>
+    <mp3>subject_pillar_four_flexible_visa_clear_ip_guid.mp3</mp3>
+
+    <!-- 詞組分析77：Trụ cột thứ tư là cơ chế visa đi lại và lưu trú linh hoạt theo hướng thí điểm, tập trung cho nhà sáng lập và nhóm kỹ thuật nòng cốt trong giai đoạn thiết lập -->
+    <phrase>
+      <text>Trụ cột thứ tư là cơ chế visa đi lại và lưu trú linh hoạt theo hướng thí điểm, tập trung cho nhà sáng lập và nhóm kỹ thuật nòng cốt trong giai đoạn thiết lập</text>
+      <mp3>phrase_tru_cot_thu_tu_la_co_che_visa_di_lai_va_luu_tru_linh_hoat_theo_huong_thi_diem_tap_trung_cho_nha_sang_lap_va_nhom_ky_thuat_nong_cot_trong_giai_doan_thiet_lap_guid.mp3</mp3>
+      <vocabulary>Trụ cột thứ tư là</vocabulary>
+      <chinese>第四個支柱是</chinese>
+      <vocabulary>cơ chế visa đi lại và lưu trú linh hoạt theo hướng thí điểm, tập trung cho nhà sáng lập và nhóm kỹ thuật nòng cốt trong giai đoạn thiết lập</vocabulary>
+      <chinese>靈活的出入境和居留簽證機制，採試點方式，專注於創始人和核心技術團隊在設立階段的需求</chinese>
+      <chinesePhrase>第四個支柱是靈活的出入境和居留簽證機制，採試點方式，專注於創始人和核心技術團隊在設立階段的需求</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析78：Và cuối cùng, điều quyết định niềm tin là làm rõ sở hữu trí tuệ và chuẩn hóa một số hợp đồng mẫu -->
+    <phrase>
+      <text>Và cuối cùng, điều quyết định niềm tin là làm rõ sở hữu trí tuệ và chuẩn hóa một số hợp đồng mẫu</text>
+      <mp3>phrase_va_cuoi_cung_dieu_quyet_dinh_niem_tin_la_lam_ro_so_huu_tri_tue_va_chuan_hoa_mot_so_hop_dong_mau_guid.mp3</mp3>
+      <vocabulary>Và cuối cùng</vocabulary>
+      <chinese>最後</chinese>
+      <vocabulary>điều quyết định niềm tin là làm rõ sở hữu trí tuệ và chuẩn hóa một số hợp đồng mẫu</vocabulary>
+      <chinese>決定信任的關鍵是釐清智慧財產權，並標準化一些合約範本</chinese>
+      <chinesePhrase>最後，決定信任的關鍵是釐清智慧財產權，並標準化一些合約範本</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析79：Với deeptech, rủi ro về IP và quyền sở hữu kết quả R&D là thứ nhà sáng lập cân nhắc kỹ nhất -->
+    <phrase>
+      <text>Với deeptech, rủi ro về IP và quyền sở hữu kết quả R&D là thứ nhà sáng lập cân nhắc kỹ nhất</text>
+      <mp3>phrase_voi_deeptech_rui_ro_ve_ip_va_quyen_so_huu_ket_qua_randd_la_thu_nha_sang_lap_can_nhac_ky_nhat_guid.mp3</mp3>
+      <vocabulary>Với deeptech</vocabulary>
+      <chinese>對深度科技來說</chinese>
+      <vocabulary>rủi ro về IP và quyền sở hữu kết quả R&D là thứ nhà sáng lập cân nhắc kỹ nhất</vocabulary>
+      <chinese>智慧財產權和研發成果所有權的風險是創始人最慎重考慮的事情</chinese>
+      <chinesePhrase>對深度科技來說，智慧財產權和研發成果所有權的風險是創始人最慎重考慮的事情</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析80：Càng rõ từ đầu, hợp tác càng sạch và bền -->
+    <phrase>
+      <text>Càng rõ từ đầu, hợp tác càng sạch và bền</text>
+      <mp3>phrase_cang_ro_tu_dau_hop_tac_cang_sach_va_ben_guid.mp3</mp3>
+      <vocabulary>Càng rõ từ đầu</vocabulary>
+      <chinese>一開始越明確</chinese>
+      <vocabulary>hợp tác càng sạch và bền</vocabulary>
+      <chinese>合作就越乾淨、越持久</chinese>
+      <chinesePhrase>一開始越明確，合作就越乾淨、越持久</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第十三段：越南工程師的優勢 -->
+  <subject>
+    <text>一個讓越南值得被考慮的因素是工程師隊伍，他們既優秀、成本仍有競爭力，而且非常渴望學習。許多人已經習慣使用國際工具和流程，願意嘗試、修正錯誤，並同時承擔多種角色。對新創公司來說，這不僅是成本問題，更是建立一個能與產品共同成長的核心團隊的能力。</text>
+    <translate>Một yếu tố khiến Việt Nam đáng được cân nhắc là lực lượng kỹ sư vừa giỏi, chi phí còn cạnh tranh và rất ham học hỏi. Nhiều người đã quen làm việc với công cụ và quy trình quốc tế, sẵn sàng thử nghiệm, sửa sai và đảm nhận nhiều vai trò cùng lúc. Với startup, đây không chỉ là bài toán chi phí, mà là khả năng xây dựng một nhóm nòng cốt có thể lớn lên cùng sản phẩm.</translate>
+    <mp3>subject_vietnam_engineer_advantage_guid.mp3</mp3>
+
+    <!-- 詞組分析81：Một yếu tố khiến Việt Nam đáng được cân nhắc là lực lượng kỹ sư vừa giỏi, chi phí còn cạnh tranh và rất ham học hỏi -->
+    <phrase>
+      <text>Một yếu tố khiến Việt Nam đáng được cân nhắc là lực lượng kỹ sư vừa giỏi, chi phí còn cạnh tranh và rất ham học hỏi</text>
+      <mp3>phrase_mot_yeu_to_khien_viet_nam_dang_duoc_can_nhac_la_luc_luong_ky_su_vua_gioi_chi_phi_con_canh_tranh_va_rat_ham_hoc_hoi_guid.mp3</mp3>
+      <vocabulary>Một yếu tố khiến Việt Nam đáng được cân nhắc là</vocabulary>
+      <chinese>一個讓越南值得被考慮的因素是</chinese>
+      <vocabulary>lực lượng kỹ sư vừa giỏi, chi phí còn cạnh tranh và rất ham học hỏi</vocabulary>
+      <chinese>工程師隊伍，他們既優秀、成本仍有競爭力，而且非常渴望學習</chinese>
+      <chinesePhrase>一個讓越南值得被考慮的因素是工程師隊伍，他們既優秀、成本仍有競爭力，而且非常渴望學習</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析82：Nhiều người đã quen làm việc với công cụ và quy trình quốc tế, sẵn sàng thử nghiệm, sửa sai và đảm nhận nhiều vai trò cùng lúc -->
+    <phrase>
+      <text>Nhiều người đã quen làm việc với công cụ và quy trình quốc tế, sẵn sàng thử nghiệm, sửa sai và đảm nhận nhiều vai trò cùng lúc</text>
+      <mp3>phrase_nhieu_nguoi_da_quen_lam_viec_voi_cong_cu_va_quy_trinh_quoc_te_san_sang_thu_nghiem_sua_sai_va_dam_nhan_nhieu_vai_tro_cung_luc_guid.mp3</mp3>
+      <vocabulary>Nhiều người đã quen làm việc với công cụ và quy trình quốc tế</vocabulary>
+      <chinese>許多人已經習慣使用國際工具和流程</chinese>
+      <vocabulary>sẵn sàng thử nghiệm, sửa sai và đảm nhận nhiều vai trò cùng lúc</vocabulary>
+      <chinese>願意嘗試、修正錯誤，並同時承擔多種角色</chinese>
+      <chinesePhrase>許多人已經習慣使用國際工具和流程，願意嘗試、修正錯誤，並同時承擔多種角色</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析83：Với startup, đây không chỉ là bài toán chi phí, mà là khả năng xây dựng một nhóm nòng cốt có thể lớn lên cùng sản phẩm -->
+    <phrase>
+      <text>Với startup, đây không chỉ là bài toán chi phí, mà là khả năng xây dựng một nhóm nòng cốt có thể lớn lên cùng sản phẩm</text>
+      <mp3>phrase_voi_startup_day_khong_chi_la_bai_toan_chi_phi_ma_la_kha_nang_xay_dung_mot_nhom_nong_cot_co_the_lon_len_cung_san_pham_guid.mp3</mp3>
+      <vocabulary>Với startup</vocabulary>
+      <chinese>對新創公司來說</chinese>
+      <vocabulary>đây không chỉ là bài toán chi phí, mà là khả năng xây dựng một nhóm nòng cốt có thể lớn lên cùng sản phẩm</vocabulary>
+      <chinese>這不僅是成本問題，更是建立一個能與產品共同成長的核心團隊的能力</chinese>
+      <chinesePhrase>對新創公司來說，這不僅是成本問題，更是建立一個能與產品共同成長的核心團隊的能力</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第十四段：避免優待外國新創的批評 -->
+  <subject>
+    <text>這類文章容易被批評為優待外國新創。避免的方法是按照標準設計計劃，並對越南新創也開放。任何符合真正研發標準、有在國內招聘工程師需求的都可以參加。支持必須有上限、有事後核查、有違規收回機制。當遊戲規則透明且有問責制時，問題就不再是優待誰，而是對國家能力的投資。</text>
+    <translate>Bài viết kiểu này dễ bị phản biện rằng ưu ái startup ngoại. Cách tránh là thiết kế chương trình theo tiêu chí và mở cho cả startup Việt Nam. Ai đáp ứng chuẩn R&D thật, có nhu cầu tuyển kỹ sư trong nước đều có thể tham gia. Hỗ trợ phải có trần, có hậu kiểm, có cơ chế thu hồi nếu dùng sai mục đích. Khi luật chơi minh bạch và có trách nhiệm giải trình, câu chuyện không còn là ưu đãi cho ai, mà là đầu tư vào năng lực quốc gia.</translate>
+    <mp3>subject_avoid_favoritism_criticism_guid.mp3</mp3>
+
+    <!-- 詞組分析84：Bài viết kiểu này dễ bị phản biện rằng ưu ái startup ngoại -->
+    <phrase>
+      <text>Bài viết kiểu này dễ bị phản biện rằng ưu ái startup ngoại</text>
+      <mp3>phrase_bai_viet_kieu_nay_de_bi_phan_bien_rang_uu_ai_startup_ngoai_guid.mp3</mp3>
+      <vocabulary>Bài viết kiểu này</vocabulary>
+      <chinese>這類文章</chinese>
+      <vocabulary>dễ bị phản biện rằng ưu ái startup ngoại</vocabulary>
+      <chinese>容易被批評為優待外國新創</chinese>
+      <chinesePhrase>這類文章容易被批評為優待外國新創</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析85：Cách tránh là thiết kế chương trình theo tiêu chí và mở cho cả startup Việt Nam -->
+    <phrase>
+      <text>Cách tránh là thiết kế chương trình theo tiêu chí và mở cho cả startup Việt Nam</text>
+      <mp3>phrase_cach_tranh_la_thiet_ke_chuong_trinh_theo_tieu_chi_va_mo_cho_ca_startup_viet_nam_guid.mp3</mp3>
+      <vocabulary>Cách tránh là</vocabulary>
+      <chinese>避免的方法是</chinese>
+      <vocabulary>thiết kế chương trình theo tiêu chí và mở cho cả startup Việt Nam</vocabulary>
+      <chinese>按照標準設計計劃，並對越南新創也開放</chinese>
+      <chinesePhrase>避免的方法是按照標準設計計劃，並對越南新創也開放</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析86：Ai đáp ứng chuẩn R&D thật, có nhu cầu tuyển kỹ sư trong nước đều có thể tham gia -->
+    <phrase>
+      <text>Ai đáp ứng chuẩn R&D thật, có nhu cầu tuyển kỹ sư trong nước đều có thể tham gia</text>
+      <mp3>phrase_ai_dap_ung_chuan_randd_that_co_nhu_cau_tuyen_ky_su_trong_nuoc_deu_co_the_tham_gia_guid.mp3</mp3>
+      <vocabulary>Ai đáp ứng chuẩn R&D thật, có nhu cầu tuyển kỹ sư trong nước</vocabulary>
+      <chinese>任何符合真正研發標準、有在國內招聘工程師需求的</chinese>
+      <vocabulary>đều có thể tham gia</vocabulary>
+      <chinese>都可以參加</chinese>
+      <chinesePhrase>任何符合真正研發標準、有在國內招聘工程師需求的都可以參加</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析87：Hỗ trợ phải có trần, có hậu kiểm, có cơ chế thu hồi nếu dùng sai mục đích -->
+    <phrase>
+      <text>Hỗ trợ phải có trần, có hậu kiểm, có cơ chế thu hồi nếu dùng sai mục đích</text>
+      <mp3>phrase_ho_tro_phai_co_tran_co_hau_kiem_co_co_che_thu_hoi_neu_dung_sai_muc_dich_guid.mp3</mp3>
+      <vocabulary>Hỗ trợ phải có trần, có hậu kiểm, có cơ chế thu hồi nếu dùng sai mục đích</vocabulary>
+      <chinese>支持必須有上限、有事後核查、有違規收回機制</chinese>
+      <chinesePhrase>支持必須有上限、有事後核查、有違規收回機制</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析88：Khi luật chơi minh bạch và có trách nhiệm giải trình, câu chuyện không còn là ưu đãi cho ai, mà là đầu tư vào năng lực quốc gia -->
+    <phrase>
+      <text>Khi luật chơi minh bạch và có trách nhiệm giải trình, câu chuyện không còn là ưu đãi cho ai, mà là đầu tư vào năng lực quốc gia</text>
+      <mp3>phrase_khi_luat_choi_minh_bach_va_co_trach_nhiem_giai_trinh_cau_chuyen_khong_con_la_uu_dai_cho_ai_ma_la_dau_tu_vao_nang_luc_quoc_gia_guid.mp3</mp3>
+      <vocabulary>Khi luật chơi minh bạch và có trách nhiệm giải trình</vocabulary>
+      <chinese>當遊戲規則透明且有問責制時</chinese>
+      <vocabulary>câu chuyện không còn là ưu đãi cho ai, mà là đầu tư vào năng lực quốc gia</vocabulary>
+      <chinese>問題就不再是優待誰，而是對國家能力的投資</chinese>
+      <chinesePhrase>當遊戲規則透明且有問責制時，問題就不再是優待誰，而是對國家能力的投資</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第十五段：邀請誰也很重要 -->
+  <subject>
+    <text>邀請誰也很重要。不應該大規模鋪紅毯。越南應該瞄準那些研發含量高、技術門檻真實、測試路徑明確，並且已經通過一些專注於核心技術的全球知名投資基金一定程度審核的深度科技。需要一個小而精的團隊負責跟蹤、接觸，並邀請他們參加90天計劃，讓他們接觸生態系統、嘗試招聘幾個職位、考察基礎設施，然後自己做出決定。</text>
+    <translate>Và mời ai cũng quan trọng. Không nên trải thảm đỏ đại trà. Việt Nam nên nhắm tới deeptech có hàm lượng R&D cao, rào cản kỹ thuật thật, lộ trình thử nghiệm rõ, và đã qua một mức thẩm định của những quỹ đầu tư nổi tiếng thế giới chuyên về công nghệ lõi. Cần một nhóm nhỏ nhưng tinh nhuệ làm nhiệm vụ theo dõi, tiếp cận và mời tham gia chương trình 90 ngày để họ gặp hệ sinh thái, thử tuyển vài vị trí, khảo sát hạ tầng, rồi tự ra quyết định.</translate>
+    <mp3>subject_target_who_to_invite_guid.mp3</mp3>
+
+    <!-- 詞組分析89：Và mời ai cũng quan trọng -->
+    <phrase>
+      <text>Và mời ai cũng quan trọng</text>
+      <mp3>phrase_va_moi_ai_cung_quan_trong_guid.mp3</mp3>
+      <vocabulary>Và mời ai cũng quan trọng</vocabulary>
+      <chinese>邀請誰也很重要</chinese>
+      <chinesePhrase>邀請誰也很重要</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析90：Không nên trải thảm đỏ đại trà -->
+    <phrase>
+      <text>Không nên trải thảm đỏ đại trà</text>
+      <mp3>phrase_khong_nen_trai_tham_do_dai_tra_guid.mp3</mp3>
+      <vocabulary>Không nên trải thảm đỏ đại trà</vocabulary>
+      <chinese>不應該大規模鋪紅毯</chinese>
+      <chinesePhrase>不應該大規模鋪紅毯</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析91：Việt Nam nên nhắm tới deeptech có hàm lượng R&D cao, rào cản kỹ thuật thật, lộ trình thử nghiệm rõ, và đã qua một mức thẩm định của những quỹ đầu tư nổi tiếng thế giới chuyên về công nghệ lõi -->
+    <phrase>
+      <text>Việt Nam nên nhắm tới deeptech có hàm lượng R&D cao, rào cản kỹ thuật thật, lộ trình thử nghiệm rõ, và đã qua một mức thẩm định của những quỹ đầu tư nổi tiếng thế giới chuyên về công nghệ lõi</text>
+      <mp3>phrase_viet_nam_nen_nham_toi_deeptech_co_ham_luong_randd_cao_rao_can_ky_thuat_that_lo_trinh_thu_nghiem_ro_va_da_qua_mot_muc_tham_dinh_cua_nhung_quy_dau_tu_noi_tieng_the_gioi_chuyen_ve_cong_nghe_loi_guid.mp3</mp3>
+      <vocabulary>Việt Nam nên nhắm tới deeptech</vocabulary>
+      <chinese>越南應該瞄準那些深度科技</chinese>
+      <vocabulary>có hàm lượng R&D cao, rào cản kỹ thuật thật, lộ trình thử nghiệm rõ, và đã qua một mức thẩm định của những quỹ đầu tư nổi tiếng thế giới chuyên về công nghệ lõi</vocabulary>
+      <chinese>研發含量高、技術門檻真實、測試路徑明確，並且已經通過一些專注於核心技術的全球知名投資基金一定程度審核</chinese>
+      <chinesePhrase>越南應該瞄準那些研發含量高、技術門檻真實、測試路徑明確，並且已經通過一些專注於核心技術的全球知名投資基金一定程度審核的深度科技</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析92：Cần một nhóm nhỏ nhưng tinh nhuệ làm nhiệm vụ theo dõi, tiếp cận và mời tham gia chương trình 90 ngày để họ gặp hệ sinh thái, thử tuyển vài vị trí, khảo sát hạ tầng, rồi tự ra quyết định -->
+    <phrase>
+      <text>Cần một nhóm nhỏ nhưng tinh nhuệ làm nhiệm vụ theo dõi, tiếp cận và mời tham gia chương trình 90 ngày để họ gặp hệ sinh thái, thử tuyển vài vị trí, khảo sát hạ tầng, rồi tự ra quyết định</text>
+      <mp3>phrase_can_mot_nhom_nho_nhung_tinh_nhue_lam_nhiem_vu_theo_doi_tiep_can_va_moi_tham_gia_chuong_trinh_90_ngay_de_ho_gap_he_sinh_thai_thu_tuyen_vai_vi_tri_khao_sat_ha_tang_roi_tu_ra_quyet_dinh_guid.mp3</mp3>
+      <vocabulary>Cần một nhóm nhỏ nhưng tinh nhuệ</vocabulary>
+      <chinese>需要一個小而精的團隊</chinese>
+      <vocabulary>làm nhiệm vụ theo dõi, tiếp cận và mời tham gia chương trình 90 ngày</vocabulary>
+      <chinese>負責跟蹤、接觸，並邀請他們參加90天計劃</chinese>
+      <vocabulary>để họ gặp hệ sinh thái, thử tuyển vài vị trí, khảo sát hạ tầng, rồi tự ra quyết định</vocabulary>
+      <chinese>讓他們接觸生態系統、嘗試招聘幾個職位、考察基礎設施，然後自己做出決定</chinese>
+      <chinesePhrase>需要一個小而精的團隊負責跟蹤、接觸，並邀請他們參加90天計劃，讓他們接觸生態系統、嘗試招聘幾個職位、考察基礎設施，然後自己做出決定</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第十六段：想像一個美國新創公司 -->
+  <subject>
+    <text>想像一個在美國約有50人的新創公司，正在早期募資，希望第一年在越南開設一個8到15名工程師的技術團隊。他們的第一件事通常不是尋找稅收優惠，而是選擇符合目標的據點模式，並確定他們能否最低限度運營。90天結束時，結果不是一場盛大的介紹會，而是一個明確的決定。是否開設，以哪種模式開設，招聘到誰，最低限度的實驗室如何，以及執行進度到哪裡。</text>
+    <translate>Hãy hình dung một startup ở Mỹ có khoảng 50 người, đang gọi vốn sớm, muốn mở nhóm kỹ thuật tại Việt Nam với 8 đến 15 kỹ sư trong năm đầu. Việc đầu tiên của họ thường không phải săn ưu đãi thuế, mà là chọn mô hình hiện diện cho đúng mục tiêu và biết chắc họ có thể vận hành tối thiểu hay không. Kết thúc 90 ngày, kết quả không phải một buổi giới thiệu hoành tráng, mà là một quyết định rõ ràng. Có mở hay không, mở theo mô hình nào, tuyển được ai, lab tối thiểu ra sao, và lịch triển khai đến đâu.</translate>
+    <mp3>subject_imagine_us_startup_scenario_guid.mp3</mp3>
+
+    <!-- 詞組分析93：Hãy hình dung một startup ở Mỹ có khoảng 50 người, đang gọi vốn sớm, muốn mở nhóm kỹ thuật tại Việt Nam với 8 đến 15 kỹ sư trong năm đầu -->
+    <phrase>
+      <text>Hãy hình dung một startup ở Mỹ có khoảng 50 người, đang gọi vốn sớm, muốn mở nhóm kỹ thuật tại Việt Nam với 8 đến 15 kỹ sư trong năm đầu</text>
+      <mp3>phrase_hay_hinh_dung_mot_startup_o_my_co_khoang_50_nguoi_dang_goi_von_som_muon_mo_nhom_ky_thuat_tai_viet_nam_voi_8_den_15_ky_su_trong_nam_dau_guid.mp3</mp3>
+      <vocabulary>Hãy hình dung một startup ở Mỹ có khoảng 50 người, đang gọi vốn sớm</vocabulary>
+      <chinese>想像一個在美國約有50人的新創公司，正在早期募資</chinese>
+      <vocabulary>muốn mở nhóm kỹ thuật tại Việt Nam với 8 đến 15 kỹ sư trong năm đầu</vocabulary>
+      <chinese>希望第一年在越南開設一個8到15名工程師的技術團隊</chinese>
+      <chinesePhrase>想像一個在美國約有50人的新創公司，正在早期募資，希望第一年在越南開設一個8到15名工程師的技術團隊</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析94：Việc đầu tiên của họ thường không phải săn ưu đãi thuế, mà là chọn mô hình hiện diện cho đúng mục tiêu và biết chắc họ có thể vận hành tối thiểu hay không -->
+    <phrase>
+      <text>Việc đầu tiên của họ thường không phải săn ưu đãi thuế, mà là chọn mô hình hiện diện cho đúng mục tiêu và biết chắc họ có thể vận hành tối thiểu hay không</text>
+      <mp3>phrase_viec_dau_tien_cua_ho_thuong_khong_phai_san_uu_dai_thue_ma_la_chon_mo_hinh_hien_dien_cho_dung_muc_tieu_va_biet_chac_ho_co_the_van_hanh_toi_thieu_hay_khong_guid.mp3</mp3>
+      <vocabulary>Việc đầu tiên của họ thường không phải săn ưu đãi thuế</vocabulary>
+      <chinese>他們的第一件事通常不是尋找稅收優惠</chinese>
+      <vocabulary>mà là chọn mô hình hiện diện cho đúng mục tiêu và biết chắc họ có thể vận hành tối thiểu hay không</vocabulary>
+      <chinese>而是選擇符合目標的據點模式，並確定他們能否最低限度運營</chinese>
+      <chinesePhrase>他們的第一件事通常不是尋找稅收優惠，而是選擇符合目標的據點模式，並確定他們能否最低限度運營</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析95：Kết thúc 90 ngày, kết quả không phải một buổi giới thiệu hoành tráng, mà là một quyết định rõ ràng -->
+    <phrase>
+      <text>Kết thúc 90 ngày, kết quả không phải một buổi giới thiệu hoành tráng, mà là một quyết định rõ ràng</text>
+      <mp3>phrase_ket_thuc_90_ngay_ket_qua_khong_phai_mot_buoi_gioi_thieu_hoanh_trang_ma_la_mot_quyet_dinh_ro_rang_guid.mp3</mp3>
+      <vocabulary>Kết thúc 90 ngày</vocabulary>
+      <chinese>90天結束時</chinese>
+      <vocabulary>kết quả không phải một buổi giới thiệu hoành tráng, mà là một quyết định rõ ràng</vocabulary>
+      <chinese>結果不是一場盛大的介紹會，而是一個明確的決定</chinese>
+      <chinesePhrase>90天結束時，結果不是一場盛大的介紹會，而是一個明確的決定</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析96：Có mở hay không, mở theo mô hình nào, tuyển được ai, lab tối thiểu ra sao, và lịch triển khai đến đâu -->
+    <phrase>
+      <text>Có mở hay không, mở theo mô hình nào, tuyển được ai, lab tối thiểu ra sao, và lịch triển khai đến đâu</text>
+      <mp3>phrase_co_mo_hay_khong_mo_theo_mo_hinh_nao_tuyen_duoc_ai_lab_toi_thieu_ra_sao_va_lich_trien_khai_den_dau_guid.mp3</mp3>
+      <vocabulary>Có mở hay không, mở theo mô hình nào, tuyển được ai, lab tối thiểu ra sao, và lịch triển khai đến đâu</vocabulary>
+      <chinese>是否開設，以哪種模式開設，招聘到誰，最低限度的實驗室如何，以及執行進度到哪裡</chinese>
+      <chinesePhrase>是否開設，以哪種模式開設，招聘到誰，最低限度的實驗室如何，以及執行進度到哪裡</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第十七段：在矽谷設立小型辦公室的建議 -->
+  <subject>
+    <text>如果有條件，我認為越南應該在矽谷設立一個小型辦公室，作為市場耳目。只需要幾個懂技術、懂新創募資和產品開發的人，擁有能經常參加技術活動、演示日、投資人社群和科技育成中心的網絡。這個辦公室做一件簡單的事：早期尋找信號，篩選合適的新創公司名單，然後將他們與90天加入計劃連接起來。深度科技通常最初只是實驗室裡的一個小團隊，誰能早點遇到他們，誰就有先邀請的優勢。</text>
+    <translate>Nếu có điều kiện, tôi nghĩ Việt Nam nên đặt một văn phòng nhỏ tại Thung lũng Silicon theo kiểu tai mắt thị trường. Chỉ cần vài người hiểu công nghệ, hiểu cách startup gọi vốn và phát triển sản phẩm, có mạng lưới đi đều các sự kiện kỹ thuật, demo day, cộng đồng nhà đầu tư và vườn ươm công nghệ. Văn phòng này làm một việc đơn giản là săn tín hiệu sớm, lọc danh sách startup phù hợp, rồi kết nối họ về gói gia nhập 90 ngày. Deeptech thường xuất hiện trước tiên như một nhóm nhỏ trong phòng lab, ai gặp được họ sớm sẽ có lợi thế mời trước.</translate>
+    <mp3>subject_silicon_valley_office_suggestion_guid.mp3</mp3>
+
+    <!-- 詞組分析97：Nếu có điều kiện, tôi nghĩ Việt Nam nên đặt một văn phòng nhỏ tại Thung lũng Silicon theo kiểu tai mắt thị trường -->
+    <phrase>
+      <text>Nếu có điều kiện, tôi nghĩ Việt Nam nên đặt một văn phòng nhỏ tại Thung lũng Silicon theo kiểu tai mắt thị trường</text>
+      <mp3>phrase_neu_co_dieu_kien_toi_nghi_viet_nam_nen_dat_mot_van_phong_nho_tai_thung_lung_silicon_theo_kieu_tai_mat_thi_truong_guid.mp3</mp3>
+      <vocabulary>Nếu có điều kiện</vocabulary>
+      <chinese>如果有條件</chinese>
+      <vocabulary>tôi nghĩ Việt Nam nên đặt một văn phòng nhỏ tại Thung lũng Silicon theo kiểu tai mắt thị trường</vocabulary>
+      <chinese>我認為越南應該在矽谷設立一個小型辦公室，作為市場耳目</chinese>
+      <chinesePhrase>如果有條件，我認為越南應該在矽谷設立一個小型辦公室，作為市場耳目</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析98：Chỉ cần vài người hiểu công nghệ, hiểu cách startup gọi vốn và phát triển sản phẩm, có mạng lưới đi đều các sự kiện kỹ thuật, demo day, cộng đồng nhà đầu tư và vườn ươm công nghệ -->
+    <phrase>
+      <text>Chỉ cần vài người hiểu công nghệ, hiểu cách startup gọi vốn và phát triển sản phẩm, có mạng lưới đi đều các sự kiện kỹ thuật, demo day, cộng đồng nhà đầu tư và vườn ươm công nghệ</text>
+      <mp3>phrase_chi_can_vai_nguoi_hieu_cong_nghe_hieu_cach_startup_goi_von_va_phat_trien_san_pham_co_mang_luoi_di_deu_cac_su_kien_ky_thuat_demo_day_cong_dong_nha_dau_tu_va_vuon_uom_cong_nghe_guid.mp3</mp3>
+      <vocabulary>Chỉ cần vài người hiểu công nghệ, hiểu cách startup gọi vốn và phát triển sản phẩm</vocabulary>
+      <chinese>只需要幾個懂技術、懂新創募資和產品開發的人</chinese>
+      <vocabulary>có mạng lưới đi đều các sự kiện kỹ thuật, demo day, cộng đồng nhà đầu tư và vườn ươm công nghệ</vocabulary>
+      <chinese>擁有能經常參加技術活動、演示日、投資人社群和科技育成中心的網絡</chinese>
+      <chinesePhrase>只需要幾個懂技術、懂新創募資和產品開發的人，擁有能經常參加技術活動、演示日、投資人社群和科技育成中心的網絡</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析99：Văn phòng này làm một việc đơn giản là săn tín hiệu sớm, lọc danh sách startup phù hợp, rồi kết nối họ về gói gia nhập 90 ngày -->
+    <phrase>
+      <text>Văn phòng này làm một việc đơn giản là săn tín hiệu sớm, lọc danh sách startup phù hợp, rồi kết nối họ về gói gia nhập 90 ngày</text>
+      <mp3>phrase_van_phong_nay_lam_mot_viec_don_gian_la_san_tin_hieu_som_loc_danh_sach_startup_phu_hop_roi_ket_noi_ho_ve_goi_gia_nhap_90_ngay_guid.mp3</mp3>
+      <vocabulary>Văn phòng này làm một việc đơn giản</vocabulary>
+      <chinese>這個辦公室做一件簡單的事</chinese>
+      <vocabulary>là săn tín hiệu sớm, lọc danh sách startup phù hợp, rồi kết nối họ về gói gia nhập 90 ngày</vocabulary>
+      <chinese>早期尋找信號，篩選合適的新創公司名單，然後將他們與90天加入計劃連接起來</chinese>
+      <chinesePhrase>這個辦公室做一件簡單的事：早期尋找信號，篩選合適的新創公司名單，然後將他們與90天加入計劃連接起來</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析100：Deeptech thường xuất hiện trước tiên như một nhóm nhỏ trong phòng lab, ai gặp được họ sớm sẽ có lợi thế mời trước -->
+    <phrase>
+      <text>Deeptech thường xuất hiện trước tiên như một nhóm nhỏ trong phòng lab, ai gặp được họ sớm sẽ có lợi thế mời trước</text>
+      <mp3>phrase_deeptech_thuong_xuat_hien_truoc_tien_nhu_mot_nhom_nho_trong_phong_lab_ai_gap_duoc_ho_som_se_co_loi_the_moi_truoc_guid.mp3</mp3>
+      <vocabulary>Deeptech thường xuất hiện trước tiên như một nhóm nhỏ trong phòng lab</vocabulary>
+      <chinese>深度科技通常最初只是實驗室裡的一個小團隊</chinese>
+      <vocabulary>ai gặp được họ sớm sẽ có lợi thế mời trước</vocabulary>
+      <chinese>誰能早點遇到他們，誰就有先邀請的優勢</chinese>
+      <chinesePhrase>深度科技通常最初只是實驗室裡的一個小團隊，誰能早點遇到他們，誰就有先邀請的優勢</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第十八段：結論與展望 -->
+  <subject>
+    <text>世界越來越難用稅收優惠競爭。更可持續的方向是用能力、行政速度、共享基礎設施、高素質人力資源，以及在陌生地方設立研發中心的安心感來競爭。如果越南藉由國際金融中心打開一扇門，請用這扇門同時吸引核心科技能力。因為未來10到20年那些大型深度科技公司，很有可能就是今天幾十人的新創公司。</text>
+    <translate>Thế giới ngày càng khó cạnh tranh bằng ưu đãi thuế. Hướng bền hơn là ưu đãi bằng năng lực, tốc độ thủ tục, hạ tầng dùng chung, nguồn nhân lực chất lượng cao, và cảm giác an toàn khi đặt R&D ở một nơi xa lạ. Nếu Việt Nam mở thêm cánh cửa bằng trung tâm tài chính quốc tế, hãy dùng cánh cửa đó để hút luôn năng lực công nghệ lõi. Vì những công ty deeptech lớn của 10 đến 20 năm tới rất có thể đang là những startup vài chục người của hôm nay.</translate>
+    <mp3>subject_conclusion_and_future_outlook_guid.mp3</mp3>
+
+    <!-- 詞組分析101：Thế giới ngày càng khó cạnh tranh bằng ưu đãi thuế -->
+    <phrase>
+      <text>Thế giới ngày càng khó cạnh tranh bằng ưu đãi thuế</text>
+      <mp3>phrase_the_gioi_ngay_cang_kho_canh_tranh_bang_uu_dai_thue_guid.mp3</mp3>
+      <vocabulary>Thế giới ngày càng khó cạnh tranh bằng ưu đãi thuế</vocabulary>
+      <chinese>世界越來越難用稅收優惠競爭</chinese>
+      <chinesePhrase>世界越來越難用稅收優惠競爭</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析102：Hướng bền hơn là ưu đãi bằng năng lực, tốc độ thủ tục, hạ tầng dùng chung, nguồn nhân lực chất lượng cao, và cảm giác an toàn khi đặt R&D ở một nơi xa lạ -->
+    <phrase>
+      <text>Hướng bền hơn là ưu đãi bằng năng lực, tốc độ thủ tục, hạ tầng dùng chung, nguồn nhân lực chất lượng cao, và cảm giác an toàn khi đặt R&D ở một nơi xa lạ</text>
+      <mp3>phrase_huong_ben_hon_la_uu_dai_bang_nang_luc_toc_do_thu_tuc_ha_tang_dung_chung_nguon_nhan_luc_chat_luong_cao_va_cam_giac_an_toan_khi_dat_randd_o_mot_noi_xa_la_guid.mp3</mp3>
+      <vocabulary>Hướng bền hơn là</vocabulary>
+      <chinese>更可持續的方向是</chinese>
+      <vocabulary>ưu đãi bằng năng lực, tốc độ thủ tục, hạ tầng dùng chung, nguồn nhân lực chất lượng cao, và cảm giác an toàn khi đặt R&D ở một nơi xa lạ</vocabulary>
+      <chinese>用能力、行政速度、共享基礎設施、高素質人力資源，以及在陌生地方設立研發中心的安心感來競爭</chinese>
+      <chinesePhrase>更可持續的方向是用能力、行政速度、共享基礎設施、高素質人力資源，以及在陌生地方設立研發中心的安心感來競爭</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析103：Nếu Việt Nam mở thêm cánh cửa bằng trung tâm tài chính quốc tế, hãy dùng cánh cửa đó để hút luôn năng lực công nghệ lõi -->
+    <phrase>
+      <text>Nếu Việt Nam mở thêm cánh cửa bằng trung tâm tài chính quốc tế, hãy dùng cánh cửa đó để hút luôn năng lực công nghệ lõi</text>
+      <mp3>phrase_neu_viet_nam_mo_them_canh_cua_bang_trung_tam_tai_chinh_quoc_te_hay_dung_canh_cua_do_de_hut_luon_nang_luc_cong_nghe_loi_guid.mp3</mp3>
+      <vocabulary>Nếu Việt Nam mở thêm cánh cửa bằng trung tâm tài chính quốc tế</vocabulary>
+      <chinese>如果越南藉由國際金融中心打開一扇門</chinese>
+      <vocabulary>hãy dùng cánh cửa đó để hút luôn năng lực công nghệ lõi</vocabulary>
+      <chinese>請用這扇門同時吸引核心科技能力</chinese>
+      <chinesePhrase>如果越南藉由國際金融中心打開一扇門，請用這扇門同時吸引核心科技能力</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析104：Vì những công ty deeptech lớn của 10 đến 20 năm tới rất có thể đang là những startup vài chục người của hôm nay -->
+    <phrase>
+      <text>Vì những công ty deeptech lớn của 10 đến 20 năm tới rất có thể đang là những startup vài chục người của hôm nay</text>
+      <mp3>phrase_vi_nhung_cong_ty_deeptech_lon_cua_10_den_20_nam_toi_rat_co_the_dang_la_nhung_startup_vai_chuc_nguoi_cua_hom_nay_guid.mp3</mp3>
+      <vocabulary>Vì những công ty deeptech lớn của 10 đến 20 năm tới</vocabulary>
+      <chinese>因為未來10到20年那些大型深度科技公司</chinese>
+      <vocabulary>rất có thể đang là những startup vài chục người của hôm nay</vocabulary>
+      <chinese>很有可能就是今天幾十人的新創公司</chinese>
+      <chinesePhrase>因為未來10到20年那些大型深度科技公司，很有可能就是今天幾十人的新創公司</chinesePhrase>
+    </phrase>
+  </subject>
+</xml>

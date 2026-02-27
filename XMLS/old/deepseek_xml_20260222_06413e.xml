@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <!-- 標題：女友的孩子總是在我靠近她時把我推開 -->
+  <subject>
+    <text>女友的孩子總是在我靠近她時把我推開</text>
+    <translate>Con riêng của bạn gái luôn đẩy tôi ra khi thấy tôi gần em</translate>
+    <mp3>subject_title_con_rieng_day_ra_guid.mp3</mp3>
+
+    <!-- 詞組分析1：Con riêng -->
+    <phrase>
+      <text>Con riêng</text>
+      <mp3>phrase_con_rieng_guid.mp3</mp3>
+      <vocabulary>Con</vocabulary>
+      <chinese>（名）孩子</chinese>
+      <vocabulary>riêng</vocabulary>
+      <chinese>（形）私人的/自己的</chinese>
+      <chinesePhrase>親生子女/（此處指）女友與前夫的孩子</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析2：của bạn gái -->
+    <phrase>
+      <text>của bạn gái</text>
+      <mp3>phrase_cua_ban_gai_guid.mp3</mp3>
+      <vocabulary>của</vocabulary>
+      <chinese>（介）的</chinese>
+      <vocabulary>bạn gái</vocabulary>
+      <chinese>（名）女朋友</chinese>
+      <chinesePhrase>女朋友的</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析3：luôn -->
+    <phrase>
+      <text>luôn</text>
+      <mp3>phrase_luon_guid.mp3</mp3>
+      <vocabulary>luôn</vocabulary>
+      <chinese>（副）總是/一直</chinese>
+      <chinesePhrase>總是</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析4：đẩy tôi ra -->
+    <phrase>
+      <text>đẩy tôi ra</text>
+      <mp3>phrase_day_toi_ra_guid.mp3</mp3>
+      <vocabulary>đẩy</vocabulary>
+      <chinese>（動）推</chinese>
+      <vocabulary>tôi</vocabulary>
+      <chinese>（代）我</chinese>
+      <vocabulary>ra</vocabulary>
+      <chinese>（動）出/離開</chinese>
+      <chinesePhrase>把我推開</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析5：khi -->
+    <phrase>
+      <text>khi</text>
+      <mp3>phrase_khi_guid.mp3</mp3>
+      <vocabulary>khi</vocabulary>
+      <chinese>（連）當...的時候</chinese>
+      <chinesePhrase>當</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析6：thấy tôi gần em -->
+    <phrase>
+      <text>thấy tôi gần em</text>
+      <mp3>phrase_thay_toi_gan_em_guid.mp3</mp3>
+      <vocabulary>thấy</vocabulary>
+      <chinese>（動）看見</chinese>
+      <vocabulary>tôi</vocabulary>
+      <chinese>我</chinese>
+      <vocabulary>gần</vocabulary>
+      <chinese>（形）靠近</chinese>
+      <vocabulary>em</vocabulary>
+      <chinese>（代）你/她</chinese>
+      <chinesePhrase>看見我靠近她</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第二段：孩子的佔有慾 -->
+  <subject>
+    <text>她的孩子總是希望媽媽只屬於自己，而不屬於任何人。</text>
+    <translate>Con của em lúc nào cũng muốn mẹ thuộc về mình, chứ không muốn thuộc về ai.</translate>
+    <mp3>subject_con_muon_me_thuoc_ve_minh_guid.mp3</mp3>
+
+    <!-- 詞組分析7：Con của em -->
+    <phrase>
+      <text>Con của em</text>
+      <mp3>phrase_con_cua_em_guid.mp3</mp3>
+      <vocabulary>Con</vocabulary>
+      <chinese>孩子</chinese>
+      <vocabulary>của em</vocabulary>
+      <chinese>她的</chinese>
+      <chinesePhrase>她的孩子</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析8：lúc nào cũng -->
+    <phrase>
+      <text>lúc nào cũng</text>
+      <mp3>phrase_luc_nao_cung_guid.mp3</mp3>
+      <vocabulary>lúc nào cũng</vocabulary>
+      <chinese>總是/任何時候都</chinese>
+      <chinesePhrase>總是</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析9：muốn mẹ thuộc về mình -->
+    <phrase>
+      <text>muốn mẹ thuộc về mình</text>
+      <mp3>phrase_muon_me_thuoc_ve_minh_guid.mp3</mp3>
+      <vocabulary>muốn</vocabulary>
+      <chinese>（動）想要</chinese>
+      <vocabulary>mẹ</vocabulary>
+      <chinese>（名）媽媽</chinese>
+      <vocabulary>thuộc về</vocabulary>
+      <chinese>（動）屬於</chinese>
+      <vocabulary>mình</vocabulary>
+      <chinese>（代）自己</chinese>
+      <chinesePhrase>希望媽媽只屬於自己</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析10：chứ không muốn thuộc về ai -->
+    <phrase>
+      <text>chứ không muốn thuộc về ai</text>
+      <mp3>phrase_chu_khong_muon_thuoc_ve_ai_guid.mp3</mp3>
+      <vocabulary>chứ</vocabulary>
+      <chinese>（連）而</chinese>
+      <vocabulary>không muốn</vocabulary>
+      <chinese>不希望</chinese>
+      <vocabulary>thuộc về ai</vocabulary>
+      <chinese>屬於任何人</chinese>
+      <chinesePhrase>而不屬於任何人</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第三段：背景介紹 - 前任關係 -->
+  <subject>
+    <text>我曾認識一個女朋友，我們有共同的孩子，但在生活中她很少真心分享，導致感情出現裂痕。她常勸我去認識別人。該來的還是來了，我認識了之前在公司共事過的一位女同事，她主動追求我。關於性格，她和我非常合得來，無論是想法、日常生活還是工作都很契合。然而，她離過婚，有兩個女兒，一個跟爸爸，一個跟媽媽。起初，我害怕共同孩子、各自孩子帶來的麻煩，不敢進一步發展，只保持朋友關係。但在我感情和工作都崩潰的時候，她仍在我身邊關心我，給我建議，我覺得她的建議非常合適，漸漸地我產生了感情，並和她在一起了。</text>
+    <translate>Tôi quen một người bạn gái và có con chung nhưng trong cuộc sống cô ấy ít chia sẻ thật lòng và dẫn đến rạn nứt tình cảm. Cô ấy hay khuyên tôi quen người khác. Chuyện gì đến cũng đến, tôi quen nữ đồng nghiệp trước đây từng làm chung trong công việc và em chủ động tấn công tôi. Về tính tình, em với tôi rất hợp nhau, hợp cả về suy nghĩ và cuộc sống hàng ngày, cũng như trong công việc. Tuy nhiên, em đã ly hôn, có hai con gái, một ở với ba, một ở với mẹ. Lúc đầu, tôi sợ những rắc rối về việc con chung, con riêng nên không dám tiến tới, chỉ giữ ở mức độ bạn bè. Nhưng trong lúc sụp đổ về chuyện tình cảm và công việc, em vẫn bên cạnh quan tâm và đưa ra lời khuyên cho tôi, những lời khuyên của em tôi thấy rất phù hợp, dần dần tôi nảy sinh tình cảm và đã bước đến với em.</translate>
+    <mp3>subject_background_previous_relationship_guid.mp3</mp3>
+
+    <!-- 詞組分析11：Tôi quen một người bạn gái -->
+    <phrase>
+      <text>Tôi quen một người bạn gái</text>
+      <mp3>phrase_toi_quen_mot_nguoi_ban_gai_guid.mp3</mp3>
+      <vocabulary>Tôi</vocabulary>
+      <chinese>我</chinese>
+      <vocabulary>quen</vocabulary>
+      <chinese>（動）認識/交往</chinese>
+      <vocabulary>một người bạn gái</vocabulary>
+      <chinese>一個女朋友</chinese>
+      <chinesePhrase>我曾認識一個女朋友</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析12：và có con chung -->
+    <phrase>
+      <text>và có con chung</text>
+      <mp3>phrase_va_co_con_chung_guid.mp3</mp3>
+      <vocabulary>và</vocabulary>
+      <chinese>並且</chinese>
+      <vocabulary>có con chung</vocabulary>
+      <chinese>有共同的孩子</chinese>
+      <chinesePhrase>並且我們有共同的孩子</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析13：nhưng trong cuộc sống cô ấy ít chia sẻ thật lòng -->
+    <phrase>
+      <text>nhưng trong cuộc sống cô ấy ít chia sẻ thật lòng</text>
+      <mp3>phrase_nhung_trong_cuoc_song_co_ay_it_chia_se_that_long_guid.mp3</mp3>
+      <vocabulary>nhưng</vocabulary>
+      <chinese>但是</chinese>
+      <vocabulary>trong cuộc sống</vocabulary>
+      <chinese>在生活中</chinese>
+      <vocabulary>cô ấy ít chia sẻ thật lòng</vocabulary>
+      <chinese>她很少真心分享</chinese>
+      <chinesePhrase>但在生活中她很少真心分享</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析14：và dẫn đến rạn nứt tình cảm -->
+    <phrase>
+      <text>và dẫn đến rạn nứt tình cảm</text>
+      <mp3>phrase_va_dan_den_ran_nut_tinh_cam_guid.mp3</mp3>
+      <vocabulary>và</vocabulary>
+      <chinese>而</chinese>
+      <vocabulary>dẫn đến</vocabulary>
+      <chinese>導致</chinese>
+      <vocabulary>rạn nứt tình cảm</vocabulary>
+      <chinese>感情出現裂痕</chinese>
+      <chinesePhrase>而導致感情出現裂痕</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析15：Cô ấy hay khuyên tôi quen người khác -->
+    <phrase>
+      <text>Cô ấy hay khuyên tôi quen người khác</text>
+      <mp3>phrase_co_ay_hay_khuyen_toi_quen_nguoi_khac_guid.mp3</mp3>
+      <vocabulary>Cô ấy</vocabulary>
+      <chinese>她</chinese>
+      <vocabulary>hay khuyên</vocabulary>
+      <chinese>常勸</chinese>
+      <vocabulary>tôi quen người khác</vocabulary>
+      <chinese>我去認識別人</chinese>
+      <chinesePhrase>她常勸我去認識別人</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析16：Chuyện gì đến cũng đến -->
+    <phrase>
+      <text>Chuyện gì đến cũng đến</text>
+      <mp3>phrase_chuyen_gi_den_cung_den_guid.mp3</mp3>
+      <vocabulary>Chuyện gì</vocabulary>
+      <chinese>什麼事</chinese>
+      <vocabulary>đến cũng đến</vocabulary>
+      <chinese>該來的還是來了</chinese>
+      <chinesePhrase>該來的還是來了</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析17：tôi quen nữ đồng nghiệp trước đây từng làm chung trong công việc -->
+    <phrase>
+      <text>tôi quen nữ đồng nghiệp trước đây từng làm chung trong công việc</text>
+      <mp3>phrase_toi_quen_nu_dong_nghiep_truoc_day_tung_lam_chung_trong_cong_viec_guid.mp3</mp3>
+      <vocabulary>tôi quen</vocabulary>
+      <chinese>我認識了</chinese>
+      <vocabulary>nữ đồng nghiệp</vocabulary>
+      <chinese>女同事</chinese>
+      <vocabulary>trước đây từng làm chung trong công việc</vocabulary>
+      <chinese>之前在公司共事過的</chinese>
+      <chinesePhrase>我認識了之前在公司共事過的一位女同事</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析18：và em chủ động tấn công tôi -->
+    <phrase>
+      <text>và em chủ động tấn công tôi</text>
+      <mp3>phrase_va_em_chu_dong_tan_cong_toi_guid.mp3</mp3>
+      <vocabulary>và</vocabulary>
+      <chinese>而</chinese>
+      <vocabulary>em</vocabulary>
+      <chinese>她</chinese>
+      <vocabulary>chủ động tấn công tôi</vocabulary>
+      <chinese>主動追求我</chinese>
+      <chinesePhrase>而她主動追求我</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析19：Về tính tình -->
+    <phrase>
+      <text>Về tính tình</text>
+      <mp3>phrase_ve_tinh_tinh_guid.mp3</mp3>
+      <vocabulary>Về</vocabulary>
+      <chinese>關於</chinese>
+      <vocabulary>tính tình</vocabulary>
+      <chinese>（名）性格</chinese>
+      <chinesePhrase>關於性格</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析20：em với tôi rất hợp nhau -->
+    <phrase>
+      <text>em với tôi rất hợp nhau</text>
+      <mp3>phrase_em_voi_toi_rat_hop_nhau_guid.mp3</mp3>
+      <vocabulary>em</vocabulary>
+      <chinese>她</chinese>
+      <vocabulary>với tôi</vocabulary>
+      <chinese>和我</chinese>
+      <vocabulary>rất hợp nhau</vocabulary>
+      <chinese>非常合得來</chinese>
+      <chinesePhrase>她和我非常合得來</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析21：hợp cả về suy nghĩ và cuộc sống hàng ngày, cũng như trong công việc -->
+    <phrase>
+      <text>hợp cả về suy nghĩ và cuộc sống hàng ngày, cũng như trong công việc</text>
+      <mp3>phrase_hop_ca_ve_suy_nghi_va_cuoc_song_hang_ngay_cung_nhu_trong_cong_viec_guid.mp3</mp3>
+      <vocabulary>hợp cả về</vocabulary>
+      <chinese>無論是...都很契合</chinese>
+      <vocabulary>suy nghĩ và cuộc sống hàng ngày</vocabulary>
+      <chinese>想法和日常生活</chinese>
+      <vocabulary>cũng như trong công việc</vocabulary>
+      <chinese>以及在工作上</chinese>
+      <chinesePhrase>無論是想法、日常生活還是工作都很契合</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析22：Tuy nhiên -->
+    <phrase>
+      <text>Tuy nhiên</text>
+      <mp3>phrase_tuy_nhien_guid.mp3</mp3>
+      <vocabulary>Tuy nhiên</vocabulary>
+      <chinese>（連）然而</chinese>
+      <chinesePhrase>然而</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析23：em đã ly hôn -->
+    <phrase>
+      <text>em đã ly hôn</text>
+      <mp3>phrase_em_da_ly_hon_guid.mp3</mp3>
+      <vocabulary>em</vocabulary>
+      <chinese>她</chinese>
+      <vocabulary>đã ly hôn</vocabulary>
+      <chinese>已經離婚</chinese>
+      <chinesePhrase>她離過婚</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析24：có hai con gái -->
+    <phrase>
+      <text>có hai con gái</text>
+      <mp3>phrase_co_hai_con_gai_guid.mp3</mp3>
+      <vocabulary>có</vocabulary>
+      <chinese>有</chinese>
+      <vocabulary>hai con gái</vocabulary>
+      <chinese>兩個女兒</chinese>
+      <chinesePhrase>有兩個女兒</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析25：một ở với ba, một ở với mẹ -->
+    <phrase>
+      <text>một ở với ba, một ở với mẹ</text>
+      <mp3>phrase_mot_o_voi_ba_mot_o_voi_me_guid.mp3</mp3>
+      <vocabulary>một</vocabulary>
+      <chinese>一個</chinese>
+      <vocabulary>ở với ba</vocabulary>
+      <chinese>跟爸爸住</chinese>
+      <vocabulary>một</vocabulary>
+      <chinese>一個</chinese>
+      <vocabulary>ở với mẹ</vocabulary>
+      <chinese>跟媽媽住</chinese>
+      <chinesePhrase>一個跟爸爸，一個跟媽媽</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析26：Lúc đầu -->
+    <phrase>
+      <text>Lúc đầu</text>
+      <mp3>phrase_luc_dau_guid.mp3</mp3>
+      <vocabulary>Lúc đầu</vocabulary>
+      <chinese>起初</chinese>
+      <chinesePhrase>起初</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析27：tôi sợ những rắc rối về việc con chung, con riêng -->
+    <phrase>
+      <text>tôi sợ những rắc rối về việc con chung, con riêng</text>
+      <mp3>phrase_toi_so_nhung_rac_roi_ve_viec_con_chung_con_rieng_guid.mp3</mp3>
+      <vocabulary>tôi sợ</vocabulary>
+      <chinese>我害怕</chinese>
+      <vocabulary>những rắc rối</vocabulary>
+      <chinese>那些麻煩</chinese>
+      <vocabulary>về việc con chung, con riêng</vocabulary>
+      <chinese>關於共同孩子、各自孩子的事情</chinese>
+      <chinesePhrase>我害怕共同孩子、各自孩子帶來的麻煩</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析28：nên không dám tiến tới -->
+    <phrase>
+      <text>nên không dám tiến tới</text>
+      <mp3>phrase_nen_khong_dam_tien_toi_guid.mp3</mp3>
+      <vocabulary>nên</vocabulary>
+      <chinese>所以</chinese>
+      <vocabulary>không dám tiến tới</vocabulary>
+      <chinese>不敢進一步發展</chinese>
+      <chinesePhrase>所以不敢進一步發展</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析29：chỉ giữ ở mức độ bạn bè -->
+    <phrase>
+      <text>chỉ giữ ở mức độ bạn bè</text>
+      <mp3>phrase_chi_giu_o_muc_do_ban_be_guid.mp3</mp3>
+      <vocabulary>chỉ giữ ở</vocabulary>
+      <chinese>只保持在</chinese>
+      <vocabulary>mức độ bạn bè</vocabulary>
+      <chinese>朋友的程度</chinese>
+      <chinesePhrase>只保持朋友關係</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析30：Nhưng trong lúc sụp đổ về chuyện tình cảm và công việc -->
+    <phrase>
+      <text>Nhưng trong lúc sụp đổ về chuyện tình cảm và công việc</text>
+      <mp3>phrase_nhung_trong_luc_sup_do_ve_chuyen_tinh_cam_va_cong_viec_guid.mp3</mp3>
+      <vocabulary>Nhưng</vocabulary>
+      <chinese>但是</chinese>
+      <vocabulary>trong lúc</vocabulary>
+      <chinese>在...的時候</chinese>
+      <vocabulary>sụp đổ về chuyện tình cảm và công việc</vocabulary>
+      <chinese>感情和工作崩潰</chinese>
+      <chinesePhrase>但在我感情和工作都崩潰的時候</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析31：em vẫn bên cạnh quan tâm và đưa ra lời khuyên cho tôi -->
+    <phrase>
+      <text>em vẫn bên cạnh quan tâm và đưa ra lời khuyên cho tôi</text>
+      <mp3>phrase_em_van_ben_canh_quan_tam_va_dua_ra_loi_khuyen_cho_toi_guid.mp3</mp3>
+      <vocabulary>em vẫn</vocabulary>
+      <chinese>她仍</chinese>
+      <vocabulary>bên cạnh quan tâm</vocabulary>
+      <chinese>在身邊關心</chinese>
+      <vocabulary>và đưa ra lời khuyên cho tôi</vocabulary>
+      <chinese>並給我建議</chinese>
+      <chinesePhrase>她仍在我身邊關心我，給我建議</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析32：những lời khuyên của em tôi thấy rất phù hợp -->
+    <phrase>
+      <text>những lời khuyên của em tôi thấy rất phù hợp</text>
+      <mp3>phrase_nhung_loi_khuyen_cua_em_toi_thay_rat_phu_hop_guid.mp3</mp3>
+      <vocabulary>những lời khuyên của em</vocabulary>
+      <chinese>她的建議</chinese>
+      <vocabulary>tôi thấy rất phù hợp</vocabulary>
+      <chinese>我覺得非常合適</chinese>
+      <chinesePhrase>我覺得她的建議非常合適</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析33：dần dần tôi nảy sinh tình cảm và đã bước đến với em -->
+    <phrase>
+      <text>dần dần tôi nảy sinh tình cảm và đã bước đến với em</text>
+      <mp3>phrase_dan_dan_toi_nay_sinh_tinh_cam_va_da_buoc_den_voi_em_guid.mp3</mp3>
+      <vocabulary>dần dần</vocabulary>
+      <chinese>漸漸地</chinese>
+      <vocabulary>tôi nảy sinh tình cảm</vocabulary>
+      <chinese>我產生了感情</chinese>
+      <vocabulary>và đã bước đến với em</vocabulary>
+      <chinese>並和她在一起了</chinese>
+      <chinesePhrase>漸漸地我產生了感情，並和她在一起了</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第四段：當前的幸福與未來規劃分歧 -->
+  <subject>
+    <text>我們相愛得很幸福、很快樂，待在她身邊我感到平靜。然後我和她分享未來，希望她能再生一個我們共同的孩子，但她堅決不同意。她讓我搬去和她同住，她的家人都知道我，但她還不想去見我的家人（仍希望我不要公開）。</text>
+    <translate>Chúng tôi yêu nhau rất hạnh phúc và vui vẻ, tôi cảm thấy bình an khi ở bên cạnh em. Rồi tôi chia sẻ với em về tương lai, muốn em sinh thêm một đứa con chung nhưng em nhất quyết không đồng ý. Em đã cho tôi về sống chung nhà, gia đình em đều biết tôi nhưng em chưa muốn về gặp gia đình tôi (vẫn muốn tôi đừng công khai).</translate>
+    <mp3>subject_happiness_and_future_plans_guid.mp3</mp3>
+
+    <!-- 詞組分析34：Chúng tôi yêu nhau rất hạnh phúc và vui vẻ -->
+    <phrase>
+      <text>Chúng tôi yêu nhau rất hạnh phúc và vui vẻ</text>
+      <mp3>phrase_chung_toi_yeu_nhau_rat_hanh_phuc_va_vui_ve_guid.mp3</mp3>
+      <vocabulary>Chúng tôi</vocabulary>
+      <chinese>我們</chinese>
+      <vocabulary>yêu nhau</vocabulary>
+      <chinese>相愛</chinese>
+      <vocabulary>rất hạnh phúc và vui vẻ</vocabulary>
+      <chinese>非常幸福、快樂</chinese>
+      <chinesePhrase>我們相愛得很幸福、很快樂</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析35：tôi cảm thấy bình an khi ở bên cạnh em -->
+    <phrase>
+      <text>tôi cảm thấy bình an khi ở bên cạnh em</text>
+      <mp3>phrase_toi_cam_thay_binh_an_khi_o_ben_canh_em_guid.mp3</mp3>
+      <vocabulary>tôi cảm thấy bình an</vocabulary>
+      <chinese>我感到平靜</chinese>
+      <vocabulary>khi ở bên cạnh em</vocabulary>
+      <chinese>當待在她身邊時</chinese>
+      <chinesePhrase>待在她身邊我感到平靜</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析36：Rồi tôi chia sẻ với em về tương lai -->
+    <phrase>
+      <text>Rồi tôi chia sẻ với em về tương lai</text>
+      <mp3>phrase_roi_toi_chia_se_voi_em_ve_tuong_lai_guid.mp3</mp3>
+      <vocabulary>Rồi</vocabulary>
+      <chinese>然後</chinese>
+      <vocabulary>tôi chia sẻ với em</vocabulary>
+      <chinese>我和她分享</chinese>
+      <vocabulary>về tương lai</vocabulary>
+      <chinese>關於未來</chinese>
+      <chinesePhrase>然後我和她分享未來</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析37：muốn em sinh thêm một đứa con chung -->
+    <phrase>
+      <text>muốn em sinh thêm một đứa con chung</text>
+      <mp3>phrase_muon_em_sinh_them_mot_dua_con_chung_guid.mp3</mp3>
+      <vocabulary>muốn em</vocabulary>
+      <chinese>希望她</chinese>
+      <vocabulary>sinh thêm</vocabulary>
+      <chinese>再生</chinese>
+      <vocabulary>một đứa con chung</vocabulary>
+      <chinese>一個我們共同的孩子</chinese>
+      <chinesePhrase>希望她能再生一個我們共同的孩子</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析38：nhưng em nhất quyết không đồng ý -->
+    <phrase>
+      <text>nhưng em nhất quyết không đồng ý</text>
+      <mp3>phrase_nhung_em_nhat_quyet_khong_dong_y_guid.mp3</mp3>
+      <vocabulary>nhưng em</vocabulary>
+      <chinese>但她</chinese>
+      <vocabulary>nhất quyết không đồng ý</vocabulary>
+      <chinese>堅決不同意</chinese>
+      <chinesePhrase>但她堅決不同意</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析39：Em đã cho tôi về sống chung nhà -->
+    <phrase>
+      <text>Em đã cho tôi về sống chung nhà</text>
+      <mp3>phrase_em_da_cho_toi_ve_song_chung_nha_guid.mp3</mp3>
+      <vocabulary>Em đã cho tôi về</vocabulary>
+      <chinese>她讓我搬去</chinese>
+      <vocabulary>sống chung nhà</vocabulary>
+      <chinese>同住</chinese>
+      <chinesePhrase>她讓我搬去和她同住</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析40：gia đình em đều biết tôi -->
+    <phrase>
+      <text>gia đình em đều biết tôi</text>
+      <mp3>phrase_gia_dinh_em_deu_biet_toi_guid.mp3</mp3>
+      <vocabulary>gia đình em</vocabulary>
+      <chinese>她的家人</chinese>
+      <vocabulary>đều biết tôi</vocabulary>
+      <chinese>都知道我</chinese>
+      <chinesePhrase>她的家人都知道我</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析41：nhưng em chưa muốn về gặp gia đình tôi -->
+    <phrase>
+      <text>nhưng em chưa muốn về gặp gia đình tôi</text>
+      <mp3>phrase_nhung_em_chua_muon_ve_gap_gia_dinh_toi_guid.mp3</mp3>
+      <vocabulary>nhưng em chưa muốn</vocabulary>
+      <chinese>但她還不想</chinese>
+      <vocabulary>về gặp gia đình tôi</vocabulary>
+      <chinese>去見我的家人</chinese>
+      <chinesePhrase>但她還不想去見我的家人</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析42：(vẫn muốn tôi đừng công khai) -->
+    <phrase>
+      <text>(vẫn muốn tôi đừng công khai)</text>
+      <mp3>phrase_van_muon_toi_dung_cong_khai_guid.mp3</mp3>
+      <vocabulary>vẫn muốn</vocabulary>
+      <chinese>仍希望</chinese>
+      <vocabulary>tôi đừng công khai</vocabulary>
+      <chinese>我不要公開</chinese>
+      <chinesePhrase>（仍希望我不要公開）</chinesePhrase>
+    </phrase>
+  </subject>
+
+  <!-- 第五段：察覺問題與孩子的態度 -->
+  <subject>
+    <text>交往一段時間後，我發現她還沒有全心全意對我，尤其是她的孩子總是希望媽媽只屬於自己，而不屬於任何人，每次看到我靠近她就把我推開。我知道孩子沒有錯，但我突然意識到在這個家裡，我只是第二優先，甚至是第三優先。</text>
+    <translate>Sau thời gian quen, tôi nhận ra em chưa hết lòng vì tôi, đặc biệt con em lúc nào cũng muốn mẹ thuộc về mình, chứ không muốn thuộc về ai, luôn đẩy tôi ra khi thấy tôi ở gần em. Biết là trẻ con không có lỗi gì nhưng tôi chợt nhận ra khoảng cách của một gia đình và tôi chỉ là ưu tiên số hai, thậm chí là số ba.</translate>
+    <mp3>subject_realization_and_child_behavior_guid.mp3</mp3>
+
+    <!-- 詞組分析43：Sau thời gian quen -->
+    <phrase>
+      <text>Sau thời gian quen</text>
+      <mp3>phrase_sau_thoi_gian_quen_guid.mp3</mp3>
+      <vocabulary>Sau</vocabulary>
+      <chinese>在...之後</chinese>
+      <vocabulary>thời gian quen</vocabulary>
+      <chinese>交往的時間</chinese>
+      <chinesePhrase>交往一段時間後</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析44：tôi nhận ra em chưa hết lòng vì tôi -->
+    <phrase>
+      <text>tôi nhận ra em chưa hết lòng vì tôi</text>
+      <mp3>phrase_toi_nhan_ra_em_chua_het_long_vi_toi_guid.mp3</mp3>
+      <vocabulary>tôi nhận ra</vocabulary>
+      <chinese>我發現</chinese>
+      <vocabulary>em chưa hết lòng vì tôi</vocabulary>
+      <chinese>她還沒有全心全意對我</chinese>
+      <chinesePhrase>我發現她還沒有全心全意對我</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析45：đặc biệt con em lúc nào cũng muốn mẹ thuộc về mình -->
+    <phrase>
+      <text>đặc biệt con em lúc nào cũng muốn mẹ thuộc về mình</text>
+      <mp3>phrase_dac_biet_con_em_luc_nao_cung_muon_me_thuoc_ve_minh_guid.mp3</mp3>
+      <vocabulary>đặc biệt</vocabulary>
+      <chinese>特別是</chinese>
+      <vocabulary>con em lúc nào cũng muốn mẹ thuộc về mình</vocabulary>
+      <chinese>她的孩子總是希望媽媽只屬於自己</chinese>
+      <chinesePhrase>尤其是她的孩子總是希望媽媽只屬於自己</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析46：chứ không muốn thuộc về ai -->
+    <phrase>
+      <text>chứ không muốn thuộc về ai</text>
+      <mp3>phrase_chu_khong_muon_thuoc_ve_ai2_guid.mp3</mp3>
+      <vocabulary>chứ không muốn</vocabulary>
+      <chinese>而不希望</chinese>
+      <vocabulary>thuộc về ai</vocabulary>
+      <chinese>屬於任何人</chinese>
+      <chinesePhrase>而不屬於任何人</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析47：luôn đẩy tôi ra khi thấy tôi ở gần em -->
+    <phrase>
+      <text>luôn đẩy tôi ra khi thấy tôi ở gần em</text>
+      <mp3>phrase_luon_day_toi_ra_khi_thay_toi_o_gan_em_guid.mp3</mp3>
+      <vocabulary>luôn đẩy tôi ra</vocabulary>
+      <chinese>總是把我推開</chinese>
+      <vocabulary>khi thấy tôi ở gần em</vocabulary>
+      <chinese>當看到我靠近她時</chinese>
+      <chinesePhrase>每次看到我靠近她就把我推開</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析48：Biết là trẻ con không có lỗi gì -->
+    <phrase>
+      <text>Biết là trẻ con không có lỗi gì</text>
+      <mp3>phrase_biet_la_tre_con_khong_co_loi_gi_guid.mp3</mp3>
+      <vocabulary>Biết là</vocabulary>
+      <chinese>知道</chinese>
+      <vocabulary>trẻ con không có lỗi gì</vocabulary>
+      <chinese>孩子沒有錯</chinese>
+      <chinesePhrase>我知道孩子沒有錯</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析49：nhưng tôi chợt nhận ra khoảng cách của một gia đình -->
+    <phrase>
+      <text>nhưng tôi chợt nhận ra khoảng cách của một gia đình</text>
+      <mp3>phrase_nhung_toi_chot_nhan_ra_khoang_cach_cua_mot_gia_dinh_guid.mp3</mp3>
+      <vocabulary>nhưng tôi chợt nhận ra</vocabulary>
+      <chinese>但我突然意識到</chinese>
+      <vocabulary>khoảng cách của một gia đình</vocabulary>
+      <chinese>一個家庭的距離</chinese>
+      <chinesePhrase>但我突然意識到在這個家裡，我只是</chinesePhrase>
+    </phrase>
+
+    <!-- 詞組分析50：và tôi chỉ là ưu tiên số hai, thậm chí là số ba -->
+    <phrase>
+      <text>và tôi chỉ là ưu tiên số hai, thậm chí là số ba</text>
+      <mp3>phrase_va_toi_chi_la_uu_tien_so_hai_tham_chi_so_ba_guid.mp3</mp3>
+      <vocabulary>và tôi chỉ là</vocabulary>
+      <chinese>而我只是</chinese>
+      <vocabulary>ưu tiên số hai</vocabulary>
+      <chinese>第二優先</chinese>
+      <vocabulary>thậm chí là số ba</vocabulary>
+      <chinese>甚至是第三</chinese>
+      <chinesePhrase>第二優先，甚至是第三優先</chinesePhrase>
+    </phrase>
+  </subject>
+</xml>
